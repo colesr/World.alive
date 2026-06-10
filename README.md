@@ -3,7 +3,7 @@
 [![Daily Digest](https://github.com/colesr/World.alive/actions/workflows/digest.yml/badge.svg)](https://github.com/colesr/World.alive/actions/workflows/digest.yml)
 [![Nightly Evolution](https://github.com/colesr/World.alive/actions/workflows/evolve.yml/badge.svg)](https://github.com/colesr/World.alive/actions/workflows/evolve.yml)
 
-A proof-of-concept self-steering system. Every day it fetches RSS feeds from outlets
+A proof-of-concept, always free, self-steering system. Every day it fetches RSS feeds from outlets
 across the world, deduplicates the stories, summarizes them with an LLM, and emails
 you a "State of the World" digest. Every night, a separate workflow asks an LLM to
 propose one improvement to its own pipeline code — which is merged only if the frozen
