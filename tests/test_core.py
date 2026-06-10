@@ -29,6 +29,13 @@ def test_config_has_multiple_regions():
     assert sum(len(v) for v in config["feeds"].values()) >= 6, "Must use at least 6 feeds"
 
 
+def test_every_region_has_redundant_feeds():
+    """Each region needs >= 2 feeds so a single dead feed can't blank a region."""
+    config = core.load_config()
+    thin = {r: len(urls) for r, urls in config["feeds"].items() if len(urls) < 2}
+    assert not thin, f"these regions have <2 feeds (no redundancy): {thin}"
+
+
 def test_digest_word_limit_bounded():
     config = core.load_config()
     assert 200 <= config["digest_word_limit"] <= 1500

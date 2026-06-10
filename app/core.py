@@ -48,6 +48,7 @@ DEFAULT_CONFIG = {
         ],
         "Middle East": [
             "https://www.aljazeera.com/xml/rss/all.xml",
+            "https://www.middleeasteye.net/rss",
         ],
         "Asia": [
             "https://www3.nhk.or.jp/nhkworld/en/news/feeds/",
@@ -59,6 +60,7 @@ DEFAULT_CONFIG = {
         ],
         "Africa": [
             "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+            "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
         ],
     },
     "max_items_per_feed": 15,
