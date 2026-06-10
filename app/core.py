@@ -10,6 +10,7 @@ import json
 import os
 import re
 import smtplib
+import socket
 import ssl
 from collections import defaultdict
 from datetime import datetime, timezone
@@ -18,6 +19,12 @@ from pathlib import Path
 
 import feedparser
 import requests
+
+# A dead feed that accepts the connection but never responds would otherwise
+# hang feedparser.parse() forever (no exception, so the try/except can't catch
+# it) and stall the whole pipeline. Cap every socket wait so a stalled feed
+# raises, hits the warn-and-continue path, and the digest still goes out.
+socket.setdefaulttimeout(15)
 
 CONFIG_PATH = Path(__file__).parent / "config.json"
 
