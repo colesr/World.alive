@@ -26,5 +26,19 @@
     ],
     "digest_words": 450,
     "email_sent": true
+  },
+  {
+    "timestamp": "2026-06-10T21:57:31.436349+00:00",
+    "items_fetched": 111,
+    "clusters": 95,
+    "regions_covered": [
+      "Africa",
+      "Americas",
+      "Asia",
+      "Europe",
+      "Middle East"
+    ],
+    "digest_words": 499,
+    "email_sent": true
   }
 ]
