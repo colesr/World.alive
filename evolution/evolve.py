@@ -35,7 +35,7 @@ MAX_TOKENS = 8000  # hard budget cap per run
 # A code-specialized model writes the full-file rewrite; ":cheapest" picks the
 # lowest-cost provider serving it.
 LLM_ENDPOINT = "https://router.huggingface.co/v1/chat/completions"
-LLM_MODEL = "Qwen/Qwen2.5-Coder-32B-Instruct:cheapest"
+LLM_MODEL = "Qwen/Qwen3-Coder-480B-A35B-Instruct:cheapest"
 
 
 def recent_metrics(n=7) -> str:
