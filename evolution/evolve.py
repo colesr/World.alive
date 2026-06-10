@@ -15,6 +15,7 @@ Hard rules:
 
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -89,10 +90,16 @@ summarize, send_email, run). Do not import from tests/."""
     resp.raise_for_status()
     text = resp.json()["choices"][0]["message"]["content"]  # OpenAI-compatible shape
 
-    # Extract the code block
-    if "```python" in text:
-        code = text.split("```python", 1)[1].split("```", 1)[0].strip()
-        return code + "\n"
+    # Extract the rewritten file. Models vary in how they fence code, so accept a
+    # ```python block, any ``` block, or (last resort) a reply that is itself the
+    # file. Print a preview if none match so the failure is diagnosable in logs.
+    match = re.search(r"```(?:python)?\s*\n(.*?)```", text, re.DOTALL)
+    if match:
+        return match.group(1).strip() + "\n"
+    stripped = text.strip()
+    if stripped.startswith(('"""', "'''", "import ", "from ", "#")):
+        return stripped + "\n"
+    print(f"[error] no code block found in {len(text)}-char response. Preview:\n{text[:600]}")
     return None
 
 
