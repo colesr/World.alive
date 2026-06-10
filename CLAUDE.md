@@ -18,7 +18,7 @@ python app/core.py               # run the pipeline; prints digest if SMTP env u
 python evolution/evolve.py       # propose one mutation (needs ANTHROPIC_API_KEY)
 ```
 
-Runtime env vars (all optional locally): `ANTHROPIC_API_KEY` (without it, `summarize()` falls back to extractive mode), `SMTP_USER` / `SMTP_PASS` / `DIGEST_TO` (without them, the digest prints instead of emailing).
+Runtime env vars (all optional locally): `HF_TOKEN` (a Hugging Face token with "Inference Providers" permission; without it, `summarize()` falls back to extractive mode), `SMTP_USER` / `SMTP_PASS` / `DIGEST_TO` (without them, the digest prints instead of emailing).
 
 ## The core invariant
 
@@ -44,4 +44,4 @@ Clustering is greedy Jaccard similarity over title tokens (`cluster_items`), sor
 - `evolution/prompts.md` is the goal hierarchy handed to the mutation LLM (reliability > coverage > dedup > digest quality > efficiency). Edit it to redirect what mutations optimize for.
 - The mutation LLM is shown recent `metrics.json` trends and recent `attempts.log` entries so it doesn't repeat reverted approaches.
 - **Kill switch:** an empty `EVOLUTION_PAUSED` file in the repo root halts evolution (the daily digest keeps running). Delete it to resume.
-- Model IDs are pinned inline: `core.py` summarizes with `claude-haiku-4-5-20251001`; `evolve.py` mutates with `claude-sonnet-4-20250514`.
+- Model config is pinned inline: `core.py` summarizes via the Hugging Face Inference Providers router (`LLM_ENDPOINT` / `LLM_MODEL` constants near the top); `evolve.py` mutates with Anthropic's `claude-sonnet-4-20250514` (still needs `ANTHROPIC_API_KEY`, used only by the nightly evolution workflow).

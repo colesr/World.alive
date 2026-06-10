@@ -28,6 +28,14 @@ socket.setdefaulttimeout(15)
 
 CONFIG_PATH = Path(__file__).parent / "config.json"
 
+# Summarization runs on Hugging Face's OpenAI-compatible Inference Providers
+# router (free tier). Auth is an `hf_...` token with "Inference Providers"
+# permission, passed via the HF_TOKEN env var. The ":cheapest" suffix tells the
+# router to pick the lowest-cost provider serving the model; swap the model name
+# to change quality/cost (e.g. meta-llama/Llama-3.1-8B-Instruct for a smaller one).
+LLM_ENDPOINT = "https://router.huggingface.co/v1/chat/completions"
+LLM_MODEL = "meta-llama/Llama-3.3-70B-Instruct:cheapest"
+
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
@@ -148,7 +156,7 @@ def build_llm_input(clusters: list[list[dict]], config: dict) -> str:
 
 
 def summarize(clusters: list[list[dict]], config: dict) -> str:
-    """Call an LLM to produce the digest. Falls back to extractive mode if no API key."""
+    """Call an LLM to produce the digest. Falls back to extractive mode if no token."""
     prompt = (
         "You are writing a daily 'State of the World' email digest.\n"
         f"Hard limit: {config['digest_word_limit']} words.\n"
@@ -157,29 +165,26 @@ def summarize(clusters: list[list[dict]], config: dict) -> str:
         + build_llm_input(clusters, config)
     )
 
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if api_key and clusters:
+    hf_token = os.environ.get("HF_TOKEN")
+    if hf_token and clusters:
         try:
             resp = requests.post(
-                "https://api.anthropic.com/v1/messages",
-                headers={
-                    "x-api-key": api_key,
-                    "anthropic-version": "2023-06-01",
-                    "content-type": "application/json",
-                },
+                LLM_ENDPOINT,
+                headers={"Authorization": f"Bearer {hf_token}"},
                 json={
-                    "model": "claude-haiku-4-5-20251001",
+                    "model": LLM_MODEL,
                     "max_tokens": 1500,
                     "messages": [{"role": "user", "content": prompt}],
                 },
                 timeout=120,
             )
             if not resp.ok:
-                # Surface the API's own error message, then degrade gracefully
+                # Surface the provider's own error message, then degrade gracefully
                 # rather than crashing the whole run. The body explains the 4xx.
                 print(f"[warn] LLM call failed ({resp.status_code}): {resp.text[:500]}")
             else:
-                return resp.json()["content"][0]["text"]
+                # OpenAI-compatible response shape: choices[0].message.content
+                return resp.json()["choices"][0]["message"]["content"]
         except Exception as exc:  # noqa: BLE001 - never let summarization kill the digest
             print(f"[warn] LLM call errored: {exc}")
 

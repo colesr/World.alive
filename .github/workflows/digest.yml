@@ -20,7 +20,7 @@ jobs:
 
       - name: Run digest pipeline
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
