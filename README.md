@@ -40,8 +40,9 @@ test suite passes, and auto-reverted otherwise.
 
 1. Create a new GitHub repo and push these files.
 2. In repo **Settings → Secrets and variables → Actions**, add:
-   - `ANTHROPIC_API_KEY` — for summarization + evolution (optional for digest:
-     without it the digest runs in free extractive mode)
+   - `HF_TOKEN` — a Hugging Face token with "Inference Providers" permission, used
+     for summarization + evolution (optional for digest: without it the digest runs
+     in free extractive mode)
    - `SMTP_USER` — your Gmail address
    - `SMTP_PASS` — a Gmail **App Password** (Google Account → Security →
      2-Step Verification → App passwords), *not* your real password
