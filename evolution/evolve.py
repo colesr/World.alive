@@ -112,13 +112,19 @@ def log_attempt(status: str, note: str = ""):
 def main():
     code = propose_mutation()
     if not code:
+        print("[skip] model returned no usable code")
         log_attempt("SKIPPED", "no valid code block returned")
         sys.exit(1)
 
-    # Refuse anything that smells like fitness gaming
-    forbidden = ["tests/", "test_core", "pytest.skip", "os.remove", "shutil.rmtree"]
+    # Refuse anything that smells like fitness gaming. Match real code patterns,
+    # not bare substrings: core.py's own docstring mentions "tests/test_core.py",
+    # so guarding on "tests/" / "test_core" would reject every faithful rewrite.
+    # The frozen tests and the CI `git diff -- tests/ .github/` guard are the real
+    # enforcement; this is just a fast pre-check for obvious gaming.
+    forbidden = ["import tests", "from tests", "pytest.skip", "os.remove", "shutil.rmtree"]
     for token in forbidden:
         if token in code:
+            print(f"[reject] mutation contains forbidden pattern: {token!r}")
             log_attempt("REJECTED", f"forbidden token: {token}")
             sys.exit(1)
 
