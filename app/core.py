@@ -211,10 +211,16 @@ def send_email(body: str) -> bool:
     msg["To"] = to_addr
 
     ctx = ssl.create_default_context()
-    with smtplib.SMTP_SSL(os.environ.get("SMTP_HOST", "smtp.gmail.com"), 465, context=ctx) as srv:
-        srv.login(user, password)
-        srv.send_message(msg)
-    return True
+    try:
+        with smtplib.SMTP_SSL(os.environ.get("SMTP_HOST", "smtp.gmail.com"), 465, context=ctx) as srv:
+            srv.login(user, password)
+            srv.send_message(msg)
+        return True
+    except Exception as exc:  # noqa: BLE001 - a mail failure must not fail the run
+        # e.g. bad Gmail App Password -> SMTPAuthenticationError. Log and record
+        # email_sent=False rather than crashing (which would skip metrics commit).
+        print(f"[warn] email send failed: {exc}")
+        return False
 
 
 # ---------------------------------------------------------------------------
