@@ -1,0 +1,63 @@
+name: Nightly Evolution
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # 03:00 UTC nightly
+  workflow_dispatch:
+
+jobs:
+  evolve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Kill switch
+        run: |
+          if [ -f EVOLUTION_PAUSED ]; then
+            echo "Evolution paused by kill switch file. Exiting."
+            exit 0
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Baseline - tests must pass before evolving
+        run: pytest tests/ -q
+
+      - name: Propose mutation
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python evolution/evolve.py
+
+      - name: Guard - frozen files untouched
+        run: |
+          if ! git diff --quiet -- tests/ .github/; then
+            echo "VIOLATION: mutation touched frozen files. Reverting."
+            git checkout -- tests/ .github/
+            exit 1
+          fi
+
+      - name: Validate mutation
+        id: validate
+        continue-on-error: true
+        run: pytest tests/ -q
+
+      - name: Merge or revert
+        run: |
+          git config user.name "evolution-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if [ "${{ steps.validate.outcome }}" = "success" ]; then
+            echo "$(date -u --iso-8601=seconds) | MERGED | tests passed" >> evolution/attempts.log
+            git add app/core.py evolution/attempts.log
+            git commit -m "evolve: mutation accepted $(date -u +%F)"
+          else
+            git checkout -- app/core.py
+            echo "$(date -u --iso-8601=seconds) | REVERTED | tests failed" >> evolution/attempts.log
+            git add evolution/attempts.log
+            git commit -m "evolve: mutation reverted $(date -u +%F)"
+          fi
+          git push
