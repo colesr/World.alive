@@ -24,7 +24,11 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
-        run: python app/core.py
+        run: python app/core.py 2>&1 | tee "$RUNNER_TEMP/digest_out.txt"
+
+      - name: Run summary
+        if: always()
+        run: python scripts/job_summary.py digest "$RUNNER_TEMP/digest_out.txt"
 
       - name: Commit metrics
         run: |

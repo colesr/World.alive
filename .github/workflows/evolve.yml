@@ -61,3 +61,7 @@ jobs:
             git commit -m "evolve: mutation reverted $(date -u +%F)"
           fi
           git push
+
+      - name: Run summary
+        if: always()
+        run: python scripts/job_summary.py evolve
