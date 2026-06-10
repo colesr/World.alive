@@ -97,6 +97,9 @@ def fetch_feeds(config: dict) -> list[dict]:
                     )
             except Exception as exc:  # noqa: BLE001 - keep pipeline alive
                 print(f"[warn] feed failed: {url} ({exc})")
+                if "timed out" in str(exc):
+                    print(f"[info] considering alternative feed sources for region: {region}")
+                    # Placeholder for alternative feed logic
     return [i for i in items if i["title"]]
 
 
