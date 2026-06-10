@@ -29,6 +29,13 @@ PROMPTS = ROOT / "evolution" / "prompts.md"
 
 MAX_TOKENS = 8000  # hard budget cap per run
 
+# Mutation engine runs on Hugging Face's free OpenAI-compatible router, authed
+# with an `hf_...` token (HF_TOKEN) that has "Inference Providers" permission.
+# A code-specialized model writes the full-file rewrite; ":cheapest" picks the
+# lowest-cost provider serving it.
+LLM_ENDPOINT = "https://router.huggingface.co/v1/chat/completions"
+LLM_MODEL = "Qwen/Qwen2.5-Coder-32B-Instruct:cheapest"
+
 
 def recent_metrics(n=7) -> str:
     if not METRICS.exists():
@@ -45,9 +52,9 @@ def recent_failures(n=5) -> str:
 
 
 def propose_mutation() -> str | None:
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
-        print("[error] ANTHROPIC_API_KEY not set; cannot evolve.")
+    hf_token = os.environ.get("HF_TOKEN")
+    if not hf_token:
+        print("[error] HF_TOKEN not set; cannot evolve.")
         return None
 
     goals = PROMPTS.read_text() if PROMPTS.exists() else ""
@@ -70,21 +77,17 @@ existing function names and signatures (load_config, fetch_feeds, cluster_items,
 summarize, send_email, run). Do not import from tests/."""
 
     resp = requests.post(
-        "https://api.anthropic.com/v1/messages",
-        headers={
-            "x-api-key": api_key,
-            "anthropic-version": "2023-06-01",
-            "content-type": "application/json",
-        },
+        LLM_ENDPOINT,
+        headers={"Authorization": f"Bearer {hf_token}"},
         json={
-            "model": "claude-sonnet-4-20250514",
+            "model": LLM_MODEL,
             "max_tokens": MAX_TOKENS,
             "messages": [{"role": "user", "content": prompt}],
         },
         timeout=300,
     )
     resp.raise_for_status()
-    text = resp.json()["content"][0]["text"]
+    text = resp.json()["choices"][0]["message"]["content"]  # OpenAI-compatible shape
 
     # Extract the code block
     if "```python" in text:

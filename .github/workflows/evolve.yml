@@ -30,7 +30,7 @@ jobs:
 
       - name: Propose mutation
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: python evolution/evolve.py
 
       - name: Guard - frozen files untouched
