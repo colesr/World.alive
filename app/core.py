@@ -158,23 +158,30 @@ def summarize(clusters: list[list[dict]], config: dict) -> str:
     )
 
     api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if api_key:
-        resp = requests.post(
-            "https://api.anthropic.com/v1/messages",
-            headers={
-                "x-api-key": api_key,
-                "anthropic-version": "2023-06-01",
-                "content-type": "application/json",
-            },
-            json={
-                "model": "claude-haiku-4-5-20251001",
-                "max_tokens": 1500,
-                "messages": [{"role": "user", "content": prompt}],
-            },
-            timeout=120,
-        )
-        resp.raise_for_status()
-        return resp.json()["content"][0]["text"]
+    if api_key and clusters:
+        try:
+            resp = requests.post(
+                "https://api.anthropic.com/v1/messages",
+                headers={
+                    "x-api-key": api_key,
+                    "anthropic-version": "2023-06-01",
+                    "content-type": "application/json",
+                },
+                json={
+                    "model": "claude-haiku-4-5-20251001",
+                    "max_tokens": 1500,
+                    "messages": [{"role": "user", "content": prompt}],
+                },
+                timeout=120,
+            )
+            if not resp.ok:
+                # Surface the API's own error message, then degrade gracefully
+                # rather than crashing the whole run. The body explains the 4xx.
+                print(f"[warn] LLM call failed ({resp.status_code}): {resp.text[:500]}")
+            else:
+                return resp.json()["content"][0]["text"]
+        except Exception as exc:  # noqa: BLE001 - never let summarization kill the digest
+            print(f"[warn] LLM call errored: {exc}")
 
     # Fallback: extractive digest, keeps the pipeline alive with zero API cost
     lines = [f"State of the World - {datetime.now(timezone.utc):%Y-%m-%d} (extractive mode)\n"]
