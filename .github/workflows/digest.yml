@@ -30,10 +30,10 @@ jobs:
         if: always()
         run: python scripts/job_summary.py digest "$RUNNER_TEMP/digest_out.txt"
 
-      - name: Commit metrics
+      - name: Commit metrics + published digest
         run: |
           git config user.name "digest-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add evolution/metrics.json
+          git add evolution/metrics.json public/digest.json
           git commit -m "metrics: daily run $(date -u +%F)" || echo "no changes"
           git push

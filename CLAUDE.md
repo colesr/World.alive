@@ -47,3 +47,30 @@ Clustering is greedy Jaccard similarity over title tokens (`cluster_items`), sor
 - The mutation LLM is shown recent `metrics.json` trends and recent `attempts.log` entries so it doesn't repeat reverted approaches.
 - **Kill switch:** an empty `EVOLUTION_PAUSED` file in the repo root halts evolution (the daily digest keeps running). Delete it to resume.
 - Both LLM calls run on the Hugging Face Inference Providers router via `HF_TOKEN`, pinned inline as `LLM_ENDPOINT` / `LLM_MODEL` constants: `core.py` summarizes with `meta-llama/Llama-3.3-70B-Instruct:cheapest`; `evolve.py` mutates with the code-specialized `Qwen/Qwen3-Coder-480B-A35B-Instruct:cheapest`. Both use the OpenAI-compatible response shape (`choices[0].message.content`).
+
+## Maintaining this live system
+
+This repo edits itself nightly, so before changing anything, identify **which of three surfaces** you are touching — each has a different procedure:
+
+| Surface | Files | Changed by | How |
+|---|---|---|---|
+| **Frozen / steering** | `tests/`, `.github/` | Humans only (CI blocks the bot) | PR. This encodes intent. |
+| **Human-authored** | `evolution/evolve.py`, `evolution/prompts.md`, `scripts/`, `requirements.txt`, `app/config.json`, docs | Humans only (the bot structurally only writes `core.py`) | Normal PR. |
+| **Self-evolving** | `app/core.py` **only** | The nightly bot, and humans (carefully) | Mutation, gated by tests. |
+
+**Golden rule: prefer not to hand-edit `app/core.py`.** Anything polished there by hand can be silently undone by the next mutation. To make an improvement *stick*, write a **test** that demands it and let the loop grow `core.py` toward it — steering is done through tests, not code.
+
+Routing a change:
+- **Lock in a quality bar / new behavior** → add or tighten a test in `tests/test_core.py`; the loop adapts over the next few nights.
+- **Redirect what mutations chase** → edit `evolution/prompts.md`.
+- **Feature outside the pipeline** (e.g. an IMAP reply-rating reader, dashboards, alerting) → new file under `scripts/`, human-authored PR; never touches the evolution loop.
+- **Feeds/regions** → assert the requirement in a test (see `test_every_region_has_redundant_feeds`) or set it via `app/config.json` (the bot reads it, you own it), rather than hand-editing `DEFAULT_CONFIG`.
+- **Refactor `core.py` by hand / swap a model constant** → the one risky case; pause evolution first (below).
+
+Working alongside the bots — `main` receives commits from **digest-bot** (metrics, daily 07:00 UTC) and **evolution-bot** (`core.py` + `attempts.log`, nightly 03:00 UTC):
+1. `git pull` before every work session — local `main` goes stale within a day.
+2. Hand-editing `core.py`? Commit an empty `EVOLUTION_PAUSED` file first, do the work + PR, then delete it — otherwise you race the nightly mutation and conflict.
+3. Don't commit local `metrics.json` churn — `python app/core.py` appends to it; stage files explicitly, never `git add -A`.
+4. Keep PR branches short-lived, especially any touching `core.py` or `metrics.json`.
+
+Health signals to watch: repeated `REVERTED` entries for the same idea in `attempts.log` mean a test or prompt is mis-shaped (intervene); a flat `metrics.json` trend means a plateau (add a sharper test). Tests gate structure and safety but **cannot gate digest writing quality** — a mutation can pass every test and still produce a worse email, so that gap is watched by a human actually reading the output.

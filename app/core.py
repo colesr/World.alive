@@ -36,6 +36,23 @@ CONFIG_PATH = Path(__file__).parent / "config.json"
 LLM_ENDPOINT = "https://router.huggingface.co/v1/chat/completions"
 LLM_MODEL = "meta-llama/Llama-3.3-70B-Instruct:cheapest"
 
+# --- Sibling integration (see contract/news_exchange.md) -------------------
+# World Digest borrows per-country sentiment from the InsightsEngine globe over
+# HTTP (best-effort) and publishes its own clustered digest to public/digest.json
+# for the sibling to consume. The schema id is the frozen interface version; the
+# country alias map and these paths live outside the evolvable file so a mutation
+# can't drift the contract.
+EXCHANGE_SCHEMA = "world-digest/news-exchange@1"
+REPO_ROOT = Path(__file__).parent.parent
+CONTRACT_PATH = REPO_ROOT / "contract" / "country_aliases.json"
+METRICS_PATH = REPO_ROOT / "evolution" / "metrics.json"
+DIGEST_JSON_PATH = REPO_ROOT / "public" / "digest.json"
+SIBLING_GLOBE_URL = os.environ.get(
+    "SIBLING_GLOBE_URL",
+    "https://colesr-insight-engine-docker.hf.space/api/news/globe",
+)
+COUNTRY_ALIASES = json.loads(CONTRACT_PATH.read_text()) if CONTRACT_PATH.exists() else {}
+
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
@@ -146,6 +163,57 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
 
 
 # ---------------------------------------------------------------------------
+# Sibling enrichment (country tagging + borrowed sentiment)
+# ---------------------------------------------------------------------------
+
+def _match_countries(text: str) -> list[str]:
+    """Tag text with canonical country names from the shared contract.
+    Multi-word/punctuated aliases match as substrings; single words use \\b
+    word boundaries (so "us" doesn't fire inside "bus")."""
+    hay = text.lower()
+    hits: list[str] = []
+    for country, aliases in COUNTRY_ALIASES.items():
+        for alias in aliases:
+            if " " in alias or "." in alias:
+                if alias in hay:
+                    hits.append(country)
+                    break
+            elif re.search(r"\b" + re.escape(alias) + r"\b", hay):
+                hits.append(country)
+                break
+    return hits
+
+
+def _cluster_countries(cluster: list[dict]) -> list[str]:
+    found: list[str] = []
+    for item in cluster:
+        for country in _match_countries(item["title"]):
+            if country not in found:
+                found.append(country)
+    return found
+
+
+def fetch_sibling_sentiment() -> dict:
+    """Borrow per-country sentiment (-1..1) from the InsightsEngine globe.
+    Best-effort: returns {} on any failure so a sibling outage can never break
+    the digest (the coupling is additive — see contract/news_exchange.md)."""
+    try:
+        resp = requests.get(SIBLING_GLOBE_URL, timeout=10)
+        if not resp.ok:
+            print(f"[warn] sibling globe returned {resp.status_code}; skipping enrichment")
+            return {}
+        countries = resp.json().get("countries", [])
+        return {
+            c["name"]: c["sentiment"] / 80.0
+            for c in countries
+            if isinstance(c, dict) and isinstance(c.get("sentiment"), (int, float)) and c.get("name")
+        }
+    except Exception as exc:  # noqa: BLE001 - sibling outage must not break the digest
+        print(f"[warn] sibling sentiment unavailable: {exc}")
+        return {}
+
+
+# ---------------------------------------------------------------------------
 # Summarize
 # ---------------------------------------------------------------------------
 
@@ -160,14 +228,39 @@ def build_llm_input(clusters: list[list[dict]], config: dict) -> str:
     return "\n".join(lines)
 
 
-def summarize(clusters: list[list[dict]], config: dict) -> str:
-    """Call an LLM to produce the digest. Falls back to extractive mode if no token."""
+def _sentiment_context(clusters: list[list[dict]], config: dict, sentiment: dict) -> str:
+    """Render the borrowed per-country tone as an extra prompt-steering block.
+    Empty string when no sibling sentiment is available (the common offline path)."""
+    if not sentiment:
+        return ""
+    lines = []
+    for i, cluster in enumerate(clusters[: config["max_clusters_in_digest"]], 1):
+        countries = _cluster_countries(cluster)
+        tones = [sentiment[c] for c in countries if c in sentiment]
+        if tones:
+            lines.append(f"STORY {i}: avg tone {sum(tones) / len(tones):+.2f} ({', '.join(countries)})")
+    if not lines:
+        return ""
+    return (
+        "\n\nSentiment context (borrowed from the sibling sentiment service, "
+        "-1 negative .. +1 positive):\n"
+        + "\n".join(lines)
+        + "\nWhere globally significant, lead with the most negative-tone stories and "
+        "note where outlets diverge in tone.\n"
+    )
+
+
+def summarize(clusters: list[list[dict]], config: dict, sentiment: dict | None = None) -> str:
+    """Call an LLM to produce the digest. Falls back to extractive mode if no token.
+    `sentiment` is optional borrowed per-country tone (-1..1) from the sibling; when
+    present it is folded into the prompt as additional steering context."""
     prompt = (
         "You are writing a daily 'State of the World' email digest.\n"
         f"Hard limit: {config['digest_word_limit']} words.\n"
         "Group by theme, lead with the most globally significant stories, "
         "note regional perspective differences where outlets diverge, plain text only.\n\n"
         + build_llm_input(clusters, config)
+        + _sentiment_context(clusters, config, sentiment or {})
     )
 
     hf_token = os.environ.get("HF_TOKEN")
@@ -199,6 +292,41 @@ def summarize(clusters: list[list[dict]], config: dict) -> str:
         top = cluster[0]
         lines.append(f"* {top['title']} ({top['source']}, {len(cluster)} outlets)")
     return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
+# Publish Artifact B (public/digest.json) for the sibling
+# ---------------------------------------------------------------------------
+
+def build_digest_payload(clusters: list[list[dict]], config: dict, digest: str) -> dict:
+    """Build the news-exchange payload the sibling consumes (contract/news_exchange.md)."""
+    out = []
+    for cluster in clusters[: config["max_clusters_in_digest"]]:
+        top = cluster[0]
+        out.append(
+            {
+                "headline": top["title"],
+                "countries": _cluster_countries(cluster),
+                "regions": sorted({it["region"] for it in cluster}),
+                "outlets": len(cluster),
+                "summary": top["summary"][:300],
+                "links": [it["link"] for it in cluster[:5] if it["link"]],
+            }
+        )
+    return {
+        "schema": EXCHANGE_SCHEMA,
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "digest_words": len(digest.split()),
+        "clusters": out,
+        "narrative": digest,
+    }
+
+
+def write_digest_json(clusters: list[list[dict]], config: dict, digest: str) -> dict:
+    payload = build_digest_payload(clusters, config, digest)
+    DIGEST_JSON_PATH.parent.mkdir(parents=True, exist_ok=True)
+    DIGEST_JSON_PATH.write_text(json.dumps(payload, indent=2))
+    return payload
 
 
 # ---------------------------------------------------------------------------
@@ -241,10 +369,16 @@ def run() -> dict:
     config = load_config()
     items = fetch_feeds(config)
     clusters = cluster_items(items, config["similarity_threshold"])
-    digest = summarize(clusters, config)
+    sentiment = fetch_sibling_sentiment()  # best-effort; {} when sibling is offline
+    digest = summarize(clusters, config, sentiment)
     sent = send_email(digest)
 
+    payload = write_digest_json(clusters, config, digest)  # publish Artifact B
+
     regions_covered = sorted({i["region"] for i in items})
+    sentiment_enriched = bool(sentiment) and any(
+        any(country in sentiment for country in c["countries"]) for c in payload["clusters"]
+    )
     metrics = {
         "timestamp": datetime.now(timezone.utc).isoformat(),
         "items_fetched": len(items),
@@ -252,11 +386,12 @@ def run() -> dict:
         "regions_covered": regions_covered,
         "digest_words": len(digest.split()),
         "email_sent": sent,
+        "sibling_reachable": bool(sentiment),
+        "sentiment_enriched": sentiment_enriched,
     }
-    metrics_file = Path(__file__).parent.parent / "evolution" / "metrics.json"
-    history = json.loads(metrics_file.read_text()) if metrics_file.exists() else []
+    history = json.loads(METRICS_PATH.read_text()) if METRICS_PATH.exists() else []
     history.append(metrics)
-    metrics_file.write_text(json.dumps(history[-90:], indent=2))
+    METRICS_PATH.write_text(json.dumps(history[-90:], indent=2))
     print(json.dumps(metrics, indent=2))
     return metrics
 
