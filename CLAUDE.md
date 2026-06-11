@@ -15,7 +15,7 @@ pip install -r requirements.txt
 pytest tests/ -q                 # the fitness check — gates every mutation
 pytest tests/test_core.py::test_duplicate_stories_are_clustered  # single test
 python app/core.py               # run the pipeline; prints digest if SMTP env unset
-python evolution/evolve.py       # propose one mutation (needs ANTHROPIC_API_KEY)
+python evolution/evolve.py       # propose one mutation (needs HF_TOKEN)
 ```
 
 Runtime env vars (all optional locally): `HF_TOKEN` (a Hugging Face token with "Inference Providers" permission; without it, `summarize()` falls back to extractive mode), `SMTP_USER` / `SMTP_PASS` / `DIGEST_TO` (without them, the digest prints instead of emailing).
@@ -24,7 +24,7 @@ Runtime env vars (all optional locally): `HF_TOKEN` (a Hugging Face token with "
 
 `tests/test_core.py` is the **frozen fitness definition** and the user's encoded intent. The evolution loop is only correct because this file (and `.github/`) can never be modified by the system. This is enforced in three layers:
 1. `evolve.yml` runs `git diff --quiet -- tests/ .github/` and reverts + fails if either changed.
-2. `evolve.py` rejects any candidate `core.py` containing forbidden tokens (`tests/`, `test_core`, `pytest.skip`, `os.remove`, `shutil.rmtree`).
+2. `evolve.py` rejects any candidate `core.py` containing forbidden tokens (`import tests`, `from tests`, `pytest.skip`, `os.remove`, `shutil.rmtree`). Note it deliberately does **not** guard on bare `tests/` or `test_core` — `core.py`'s own docstring mentions `tests/test_core.py`, so those would reject every faithful rewrite. This pre-check is a fast smell test; layers 1 and 3 are the real enforcement.
 3. `tests/test_core.py` itself asserts `core.py` never imports from `tests/`.
 
 **To change the system's behavior or goals, edit the tests** — that is the intended steering mechanism. Do not weaken or delete tests to make a mutation pass; that defeats the entire design.
@@ -38,6 +38,8 @@ It is the only evolvable file. Any change must keep these function names and sig
 - config is overridable at runtime via `app/config.json`; defaults live in `DEFAULT_CONFIG`
 
 Clustering is greedy Jaccard similarity over title tokens (`cluster_items`), sorted largest-cluster-first since broader coverage implies more global significance.
+
+`scripts/job_summary.py` is a CI-only helper (not part of the pipeline): both workflows call it to render a markdown run dashboard to `$GITHUB_STEP_SUMMARY` from `metrics.json` / `attempts.log`. It is not frozen but nothing in the evolution loop touches it.
 
 ## Steering the evolution engine
 
