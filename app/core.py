@@ -83,7 +83,7 @@ DEFAULT_CONFIG = {
     "max_items_per_feed": 15,
     "max_clusters_in_digest": 12,
     "digest_word_limit": 800,
-    "similarity_threshold": 0.25,
+    "similarity_threshold": 0.35,  # Increased from 0.25 to improve deduplication
 }
 
 
@@ -104,6 +104,8 @@ def fetch_feeds(config: dict) -> list[dict]:
         for url in urls:
             try:
                 parsed = feedparser.parse(url)
+                if parsed.bozo and parsed.bozo_exception:
+                    print(f"[warn] feed parsing issue: {url} ({parsed.bozo_exception})")
                 for entry in parsed.entries[: config["max_items_per_feed"]]:
                     items.append(
                         {
@@ -143,23 +145,62 @@ def _similarity(a: set[str], b: set[str]) -> float:
 
 
 def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
-    """Greedy clustering by title-token Jaccard similarity."""
+    """Improved clustering by title-token Jaccard similarity with iterative refinement."""
     clusters: list[dict] = []  # each: {"tokens": set, "items": [..]}
-    for item in items:
+    
+    # Sort items by title length (longer titles first) for better centroid representation
+    sorted_items = sorted(items, key=lambda x: len(x["title"]), reverse=True)
+    
+    for item in sorted_items:
         toks = _tokens(item["title"])
         best, best_score = None, 0.0
+        
+        # Find the best matching cluster
         for cluster in clusters:
             score = _similarity(toks, cluster["tokens"])
             if score > best_score:
                 best, best_score = cluster, score
+                
+        # If we found a good match, add to that cluster
         if best is not None and best_score >= threshold:
             best["items"].append(item)
+            # Update the cluster's token set with union of all items for better future matching
             best["tokens"] |= toks
         else:
+            # Create a new cluster
             clusters.append({"tokens": set(toks), "items": [item]})
-    # Bigger clusters first = more widely covered = more important
-    clusters.sort(key=lambda c: len(c["items"]), reverse=True)
-    return [c["items"] for c in clusters]
+            
+    # Second pass: Try to merge similar clusters to further reduce duplicates
+    merged_clusters = []
+    used_indices = set()
+    
+    for i, cluster_a in enumerate(clusters):
+        if i in used_indices:
+            continue
+            
+        # Start with the current cluster
+        merged_cluster = {
+            "tokens": set(cluster_a["tokens"]),
+            "items": list(cluster_a["items"])
+        }
+        used_indices.add(i)
+        
+        # Check for merge candidates
+        for j, cluster_b in enumerate(clusters[i+1:], i+1):
+            if j in used_indices:
+                continue
+                
+            score = _similarity(cluster_a["tokens"], cluster_b["tokens"])
+            if score >= threshold * 0.8:  # Slightly lower threshold for cluster merging
+                merged_cluster["tokens"] |= cluster_b["tokens"]
+                merged_cluster["items"].extend(cluster_b["items"])
+                used_indices.add(j)
+                
+        merged_clusters.append(merged_cluster)
+    
+    # Sort by cluster size (bigger clusters first = more widely covered = more important)
+    merged_clusters.sort(key=lambda c: len(c["items"]), reverse=True)
+    return [c["items"] for c in merged_clusters]
 
 
 # ---------------------------------------------------------------------------
