@@ -1,192 +1,183 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-11T02:32:28.083670+00:00",
-  "digest_words": 444,
+  "generated_at": "2026-06-11T11:17:12.363708+00:00",
+  "digest_words": 471,
   "clusters": [
     {
-      "headline": "Hero\u2019s welcome for Omar Artan after Somali\u2019s World Cup dreams dashed",
-      "countries": [
-        "United States"
-      ],
+      "headline": "Congo-Kinshasa: Uganda, DR Congo Plan Joint Medical Camps to Strengthen Ebola Response",
+      "countries": [],
       "regions": [
-        "Africa",
-        "Americas",
-        "Middle East"
+        "Africa"
       ],
-      "outlets": 4,
-      "summary": "Referee Omar Artan was denied from the US, where he was set to become the first Somali to officiate at a FIFA World Cup.",
+      "outlets": 2,
+      "summary": "[Nile Post] The Governments of Uganda and the Democratic Republic of Congo (DRC) are planning to establish joint medical camps on the Congolese side of the border as part of efforts to strengthen the fight against Ebola and ensure suspected patients receive timely treatment.",
       "links": [
-        "https://www.aljazeera.com/video/newsfeed/2026/6/10/heros-welcome-for-omar-artan-after-somalis-world-cup-dreams-dashed?traffic_source=rss",
-        "https://www.npr.org/2026/06/10/nx-s1-5853075/somali-world-cup-referee-denied-u-s-entry-hailed-as-hero-at-home",
-        "https://allafrica.com/stories/202606100291.html",
-        "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202606110071.html",
+        "https://allafrica.com/stories/202606110084.html"
       ]
     },
     {
-      "headline": "Tehran targets US Gulf bases after American forces launch new strikes on Iran",
+      "headline": "U.S. launches second day of Iran strikes. And, World Cup facts to know before kickoff",
       "countries": [
         "United States",
         "Iran"
       ],
       "regions": [
-        "Europe",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "US Central Command says its latest round of strikes were in response to \"unwarranted and continued aggression\" from Iran.",
-      "links": [
-        "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
-        "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "Northern Ireland: Police urge calm after 'sickening' Belfast stabbing",
-      "countries": [
-        "United Kingdom"
-      ],
-      "regions": [
-        "Americas",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Belfast police appealed for calm after a violent knife attack caught on videophone prompted calls for anti-immigration protests. This followed a week of migration-related riots last June in Northern Ireland.",
-      "links": [
-        "https://www.dw.com/en/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing/a-77479452?maca=en-rss-en-world-4025-rdf",
-        "https://www.npr.org/2026/06/10/nx-s1-5852968/uk-anti-immigration-protests-belfast"
-      ]
-    },
-    {
-      "headline": "Iran announces closure of Strait of Hormuz following US strikes",
-      "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Asia",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "Iranian officials say the Strait of Hormuz has been closed in response to US strikes.",
-      "links": [
-        "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss",
-        "https://www.channelnewsasia.com/business/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-6175486"
-      ]
-    },
-    {
-      "headline": "Iran attacks Bahrain, Kuwait and ships in Hormuz after fresh US strikes",
-      "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "Iran claims drone strikes on bases in Bahrain and Kuwait, as US strikes Qeshm Island and ports along Hormuz.",
-      "links": [
-        "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-launched-strikes-18-us-targets-kuwait-bahrain"
-      ]
-    },
-    {
-      "headline": "US army says latest attacks on Iran 'completed'",
-      "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Asia",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nUS army says latest attacks on Iran 'completed'\n\n    \n    \n\n        \n    \n                The US military said that it \"completed\" its latest wave of strikes against Iran, where it targeted \"Iranian military surveillance capabilities, communication systems, and air defense sites\" ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/us-army-says-latest-attacks-iran-completed",
-        "https://www.channelnewsasia.com/world/us-iran-attacks-closed-strait-hormuz-6175551"
-      ]
-    },
-    {
-      "headline": "US military says carrying out strikes against Iran",
-      "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nUS military says carrying out strikes against Iran\n\n    \n    \n\n        \n    \n                US forces began launching additional strikes against multiple targets in&nbsp;Iran&nbsp;at 5:15 pm (21:15 GMT), US Central Command said in a post on X on Wednesday.\n\n\"The strikes are in re",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-carrying-out-strikes-against-iran",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-chief-say-strikes-iran-will-be-strong-and-clear"
-      ]
-    },
-    {
-      "headline": "China re\u2011centers North Korea ties as nuclear silence reshapes balance",
-      "countries": [
-        "China",
-        "United States"
-      ],
-      "regions": [
         "Americas"
       ],
       "outlets": 2,
-      "summary": "Xi's silence on North Korea's nuclear program came as Kim tried to convince the world of the irreversibility of his country's status as a nuclear power.",
+      "summary": "The U.S. launched air strikes on Iran for a second consecutive day. And, the World Cup kicks off today in Mexico City, where tensions threaten to disrupt events.",
       "links": [
-        "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties",
-        "https://www.npr.org/2026/06/10/nx-s1-5851837/china-and-north-korea-renew-ties-complicating-u-s-response-to-kims-nuclear-program"
+        "https://www.npr.org/2026/06/11/g-s1-127423/up-first-newsletter-us-iran-war-inflation-rates-world-cup",
+        "https://www.npr.org/2026/06/10/nx-s1-5853882/us-strike-iran-second-day-renewed-fire"
       ]
     },
     {
-      "headline": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+      "headline": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+      "countries": [
+        "Nigeria",
+        "South Africa"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Nigeria is the latest African state to repatriate citizens following reports of xenophobic attacks.",
+      "links": [
+        "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "South Korea vs Czechia: World Cup group match \u2013 teams, start and lineups",
+      "countries": [
+        "South Korea"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "Asian giants South Korea face two-time runners-up Czechia in the second match of the opening day of World Cup 2026.",
+      "links": [
+        "https://www.aljazeera.com/sports/2026/6/11/south-korea-vs-czechia-world-cup-group-match-teams-start-and-lineups?traffic_source=rss",
+        "https://www.aljazeera.com/sports/2026/6/11/world-cup-2026-full-match-schedule-groups-teams-and-start-times?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "Who is the Somali referee barred from entering the US for the World Cup?",
       "countries": [
         "United States"
       ],
       "regions": [
-        "Europe"
+        "Africa",
+        "Americas"
       ],
-      "outlets": 1,
-      "summary": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
+      "outlets": 2,
+      "summary": "Omar Artan was set to become the first Somali to referee a game at the World Cup finals, but his place in history has been denied by US immigration authorities.",
       "links": [
-        "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.com/news/articles/c8j27zkp94zo?at_medium=RSS&at_campaign=rss",
+        "https://www.npr.org/2026/06/10/nx-s1-5853075/somali-world-cup-referee-denied-u-s-entry-hailed-as-hero-at-home"
       ]
     },
     {
-      "headline": "The furious dispute over what caused Air India flight 171 to crash",
+      "headline": "Kenya: LGBTQ+ community still here, still queer despite cuts",
       "countries": [
-        "India"
+        "Kenya"
       ],
       "regions": [
+        "Africa",
         "Europe"
       ],
-      "outlets": 1,
-      "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+      "outlets": 2,
+      "summary": "LGBTQ+ organizations in Kenya are struggling: Deep funding cuts, not just during Pride, have forced layoffs, shrinking services and tough choices. But organizations that serve queer communities are adapting.",
       "links": [
-        "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss"
+        "https://www.dw.com/en/kenya-lgbtq-community-still-here-still-queer-despite-cuts/a-77484560?maca=en-rss-en-world-4025-rdf",
+        "https://allafrica.com/stories/202606110087.html"
       ]
     },
     {
-      "headline": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
+      "headline": "South Africa: Five Church Robbery Suspects Due in Court - South African News Briefs - June 11, 2026",
       "countries": [
-        "India"
+        "South Africa"
       ],
       "regions": [
-        "Europe"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "India's government said three Indian sailors were missing and 21 crew had been rescued after the hit on the Settebello off the coast of Oman.",
+      "summary": "[allAfrica]",
       "links": [
-        "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202606110082.html"
       ]
     },
     {
-      "headline": "An Everest guide's miraculous survival raises questions for tourism industry",
+      "headline": "Rescuers press on in quake-hit Philippines as aftershocks and infrastructure damage hamper efforts",
+      "countries": [
+        "Philippines"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Recovery operations have been complicated by more than 2,000 aftershocks since the quake, some reaching magnitudes as high as 6.4.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/philippines-earthquake-mindanao-ifrc-red-cross-rescue-recovery-6176301"
+      ]
+    },
+    {
+      "headline": "\u2018One enemy is too many\u2019: Indonesia President Prabowo hits back at criticism of overseas trips",
+      "countries": [
+        "Indonesia"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "President Prabowo Subianto has gone on more than 50 overseas trips to over 20 countries in less than two years in office, far more than his predecessors.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/indonesia-president-prabowo-hits-back-criticism-frequent-overseas-trips-6176416"
+      ]
+    },
+    {
+      "headline": "Intercepted Iranian drones injure 11-year-old in Bahrain, cause fire in homes and vehicles",
+      "countries": [
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nIntercepted Iranian drones injure 11-year-old in Bahrain, cause fire in homes and vehicles\n\n    \n    \n\n        \n    \n                Bahrain's Interior Ministry announced damage following debris from intercepted Iranian drones, including an 11 year-old girl who suffered minor inju",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/intercepted-iranian-drones-injure-11-year-old-bahrain-cause-fire-homes"
+      ]
+    },
+    {
+      "headline": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
       "countries": [],
       "regions": [
-        "Europe"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "Why was a cook leading clients up the world's highest peak? And why was he left to rescue himself?",
+      "summary": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
       "links": [
-        "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Kenya: Opposition Unveils 'People's Budget', Accuses Ruto Govt of Economic Mismanagement",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Capital FM] Nairobi -- Kenya's opposition coalition under the United Alternative Government banner has sharply criticised President William Ruto's administration ahead of the presentation of the 2026/2027 national budget, accusing the government of pursuing policies that are deepening the country's",
+      "links": [
+        "https://allafrica.com/stories/202606110078.html"
       ]
     }
   ],
-  "narrative": "Subject: State of the World - Rising Tensions and Global Uncertainty\n\nThe past 24 hours have seen a significant escalation in global tensions, with multiple regions experiencing increased conflict and instability. Leading with the most negative-tone stories, we begin with the ongoing crisis in the Middle East.\n\n**Middle East Conflict Escalation**\nThe situation in the Middle East has taken a turn for the worse, with Iran announcing the closure of the Strait of Hormuz following US strikes (Al Jazeera, Latest News). The US military has confirmed that its latest wave of strikes against Iran has been completed (Section Feed, Latest News). Iran has retaliated by launching attacks on US targets in Kuwait and Bahrain (Al Jazeera, Section Feed). The average tone for these stories is -0.52, indicating a highly negative sentiment.\n\nRegional perspective differences are notable, with Al Jazeera reporting on the Iranian perspective and the BBC focusing on the US response. The tone of the coverage also varies, with Al Jazeera's reporting being more critical of the US actions, while the BBC provides a more neutral account.\n\n**Global Reactions to Middle East Conflict**\nThe conflict in the Middle East has sparked reactions from around the world. In Somalia, a World Cup referee was denied entry to the US, sparking a hero's welcome at home (Al Jazeera, NPR, AllAfrica News, BBC News). The average tone for this story is -0.40, indicating a negative sentiment towards the US decision.\n\nIn Europe, leaders are calling for calm after anti-immigration protests broke out in Northern Ireland following a stabbing incident (Deutsche Welle, NPR). The average tone for this story is -0.26, indicating a relatively negative sentiment.\n\n**Asia and US Relations**\nIn Asia, China has renewed ties with North Korea, complicating the US response to Kim's nuclear program (NPR). The average tone for this story is -0.18, indicating a slightly negative sentiment.\n\n**Other Global Developments**\nOther notable stories include the US inflation rate rising at its fastest rate in three years (BBC News), with an average tone of -0.40. The investigation into the crash of Air India flight 171 is ongoing, with the final conclusions yet to be published (BBC News), and three Indian sailors are missing after a US strike on a tanker in the Gulf of Oman (BBC News). An Everest guide's miraculous survival has raised questions for the tourism industry (BBC News).\n\nIn conclusion, the current state of the world is marked by rising tensions and global uncertainty. The conflict in the Middle East continues to escalate, with multiple regions experiencing increased instability. The average tone for the most significant stories is highly negative, indicating a growing sense of concern and unease around the world."
+  "narrative": "**State of the World - Daily Email Digest**\n\n**Global Conflicts and Tensions**\n\nThe most significant global stories today are centered around conflicts and rising tensions. Leading with the most negative-tone stories, we see a concerning escalation in the US-Iran conflict, with the US launching air strikes on Iran for a second consecutive day, as reported by NPR Topics: World. The average tone for this story is -0.38, reflecting the gravity of the situation. Iran has responded by firing back at Gulf States, with efforts to negotiate an end to the war appearing stuck.\n\n**Regional Perspectives**\n\nIn Africa, the situation in South Africa is deteriorating, with Nigeria evacuating its citizens due to rising anti-migrant sentiment, as reported by BBC News. The average tone for this story is -0.33, highlighting the regional concerns. In contrast, Al Jazeera's coverage of the World Cup focuses on the sporting event, with a more positive tone of +0.28, reflecting the excitement around the tournament.\n\n**Humanitarian Concerns**\n\nThe Ebola response in the Democratic Republic of Congo is a pressing concern, with Human Rights Watch emphasizing the need for community engagement and transparency, as reported by AllAfrica News: Latest. The average tone for this story is not provided, but the situation remains critical.\n\n**Social and Economic Issues**\n\nIn Kenya, the LGBTQ+ community is facing significant challenges due to deep funding cuts, as reported by Deutsche Welle and AllAfrica News: Latest. The average tone for this story is -0.38, reflecting the difficulties faced by the community. In Indonesia, President Prabowo Subianto is facing criticism for his numerous overseas trips, with a negative tone of -0.73, as reported by Latest News.\n\n**Natural Disasters**\n\nIn the Philippines, recovery efforts are ongoing after a devastating quake, with over 2,000 aftershocks complicating the situation, as reported by Latest News. The average tone for this story is -0.16, highlighting the challenges faced by the affected communities.\n\n**Other Significant Stories**\n\nOther notable stories include the interception of Iranian drones in Bahrain, which injured an 11-year-old and caused damage to homes and vehicles, as reported by Section Feed. The average tone for this story is -0.53, reflecting the concern around the incident. In Somalia, a former child soldier is struggling with his memories, as reported by BBC News. In Kenya, the opposition has unveiled a 'People's Budget', criticizing the government's economic management, as reported by AllAfrica News: Latest.\n\n**Regional Outlook**\n\nThe regional perspectives diverge in tone, with the US-Iran conflict and the situation in South Africa being the most negative. The World Cup coverage in Al Jazeera provides a more positive tone, while the humanitarian concerns in the Democratic Republic of Congo and the social and economic issues in Kenya and Indonesia are reported with a more negative tone. The natural disasters in the Philippines and the interception of Iranian drones in Bahrain are also significant concerns."
 }
