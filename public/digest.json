@@ -1,7 +1,192 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-11T02:00:49.033325+00:00",
-  "digest_words": 9,
-  "clusters": [],
-  "narrative": "State of the World - pending first scheduled run"
+  "generated_at": "2026-06-11T02:32:28.083670+00:00",
+  "digest_words": 444,
+  "clusters": [
+    {
+      "headline": "Hero\u2019s welcome for Omar Artan after Somali\u2019s World Cup dreams dashed",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Africa",
+        "Americas",
+        "Middle East"
+      ],
+      "outlets": 4,
+      "summary": "Referee Omar Artan was denied from the US, where he was set to become the first Somali to officiate at a FIFA World Cup.",
+      "links": [
+        "https://www.aljazeera.com/video/newsfeed/2026/6/10/heros-welcome-for-omar-artan-after-somalis-world-cup-dreams-dashed?traffic_source=rss",
+        "https://www.npr.org/2026/06/10/nx-s1-5853075/somali-world-cup-referee-denied-u-s-entry-hailed-as-hero-at-home",
+        "https://allafrica.com/stories/202606100291.html",
+        "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Tehran targets US Gulf bases after American forces launch new strikes on Iran",
+      "countries": [
+        "United States",
+        "Iran"
+      ],
+      "regions": [
+        "Europe",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "US Central Command says its latest round of strikes were in response to \"unwarranted and continued aggression\" from Iran.",
+      "links": [
+        "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+        "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "Northern Ireland: Police urge calm after 'sickening' Belfast stabbing",
+      "countries": [
+        "United Kingdom"
+      ],
+      "regions": [
+        "Americas",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Belfast police appealed for calm after a violent knife attack caught on videophone prompted calls for anti-immigration protests. This followed a week of migration-related riots last June in Northern Ireland.",
+      "links": [
+        "https://www.dw.com/en/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing/a-77479452?maca=en-rss-en-world-4025-rdf",
+        "https://www.npr.org/2026/06/10/nx-s1-5852968/uk-anti-immigration-protests-belfast"
+      ]
+    },
+    {
+      "headline": "Iran announces closure of Strait of Hormuz following US strikes",
+      "countries": [
+        "Iran"
+      ],
+      "regions": [
+        "Asia",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "Iranian officials say the Strait of Hormuz has been closed in response to US strikes.",
+      "links": [
+        "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss",
+        "https://www.channelnewsasia.com/business/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-6175486"
+      ]
+    },
+    {
+      "headline": "Iran attacks Bahrain, Kuwait and ships in Hormuz after fresh US strikes",
+      "countries": [
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "Iran claims drone strikes on bases in Bahrain and Kuwait, as US strikes Qeshm Island and ports along Hormuz.",
+      "links": [
+        "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-launched-strikes-18-us-targets-kuwait-bahrain"
+      ]
+    },
+    {
+      "headline": "US army says latest attacks on Iran 'completed'",
+      "countries": [
+        "Iran"
+      ],
+      "regions": [
+        "Asia",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nUS army says latest attacks on Iran 'completed'\n\n    \n    \n\n        \n    \n                The US military said that it \"completed\" its latest wave of strikes against Iran, where it targeted \"Iranian military surveillance capabilities, communication systems, and air defense sites\" ",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/us-army-says-latest-attacks-iran-completed",
+        "https://www.channelnewsasia.com/world/us-iran-attacks-closed-strait-hormuz-6175551"
+      ]
+    },
+    {
+      "headline": "US military says carrying out strikes against Iran",
+      "countries": [
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nUS military says carrying out strikes against Iran\n\n    \n    \n\n        \n    \n                US forces began launching additional strikes against multiple targets in&nbsp;Iran&nbsp;at 5:15 pm (21:15 GMT), US Central Command said in a post on X on Wednesday.\n\n\"The strikes are in re",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-carrying-out-strikes-against-iran",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-chief-say-strikes-iran-will-be-strong-and-clear"
+      ]
+    },
+    {
+      "headline": "China re\u2011centers North Korea ties as nuclear silence reshapes balance",
+      "countries": [
+        "China",
+        "United States"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 2,
+      "summary": "Xi's silence on North Korea's nuclear program came as Kim tried to convince the world of the irreversibility of his country's status as a nuclear power.",
+      "links": [
+        "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties",
+        "https://www.npr.org/2026/06/10/nx-s1-5851837/china-and-north-korea-renew-ties-complicating-u-s-response-to-kims-nuclear-program"
+      ]
+    },
+    {
+      "headline": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
+      "links": [
+        "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "The furious dispute over what caused Air India flight 171 to crash",
+      "countries": [
+        "India"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+      "links": [
+        "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
+      "countries": [
+        "India"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "India's government said three Indian sailors were missing and 21 crew had been rescued after the hit on the Settebello off the coast of Oman.",
+      "links": [
+        "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "An Everest guide's miraculous survival raises questions for tourism industry",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Why was a cook leading clients up the world's highest peak? And why was he left to rescue himself?",
+      "links": [
+        "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss"
+      ]
+    }
+  ],
+  "narrative": "Subject: State of the World - Rising Tensions and Global Uncertainty\n\nThe past 24 hours have seen a significant escalation in global tensions, with multiple regions experiencing increased conflict and instability. Leading with the most negative-tone stories, we begin with the ongoing crisis in the Middle East.\n\n**Middle East Conflict Escalation**\nThe situation in the Middle East has taken a turn for the worse, with Iran announcing the closure of the Strait of Hormuz following US strikes (Al Jazeera, Latest News). The US military has confirmed that its latest wave of strikes against Iran has been completed (Section Feed, Latest News). Iran has retaliated by launching attacks on US targets in Kuwait and Bahrain (Al Jazeera, Section Feed). The average tone for these stories is -0.52, indicating a highly negative sentiment.\n\nRegional perspective differences are notable, with Al Jazeera reporting on the Iranian perspective and the BBC focusing on the US response. The tone of the coverage also varies, with Al Jazeera's reporting being more critical of the US actions, while the BBC provides a more neutral account.\n\n**Global Reactions to Middle East Conflict**\nThe conflict in the Middle East has sparked reactions from around the world. In Somalia, a World Cup referee was denied entry to the US, sparking a hero's welcome at home (Al Jazeera, NPR, AllAfrica News, BBC News). The average tone for this story is -0.40, indicating a negative sentiment towards the US decision.\n\nIn Europe, leaders are calling for calm after anti-immigration protests broke out in Northern Ireland following a stabbing incident (Deutsche Welle, NPR). The average tone for this story is -0.26, indicating a relatively negative sentiment.\n\n**Asia and US Relations**\nIn Asia, China has renewed ties with North Korea, complicating the US response to Kim's nuclear program (NPR). The average tone for this story is -0.18, indicating a slightly negative sentiment.\n\n**Other Global Developments**\nOther notable stories include the US inflation rate rising at its fastest rate in three years (BBC News), with an average tone of -0.40. The investigation into the crash of Air India flight 171 is ongoing, with the final conclusions yet to be published (BBC News), and three Indian sailors are missing after a US strike on a tanker in the Gulf of Oman (BBC News). An Everest guide's miraculous survival has raised questions for the tourism industry (BBC News).\n\nIn conclusion, the current state of the world is marked by rising tensions and global uncertainty. The conflict in the Middle East continues to escalate, with multiple regions experiencing increased instability. The average tone for the most significant stories is highly negative, indicating a growing sense of concern and unease around the world."
 }
