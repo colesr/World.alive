@@ -1,23 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-11T11:17:12.363708+00:00",
-  "digest_words": 471,
+  "generated_at": "2026-06-12T10:56:22.788907+00:00",
+  "digest_words": 223,
   "clusters": [
     {
-      "headline": "Congo-Kinshasa: Uganda, DR Congo Plan Joint Medical Camps to Strengthen Ebola Response",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 2,
-      "summary": "[Nile Post] The Governments of Uganda and the Democratic Republic of Congo (DRC) are planning to establish joint medical camps on the Congolese side of the border as part of efforts to strengthen the fight against Ebola and ensure suspected patients receive timely treatment.",
-      "links": [
-        "https://allafrica.com/stories/202606110071.html",
-        "https://allafrica.com/stories/202606110084.html"
-      ]
-    },
-    {
-      "headline": "U.S. launches second day of Iran strikes. And, World Cup facts to know before kickoff",
+      "headline": "Trump now says a peace deal will be announced 'soon,' cancels further strikes",
       "countries": [
         "United States",
         "Iran"
@@ -26,10 +13,10 @@
         "Americas"
       ],
       "outlets": 2,
-      "summary": "The U.S. launched air strikes on Iran for a second consecutive day. And, the World Cup kicks off today in Mexico City, where tensions threaten to disrupt events.",
+      "summary": "President Trump had previously been amping up his rhetoric against Iran.",
       "links": [
-        "https://www.npr.org/2026/06/11/g-s1-127423/up-first-newsletter-us-iran-war-inflation-rates-world-cup",
-        "https://www.npr.org/2026/06/10/nx-s1-5853882/us-strike-iran-second-day-renewed-fire"
+        "https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
+        "https://www.npr.org/2026/06/12/nx-s1-5855326/trump-cancels-further-strikes-on-iran-announcing-peace-deal-is-imminent"
       ]
     },
     {
@@ -50,54 +37,78 @@
       ]
     },
     {
-      "headline": "South Korea vs Czechia: World Cup group match \u2013 teams, start and lineups",
-      "countries": [
-        "South Korea"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "Asian giants South Korea face two-time runners-up Czechia in the second match of the opening day of World Cup 2026.",
-      "links": [
-        "https://www.aljazeera.com/sports/2026/6/11/south-korea-vs-czechia-world-cup-group-match-teams-start-and-lineups?traffic_source=rss",
-        "https://www.aljazeera.com/sports/2026/6/11/world-cup-2026-full-match-schedule-groups-teams-and-start-times?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "Who is the Somali referee barred from entering the US for the World Cup?",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Africa",
-        "Americas"
-      ],
-      "outlets": 2,
-      "summary": "Omar Artan was set to become the first Somali to referee a game at the World Cup finals, but his place in history has been denied by US immigration authorities.",
-      "links": [
-        "https://www.bbc.com/news/articles/c8j27zkp94zo?at_medium=RSS&at_campaign=rss",
-        "https://www.npr.org/2026/06/10/nx-s1-5853075/somali-world-cup-referee-denied-u-s-entry-hailed-as-hero-at-home"
-      ]
-    },
-    {
-      "headline": "Kenya: LGBTQ+ community still here, still queer despite cuts",
-      "countries": [
-        "Kenya"
-      ],
+      "headline": "Congo-Kinshasa: DR Congo Referendum Bill Intensifies Constitutional Standoff",
+      "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "LGBTQ+ organizations in Kenya are struggling: Deep funding cuts, not just during Pride, have forced layoffs, shrinking services and tough choices. But organizations that serve queer communities are adapting.",
+      "summary": "[DW] Congolese lawmakers this week passed a referendum bill that could lead to constitutional reform ahead of the 2028 elections. The opposition has warned of a \"constitutional coup.\"",
       "links": [
-        "https://www.dw.com/en/kenya-lgbtq-community-still-here-still-queer-despite-cuts/a-77484560?maca=en-rss-en-world-4025-rdf",
-        "https://allafrica.com/stories/202606110087.html"
+        "https://allafrica.com/stories/202606120111.html",
+        "https://www.dw.com/en/drc-referendum-bill-intensifies-constitutional-standoff/a-77499438?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "South Africa: Five Church Robbery Suspects Due in Court - South African News Briefs - June 11, 2026",
+      "headline": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+      "countries": [
+        "Mexico"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
+      "links": [
+        "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/world-cup-kicks-off-in-mexico-city/a-77511676?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Artan to referee Uefa Super Cup after losing World Cup role",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Somali referee Omar Artan is appointed to take charge of the Uefa Super Cup match between Paris St-Germain and Aston Villa later this summer after being denied a spot at the World Cup.",
+      "links": [
+        "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Deadly Sudan drone strike targets funeral procession",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line.",
+      "links": [
+        "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Nigeria: Democracy Day - Tinubu Says Economic Reforms Restoring Stability, Pledges Greater Prosperity for Nigerians",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[This Day] President Bola Ahmed Tinubu on Friday defended his administration's economic reforms, saying they were necessary to rescue Nigeria from fiscal strain and lay the foundation for long-term prosperity.",
+      "links": [
+        "https://allafrica.com/stories/202606120152.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Flood-Hit Western Cape Faces Long Recovery - South African News Briefs - June 12, 2026",
       "countries": [
         "South Africa"
       ],
@@ -105,27 +116,39 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "[allAfrica] Flood-Hit Western Cape Faces Long Recovery",
       "links": [
-        "https://allafrica.com/stories/202606110082.html"
+        "https://allafrica.com/stories/202606120087.html"
       ]
     },
     {
-      "headline": "Rescuers press on in quake-hit Philippines as aftershocks and infrastructure damage hamper efforts",
-      "countries": [
-        "Philippines"
-      ],
+      "headline": "Congo-Kinshasa: 'We're Sitting On a Volcano' Warns EU Commissioner After Visit to Ebola-Hit DR Congo",
+      "countries": [],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "Recovery operations have been complicated by more than 2,000 aftershocks since the quake, some reaching magnitudes as high as 6.4.",
+      "summary": "[RFI] As a deadly outbreak of Ebola continues to spread across the Democratic Republic of Congo and the wider Great Lakes region, the European Union has pledged &#x20ac;170m towards the health and humanitarian response. Hadja Lahbib, the European Commissioner for International Partnerships, Humanita",
       "links": [
-        "https://www.channelnewsasia.com/asia/philippines-earthquake-mindanao-ifrc-red-cross-rescue-recovery-6176301"
+        "https://allafrica.com/stories/202606120001.html"
       ]
     },
     {
-      "headline": "\u2018One enemy is too many\u2019: Indonesia President Prabowo hits back at criticism of overseas trips",
+      "headline": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Palestinian homes are being pulled down in occupied East Jerusalem to make way for a park.",
+      "links": [
+        "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Danantara Indonesia unit will not take over contracts in new export plan, meeting minutes show",
       "countries": [
         "Indonesia"
       ],
@@ -133,51 +156,25 @@
         "Asia"
       ],
       "outlets": 1,
-      "summary": "President Prabowo Subianto has gone on more than 50 overseas trips to over 20 countries in less than two years in office, far more than his predecessors.",
+      "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/asia/indonesia-president-prabowo-hits-back-criticism-frequent-overseas-trips-6176416"
+        "https://www.channelnewsasia.com/business/danantara-indonesia-unit-will-not-take-over-contracts-in-new-export-plan-meeting-minutes-show-6179126"
       ]
     },
     {
-      "headline": "Intercepted Iranian drones injure 11-year-old in Bahrain, cause fire in homes and vehicles",
+      "headline": "Nigeria: Senate Passes State Police Bill, Refers Proposed Law to Constitution Review Committee",
       "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIntercepted Iranian drones injure 11-year-old in Bahrain, cause fire in homes and vehicles\n\n    \n    \n\n        \n    \n                Bahrain's Interior Ministry announced damage following debris from intercepted Iranian drones, including an 11 year-old girl who suffered minor inju",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/intercepted-iranian-drones-injure-11-year-old-bahrain-cause-fire-homes"
-      ]
-    },
-    {
-      "headline": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
-      "links": [
-        "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Kenya: Opposition Unveils 'People's Budget', Accuses Ruto Govt of Economic Mismanagement",
-      "countries": [
-        "Kenya"
+        "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- Kenya's opposition coalition under the United Alternative Government banner has sharply criticised President William Ruto's administration ahead of the presentation of the 2026/2027 national budget, accusing the government of pursuing policies that are deepening the country's",
+      "summary": "[Premium Times] The bill seeks to devolve policing powers to subnational governments to strengthen Nigeria's internal security architecture.",
       "links": [
-        "https://allafrica.com/stories/202606110078.html"
+        "https://allafrica.com/stories/202606120064.html"
       ]
     }
   ],
-  "narrative": "**State of the World - Daily Email Digest**\n\n**Global Conflicts and Tensions**\n\nThe most significant global stories today are centered around conflicts and rising tensions. Leading with the most negative-tone stories, we see a concerning escalation in the US-Iran conflict, with the US launching air strikes on Iran for a second consecutive day, as reported by NPR Topics: World. The average tone for this story is -0.38, reflecting the gravity of the situation. Iran has responded by firing back at Gulf States, with efforts to negotiate an end to the war appearing stuck.\n\n**Regional Perspectives**\n\nIn Africa, the situation in South Africa is deteriorating, with Nigeria evacuating its citizens due to rising anti-migrant sentiment, as reported by BBC News. The average tone for this story is -0.33, highlighting the regional concerns. In contrast, Al Jazeera's coverage of the World Cup focuses on the sporting event, with a more positive tone of +0.28, reflecting the excitement around the tournament.\n\n**Humanitarian Concerns**\n\nThe Ebola response in the Democratic Republic of Congo is a pressing concern, with Human Rights Watch emphasizing the need for community engagement and transparency, as reported by AllAfrica News: Latest. The average tone for this story is not provided, but the situation remains critical.\n\n**Social and Economic Issues**\n\nIn Kenya, the LGBTQ+ community is facing significant challenges due to deep funding cuts, as reported by Deutsche Welle and AllAfrica News: Latest. The average tone for this story is -0.38, reflecting the difficulties faced by the community. In Indonesia, President Prabowo Subianto is facing criticism for his numerous overseas trips, with a negative tone of -0.73, as reported by Latest News.\n\n**Natural Disasters**\n\nIn the Philippines, recovery efforts are ongoing after a devastating quake, with over 2,000 aftershocks complicating the situation, as reported by Latest News. The average tone for this story is -0.16, highlighting the challenges faced by the affected communities.\n\n**Other Significant Stories**\n\nOther notable stories include the interception of Iranian drones in Bahrain, which injured an 11-year-old and caused damage to homes and vehicles, as reported by Section Feed. The average tone for this story is -0.53, reflecting the concern around the incident. In Somalia, a former child soldier is struggling with his memories, as reported by BBC News. In Kenya, the opposition has unveiled a 'People's Budget', criticizing the government's economic management, as reported by AllAfrica News: Latest.\n\n**Regional Outlook**\n\nThe regional perspectives diverge in tone, with the US-Iran conflict and the situation in South Africa being the most negative. The World Cup coverage in Al Jazeera provides a more positive tone, while the humanitarian concerns in the Democratic Republic of Congo and the social and economic issues in Kenya and Indonesia are reported with a more negative tone. The natural disasters in the Philippines and the interception of Iranian drones in Bahrain are also significant concerns."
+  "narrative": "State of the World - 2026-06-12 (extractive mode)\n\n* Trump now says a peace deal will be announced 'soon,' cancels further strikes (NPR Topics: World, 2 outlets)\n* Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises (BBC News, 2 outlets)\n* Congo-Kinshasa: DR Congo Referendum Bill Intensifies Constitutional Standoff (AllAfrica News: Latest, 2 outlets)\n* World Cup kicks off in Mexico with Shakira, dancing, and protests (BBC News, 2 outlets)\n* Artan to referee Uefa Super Cup after losing World Cup role (BBC News, 2 outlets)\n* Deadly Sudan drone strike targets funeral procession (BBC News, 2 outlets)\n* Nigeria: Democracy Day - Tinubu Says Economic Reforms Restoring Stability, Pledges Greater Prosperity for Nigerians (AllAfrica News: Latest, 1 outlets)\n* South Africa: Flood-Hit Western Cape Faces Long Recovery - South African News Briefs - June 12, 2026 (AllAfrica News: Latest, 1 outlets)\n* Congo-Kinshasa: 'We're Sitting On a Volcano' Warns EU Commissioner After Visit to Ebola-Hit DR Congo (AllAfrica News: Latest, 1 outlets)\n* 'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem (BBC News, 1 outlets)\n* Danantara Indonesia unit will not take over contracts in new export plan, meeting minutes show (Latest News, 1 outlets)\n* Nigeria: Senate Passes State Police Bill, Refers Proposed Law to Constitution Review Committee (AllAfrica News: Latest, 1 outlets)"
 }
