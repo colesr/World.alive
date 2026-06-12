@@ -144,31 +144,45 @@ def _similarity(a: set[str], b: set[str]) -> float:
     return len(a & b) / len(a | b)
 
 
+def _combined_similarity(item1: dict, item2: dict, title_weight: float = 0.7) -> float:
+    """Calculate combined similarity based on title and summary with weighted average."""
+    title_sim = _similarity(_tokens(item1["title"]), _tokens(item2["title"]))
+    summary_sim = _similarity(_tokens(item1["summary"]), _tokens(item2["summary"]))
+    return title_weight * title_sim + (1 - title_weight) * summary_sim
+
+
 def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
-    """Improved clustering by title-token Jaccard similarity with iterative refinement."""
-    clusters: list[dict] = []  # each: {"tokens": set, "items": [..]}
+    """Improved clustering by combining title and summary similarity with iterative refinement."""
+    clusters: list[dict] = []  # each: {"title_tokens": set, "summary_tokens": set, "items": [..]}
     
     # Sort items by title length (longer titles first) for better centroid representation
     sorted_items = sorted(items, key=lambda x: len(x["title"]), reverse=True)
     
     for item in sorted_items:
-        toks = _tokens(item["title"])
+        item_title_tokens = _tokens(item["title"])
+        item_summary_tokens = _tokens(item["summary"])
         best, best_score = None, 0.0
         
         # Find the best matching cluster
         for cluster in clusters:
-            score = _similarity(toks, cluster["tokens"])
+            # Calculate combined similarity using both title and summary
+            score = _combined_similarity(item, cluster["items"][0])
             if score > best_score:
                 best, best_score = cluster, score
                 
         # If we found a good match, add to that cluster
         if best is not None and best_score >= threshold:
             best["items"].append(item)
-            # Update the cluster's token set with union of all items for better future matching
-            best["tokens"] |= toks
+            # Update the cluster's token sets to improve future matching
+            best["title_tokens"] |= item_title_tokens
+            best["summary_tokens"] |= item_summary_tokens
         else:
             # Create a new cluster
-            clusters.append({"tokens": set(toks), "items": [item]})
+            clusters.append({
+                "title_tokens": set(item_title_tokens),
+                "summary_tokens": set(item_summary_tokens),
+                "items": [item]
+            })
             
     # Second pass: Try to merge similar clusters to further reduce duplicates
     merged_clusters = []
@@ -180,7 +194,8 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
             
         # Start with the current cluster
         merged_cluster = {
-            "tokens": set(cluster_a["tokens"]),
+            "title_tokens": set(cluster_a["title_tokens"]),
+            "summary_tokens": set(cluster_a["summary_tokens"]),
             "items": list(cluster_a["items"])
         }
         used_indices.add(i)
@@ -190,9 +205,14 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
             if j in used_indices:
                 continue
                 
-            score = _similarity(cluster_a["tokens"], cluster_b["tokens"])
-            if score >= threshold * 0.8:  # Slightly lower threshold for cluster merging
-                merged_cluster["tokens"] |= cluster_b["tokens"]
+            # Use a slightly lower threshold for cluster merging
+            title_score = _similarity(cluster_a["title_tokens"], cluster_b["title_tokens"])
+            summary_score = _similarity(cluster_a["summary_tokens"], cluster_b["summary_tokens"])
+            combined_score = 0.7 * title_score + 0.3 * summary_score
+            
+            if combined_score >= threshold * 0.8:  # Slightly lower threshold for cluster merging
+                merged_cluster["title_tokens"] |= cluster_b["title_tokens"]
+                merged_cluster["summary_tokens"] |= cluster_b["summary_tokens"]
                 merged_cluster["items"].extend(cluster_b["items"])
                 used_indices.add(j)
                 
