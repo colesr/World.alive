@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-13T09:49:56.441988+00:00",
-  "digest_words": 256,
+  "generated_at": "2026-06-14T10:19:08.155726+00:00",
+  "digest_words": 263,
   "clusters": [
     {
-      "headline": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "headline": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
       "countries": [
         "United States"
       ],
@@ -21,79 +21,100 @@
       ]
     },
     {
-      "headline": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
+      "headline": "British forces intercept Russian shadow fleet oil tanker attempting to cross English Channel",
       "countries": [
-        "Kenya"
+        "Russia",
+        "United Kingdom"
       ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on Tuesday, his mother says.",
-      "links": [
-        "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "England training equipment stolen ahead of squad\u2019s arrival in Kansas City",
-      "countries": [],
       "regions": [
         "Asia",
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "Local police say an investigation is under way over the possible theft of equipment which was arriving in Kansas City.",
+      "summary": "",
       "links": [
-        "https://www.aljazeera.com/sports/2026/6/13/england-training-equipment-stolen-ahead-of-squads-arrival-in-kansas-city?traffic_source=rss",
-        "https://www.channelnewsasia.com/sport/england-hit-training-kit-theft-ahead-kansas-city-arrival-6180946"
+        "https://www.channelnewsasia.com/world/biritish-forces-intercept-russia-oil-tanker-english-channe-6182226",
+        "https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel?traffic_source=rss"
       ]
     },
     {
-      "headline": "Norway: International law is worth defending, even when allies break it",
+      "headline": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing",
       "countries": [
-        "Norway"
+        "United States",
+        "Iran"
       ],
       "regions": [
+        "Americas",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Pakistan's prime minister, a key mediator in U.S.-Iran talks to end the war, said Saturday that a peace deal was closer \"than ever before,\" and could be finalized \"in the next 24 hours.\"",
+      "links": [
+        "https://www.npr.org/2026/06/13/nx-s1-5857149/trump-iran-war-peace-deal",
+        "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
+      "links": [
+        "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass",
+      "countries": [
+        "Australia",
+        "Turkey"
+      ],
+      "regions": [
+        "Asia",
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \nNorway: International law is worth defending, even when allies break it\n\n    \n    \n\n        \n    \n                International law should be defended even when the country's closest allies are the ones breaking it, said Norway's deputy foreign minister as Oslo reiterated its cond",
+      "summary": "Australia secure win in Group D courtesy of goals from Nestory Irankunda and Connor Metcalfe.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/norway-international-law-worth-defending-even-when-allies-break-it",
-        "https://www.middleeasteye.net/video/norway-international-law-worth-defending-even-when-allies-break-it"
+        "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass?traffic_source=rss",
+        "https://www.channelnewsasia.com/sport/australia-stun-turkey-defensive-masterclass-world-cup-6182241"
       ]
     },
     {
-      "headline": "South Africa trolled by African fans in wake of World Cup loss",
+      "headline": "Switzerland votes on right-wing bid to cap country\u2019s population",
       "countries": [
-        "South Africa"
+        "Switzerland"
+      ],
+      "regions": [
+        "Europe",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "A &#039;yes&#039; vote would force the government to restrict asylum, residency permits, and scrap EU deal on free movement.",
+      "links": [
+        "https://www.aljazeera.com/news/2026/6/14/switzerland-votes-on-right-wing-bid-to-cap-countrys-population?traffic_source=rss",
+        "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Kidnapped Nigerian retired general dies in captivity",
+      "countries": [
+        "Nigeria"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The taunting reflects anger from parts of the continent over reports of xenophobia in South Africa.",
+      "summary": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country.",
       "links": [
-        "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Switzerland to vote on plan to cap population at 10 million",
-      "countries": [
-        "Switzerland"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
-      "links": [
-        "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
-        "https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750?maca=en-rss-en-world-4025-rdf"
+        "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -121,57 +142,45 @@
       ]
     },
     {
-      "headline": "PSA pays fine over worker's death at Keppel Terminal in 2017, but appeals guilty verdict and sentence",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The deceased, 29-year-old technical specialist Lee Swee Loong,&nbsp;was crushed between&nbsp;a rope drum and a trolley platform while carrying out maintenance checks on a crane.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/psa-keppel-terminal-workplace-death-safety-fine-appeal-6180936"
-      ]
-    },
-    {
-      "headline": "'Never wanted a snap state election' in Negeri Sembilan, but no choice given BN's actions: Anwar",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Malaysia Prime Minister Anwar Ibrahim was speaking on Friday (Jun 12) night at the launch of his coalition's election campaign for the Negeri Sembilan state polls.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/anwar-ibrahim-negeri-sembilan-snap-state-election-no-choice-6180876"
-      ]
-    },
-    {
-      "headline": "Taiwan opposition leader seeks to ease Washington's concerns over China stance during US trip",
+      "headline": "Nigeria: Democracy Day - Tinubu Says Economic Reforms Restoring Stability, Pledges Greater Prosperity for Nigerians",
       "countries": [
-        "China"
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[This Day] President Bola Ahmed Tinubu on Friday defended his administration's economic reforms, saying they were necessary to rescue Nigeria from fiscal strain and lay the foundation for long-term prosperity.",
+      "links": [
+        "https://allafrica.com/stories/202606120152.html"
+      ]
+    },
+    {
+      "headline": "I-dle Syncopation Singapore concert: K-pop queens show off immense charisma, powerful vocals and a JJ Lin cover",
+      "countries": [
+        "Singapore"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Cheng Li-wun, chairwoman of the Kuomintang (KMT), has been on a two-week US trip following her April visit to China, where she met President Xi Jinping.",
+      "summary": "K-pop girl group I-dle staged the Singapore leg of their Syncopation tour on Saturday (Jun 13) at the Singapore Indoor Stadium.",
       "links": [
-        "https://www.channelnewsasia.com/east-asia/kmt-leader-cheng-li-wun-visit-us-taiwan-6180316"
+        "https://www.channelnewsasia.com/entertainment/i-dle-syncopation-singapore-concert-review-6181906"
       ]
     },
     {
-      "headline": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-      "countries": [
-        "Australia"
-      ],
+      "headline": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+      "countries": [],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
+      "summary": "A niche group of content creators called \"virtual parents\" have become hugely popular among young people.",
       "links": [
-        "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-13 (extractive mode)\n\n* US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says (BBC News, 3 outlets)\n* Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests (BBC News, 2 outlets)\n* England training equipment stolen ahead of squad\u2019s arrival in Kansas City (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Norway: International law is worth defending, even when allies break it (Section Feed, 2 outlets)\n* South Africa trolled by African fans in wake of World Cup loss (BBC News, 2 outlets)\n* Switzerland to vote on plan to cap population at 10 million (BBC News, 2 outlets)\n* Senegal: Institut Pasteur de Dakar Sequences the First Human Whole Genomes in the Country and Launches an Early Cancer Detection Platform (AllAfrica News: Latest, 1 outlets)\n* Fast-track border checks, return centers, 'mandatory solidarity': What the EU\u2019s new asylum rules could change \u2014 and what they may not. (World | Deutsche Welle, 1 outlets)\n* PSA pays fine over worker's death at Keppel Terminal in 2017, but appeals guilty verdict and sentence (Latest News, 1 outlets)\n* 'Never wanted a snap state election' in Negeri Sembilan, but no choice given BN's actions: Anwar (Latest News, 1 outlets)\n* Taiwan opposition leader seeks to ease Washington's concerns over China stance during US trip (Latest News, 1 outlets)\n* Married at First Sight Australia stars not told partners had drug and violence convictions (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-06-14 (extractive mode)\n\n* US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says (BBC News, 3 outlets)\n* British forces intercept Russian shadow fleet oil tanker attempting to cross English Channel (Latest News, 2 outlets)\n* Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing (NPR Topics: World, 2 outlets)\n* Author Chimamanda Adichie accuses hospital of stalling review into son's death (BBC News, 2 outlets)\n* 2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Switzerland votes on right-wing bid to cap country\u2019s population (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Kidnapped Nigerian retired general dies in captivity (BBC News, 2 outlets)\n* Senegal: Institut Pasteur de Dakar Sequences the First Human Whole Genomes in the Country and Launches an Early Cancer Detection Platform (AllAfrica News: Latest, 1 outlets)\n* Fast-track border checks, return centers, 'mandatory solidarity': What the EU\u2019s new asylum rules could change \u2014 and what they may not. (World | Deutsche Welle, 1 outlets)\n* Nigeria: Democracy Day - Tinubu Says Economic Reforms Restoring Stability, Pledges Greater Prosperity for Nigerians (AllAfrica News: Latest, 1 outlets)\n* I-dle Syncopation Singapore concert: K-pop queens show off immense charisma, powerful vocals and a JJ Lin cover (Latest News, 1 outlets)\n* Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online (BBC News, 1 outlets)"
 }
