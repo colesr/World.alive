@@ -1,162 +1,132 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-14T10:19:08.155726+00:00",
-  "digest_words": 263,
+  "generated_at": "2026-06-15T12:56:22.803132+00:00",
+  "digest_words": 242,
   "clusters": [
     {
-      "headline": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
+      "headline": "Britain will ban under-16s from social media apps, including TikTok and YouTube",
       "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Americas",
-        "Europe"
-      ],
-      "outlets": 3,
-      "summary": "Ni\u00f1o Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
-      "links": [
-        "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-        "https://www.npr.org/2026/06/12/nx-s1-5856611/u-s-military-kill-leader-tren-de-aragua",
-        "https://www.dw.com/en/us-venezuela-say-tren-de-aragua-leader-killed-in-strike/a-77534071?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "British forces intercept Russian shadow fleet oil tanker attempting to cross English Channel",
-      "countries": [
-        "Russia",
         "United Kingdom"
       ],
       "regions": [
-        "Asia",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/world/biritish-forces-intercept-russia-oil-tanker-english-channe-6182226",
-        "https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing",
-      "countries": [
-        "United States",
-        "Iran"
-      ],
-      "regions": [
         "Americas",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Pakistan's prime minister, a key mediator in U.S.-Iran talks to end the war, said Saturday that a peace deal was closer \"than ever before,\" and could be finalized \"in the next 24 hours.\"",
-      "links": [
-        "https://www.npr.org/2026/06/13/nx-s1-5857149/trump-iran-war-peace-deal",
-        "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
-      "links": [
-        "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass",
-      "countries": [
-        "Australia",
-        "Turkey"
-      ],
-      "regions": [
-        "Asia",
         "Middle East"
       ],
-      "outlets": 2,
-      "summary": "Australia secure win in Group D courtesy of goals from Nestory Irankunda and Connor Metcalfe.",
+      "outlets": 3,
+      "summary": "The ban will apply to platforms including Snapchat, TikTok, YouTube, Instagram, Facebook and X. The move makes the U.K. part of a growing global movement to tighten online safety for children.",
       "links": [
-        "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass?traffic_source=rss",
-        "https://www.channelnewsasia.com/sport/australia-stun-turkey-defensive-masterclass-world-cup-6182241"
+        "https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban",
+        "https://www.aljazeera.com/news/2026/6/15/britain-announces-sweeping-social-media-ban-for-under-16s?traffic_source=rss",
+        "https://www.aljazeera.com/video/newsfeed/2026/6/15/uk-announces-social-media-ban-for-under-16s?traffic_source=rss"
       ]
     },
     {
-      "headline": "Switzerland votes on right-wing bid to cap country\u2019s population",
+      "headline": "Swiss to vote on whether to cap population at 10 million",
       "countries": [
         "Switzerland"
       ],
       "regions": [
-        "Europe",
-        "Middle East"
+        "Europe"
       ],
-      "outlets": 2,
-      "summary": "A &#039;yes&#039; vote would force the government to restrict asylum, residency permits, and scrap EU deal on free movement.",
+      "outlets": 3,
+      "summary": "On June 14, Swiss voters will be able to decide on a far-right initiative to curb future immigration. What will it mean for the economy \u2014 and the country's European neighbors \u2014 if they approve the proposal?",
       "links": [
-        "https://www.aljazeera.com/news/2026/6/14/switzerland-votes-on-right-wing-bid-to-cap-countrys-population?traffic_source=rss",
-        "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss"
+        "https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750?maca=en-rss-en-world-4025-rdf",
+        "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/swiss-voters-reject-population-cap-proposal/a-77543868?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Kidnapped Nigerian retired general dies in captivity",
+      "headline": "South African TV star arrested after allegedly kidnapping man in girlfriend dispute",
       "countries": [
-        "Nigeria"
+        "South Africa"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country.",
+      "summary": "Molemo \"Jub Jub\" Maarohanye is accused of trapping a taxi driver in a car and firing a gun in the man's direction.",
       "links": [
-        "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Senegal: Institut Pasteur de Dakar Sequences the First Human Whole Genomes in the Country and Launches an Early Cancer Detection Platform",
+      "headline": "UK Court of Appeal upholds ban on Palestine Action as \u2018terrorist\u2019 group",
       "countries": [],
       "regions": [
-        "Africa"
+        "Middle East"
       ],
-      "outlets": 1,
-      "summary": "[Institut Pasteur de Dakar] First 40 human whole genomes sequenced using Illumina and Oxford Nanopore Technologies platforms Institut Pasteur de Dakar launches clinical laboratory and bioinformatics platform, enabling testing for predisposition to early-onset breast cancer in Senegal and other rare ",
+      "outlets": 2,
+      "summary": "Judge says the group&#039;s behaviour was not that of a non-violent, direct action organisation.",
       "links": [
-        "https://allafrica.com/stories/202606120473.html"
+        "https://www.aljazeera.com/news/2026/6/15/uk-court-says-proscribing-palestine-action-as-terrorist-group-was-lawful?traffic_source=rss",
+        "https://www.middleeasteye.net/news/uk-court-appeal-rules-favour-government-ban-palestine-action-uk-court-appeal-overturns"
       ]
     },
     {
-      "headline": "Fast-track border checks, return centers, 'mandatory solidarity': What the EU\u2019s new asylum rules could change \u2014 and what they may not.",
-      "countries": [],
+      "headline": "World Cup 2026: Spain vs Cape Verde prediction, schedules, latest news",
+      "countries": [
+        "Spain"
+      ],
       "regions": [
-        "Europe"
+        "Middle East"
       ],
-      "outlets": 1,
-      "summary": "Germany aims to further reduce the number of new asylum seekers. The reformed EU asylum law (CEAS) came into effect on Friday, but experts say it is unlikely to achieve all it sets out to do.",
+      "outlets": 2,
+      "summary": "Spain, Belgium, Uruguay and Iran begin their campaigns as off-field stories also shape the World Cup.",
       "links": [
-        "https://www.dw.com/en/fast-track-border-checks-return-centers-mandatory-solidarity-what-the-eu-s-new-asylum-rules-could-change-and-what-they-may-not/a-77508144?maca=en-rss-en-world-4025-rdf"
+        "https://www.aljazeera.com/sports/2026/6/15/world-cup-2026-spain-vs-cape-verde-prediction-schedules-latest-news?traffic_source=rss",
+        "https://www.aljazeera.com/sports/liveblog/2026/6/15/spain-vs-cape-verde-live-world-cup-2026?traffic_source=rss"
       ]
     },
     {
-      "headline": "Nigeria: Democracy Day - Tinubu Says Economic Reforms Restoring Stability, Pledges Greater Prosperity for Nigerians",
+      "headline": "Nigeria: Abducted Retired Major-General Abubakar Dies in Captivity",
       "countries": [
         "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
-      "outlets": 1,
-      "summary": "[This Day] President Bola Ahmed Tinubu on Friday defended his administration's economic reforms, saying they were necessary to rescue Nigeria from fiscal strain and lay the foundation for long-term prosperity.",
+      "outlets": 2,
+      "summary": "[This Day] Following the death of the former Director of Defence Information, Defence Headquarters (DHQ), Major General Rabe Abubakar (rtd.), in the den of bandits, the DHQ has reaffirmed its resolve to eradicate terrorism.",
       "links": [
-        "https://allafrica.com/stories/202606120152.html"
+        "https://allafrica.com/stories/202606150039.html",
+        "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "I-dle Syncopation Singapore concert: K-pop queens show off immense charisma, powerful vocals and a JJ Lin cover",
+      "headline": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+      "countries": [
+        "Russia",
+        "Ukraine"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
+      "links": [
+        "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/russia-strikes-leave-historic-kyiv-cathedral-in-flames/a-77551863?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Fifa to pay Somali referee Artan full World Cup fee",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
+      "links": [
+        "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "New Singapore Cruise Centre terminal at Harbourfront to open in July, ferry operators to move in 2 phases",
       "countries": [
         "Singapore"
       ],
@@ -164,23 +134,49 @@
         "Asia"
       ],
       "outlets": 1,
-      "summary": "K-pop girl group I-dle staged the Singapore leg of their Syncopation tour on Saturday (Jun 13) at the Singapore Indoor Stadium.",
+      "summary": "Travellers heading to Batam and other Indonesian destinations will need to use the new terminal from July. There will be no changes to ferry routes and schedules.",
       "links": [
-        "https://www.channelnewsasia.com/entertainment/i-dle-syncopation-singapore-concert-review-6181906"
+        "https://www.channelnewsasia.com/singapore/singapore-cruise-centre-harbourfront-terminal-ferry-services-batam-begin-july-6184396"
       ]
     },
     {
-      "headline": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+      "headline": "Zimbabwe: Zimbabwe Targets to Re-Enrol Out-of-School Learners After 40,000 Dropped Out in 2025 Alone",
       "countries": [],
       "regions": [
-        "Europe"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "A niche group of content creators called \"virtual parents\" have become hugely popular among young people.",
+      "summary": "[New Zimbabwe] Government has rolled out a programme to locate and return to class thousands of pupils who abandoned school last year, after data showed almost 40,000 learners exited the education system due to various hardships.",
       "links": [
-        "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202606150225.html"
+      ]
+    },
+    {
+      "headline": "South Africa: 1976 Student Uprising Leader Still Haunted By 'Rows of Bodies in the Mortuary'",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[GroundUp] Seth Mazibuko is part of a team heading the \"1976 at 50\" campaign to commemorate the day",
+      "links": [
+        "https://allafrica.com/stories/202606150226.html"
+      ]
+    },
+    {
+      "headline": "World Cup 2026: Saudi football's star-studded revolution has yet to lift the national team",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nWorld Cup 2026: Saudi football's star-studded revolution has yet to lift the national team\n\n    \n    \n\n          \n      \n      \n        Submitted by \nBassil Mikdadi\n on \nMon, 06/15/2026 - 07:55\n\n        \n      \n    \n      \n    \n                Three years after Cristiano Ronaldo's",
+      "links": [
+        "https://www.middleeasteye.net/news/world-cup-2026-saudi-arabia-star-studded-revolution-has-yet-lift-national-team"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-14 (extractive mode)\n\n* US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says (BBC News, 3 outlets)\n* British forces intercept Russian shadow fleet oil tanker attempting to cross English Channel (Latest News, 2 outlets)\n* Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing (NPR Topics: World, 2 outlets)\n* Author Chimamanda Adichie accuses hospital of stalling review into son's death (BBC News, 2 outlets)\n* 2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Switzerland votes on right-wing bid to cap country\u2019s population (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Kidnapped Nigerian retired general dies in captivity (BBC News, 2 outlets)\n* Senegal: Institut Pasteur de Dakar Sequences the First Human Whole Genomes in the Country and Launches an Early Cancer Detection Platform (AllAfrica News: Latest, 1 outlets)\n* Fast-track border checks, return centers, 'mandatory solidarity': What the EU\u2019s new asylum rules could change \u2014 and what they may not. (World | Deutsche Welle, 1 outlets)\n* Nigeria: Democracy Day - Tinubu Says Economic Reforms Restoring Stability, Pledges Greater Prosperity for Nigerians (AllAfrica News: Latest, 1 outlets)\n* I-dle Syncopation Singapore concert: K-pop queens show off immense charisma, powerful vocals and a JJ Lin cover (Latest News, 1 outlets)\n* Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-06-15 (extractive mode)\n\n* Britain will ban under-16s from social media apps, including TikTok and YouTube (NPR Topics: World, 3 outlets)\n* Swiss to vote on whether to cap population at 10 million (World | Deutsche Welle, 3 outlets)\n* South African TV star arrested after allegedly kidnapping man in girlfriend dispute (BBC News, 2 outlets)\n* UK Court of Appeal upholds ban on Palestine Action as \u2018terrorist\u2019 group (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* World Cup 2026: Spain vs Cape Verde prediction, schedules, latest news (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Nigeria: Abducted Retired Major-General Abubakar Dies in Captivity (AllAfrica News: Latest, 2 outlets)\n* Russian strikes kill 11 and set historic cathedral in Kyiv ablaze (BBC News, 2 outlets)\n* Fifa to pay Somali referee Artan full World Cup fee (BBC News, 2 outlets)\n* New Singapore Cruise Centre terminal at Harbourfront to open in July, ferry operators to move in 2 phases (Latest News, 1 outlets)\n* Zimbabwe: Zimbabwe Targets to Re-Enrol Out-of-School Learners After 40,000 Dropped Out in 2025 Alone (AllAfrica News: Latest, 1 outlets)\n* South Africa: 1976 Student Uprising Leader Still Haunted By 'Rows of Bodies in the Mortuary' (AllAfrica News: Latest, 1 outlets)\n* World Cup 2026: Saudi football's star-studded revolution has yet to lift the national team (Section Feed, 1 outlets)"
 }
