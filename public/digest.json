@@ -1,182 +1,172 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-15T12:56:22.803132+00:00",
-  "digest_words": 242,
+  "generated_at": "2026-06-16T12:01:16.078946+00:00",
+  "digest_words": 244,
   "clusters": [
     {
-      "headline": "Britain will ban under-16s from social media apps, including TikTok and YouTube",
+      "headline": "Trump warns \u2018all hell will rain down\u2019 if Iran tries to get a nuclear weapon",
       "countries": [
-        "United Kingdom"
+        "United States",
+        "Iran"
       ],
       "regions": [
-        "Americas",
         "Middle East"
       ],
-      "outlets": 3,
-      "summary": "The ban will apply to platforms including Snapchat, TikTok, YouTube, Instagram, Facebook and X. The move makes the U.K. part of a growing global movement to tighten online safety for children.",
+      "outlets": 2,
+      "summary": "US president also made unusually critical comments about Israel&#039;s military offensive in Lebanon.",
       "links": [
-        "https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban",
-        "https://www.aljazeera.com/news/2026/6/15/britain-announces-sweeping-social-media-ban-for-under-16s?traffic_source=rss",
-        "https://www.aljazeera.com/video/newsfeed/2026/6/15/uk-announces-social-media-ban-for-under-16s?traffic_source=rss"
+        "https://www.aljazeera.com/news/2026/6/16/trump-warns-all-hell-will-rain-down-if-iran-tries-to-get-a-nuclear-weapon?traffic_source=rss",
+        "https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-says-hell-will-rain-down-if-iran-gets-nuclear-weapons?traffic_source=rss"
       ]
     },
     {
-      "headline": "Swiss to vote on whether to cap population at 10 million",
-      "countries": [
-        "Switzerland"
-      ],
+      "headline": "Who is the Somali referee barred from entering the US for the World Cup?",
+      "countries": [],
       "regions": [
-        "Europe"
+        "Africa"
       ],
-      "outlets": 3,
-      "summary": "On June 14, Swiss voters will be able to decide on a far-right initiative to curb future immigration. What will it mean for the economy \u2014 and the country's European neighbors \u2014 if they approve the proposal?",
+      "outlets": 2,
+      "summary": "Omar Artan was set to become the first Somali to referee a game at the World Cup finals, but his place in history has been denied by US immigration authorities.",
       "links": [
-        "https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750?maca=en-rss-en-world-4025-rdf",
-        "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
-        "https://www.dw.com/en/swiss-voters-reject-population-cap-proposal/a-77543868?maca=en-rss-en-world-4025-rdf"
+        "https://www.bbc.com/news/articles/c8j27zkp94zo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "South African TV star arrested after allegedly kidnapping man in girlfriend dispute",
+      "headline": "Nigerian army frees widow of ex-general who died in captivity",
       "countries": [
-        "South Africa"
+        "Nigeria"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Molemo \"Jub Jub\" Maarohanye is accused of trapping a taxi driver in a car and firing a gun in the man's direction.",
+      "summary": "Maj Gen Rabe Abubakar and his wife Amina were abducted in north-west Nigeria at the end of last month.",
       "links": [
-        "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "UK Court of Appeal upholds ban on Palestine Action as \u2018terrorist\u2019 group",
+      "headline": "South African jazz legend Abdullah Ibrahim dies at 91",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 2,
+      "summary": "Ibrahim helped define a genre of South African jazz music in a career that spanned eight decades.",
+      "links": [
+        "https://www.bbc.com/news/articles/cy5vngrq3q5o?at_medium=RSS&at_campaign=rss",
+        "https://allafrica.com/stories/202606150554.html"
+      ]
+    },
+    {
+      "headline": "Tunisia sack head coach just one game into World Cup",
       "countries": [],
       "regions": [
-        "Middle East"
+        "Africa",
+        "Europe"
       ],
       "outlets": 2,
-      "summary": "Judge says the group&#039;s behaviour was not that of a non-violent, direct action organisation.",
+      "summary": "Tunisia sack Sabri Lamouchi one game into their World Cup, with former Morocco and Saudi Arabia manager Herve Renard replacing him.",
       "links": [
-        "https://www.aljazeera.com/news/2026/6/15/uk-court-says-proscribing-palestine-action-as-terrorist-group-was-lawful?traffic_source=rss",
-        "https://www.middleeasteye.net/news/uk-court-appeal-rules-favour-government-ban-palestine-action-uk-court-appeal-overturns"
+        "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "World Cup 2026: Spain vs Cape Verde prediction, schedules, latest news",
+      "headline": "South Africa: Ramaphosa Says He'll 'Suffer Irreparable Harm' If Impeachment Process Continues Before Court Review",
       "countries": [
-        "Spain"
+        "South Africa"
       ],
       "regions": [
-        "Middle East"
+        "Africa"
       ],
-      "outlets": 2,
-      "summary": "Spain, Belgium, Uruguay and Iran begin their campaigns as off-field stories also shape the World Cup.",
+      "outlets": 1,
+      "summary": "[Daily Maverick] As the EFF and ATM prepare to oppose President Cyril Ramaphosa's urgent bid to halt Parliament's Phala Phala impeachment inquiry, the President insists he had 'no option' but to approach the courts, arguing that the Constitutional Court ruling has revived a report that could ultimat",
       "links": [
-        "https://www.aljazeera.com/sports/2026/6/15/world-cup-2026-spain-vs-cape-verde-prediction-schedules-latest-news?traffic_source=rss",
-        "https://www.aljazeera.com/sports/liveblog/2026/6/15/spain-vs-cape-verde-live-world-cup-2026?traffic_source=rss"
+        "https://allafrica.com/stories/202606160180.html"
       ]
     },
     {
-      "headline": "Nigeria: Abducted Retired Major-General Abubakar Dies in Captivity",
+      "headline": "\u2018Critical\u2019 with RTS Link launch: Johor\u2019s caretaker chief minister calls on Putrajaya to expedite ART rail plan",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Onn Hafiz Ghazi made the call on Johor's elevated Autonomous Rapid Transit (ART) project at an event on Tuesday (Jun 16) attended by Transport Minister Anthony Loke.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/malaysia-johor-onn-hafiz-anthony-loke-art-rail-project-6186916"
+      ]
+    },
+    {
+      "headline": "Africa: From World Cup Inspiration to World Cup Hero - the Extraordinary Story Behind Cape Verde's Vozinha",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[CAF] Cape Verde's historic FIFA World Cup debut against Spain produced many memorable moments, but perhaps none captured the imagination quite like the performance of veteran goalkeeper Vozinha.",
+      "links": [
+        "https://allafrica.com/stories/202606160248.html"
+      ]
+    },
+    {
+      "headline": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Shabelle] Jeddah -- The Organization of Islamic Cooperation (OIC) on Tuesday strongly condemned the opening of what it described as a \"Somaliland embassy\" in occupied Jerusalem, calling the move illegal and a clear violation of international law and the United Nations Charter.",
+      "links": [
+        "https://allafrica.com/stories/202606160221.html"
+      ]
+    },
+    {
+      "headline": "Nigeria: Exclusive - How General Rabe Abubakar's Body Was Recovered After Death in Captivity",
       "countries": [
         "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
-      "outlets": 2,
-      "summary": "[This Day] Following the death of the former Director of Defence Information, Defence Headquarters (DHQ), Major General Rabe Abubakar (rtd.), in the den of bandits, the DHQ has reaffirmed its resolve to eradicate terrorism.",
+      "outlets": 1,
+      "summary": "[Premium Times] A security source contradicts the initial account of how General Rabe Abubakar's body was recovered after he died in captivity",
       "links": [
-        "https://allafrica.com/stories/202606150039.html",
-        "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202606160015.html"
       ]
     },
     {
-      "headline": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-      "countries": [
-        "Russia",
-        "Ukraine"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
-      "links": [
-        "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-        "https://www.dw.com/en/russia-strikes-leave-historic-kyiv-cathedral-in-flames/a-77551863?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Fifa to pay Somali referee Artan full World Cup fee",
+      "headline": "California's Gavin Newsom alleges justice department is investigating his wife and ex-staff",
       "countries": [],
       "regions": [
-        "Africa",
         "Europe"
       ],
-      "outlets": 2,
-      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
-      "links": [
-        "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "New Singapore Cruise Centre terminal at Harbourfront to open in July, ferry operators to move in 2 phases",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
       "outlets": 1,
-      "summary": "Travellers heading to Batam and other Indonesian destinations will need to use the new terminal from July. There will be no changes to ferry routes and schedules.",
+      "summary": "A source familiar with the investigations says they had been ongoing for \"roughly a year\".",
       "links": [
-        "https://www.channelnewsasia.com/singapore/singapore-cruise-centre-harbourfront-terminal-ferry-services-batam-begin-july-6184396"
+        "https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Zimbabwe: Zimbabwe Targets to Re-Enrol Out-of-School Learners After 40,000 Dropped Out in 2025 Alone",
+      "headline": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[New Zimbabwe] Government has rolled out a programme to locate and return to class thousands of pupils who abandoned school last year, after data showed almost 40,000 learners exited the education system due to various hardships.",
+      "summary": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
       "links": [
-        "https://allafrica.com/stories/202606150225.html"
-      ]
-    },
-    {
-      "headline": "South Africa: 1976 Student Uprising Leader Still Haunted By 'Rows of Bodies in the Mortuary'",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[GroundUp] Seth Mazibuko is part of a team heading the \"1976 at 50\" campaign to commemorate the day",
-      "links": [
-        "https://allafrica.com/stories/202606150226.html"
-      ]
-    },
-    {
-      "headline": "World Cup 2026: Saudi football's star-studded revolution has yet to lift the national team",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nWorld Cup 2026: Saudi football's star-studded revolution has yet to lift the national team\n\n    \n    \n\n          \n      \n      \n        Submitted by \nBassil Mikdadi\n on \nMon, 06/15/2026 - 07:55\n\n        \n      \n    \n      \n    \n                Three years after Cristiano Ronaldo's",
-      "links": [
-        "https://www.middleeasteye.net/news/world-cup-2026-saudi-arabia-star-studded-revolution-has-yet-lift-national-team"
+        "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-15 (extractive mode)\n\n* Britain will ban under-16s from social media apps, including TikTok and YouTube (NPR Topics: World, 3 outlets)\n* Swiss to vote on whether to cap population at 10 million (World | Deutsche Welle, 3 outlets)\n* South African TV star arrested after allegedly kidnapping man in girlfriend dispute (BBC News, 2 outlets)\n* UK Court of Appeal upholds ban on Palestine Action as \u2018terrorist\u2019 group (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* World Cup 2026: Spain vs Cape Verde prediction, schedules, latest news (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Nigeria: Abducted Retired Major-General Abubakar Dies in Captivity (AllAfrica News: Latest, 2 outlets)\n* Russian strikes kill 11 and set historic cathedral in Kyiv ablaze (BBC News, 2 outlets)\n* Fifa to pay Somali referee Artan full World Cup fee (BBC News, 2 outlets)\n* New Singapore Cruise Centre terminal at Harbourfront to open in July, ferry operators to move in 2 phases (Latest News, 1 outlets)\n* Zimbabwe: Zimbabwe Targets to Re-Enrol Out-of-School Learners After 40,000 Dropped Out in 2025 Alone (AllAfrica News: Latest, 1 outlets)\n* South Africa: 1976 Student Uprising Leader Still Haunted By 'Rows of Bodies in the Mortuary' (AllAfrica News: Latest, 1 outlets)\n* World Cup 2026: Saudi football's star-studded revolution has yet to lift the national team (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-06-16 (extractive mode)\n\n* Trump warns \u2018all hell will rain down\u2019 if Iran tries to get a nuclear weapon (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Who is the Somali referee barred from entering the US for the World Cup? (BBC News, 2 outlets)\n* Nigerian army frees widow of ex-general who died in captivity (BBC News, 2 outlets)\n* South African jazz legend Abdullah Ibrahim dies at 91 (BBC News, 2 outlets)\n* Tunisia sack head coach just one game into World Cup (BBC News, 2 outlets)\n* South Africa: Ramaphosa Says He'll 'Suffer Irreparable Harm' If Impeachment Process Continues Before Court Review (AllAfrica News: Latest, 1 outlets)\n* \u2018Critical\u2019 with RTS Link launch: Johor\u2019s caretaker chief minister calls on Putrajaya to expedite ART rail plan (Latest News, 1 outlets)\n* Africa: From World Cup Inspiration to World Cup Hero - the Extraordinary Story Behind Cape Verde's Vozinha (AllAfrica News: Latest, 1 outlets)\n* Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Exclusive - How General Rabe Abubakar's Body Was Recovered After Death in Captivity (AllAfrica News: Latest, 1 outlets)\n* California's Gavin Newsom alleges justice department is investigating his wife and ex-staff (BBC News, 1 outlets)\n* 'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia (BBC News, 1 outlets)"
 }
