@@ -1,136 +1,123 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-16T12:01:16.078946+00:00",
-  "digest_words": 244,
+  "generated_at": "2026-06-17T11:27:07.228452+00:00",
+  "digest_words": 230,
   "clusters": [
     {
-      "headline": "Trump warns \u2018all hell will rain down\u2019 if Iran tries to get a nuclear weapon",
+      "headline": "'They're not all Hezbollah': Trump criticises Israel killing civilians in Lebanon",
       "countries": [
         "United States",
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \n'They're not all Hezbollah': Trump criticises Israel killing civilians in Lebanon\n\n    \n    \n\n        \n    \n                US&nbsp;President Donald Trump has criticised&nbsp;Israeli&nbsp;conduct in southern&nbsp;Lebanon, saying the country has been killing civilians and not just ",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/theyre-not-all-hezbollah-trump-criticises-israel-killing-civilians",
+        "https://www.middleeasteye.net/news/not-hezbollah-trump-criticises-israel-killing-civilians-southern-lebanon"
+      ]
+    },
+    {
+      "headline": "'They came with machetes' - deadline looms for migrants to leave South Africa",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Protesters have set 30 June as the date for all undocumented migrants to leave the country.",
+      "links": [
+        "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Equatorial Guinea government resigns after failing to meet targets",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The vice-president says the government had barely reached 10% of its targets, without specifying them.",
+      "links": [
+        "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Iran team blames US for 'disastrous' restrictions at World Cup",
+      "countries": [
         "Iran"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "US president also made unusually critical comments about Israel&#039;s military offensive in Lebanon.",
+      "summary": "\n\n  \n      \n      \nIran team blames US for 'disastrous' restrictions at World Cup\n\n    \n    \n\n        \n    \n                Iranian&nbsp;football players have voiced frustration over recurring&nbsp;World Cup&nbsp;hurdles against their participation in the tournament, pointing to politically driven d",
       "links": [
-        "https://www.aljazeera.com/news/2026/6/16/trump-warns-all-hell-will-rain-down-if-iran-tries-to-get-a-nuclear-weapon?traffic_source=rss",
-        "https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-says-hell-will-rain-down-if-iran-gets-nuclear-weapons?traffic_source=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/iran-team-blames-us-disastrous-restrictions-world-cup",
+        "https://www.middleeasteye.net/news/iran-team-blames-us-disastrous-restrictions-world-cup"
       ]
     },
     {
-      "headline": "Who is the Somali referee barred from entering the US for the World Cup?",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 2,
-      "summary": "Omar Artan was set to become the first Somali to referee a game at the World Cup finals, but his place in history has been denied by US immigration authorities.",
-      "links": [
-        "https://www.bbc.com/news/articles/c8j27zkp94zo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Nigerian army frees widow of ex-general who died in captivity",
+      "headline": "'Unprecedented' AI buildout drove Singapore's sharpest non-oil exports surge in over two decades: Analysts",
       "countries": [
-        "Nigeria"
+        "Singapore"
       ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Maj Gen Rabe Abubakar and his wife Amina were abducted in north-west Nigeria at the end of last month.",
-      "links": [
-        "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "South African jazz legend Abdullah Ibrahim dies at 91",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 2,
-      "summary": "Ibrahim helped define a genre of South African jazz music in a career that spanned eight decades.",
-      "links": [
-        "https://www.bbc.com/news/articles/cy5vngrq3q5o?at_medium=RSS&at_campaign=rss",
-        "https://allafrica.com/stories/202606150554.html"
-      ]
-    },
-    {
-      "headline": "Tunisia sack head coach just one game into World Cup",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Tunisia sack Sabri Lamouchi one game into their World Cup, with former Morocco and Saudi Arabia manager Herve Renard replacing him.",
-      "links": [
-        "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "South Africa: Ramaphosa Says He'll 'Suffer Irreparable Harm' If Impeachment Process Continues Before Court Review",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Daily Maverick] As the EFF and ATM prepare to oppose President Cyril Ramaphosa's urgent bid to halt Parliament's Phala Phala impeachment inquiry, the President insists he had 'no option' but to approach the courts, arguing that the Constitutional Court ruling has revived a report that could ultimat",
-      "links": [
-        "https://allafrica.com/stories/202606160180.html"
-      ]
-    },
-    {
-      "headline": "\u2018Critical\u2019 with RTS Link launch: Johor\u2019s caretaker chief minister calls on Putrajaya to expedite ART rail plan",
-      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Onn Hafiz Ghazi made the call on Johor's elevated Autonomous Rapid Transit (ART) project at an event on Tuesday (Jun 16) attended by Transport Minister Anthony Loke.",
+      "summary": "Electronics exports nearly doubled in May, with analysts pointing to a concentrated surge in hyperscaler capital spending as the primary driver.&nbsp;",
       "links": [
-        "https://www.channelnewsasia.com/asia/malaysia-johor-onn-hafiz-anthony-loke-art-rail-project-6186916"
+        "https://www.channelnewsasia.com/singapore/ai-exports-artificial-intelligence-infrastructure-6190011"
       ]
     },
     {
-      "headline": "Africa: From World Cup Inspiration to World Cup Hero - the Extraordinary Story Behind Cape Verde's Vozinha",
+      "headline": "Africa: AllAfrica and OviBees Ventures Partner to Bring Corridor Intelligence to Africa's Decision-Makers",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[CAF] Cape Verde's historic FIFA World Cup debut against Spain produced many memorable moments, but perhaps none captured the imagination quite like the performance of veteran goalkeeper Vozinha.",
+      "summary": "[allAfrica] The RootsToFoods Capital Series -- mapping the corridors between Africa and global capital -- will now reach policymakers, institutional investors, Family offices, and philanthropic leaders across the continent through AllAfrica's platform, social channels, and wholesale distribution pip",
       "links": [
-        "https://allafrica.com/stories/202606160248.html"
+        "https://allafrica.com/stories/202606160543.html"
       ]
     },
     {
-      "headline": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia",
+      "headline": "Kenya: The Algorithm Will See You Now - Deepfake Doctors and the Commodification of Care in Kenya",
       "countries": [
-        "Israel"
+        "Kenya"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Shabelle] Jeddah -- The Organization of Islamic Cooperation (OIC) on Tuesday strongly condemned the opening of what it described as a \"Somaliland embassy\" in occupied Jerusalem, calling the move illegal and a clear violation of international law and the United Nations Charter.",
+      "summary": "[African Arguments] A few months ago, I was scrolling through TikTok when I came across a video. In a brightly lit room with brown d&#xe9;cor, a doctor in a checkered shirt was discussing PCOS, a common condition that affects many women globally. As he shared medical insights and opinions, he repeat",
       "links": [
-        "https://allafrica.com/stories/202606160221.html"
+        "https://allafrica.com/stories/202606170033.html"
       ]
     },
     {
-      "headline": "Nigeria: Exclusive - How General Rabe Abubakar's Body Was Recovered After Death in Captivity",
+      "headline": "Congo-Kinshasa: 'Some Question If Ebola Is Real' - How Trust Is Central in Fighting DRC Outbreak",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[UN News] In Ebola-stricken Democratic Republic of the Congo (DRC), winning the race against the disease requires earning the community's trust first and foremost, humanitarians said on Tuesday.",
+      "links": [
+        "https://allafrica.com/stories/202606170042.html"
+      ]
+    },
+    {
+      "headline": "Nigeria: Nigeria's Major Opposition Parties Are in Crisis. Can They Mount Formidable Challenge?",
       "countries": [
         "Nigeria"
       ],
@@ -138,35 +125,51 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Premium Times] A security source contradicts the initial account of how General Rabe Abubakar's body was recovered after he died in captivity",
+      "summary": "[Premium Times] At the heart of the crises facing the opposition parties is their inability to conduct credible primaries in many states as well as lingering court disputes, especially for the ADC.",
       "links": [
-        "https://allafrica.com/stories/202606160015.html"
+        "https://allafrica.com/stories/202606160413.html"
       ]
     },
     {
-      "headline": "California's Gavin Newsom alleges justice department is investigating his wife and ex-staff",
-      "countries": [],
+      "headline": "Inclusive playground opens in Tampines, featuring Singapore's first slide for wheelchair users",
+      "countries": [
+        "Singapore"
+      ],
       "regions": [
-        "Europe"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "A source familiar with the investigations says they had been ongoing for \"roughly a year\".",
+      "summary": "The Magical Bridge Playground at Sun Plaza Park is designed for people of all abilities, offering barrier-free access, quiet corners and a sensory garden, to ensure that no one is left out of play.",
       "links": [
-        "https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/singapore/magical-bridge-playground-slide-tampines-sun-plaza-park-inclusive-disabilities-wheelchair-users-6189601"
       ]
     },
     {
-      "headline": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
-      "countries": [],
+      "headline": "Kenya: 'We Only Have One Ocean' - Kenya's 'Mother Mangrove' Calls for Urgent Ocean Protection",
+      "countries": [
+        "Kenya"
+      ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
+      "summary": "[allAfrica] Mombasa, Kenya -- In Kenya, community conservationists are leading the charge to restore carbon-rich mangroves. Zulfa Hassan has inspired women to rehabilitate damaged mangrove forest ecosystems, restoring marine life and securing livelihoods.",
       "links": [
-        "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202606170002.html"
+      ]
+    },
+    {
+      "headline": "In Albania, anger grows against the government for supporting a Kushner-linked luxury resort",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Albania's government has given preliminary approval to plans for the luxury resort along a stretch of coastline, prompting daily protests and legal challenges by environmental groups.",
+      "links": [
+        "https://www.npr.org/2026/06/16/g-s1-128162/albania-resort-protests-kushner-trump"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-16 (extractive mode)\n\n* Trump warns \u2018all hell will rain down\u2019 if Iran tries to get a nuclear weapon (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Who is the Somali referee barred from entering the US for the World Cup? (BBC News, 2 outlets)\n* Nigerian army frees widow of ex-general who died in captivity (BBC News, 2 outlets)\n* South African jazz legend Abdullah Ibrahim dies at 91 (BBC News, 2 outlets)\n* Tunisia sack head coach just one game into World Cup (BBC News, 2 outlets)\n* South Africa: Ramaphosa Says He'll 'Suffer Irreparable Harm' If Impeachment Process Continues Before Court Review (AllAfrica News: Latest, 1 outlets)\n* \u2018Critical\u2019 with RTS Link launch: Johor\u2019s caretaker chief minister calls on Putrajaya to expedite ART rail plan (Latest News, 1 outlets)\n* Africa: From World Cup Inspiration to World Cup Hero - the Extraordinary Story Behind Cape Verde's Vozinha (AllAfrica News: Latest, 1 outlets)\n* Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Exclusive - How General Rabe Abubakar's Body Was Recovered After Death in Captivity (AllAfrica News: Latest, 1 outlets)\n* California's Gavin Newsom alleges justice department is investigating his wife and ex-staff (BBC News, 1 outlets)\n* 'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-06-17 (extractive mode)\n\n* 'They're not all Hezbollah': Trump criticises Israel killing civilians in Lebanon (Section Feed, 2 outlets)\n* 'They came with machetes' - deadline looms for migrants to leave South Africa (BBC News, 2 outlets)\n* Equatorial Guinea government resigns after failing to meet targets (BBC News, 2 outlets)\n* Iran team blames US for 'disastrous' restrictions at World Cup (Section Feed, 2 outlets)\n* 'Unprecedented' AI buildout drove Singapore's sharpest non-oil exports surge in over two decades: Analysts (Latest News, 1 outlets)\n* Africa: AllAfrica and OviBees Ventures Partner to Bring Corridor Intelligence to Africa's Decision-Makers (AllAfrica News: Latest, 1 outlets)\n* Kenya: The Algorithm Will See You Now - Deepfake Doctors and the Commodification of Care in Kenya (AllAfrica News: Latest, 1 outlets)\n* Congo-Kinshasa: 'Some Question If Ebola Is Real' - How Trust Is Central in Fighting DRC Outbreak (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Nigeria's Major Opposition Parties Are in Crisis. Can They Mount Formidable Challenge? (AllAfrica News: Latest, 1 outlets)\n* Inclusive playground opens in Tampines, featuring Singapore's first slide for wheelchair users (Latest News, 1 outlets)\n* Kenya: 'We Only Have One Ocean' - Kenya's 'Mother Mangrove' Calls for Urgent Ocean Protection (AllAfrica News: Latest, 1 outlets)\n* In Albania, anger grows against the government for supporting a Kushner-linked luxury resort (NPR Topics: World, 1 outlets)"
 }
