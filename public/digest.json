@@ -1,71 +1,151 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-17T11:27:07.228452+00:00",
-  "digest_words": 230,
+  "generated_at": "2026-06-18T11:04:33.218306+00:00",
+  "digest_words": 244,
   "clusters": [
     {
-      "headline": "'They're not all Hezbollah': Trump criticises Israel killing civilians in Lebanon",
+      "headline": "Hegseth announces in Brussels a review of U.S. forces in Europe, and a 'NATO 3.0'",
       "countries": [
-        "United States",
-        "Israel"
+        "United States"
       ],
       "regions": [
+        "Americas",
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \n'They're not all Hezbollah': Trump criticises Israel killing civilians in Lebanon\n\n    \n    \n\n        \n    \n                US&nbsp;President Donald Trump has criticised&nbsp;Israeli&nbsp;conduct in southern&nbsp;Lebanon, saying the country has been killing civilians and not just ",
+      "summary": "U.S. Defense Secretary Pete Hegseth lashed out at NATO allies on Thursday, announcing a review of American forces in Europe, and calling for a reboot of the organization to turn it into a \"NATO 3.0.\"",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/theyre-not-all-hezbollah-trump-criticises-israel-killing-civilians",
-        "https://www.middleeasteye.net/news/not-hezbollah-trump-criticises-israel-killing-civilians-southern-lebanon"
+        "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-announces-review-us-troop-deployment-europe"
       ]
     },
     {
-      "headline": "'They came with machetes' - deadline looms for migrants to leave South Africa",
+      "headline": "Talks on implementing US-Iran deal still planned in Switzerland on Friday: Bern",
+      "countries": [
+        "Iran",
+        "Switzerland"
+      ],
+      "regions": [
+        "Asia",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/world/switzerland-talks-implementing-us-iran-deal-6193006",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/switzerland-says-us-iran-talks-planned-friday"
+      ]
+    },
+    {
+      "headline": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+      "links": [
+        "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Lawyer in high-profile Ugandan treason case charged with related offence",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Uganda's military chief had boasted of \"the hurt and pain\" he would inflict on Erias Lukwago, who was arrested earlier this week.",
+      "links": [
+        "https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Gunfire and explosions heard at Niger capital's airport",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "links": [
+        "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "South Africa: Xenophobia in South Africa - State's Complicity With Gangs and Vigilantes Is Threatening Its Ability to Govern",
       "countries": [
         "South Africa"
       ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Africa"
       ],
-      "outlets": 2,
-      "summary": "Protesters have set 30 June as the date for all undocumented migrants to leave the country.",
+      "outlets": 1,
+      "summary": "[The Conversation Africa] Marches, Mozambicans murdered, state-sponsored evacuations, a nationally televised presidential address. Anti-immigrant mobilisation has again drawn the world's attention to South Africa. The continental backlash threatens tourism, trade, diplomacy and investment opportunit",
       "links": [
-        "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202606180036.html"
       ]
     },
     {
-      "headline": "Equatorial Guinea government resigns after failing to meet targets",
+      "headline": "South Africa: Old Video Falsely Linked to Xenophobic Attacks in South Africa Was Filmed Months Earlier in Another Province",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Africa Check] Old video falsely linked to xenophobic attacks in South Africa was filmed months earlier in another province",
+      "links": [
+        "https://allafrica.com/stories/202606180013.html"
+      ]
+    },
+    {
+      "headline": "Sudan: MSF Sacks 18 Staff in Eastern Chad for Sexual Exploitation of Sudanese Women and Underage Girls",
       "countries": [],
       "regions": [
-        "Africa",
-        "Europe"
+        "Africa"
       ],
-      "outlets": 2,
-      "summary": "The vice-president says the government had barely reached 10% of its targets, without specifying them.",
+      "outlets": 1,
+      "summary": "[Dabanga] El Tina, Eastern Chad / Amsterdam -- The medical NGO M&#xe9;decins Sans Fronti&#xe8;res (MSF) has confirmed that 18 members of its staff in eastern Chad have been dismissed for serious misconduct, \"and are now barred from working with MSF\", after \"serious allegations of sexual exploitation",
       "links": [
-        "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202606180031.html"
       ]
     },
     {
-      "headline": "Iran team blames US for 'disastrous' restrictions at World Cup",
+      "headline": "Africa: Money, Food and Survival - What Drives Paid Sex Among Young Mums in 3 African Countries",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[The Conversation Africa] Transactional sex, defined as the exchange of sex for money, food, or favours, is common among young people in Africa. Studies have reported that about 10% of those aged 15-24 have engaged in this exchange in South Africa, 23% in Nigeria and 25% in Uganda. The behaviour has",
+      "links": [
+        "https://allafrica.com/stories/202606180039.html"
+      ]
+    },
+    {
+      "headline": "China unveils white paper on global governance, calls for stronger Global South representation",
       "countries": [
-        "Iran"
+        "China"
       ],
       "regions": [
-        "Middle East"
+        "Asia"
       ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIran team blames US for 'disastrous' restrictions at World Cup\n\n    \n    \n\n        \n    \n                Iranian&nbsp;football players have voiced frustration over recurring&nbsp;World Cup&nbsp;hurdles against their participation in the tournament, pointing to politically driven d",
+      "outlets": 1,
+      "summary": "This comes as Beijing seeks to position itself as a champion of multilateralism amid growing geopolitical tensions.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/iran-team-blames-us-disastrous-restrictions-world-cup",
-        "https://www.middleeasteye.net/news/iran-team-blames-us-disastrous-restrictions-world-cup"
+        "https://www.channelnewsasia.com/east-asia/china-global-governance-white-paper-greater-voice-global-south-6192596"
       ]
     },
     {
-      "headline": "'Unprecedented' AI buildout drove Singapore's sharpest non-oil exports surge in over two decades: Analysts",
+      "headline": "Singapore regains top spot in competitiveness ranking; Asian economies put up strong showing",
       "countries": [
         "Singapore"
       ],
@@ -73,103 +153,23 @@
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Electronics exports nearly doubled in May, with analysts pointing to a concentrated surge in hyperscaler capital spending as the primary driver.&nbsp;",
+      "summary": "Hong Kong came in second and Taiwan was fourth in IMD\u2019s World Competitiveness Rankings this year.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/ai-exports-artificial-intelligence-infrastructure-6190011"
+        "https://www.channelnewsasia.com/singapore/top-imd-competitiveness-ranking-business-efficiency-6192786"
       ]
     },
     {
-      "headline": "Africa: AllAfrica and OviBees Ventures Partner to Bring Corridor Intelligence to Africa's Decision-Makers",
+      "headline": "The designer behind DR Congo's World Cup suit: 'I wanted to change people's views on Africa'",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica] The RootsToFoods Capital Series -- mapping the corridors between Africa and global capital -- will now reach policymakers, institutional investors, Family offices, and philanthropic leaders across the continent through AllAfrica's platform, social channels, and wholesale distribution pip",
+      "summary": "Alvin Junior Mak explains the inspiration behind the stylish suits he designed for DR Congo's World Cup team.",
       "links": [
-        "https://allafrica.com/stories/202606160543.html"
-      ]
-    },
-    {
-      "headline": "Kenya: The Algorithm Will See You Now - Deepfake Doctors and the Commodification of Care in Kenya",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[African Arguments] A few months ago, I was scrolling through TikTok when I came across a video. In a brightly lit room with brown d&#xe9;cor, a doctor in a checkered shirt was discussing PCOS, a common condition that affects many women globally. As he shared medical insights and opinions, he repeat",
-      "links": [
-        "https://allafrica.com/stories/202606170033.html"
-      ]
-    },
-    {
-      "headline": "Congo-Kinshasa: 'Some Question If Ebola Is Real' - How Trust Is Central in Fighting DRC Outbreak",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[UN News] In Ebola-stricken Democratic Republic of the Congo (DRC), winning the race against the disease requires earning the community's trust first and foremost, humanitarians said on Tuesday.",
-      "links": [
-        "https://allafrica.com/stories/202606170042.html"
-      ]
-    },
-    {
-      "headline": "Nigeria: Nigeria's Major Opposition Parties Are in Crisis. Can They Mount Formidable Challenge?",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Premium Times] At the heart of the crises facing the opposition parties is their inability to conduct credible primaries in many states as well as lingering court disputes, especially for the ADC.",
-      "links": [
-        "https://allafrica.com/stories/202606160413.html"
-      ]
-    },
-    {
-      "headline": "Inclusive playground opens in Tampines, featuring Singapore's first slide for wheelchair users",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The Magical Bridge Playground at Sun Plaza Park is designed for people of all abilities, offering barrier-free access, quiet corners and a sensory garden, to ensure that no one is left out of play.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/magical-bridge-playground-slide-tampines-sun-plaza-park-inclusive-disabilities-wheelchair-users-6189601"
-      ]
-    },
-    {
-      "headline": "Kenya: 'We Only Have One Ocean' - Kenya's 'Mother Mangrove' Calls for Urgent Ocean Protection",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica] Mombasa, Kenya -- In Kenya, community conservationists are leading the charge to restore carbon-rich mangroves. Zulfa Hassan has inspired women to rehabilitate damaged mangrove forest ecosystems, restoring marine life and securing livelihoods.",
-      "links": [
-        "https://allafrica.com/stories/202606170002.html"
-      ]
-    },
-    {
-      "headline": "In Albania, anger grows against the government for supporting a Kushner-linked luxury resort",
-      "countries": [],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Albania's government has given preliminary approval to plans for the luxury resort along a stretch of coastline, prompting daily protests and legal challenges by environmental groups.",
-      "links": [
-        "https://www.npr.org/2026/06/16/g-s1-128162/albania-resort-protests-kushner-trump"
+        "https://www.bbc.com/news/videos/crkvxp731e2o?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-17 (extractive mode)\n\n* 'They're not all Hezbollah': Trump criticises Israel killing civilians in Lebanon (Section Feed, 2 outlets)\n* 'They came with machetes' - deadline looms for migrants to leave South Africa (BBC News, 2 outlets)\n* Equatorial Guinea government resigns after failing to meet targets (BBC News, 2 outlets)\n* Iran team blames US for 'disastrous' restrictions at World Cup (Section Feed, 2 outlets)\n* 'Unprecedented' AI buildout drove Singapore's sharpest non-oil exports surge in over two decades: Analysts (Latest News, 1 outlets)\n* Africa: AllAfrica and OviBees Ventures Partner to Bring Corridor Intelligence to Africa's Decision-Makers (AllAfrica News: Latest, 1 outlets)\n* Kenya: The Algorithm Will See You Now - Deepfake Doctors and the Commodification of Care in Kenya (AllAfrica News: Latest, 1 outlets)\n* Congo-Kinshasa: 'Some Question If Ebola Is Real' - How Trust Is Central in Fighting DRC Outbreak (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Nigeria's Major Opposition Parties Are in Crisis. Can They Mount Formidable Challenge? (AllAfrica News: Latest, 1 outlets)\n* Inclusive playground opens in Tampines, featuring Singapore's first slide for wheelchair users (Latest News, 1 outlets)\n* Kenya: 'We Only Have One Ocean' - Kenya's 'Mother Mangrove' Calls for Urgent Ocean Protection (AllAfrica News: Latest, 1 outlets)\n* In Albania, anger grows against the government for supporting a Kushner-linked luxury resort (NPR Topics: World, 1 outlets)"
+  "narrative": "State of the World - 2026-06-18 (extractive mode)\n\n* Hegseth announces in Brussels a review of U.S. forces in Europe, and a 'NATO 3.0' (NPR Topics: World, 2 outlets)\n* Talks on implementing US-Iran deal still planned in Switzerland on Friday: Bern (Latest News, 2 outlets)\n* Search for six-year-old Ebola patient after armed men storm DR Congo hospital (BBC News, 2 outlets)\n* Lawyer in high-profile Ugandan treason case charged with related offence (BBC News, 2 outlets)\n* Gunfire and explosions heard at Niger capital's airport (BBC News, 2 outlets)\n* South Africa: Xenophobia in South Africa - State's Complicity With Gangs and Vigilantes Is Threatening Its Ability to Govern (AllAfrica News: Latest, 1 outlets)\n* South Africa: Old Video Falsely Linked to Xenophobic Attacks in South Africa Was Filmed Months Earlier in Another Province (AllAfrica News: Latest, 1 outlets)\n* Sudan: MSF Sacks 18 Staff in Eastern Chad for Sexual Exploitation of Sudanese Women and Underage Girls (AllAfrica News: Latest, 1 outlets)\n* Africa: Money, Food and Survival - What Drives Paid Sex Among Young Mums in 3 African Countries (AllAfrica News: Latest, 1 outlets)\n* China unveils white paper on global governance, calls for stronger Global South representation (Latest News, 1 outlets)\n* Singapore regains top spot in competitiveness ranking; Asian economies put up strong showing (Latest News, 1 outlets)\n* The designer behind DR Congo's World Cup suit: 'I wanted to change people's views on Africa' (BBC News, 1 outlets)"
 }
