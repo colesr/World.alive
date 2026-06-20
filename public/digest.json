@@ -1,79 +1,98 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-19T11:12:11.582709+00:00",
-  "digest_words": 246,
+  "generated_at": "2026-06-20T09:57:01.372875+00:00",
+  "digest_words": 220,
   "clusters": [
     {
-      "headline": "Iran football federation to lodge complaint to Fifa over World Cup travel hurdles",
+      "headline": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
       "countries": [
-        "Iran"
+        "Australia"
       ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIran football federation to lodge complaint to Fifa over World Cup travel hurdles\n\n    \n    \n\n        \n    \n                Iran\u2019s national football team will file a formal complaint with Fifa over travel restrictions imposed during the World Cup, the country's football federation",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/iran-football-federation-lodge-fifa-complaint-over-world-cup-travel",
-        "https://www.aljazeera.com/sports/2026/6/19/iran-to-lodge-complaint-with-fifa-over-world-cup-2026-travel-restrictions?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "Achraf Hakimi, Morocco\u2019s World Cup captain, to stand trial on rape charge",
-      "countries": [],
       "regions": [
         "Asia",
+        "Europe",
         "Middle East"
       ],
-      "outlets": 2,
-      "summary": "A French appeals court confirmed that Hakimi will face trial for the alleged rape of a woman in 2023, which he denies.",
+      "outlets": 4,
+      "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
       "links": [
-        "https://www.aljazeera.com/sports/2026/6/19/achraf-hakimi-moroccos-world-cup-captain-to-stand-trial-on-rape-charge?traffic_source=rss",
-        "https://www.channelnewsasia.com/sport/morocco-and-psg-player-hakimi-stand-trial-rape-charge-6195436"
+        "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
+        "https://www.channelnewsasia.com/world/australia-detects-first-case-contagious-h5-bird-flu-6196651",
+        "https://www.aljazeera.com/news/2026/6/20/australia-pledges-action-on-h5n1-after-bird-flu-case-confirmed?traffic_source=rss",
+        "https://www.dw.com/en/first-case-of-h5-bird-flu-confirmed-in-australia/a-77633767?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Champions Arsenal host promoted Coventry in 2026-27 Premier League opener",
-      "countries": [],
-      "regions": [
-        "Asia",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/sport/champions-arsenal-host-promoted-coventry-in-2026-27-premier-league-opener-6195591",
-        "https://www.aljazeera.com/sports/2026/6/19/arsenal-to-begin-premier-league-title-defence-against-promoted-coventry?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "U.S. strike on an alleged drug boat kills 3 in the eastern Pacific Ocean",
+      "headline": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
       "countries": [
-        "United States"
+        "Ethiopia"
       ],
       "regions": [
-        "Americas",
-        "Middle East"
+        "Africa",
+        "Europe"
       ],
       "outlets": 2,
-      "summary": "The latest attack brings the number of people who have been killed in boat strikes by the U.S. military to at least 211 since the Trump administration began targeting those it calls \"narcoterrorists\" in early September.",
+      "summary": "Markos's beloved hen was not responding to any treatments - so he did the only thing he could think of.",
       "links": [
-        "https://www.npr.org/2026/06/19/nx-s1-5864084/us-strike-alleged-drug-boat-kills-3-eastern-pacific-ocean",
-        "https://www.aljazeera.com/news/2026/6/19/us-kills-3-in-strike-on-alleged-drug-smuggling-boat-in-eastern-pacific?traffic_source=rss"
+        "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "headline": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
       "links": [
-        "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Palestinians in Gaza say bank account closures cut off access to vital funds",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nPalestinians in Gaza say bank account closures cut off access to vital funds\n\n    \n    \n\n        \n    \n                Palestinians&nbsp;in war-ravaged Gaza have accused the Bank of Palestine of freezing or closing their accounts without adequate explanation, leaving them unable t",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-gaza-say-bank-account-closures-cut-access-vital-funds",
+        "https://www.middleeasteye.net/news/palestinians-gaza-say-bank-account-closures-cut-access-vital-funds"
+      ]
+    },
+    {
+      "headline": "Israeli strikes kill four in Gaza City and several in southern Lebanon",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nIsraeli strikes kill four in Gaza City and several in southern Lebanon\n\n    \n    \n\n        \n    \n                At least four Palestinians were killed and several others wounded in an Israeli strike on a residential apartment in Gaza City early this morning, according to medical ",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-four-gaza-city-and-several-southern-lebanon",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/16-killed-ongoing-israeli-strikes-lebanons-nabatieh-area"
+      ]
+    },
+    {
+      "headline": "Family of four killed in Israeli strike on southern Lebanon",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nFamily of four killed in Israeli strike on southern Lebanon \n\n    \n    \n\n        \n    \n                An Israeli attack on the village of Barish in southern Lebanon killed four members of the same family, according to Lebanon's National News Agency.\n\nThe attack came just one day ",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/family-four-massacred-israeli-strike-southern-lebanon",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-soldier-southern-lebanon"
       ]
     },
     {
@@ -91,86 +110,78 @@
       ]
     },
     {
-      "headline": "Sudan: The European Union Delegation in Sudan - a New Political Engagement or an Attempt to Exert Pressure From Within?",
+      "headline": "Morocco captain Achraf Hakimi to stand trial for rape",
       "countries": [],
       "regions": [
-        "Africa"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "[Dabanga] Amsterdam / Khartoum / Port Sudan -- A high-level delegation of heads of European Union missions, comprising 14 diplomats and headed by the head of the mission to Sudan, Wolfram Vetter, concluded a visit to Sudan, the first of its kind since the outbreak of war on April 15, 2023. The two-d",
+      "outlets": 2,
+      "summary": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
       "links": [
-        "https://allafrica.com/stories/202606180627.html"
+        "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Singapore's new wellness destination in 2030: Pools, water slides, saunas and tropical gardens at Marina South",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The upcoming wellness development is set to open at Marina South in 2030 and will span&nbsp;more than 720,000 sq ft of gross floor area \u2013 about the size of nine football fields.",
-      "links": [
-        "https://www.channelnewsasia.com/wellness/therme-singapore-what-expect-pools-6195356"
-      ]
-    },
-    {
-      "headline": "Cleaning company driver admits to causing death of elderly colleague by driving off when she was alighting",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The 72-year-old victim's death was tragic and avoidable, the prosecution said.&nbsp;",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/man-drive-woman-alighting-died-hillion-mall-6195636"
-      ]
-    },
-    {
-      "headline": "Africa: Mokoena Strike Keeps South Africa's World Cup Hopes Alive After Battling Draw With Czech Republic",
+      "headline": "US to stop funding HIV programmes in South Africa",
       "countries": [
         "South Africa"
       ],
       "regions": [
-        "Africa"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "[CAF] South Africa refused to let their FIFA World Cup dream fade away as a late Teboho Mokoena penalty earned Bafana Bafana a hard-fought 1-1 draw against the Czech Republic in Atlanta on Thursday, keeping their hopes of reaching the knockout stages firmly alive.",
+      "outlets": 2,
+      "summary": "More than eight million South Africans are living with HIV \u2013 the highest number of any country in the world.",
       "links": [
-        "https://allafrica.com/stories/202606180624.html"
+        "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Africa: South African Scientists Make Breakthrough in Decoding Cancer's Most Effective Survival Strategy",
+      "headline": "Kenya: Fabricated Quote Used to Claim Trump Warned Kenyan President Ruto Over 'Oppressing Kenyans' At G7 Summit",
       "countries": [
-        "South Africa"
+        "United States",
+        "Kenya"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[The Conversation Africa] In the intricate biology of the human body, organs such as the breast, the colon and the lungs are lined with a defensive barrier known as the epithelium. At the heart of this barrier sits a remarkable protein called Mucin-1 (MUC1). In a healthy body, MUC1 is like a sentine",
+      "summary": "[Africa Check] Fabricated quote used to claim Trump warned Kenyan president Ruto over 'oppressing Kenyans' at G7 summit",
       "links": [
-        "https://allafrica.com/stories/202606190034.html"
+        "https://allafrica.com/stories/202606190397.html"
       ]
     },
     {
-      "headline": "Revealed: How a German-US corporate giant became the world\u2019s largest foreign financier of Israel\u2019s wars",
+      "headline": "Nigeria: Nigeria's Ruling Party Has Not Released Final List of Senatorial Candidates for 2027 Elections",
       "countries": [
-        "Germany",
-        "Israel"
+        "Nigeria"
       ],
       "regions": [
-        "Middle East"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nRevealed: How a German-US corporate giant became the world\u2019s largest foreign financier of Israel\u2019s wars\n\n    \n    \n\n          \n      \n      \n        Submitted by \nSebastian Shehadi\n on \nThu, 06/18/2026 - 12:02\n\n        \n      \n    \n      \n    \n                Munich-based Allianz ",
+      "summary": "[Africa Check] Nigeria's ruling party has not released final list of senatorial candidates for 2027 elections",
       "links": [
-        "https://www.middleeasteye.net/news/revealed-how-german-us-corporate-giant-became-worlds-largest-foreign-financier-israels-wars"
+        "https://allafrica.com/stories/202606190396.html"
+      ]
+    },
+    {
+      "headline": "Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain",
+      "countries": [
+        "United Kingdom"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Labour's Andy Burnham, the current mayor of Greater Manchester, has won a special election for a seat in Parliament that puts him in a position to challenge embattled Prime Minister Keir Starmer for leadership of the country.",
+      "links": [
+        "https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-19 (extractive mode)\n\n* Iran football federation to lodge complaint to Fifa over World Cup travel hurdles (Section Feed, 2 outlets)\n* Achraf Hakimi, Morocco\u2019s World Cup captain, to stand trial on rape charge (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Champions Arsenal host promoted Coventry in 2026-27 Premier League opener (Latest News, 2 outlets)\n* U.S. strike on an alleged drug boat kills 3 in the eastern Pacific Ocean (NPR Topics: World, 2 outlets)\n* Thirty-five killed as gunmen attack Niger's biggest airport (BBC News, 2 outlets)\n* Zimbabwe MPs pass bill to extend president's time in power (BBC News, 2 outlets)\n* Sudan: The European Union Delegation in Sudan - a New Political Engagement or an Attempt to Exert Pressure From Within? (AllAfrica News: Latest, 1 outlets)\n* Singapore's new wellness destination in 2030: Pools, water slides, saunas and tropical gardens at Marina South (Latest News, 1 outlets)\n* Cleaning company driver admits to causing death of elderly colleague by driving off when she was alighting (Latest News, 1 outlets)\n* Africa: Mokoena Strike Keeps South Africa's World Cup Hopes Alive After Battling Draw With Czech Republic (AllAfrica News: Latest, 1 outlets)\n* Africa: South African Scientists Make Breakthrough in Decoding Cancer's Most Effective Survival Strategy (AllAfrica News: Latest, 1 outlets)\n* Revealed: How a German-US corporate giant became the world\u2019s largest foreign financier of Israel\u2019s wars (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-06-20 (extractive mode)\n\n* Australia confirms first case of H5N1 bird flu as virus reaches every continent (BBC News, 4 outlets)\n* Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital (BBC News, 2 outlets)\n* Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well' (BBC News, 2 outlets)\n* Palestinians in Gaza say bank account closures cut off access to vital funds (Section Feed, 2 outlets)\n* Israeli strikes kill four in Gaza City and several in southern Lebanon (Section Feed, 2 outlets)\n* Family of four killed in Israeli strike on southern Lebanon (Section Feed, 2 outlets)\n* Zimbabwe MPs pass bill to extend president's time in power (BBC News, 2 outlets)\n* Morocco captain Achraf Hakimi to stand trial for rape (BBC News, 2 outlets)\n* US to stop funding HIV programmes in South Africa (BBC News, 2 outlets)\n* Kenya: Fabricated Quote Used to Claim Trump Warned Kenyan President Ruto Over 'Oppressing Kenyans' At G7 Summit (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Nigeria's Ruling Party Has Not Released Final List of Senatorial Candidates for 2027 Elections (AllAfrica News: Latest, 1 outlets)\n* Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain (NPR Topics: World, 1 outlets)"
 }
