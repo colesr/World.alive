@@ -1,126 +1,86 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-20T09:57:01.372875+00:00",
-  "digest_words": 220,
+  "generated_at": "2026-06-21T10:24:53.963625+00:00",
+  "digest_words": 236,
   "clusters": [
+    {
+      "headline": "Pakistan army chief arrives in Switzerland for US-Iran talks",
+      "countries": [
+        "Iran",
+        "Pakistan",
+        "Switzerland"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 3,
+      "summary": "\n\n  \n      \n      \nPakistan army chief arrives in Switzerland for US-Iran talks\n\n    \n    \n\n        \n    \n                Pakistan Army Chief Field Marshal Asim Munir has arrived in Switzerland to take part in technical-level talks between the United States and Iran under the framework of the Islama",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-army-chief-arrives-switzerland-us-iran-talks",
+        "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/jd-vance-switzerland-iran-talks"
+      ]
+    },
+    {
+      "headline": "Fans praise Japan's team spirit as Samurai Blue thrash Tunisia 4-0 and make World Cup history",
+      "countries": [
+        "Japan"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 2,
+      "summary": "Japan are the first Asian team to score four goals at the World Cup.",
+      "links": [
+        "https://www.channelnewsasia.com/sport/world-cup-japan-tunisia-fans-teamwork-world-cup-sweden-round-32-6198011",
+        "https://www.channelnewsasia.com/sports/japan-tunisia-ayase-ueda-world-cup-6198191"
+      ]
+    },
+    {
+      "headline": "Iran says Strait of Hormuz shut as U.S.-Iran talks set for Sunday in Switzerland",
+      "countries": [
+        "United States",
+        "Iran",
+        "Switzerland"
+      ],
+      "regions": [
+        "Americas",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "U.S. and Iranian teams are set to hold \"technical-level\" talks, according to Pakistan's foreign ministry. But fighting in Lebanon and claims over the Strait of Hormuz threaten a tentative agreement.",
+      "links": [
+        "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
+        "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
     {
       "headline": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
       "countries": [
         "Australia"
       ],
       "regions": [
-        "Asia",
-        "Europe",
-        "Middle East"
+        "Europe"
       ],
-      "outlets": 4,
+      "outlets": 2,
       "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
       "links": [
         "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
-        "https://www.channelnewsasia.com/world/australia-detects-first-case-contagious-h5-bird-flu-6196651",
-        "https://www.aljazeera.com/news/2026/6/20/australia-pledges-action-on-h5n1-after-bird-flu-case-confirmed?traffic_source=rss",
         "https://www.dw.com/en/first-case-of-h5-bird-flu-confirmed-in-australia/a-77633767?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
-      "countries": [
-        "Ethiopia"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Markos's beloved hen was not responding to any treatments - so he did the only thing he could think of.",
-      "links": [
-        "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
+      "headline": "African and Caribbean nations call for formal apology for transatlantic slavery",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+      "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
       "links": [
-        "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Palestinians in Gaza say bank account closures cut off access to vital funds",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nPalestinians in Gaza say bank account closures cut off access to vital funds\n\n    \n    \n\n        \n    \n                Palestinians&nbsp;in war-ravaged Gaza have accused the Bank of Palestine of freezing or closing their accounts without adequate explanation, leaving them unable t",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-gaza-say-bank-account-closures-cut-access-vital-funds",
-        "https://www.middleeasteye.net/news/palestinians-gaza-say-bank-account-closures-cut-access-vital-funds"
-      ]
-    },
-    {
-      "headline": "Israeli strikes kill four in Gaza City and several in southern Lebanon",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIsraeli strikes kill four in Gaza City and several in southern Lebanon\n\n    \n    \n\n        \n    \n                At least four Palestinians were killed and several others wounded in an Israeli strike on a residential apartment in Gaza City early this morning, according to medical ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-four-gaza-city-and-several-southern-lebanon",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/16-killed-ongoing-israeli-strikes-lebanons-nabatieh-area"
-      ]
-    },
-    {
-      "headline": "Family of four killed in Israeli strike on southern Lebanon",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nFamily of four killed in Israeli strike on southern Lebanon \n\n    \n    \n\n        \n    \n                An Israeli attack on the village of Barish in southern Lebanon killed four members of the same family, according to Lebanon's National News Agency.\n\nThe attack came just one day ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/family-four-massacred-israeli-strike-southern-lebanon",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-soldier-southern-lebanon"
-      ]
-    },
-    {
-      "headline": "Zimbabwe MPs pass bill to extend president's time in power",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.",
-      "links": [
-        "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Morocco captain Achraf Hakimi to stand trial for rape",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
-      "links": [
-        "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -137,6 +97,20 @@
       "links": [
         "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
         "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Africa: Rwanda and South Africa - From Diplomatic Frost to Strategic Partnership and Greater People-to-People Mobility",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica] After more than a decade of diplomatic estrangement, Rwanda and South Africa appear to be taking meaningful steps toward rebuilding a relationship long marked by suspicion, political tensions, and missed opportunities. Recent high-level engagements between Kigali and Pretoria suggest a g",
+      "links": [
+        "https://allafrica.com/stories/202606200094.html"
       ]
     },
     {
@@ -169,19 +143,45 @@
       ]
     },
     {
-      "headline": "Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain",
+      "headline": "India tightens security as millions of medical student aspirants retake entrance exam after paper leak",
       "countries": [
-        "United Kingdom"
+        "India"
       ],
       "regions": [
-        "Americas"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "Labour's Andy Burnham, the current mayor of Greater Manchester, has won a special election for a seat in Parliament that puts him in a position to challenge embattled Prime Minister Keir Starmer for leadership of the country.",
+      "summary": "India\u2019s 2.2 million medical aspirants are retaking the entrance exam under heavy security after a paper leak sparked outrage, arrests and protests over exam fraud in the country.",
       "links": [
-        "https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election"
+        "https://www.channelnewsasia.com/asia/india-tightens-security-medical-exam-telegram-6198201"
+      ]
+    },
+    {
+      "headline": "Rwanda: Genocide Survivors Urge Australia's Griffith University to Disassociate With Judi Rever",
+      "countries": [
+        "Australia"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Times] Genocide survivors' organisations from Rwanda and across the diaspora have called on Australia's Griffith University to sever any association with Judi Rever, a Canadian author and journalist known for promoting narratives that distort and deny the 1994 Genocide against the Tutsi.",
+      "links": [
+        "https://allafrica.com/stories/202606190415.html"
+      ]
+    },
+    {
+      "headline": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
+      "links": [
+        "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-20 (extractive mode)\n\n* Australia confirms first case of H5N1 bird flu as virus reaches every continent (BBC News, 4 outlets)\n* Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital (BBC News, 2 outlets)\n* Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well' (BBC News, 2 outlets)\n* Palestinians in Gaza say bank account closures cut off access to vital funds (Section Feed, 2 outlets)\n* Israeli strikes kill four in Gaza City and several in southern Lebanon (Section Feed, 2 outlets)\n* Family of four killed in Israeli strike on southern Lebanon (Section Feed, 2 outlets)\n* Zimbabwe MPs pass bill to extend president's time in power (BBC News, 2 outlets)\n* Morocco captain Achraf Hakimi to stand trial for rape (BBC News, 2 outlets)\n* US to stop funding HIV programmes in South Africa (BBC News, 2 outlets)\n* Kenya: Fabricated Quote Used to Claim Trump Warned Kenyan President Ruto Over 'Oppressing Kenyans' At G7 Summit (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Nigeria's Ruling Party Has Not Released Final List of Senatorial Candidates for 2027 Elections (AllAfrica News: Latest, 1 outlets)\n* Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain (NPR Topics: World, 1 outlets)"
+  "narrative": "State of the World - 2026-06-21 (extractive mode)\n\n* Pakistan army chief arrives in Switzerland for US-Iran talks (Section Feed, 3 outlets)\n* Fans praise Japan's team spirit as Samurai Blue thrash Tunisia 4-0 and make World Cup history (Latest News, 2 outlets)\n* Iran says Strait of Hormuz shut as U.S.-Iran talks set for Sunday in Switzerland (NPR Topics: World, 2 outlets)\n* Australia confirms first case of H5N1 bird flu as virus reaches every continent (BBC News, 2 outlets)\n* African and Caribbean nations call for formal apology for transatlantic slavery (BBC News, 2 outlets)\n* US to stop funding HIV programmes in South Africa (BBC News, 2 outlets)\n* Africa: Rwanda and South Africa - From Diplomatic Frost to Strategic Partnership and Greater People-to-People Mobility (AllAfrica News: Latest, 1 outlets)\n* Kenya: Fabricated Quote Used to Claim Trump Warned Kenyan President Ruto Over 'Oppressing Kenyans' At G7 Summit (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Nigeria's Ruling Party Has Not Released Final List of Senatorial Candidates for 2027 Elections (AllAfrica News: Latest, 1 outlets)\n* India tightens security as millions of medical student aspirants retake entrance exam after paper leak (Latest News, 1 outlets)\n* Rwanda: Genocide Survivors Urge Australia's Griffith University to Disassociate With Judi Rever (AllAfrica News: Latest, 1 outlets)\n* 'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia (BBC News, 1 outlets)"
 }
