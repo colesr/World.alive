@@ -1,106 +1,138 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-21T10:24:53.963625+00:00",
-  "digest_words": 236,
+  "generated_at": "2026-06-22T12:41:47.326508+00:00",
+  "digest_words": 260,
   "clusters": [
     {
-      "headline": "Pakistan army chief arrives in Switzerland for US-Iran talks",
+      "headline": "\u2018I leave the biggest job\u2019: Keir Stamer\u2019s resignation speech in full",
       "countries": [
-        "Iran",
-        "Pakistan",
-        "Switzerland"
+        "United Kingdom"
       ],
       "regions": [
+        "Americas",
         "Middle East"
       ],
-      "outlets": 3,
-      "summary": "\n\n  \n      \n      \nPakistan army chief arrives in Switzerland for US-Iran talks\n\n    \n    \n\n        \n    \n                Pakistan Army Chief Field Marshal Asim Munir has arrived in Switzerland to take part in technical-level talks between the United States and Iran under the framework of the Islama",
+      "outlets": 4,
+      "summary": "Starmer resigned as Labour leader after losing his party&#039;s support and as Andy Burnham eyes the UK&#039;s top position.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-army-chief-arrives-switzerland-us-iran-talks",
-        "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/jd-vance-switzerland-iran-talks"
+        "https://www.aljazeera.com/news/2026/6/22/i-leave-the-biggest-job-keir-stamers-resignation-speech-in-full?traffic_source=rss",
+        "https://www.aljazeera.com/video/newsfeed/2026/6/22/uk-prime-minister-keir-starmers-resignation-speech-in-full?traffic_source=rss",
+        "https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns",
+        "https://www.npr.org/2026/06/22/nx-s1-5866213/uk-prime-minister-keir-starmer-announces-resignation"
       ]
     },
     {
-      "headline": "Fans praise Japan's team spirit as Samurai Blue thrash Tunisia 4-0 and make World Cup history",
+      "headline": "South Africa: Madlanga Commission Reopens Ekurhuleni Corruption Probe - South African News Briefs - June 22, 2026",
       "countries": [
-        "Japan"
+        "South Africa"
       ],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 2,
-      "summary": "Japan are the first Asian team to score four goals at the World Cup.",
+      "summary": "[allAfrica]",
       "links": [
-        "https://www.channelnewsasia.com/sport/world-cup-japan-tunisia-fans-teamwork-world-cup-sweden-round-32-6198011",
-        "https://www.channelnewsasia.com/sports/japan-tunisia-ayase-ueda-world-cup-6198191"
+        "https://allafrica.com/stories/202606220189.html",
+        "https://allafrica.com/stories/202606220192.html"
       ]
     },
     {
-      "headline": "Iran says Strait of Hormuz shut as U.S.-Iran talks set for Sunday in Switzerland",
+      "headline": "Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows",
       "countries": [
-        "United States",
-        "Iran",
-        "Switzerland"
+        "United States"
       ],
       "regions": [
         "Americas",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "U.S. and Iranian teams are set to hold \"technical-level\" talks, according to Pakistan's foreign ministry. But fighting in Lebanon and claims over the Strait of Hormuz threaten a tentative agreement.",
+      "summary": "Colombia wakes up to a sharp political turn to right as Abelardo de la Espriella's preliminary victory redraws the country's path on security, economy, and peace.",
       "links": [
-        "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
-        "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
+        "https://www.npr.org/2026/06/21/nx-s1-5865676/delaespriella-colombia-election",
+        "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+      "headline": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
       "countries": [
-        "Australia"
+        "Kenya"
       ],
       "regions": [
+        "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
+      "summary": "Martha  Karua is a lawyer representing detained Ugandan opposition leader Kizza Besigye who is on trial for treason.",
       "links": [
-        "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
-        "https://www.dw.com/en/first-case-of-h5-bird-flu-confirmed-in-australia/a-77633767?maca=en-rss-en-world-4025-rdf"
+        "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "African and Caribbean nations call for formal apology for transatlantic slavery",
+      "headline": "Watch World Cup Day 11: Egypt\u2019s first-ever win; Spain crushes Saudi Arabia",
+      "countries": [
+        "Spain",
+        "Saudi Arabia",
+        "Egypt"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "links": [
+        "https://www.aljazeera.com/video/2026/6/22/video-world-cup-2026-highlights?traffic_source=rss",
+        "https://www.aljazeera.com/video/newsfeed/2026/6/22/cairo-erupts-in-celebration-after-egypts-first-ever-win-in-a-world-cup?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "Alan Greenspan, architect of the modern American economy, dies aged 100",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Asia",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "As chairman of the Federal Reserve, Alan Greenspan became the world's most high-profile banker.",
+      "links": [
+        "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
+        "https://www.channelnewsasia.com/world/alan-greenspan-us-federal-reserve-chairman-dies-100-6200776"
+      ]
+    },
+    {
+      "headline": "Ethiopia: Ruling Party in Ethiopia Secures 90% of Seats in Parliament",
+      "countries": [
+        "Ethiopia"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "[DW] Prime Minister Abiy Ahmed's Prosperity Party comfortably secured another parliamentary majority, defeating a fragmented opposition.",
+      "links": [
+        "https://allafrica.com/stories/202606220190.html",
+        "https://www.dw.com/en/ethiopia-s-ruling-party-wins-overwhelming-majority-in-parliament/a-77647557?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Cape Verde fan goes wild live on BBC News as his country scores",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
+      "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup.",
       "links": [
-        "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "US to stop funding HIV programmes in South Africa",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "More than eight million South Africans are living with HIV \u2013 the highest number of any country in the world.",
-      "links": [
-        "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Africa: Rwanda and South Africa - From Diplomatic Frost to Strategic Partnership and Greater People-to-People Mobility",
+      "headline": "Zimbabwe: Zimbabwean Economy Doing Very Well, Capable of Absorbing All Citizens Being Chased Out of South Africa - Says Mutsvangwa",
       "countries": [
         "South Africa"
       ],
@@ -108,80 +140,51 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica] After more than a decade of diplomatic estrangement, Rwanda and South Africa appear to be taking meaningful steps toward rebuilding a relationship long marked by suspicion, political tensions, and missed opportunities. Recent high-level engagements between Kigali and Pretoria suggest a g",
+      "summary": "[New Zimbabwe] THE Zimbabwean economy is doing very well and now able to absorb all its citizens who are being hounded out of South Africa for being there illegally, Zanu PF spokesperson Christopher Mutsvangwa has said.",
       "links": [
-        "https://allafrica.com/stories/202606200094.html"
+        "https://allafrica.com/stories/202606220108.html"
       ]
     },
     {
-      "headline": "Kenya: Fabricated Quote Used to Claim Trump Warned Kenyan President Ruto Over 'Oppressing Kenyans' At G7 Summit",
+      "headline": "Singapore to take 'more flexible approach' to dialect films, open to more Teochew screenings of Dear You",
       "countries": [
-        "United States",
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Africa Check] Fabricated quote used to claim Trump warned Kenyan president Ruto over 'oppressing Kenyans' at G7 summit",
-      "links": [
-        "https://allafrica.com/stories/202606190397.html"
-      ]
-    },
-    {
-      "headline": "Nigeria: Nigeria's Ruling Party Has Not Released Final List of Senatorial Candidates for 2027 Elections",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Africa Check] Nigeria's ruling party has not released final list of senatorial candidates for 2027 elections",
-      "links": [
-        "https://allafrica.com/stories/202606190396.html"
-      ]
-    },
-    {
-      "headline": "India tightens security as millions of medical student aspirants retake entrance exam after paper leak",
-      "countries": [
-        "India"
+        "Singapore"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "India\u2019s 2.2 million medical aspirants are retaking the entrance exam under heavy security after a paper leak sparked outrage, arrests and protests over exam fraud in the country.",
+      "summary": "\u201cWe remain open to facilitating and supporting further Teochew screenings should the distributor wish to apply for them, in response to audience interest,\u201d said the Ministry of Digital Development and Information.",
       "links": [
-        "https://www.channelnewsasia.com/asia/india-tightens-security-medical-exam-telegram-6198201"
+        "https://www.channelnewsasia.com/singapore/dear-you-teochew-movie-screening-cinema-mandarin-6200506"
       ]
     },
     {
-      "headline": "Rwanda: Genocide Survivors Urge Australia's Griffith University to Disassociate With Judi Rever",
+      "headline": "'They took a healthy kid and returned him dead': Bedouin dies in Israeli custody with signs of torture",
       "countries": [
-        "Australia"
+        "Israel"
       ],
       "regions": [
-        "Africa"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "[New Times] Genocide survivors' organisations from Rwanda and across the diaspora have called on Australia's Griffith University to sever any association with Judi Rever, a Canadian author and journalist known for promoting narratives that distort and deny the 1994 Genocide against the Tutsi.",
+      "summary": "\n\n  \n      \n      \n'They took a healthy kid and returned him dead': Bedouin dies in Israeli custody with signs of torture\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nMon, 06/22/2026 - 09:45\n\n        \n      \n    \n      \n    \n                Family and lawyers say they fo",
       "links": [
-        "https://allafrica.com/stories/202606190415.html"
+        "https://www.middleeasteye.net/news/bedouin-man-found-dead-israeli-custody-signs-torture-after-being-abducted"
       ]
     },
     {
-      "headline": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
+      "headline": "Congo-Kinshasa: DR Congo Announces Free Healthcare for All Illnesses in Ituri As Ebola Gains Ground",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
+      "summary": "[RFI] The government of the Democratic Republic of Congo has announced the introduction of free healthcare for all diseases in Ituri - a pilot project that authorities hope to extend nationwide. This comes as the country struggles to contain an Ebola outbreak, with confirmed cases now at over 1,000.",
       "links": [
-        "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202606220512.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-21 (extractive mode)\n\n* Pakistan army chief arrives in Switzerland for US-Iran talks (Section Feed, 3 outlets)\n* Fans praise Japan's team spirit as Samurai Blue thrash Tunisia 4-0 and make World Cup history (Latest News, 2 outlets)\n* Iran says Strait of Hormuz shut as U.S.-Iran talks set for Sunday in Switzerland (NPR Topics: World, 2 outlets)\n* Australia confirms first case of H5N1 bird flu as virus reaches every continent (BBC News, 2 outlets)\n* African and Caribbean nations call for formal apology for transatlantic slavery (BBC News, 2 outlets)\n* US to stop funding HIV programmes in South Africa (BBC News, 2 outlets)\n* Africa: Rwanda and South Africa - From Diplomatic Frost to Strategic Partnership and Greater People-to-People Mobility (AllAfrica News: Latest, 1 outlets)\n* Kenya: Fabricated Quote Used to Claim Trump Warned Kenyan President Ruto Over 'Oppressing Kenyans' At G7 Summit (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Nigeria's Ruling Party Has Not Released Final List of Senatorial Candidates for 2027 Elections (AllAfrica News: Latest, 1 outlets)\n* India tightens security as millions of medical student aspirants retake entrance exam after paper leak (Latest News, 1 outlets)\n* Rwanda: Genocide Survivors Urge Australia's Griffith University to Disassociate With Judi Rever (AllAfrica News: Latest, 1 outlets)\n* 'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-06-22 (extractive mode)\n\n* \u2018I leave the biggest job\u2019: Keir Stamer\u2019s resignation speech in full (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 4 outlets)\n* South Africa: Madlanga Commission Reopens Ekurhuleni Corruption Probe - South African News Briefs - June 22, 2026 (AllAfrica News: Latest, 2 outlets)\n* Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows (NPR Topics: World, 2 outlets)\n* Former Kenyan justice minister blocked from entering Uganda, lawyers' body says (BBC News, 2 outlets)\n* Watch World Cup Day 11: Egypt\u2019s first-ever win; Spain crushes Saudi Arabia (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Alan Greenspan, architect of the modern American economy, dies aged 100 (BBC News, 2 outlets)\n* Ethiopia: Ruling Party in Ethiopia Secures 90% of Seats in Parliament (AllAfrica News: Latest, 2 outlets)\n* Cape Verde fan goes wild live on BBC News as his country scores (BBC News, 2 outlets)\n* Zimbabwe: Zimbabwean Economy Doing Very Well, Capable of Absorbing All Citizens Being Chased Out of South Africa - Says Mutsvangwa (AllAfrica News: Latest, 1 outlets)\n* Singapore to take 'more flexible approach' to dialect films, open to more Teochew screenings of Dear You (Latest News, 1 outlets)\n* 'They took a healthy kid and returned him dead': Bedouin dies in Israeli custody with signs of torture (Section Feed, 1 outlets)\n* Congo-Kinshasa: DR Congo Announces Free Healthcare for All Illnesses in Ituri As Ebola Gains Ground (AllAfrica News: Latest, 1 outlets)"
 }
