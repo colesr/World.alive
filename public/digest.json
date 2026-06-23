@@ -1,28 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-22T12:41:47.326508+00:00",
-  "digest_words": 260,
+  "generated_at": "2026-06-23T10:27:14.278613+00:00",
+  "digest_words": 263,
   "clusters": [
     {
-      "headline": "\u2018I leave the biggest job\u2019: Keir Stamer\u2019s resignation speech in full",
-      "countries": [
-        "United Kingdom"
-      ],
-      "regions": [
-        "Americas",
-        "Middle East"
-      ],
-      "outlets": 4,
-      "summary": "Starmer resigned as Labour leader after losing his party&#039;s support and as Andy Burnham eyes the UK&#039;s top position.",
-      "links": [
-        "https://www.aljazeera.com/news/2026/6/22/i-leave-the-biggest-job-keir-stamers-resignation-speech-in-full?traffic_source=rss",
-        "https://www.aljazeera.com/video/newsfeed/2026/6/22/uk-prime-minister-keir-starmers-resignation-speech-in-full?traffic_source=rss",
-        "https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns",
-        "https://www.npr.org/2026/06/22/nx-s1-5866213/uk-prime-minister-keir-starmer-announces-resignation"
-      ]
-    },
-    {
-      "headline": "South Africa: Madlanga Commission Reopens Ekurhuleni Corruption Probe - South African News Briefs - June 22, 2026",
+      "headline": "South Africa: Lawsuit Risks for Unvaccinated Kids? - South African News Briefs - June 23, 2026",
       "countries": [
         "South Africa"
       ],
@@ -32,24 +14,8 @@
       "outlets": 2,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202606220189.html",
-        "https://allafrica.com/stories/202606220192.html"
-      ]
-    },
-    {
-      "headline": "Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Americas",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Colombia wakes up to a sharp political turn to right as Abelardo de la Espriella's preliminary victory redraws the country's path on security, economy, and peace.",
-      "links": [
-        "https://www.npr.org/2026/06/21/nx-s1-5865676/delaespriella-colombia-election",
-        "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202606230093.html",
+        "https://allafrica.com/stories/202606230099.html"
       ]
     },
     {
@@ -64,89 +30,68 @@
       "outlets": 2,
       "summary": "Martha  Karua is a lawyer representing detained Ugandan opposition leader Kizza Besigye who is on trial for treason.",
       "links": [
-        "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Watch World Cup Day 11: Egypt\u2019s first-ever win; Spain crushes Saudi Arabia",
+      "headline": "Keir Starmer has resigned, paving way for a 7th U.K. prime minister in 10 years",
       "countries": [
-        "Spain",
-        "Saudi Arabia",
-        "Egypt"
+        "United Kingdom"
       ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 2,
+      "summary": "Prime Minister Keir Starmer is stepping down. His likely successor, Andy Burnham, a popular former mayor, would become the U.K.'s seventh prime minister in 10 years.",
+      "links": [
+        "https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns",
+        "https://www.npr.org/2026/06/22/nx-s1-5866213/uk-prime-minister-keir-starmer-announces-resignation"
+      ]
+    },
+    {
+      "headline": "Kane, England play Ghana at the World Cup: Prediction, team news, lineups",
+      "countries": [],
       "regions": [
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "summary": "Harry Kane&#039;s England and Ghana meet in the 2026 FIFA World Cup Group L, with the winner advancing to the round of 32.",
       "links": [
-        "https://www.aljazeera.com/video/2026/6/22/video-world-cup-2026-highlights?traffic_source=rss",
-        "https://www.aljazeera.com/video/newsfeed/2026/6/22/cairo-erupts-in-celebration-after-egypts-first-ever-win-in-a-world-cup?traffic_source=rss"
+        "https://www.aljazeera.com/sports/2026/6/23/england-ghana-prediction-fifa-world-cup-2026-kickoff-channel-kane-partey?traffic_source=rss",
+        "https://www.aljazeera.com/sports/2026/6/23/portugal-vs-uzbekistan-world-cup-ronaldo-prediction-kickoff-team-news?traffic_source=rss"
       ]
     },
     {
-      "headline": "Alan Greenspan, architect of the modern American economy, dies aged 100",
+      "headline": "Kenya minister found in contempt of court over US-backed Ebola centre",
       "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Asia",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "As chairman of the Federal Reserve, Alan Greenspan became the world's most high-profile banker.",
-      "links": [
-        "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
-        "https://www.channelnewsasia.com/world/alan-greenspan-us-federal-reserve-chairman-dies-100-6200776"
-      ]
-    },
-    {
-      "headline": "Ethiopia: Ruling Party in Ethiopia Secures 90% of Seats in Parliament",
-      "countries": [
-        "Ethiopia"
+        "Kenya"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "[DW] Prime Minister Abiy Ahmed's Prosperity Party comfortably secured another parliamentary majority, defeating a fragmented opposition.",
+      "summary": "Aden Duale defied a High Court order to stop building work on a controversial US-funded facility.",
       "links": [
-        "https://allafrica.com/stories/202606220190.html",
-        "https://www.dw.com/en/ethiopia-s-ruling-party-wins-overwhelming-majority-in-parliament/a-77647557?maca=en-rss-en-world-4025-rdf"
+        "https://www.bbc.co.uk/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Cape Verde fan goes wild live on BBC News as his country scores",
+      "headline": "Congo-Kinshasa: As Ebola Cases Hit 1,000, Almost 3 Million Children and Adolescents Face Rising Risks in Eastern DR Congo - Unicef",
       "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup.",
-      "links": [
-        "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: Zimbabwean Economy Doing Very Well, Capable of Absorbing All Citizens Being Chased Out of South Africa - Says Mutsvangwa",
-      "countries": [
-        "South Africa"
-      ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[New Zimbabwe] THE Zimbabwean economy is doing very well and now able to absorb all its citizens who are being hounded out of South Africa for being there illegally, Zanu PF spokesperson Christopher Mutsvangwa has said.",
+      "summary": "[Unicef] New York/Kampala/Kinshasa -- Ebola has left over 130 children orphaned in Ituri, driving urgent need for protection and care",
       "links": [
-        "https://allafrica.com/stories/202606220108.html"
+        "https://allafrica.com/stories/202606230054.html"
       ]
     },
     {
-      "headline": "Singapore to take 'more flexible approach' to dialect films, open to more Teochew screenings of Dear You",
+      "headline": "'I do', but let's spend less: Lavish weddings lose appeal as Singapore couples focus on housing, family plans",
       "countries": [
         "Singapore"
       ],
@@ -154,37 +99,79 @@
         "Asia"
       ],
       "outlets": 1,
-      "summary": "\u201cWe remain open to facilitating and supporting further Teochew screenings should the distributor wish to apply for them, in response to audience interest,\u201d said the Ministry of Digital Development and Information.",
+      "summary": "Some wedding planners say demand for large and luxury weddings has fallen, with guest lists shrinking and couples seeking more personalised options.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/dear-you-teochew-movie-screening-cinema-mandarin-6200506"
+        "https://www.channelnewsasia.com/singapore/marriage-weddings-lavish-spending-falls-couples-prioritise-financial-stability-6203251"
       ]
     },
     {
-      "headline": "'They took a healthy kid and returned him dead': Bedouin dies in Israeli custody with signs of torture",
+      "headline": "South Africa: SAPS Launches R600m Operation to Counter Anti-Immigrant Unrest Ahead of 30 June Deadline",
       "countries": [
-        "Israel"
+        "South Africa"
       ],
       "regions": [
-        "Middle East"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \n'They took a healthy kid and returned him dead': Bedouin dies in Israeli custody with signs of torture\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nMon, 06/22/2026 - 09:45\n\n        \n      \n    \n      \n    \n                Family and lawyers say they fo",
+      "summary": "[Daily Maverick] Acting Police Minister Firoz Cachalia said the special operation against efforts to destabilise the country is costing taxpayers more than R600m.",
       "links": [
-        "https://www.middleeasteye.net/news/bedouin-man-found-dead-israeli-custody-signs-torture-after-being-abducted"
+        "https://allafrica.com/stories/202606230035.html"
       ]
     },
     {
-      "headline": "Congo-Kinshasa: DR Congo Announces Free Healthcare for All Illnesses in Ituri As Ebola Gains Ground",
+      "headline": "Zimbabwe: Constitution Defenders Forum Calls for CAB3 to Be Scrapped, Alleges Vote Tainted By Bribery",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[RFI] The government of the Democratic Republic of Congo has announced the introduction of free healthcare for all diseases in Ituri - a pilot project that authorities hope to extend nationwide. This comes as the country struggles to contain an Ebola outbreak, with confirmed cases now at over 1,000.",
+      "summary": "[New Zimbabwe] The Constitution Defenders Forum (CDF) has called for the immediate withdrawal of Constitutional Amendment Bill No. 3, describing Parliament's passage of the controversial legislation as flawed and tainted by bribery and undue influence.",
       "links": [
-        "https://allafrica.com/stories/202606220512.html"
+        "https://allafrica.com/stories/202606230105.html"
+      ]
+    },
+    {
+      "headline": "China, India unlikely to replace US role in Middle East even as Iran war reshapes dynamics: Analysts",
+      "countries": [
+        "China",
+        "India",
+        "Iran"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The influence of rising powers in the Middle East is unlikely to take the form of the military presence traditionally associated with the United States, say analysts at the Middle East Institute\u2019s annual conference.",
+      "links": [
+        "https://www.channelnewsasia.com/east-asia/iran-war-china-india-major-powers-middle-east-6200131"
+      ]
+    },
+    {
+      "headline": "Man got free laptops using PayPal glitch but lodged police report out of guilt, gets detention order",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "After earning some money from the scheme and recruiting four friends into it, he felt guilty and lodged a police report incriminating himself.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/man-paypal-glitch-laptop-delivery-call-police-6203421"
+      ]
+    },
+    {
+      "headline": "India 'proactively monitoring' Telegram over concerns about illegal content, government report shows",
+      "countries": [
+        "India"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/business/india-proactively-monitoring-telegram-over-concerns-about-illegal-content-government-report-shows-6203456"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-22 (extractive mode)\n\n* \u2018I leave the biggest job\u2019: Keir Stamer\u2019s resignation speech in full (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 4 outlets)\n* South Africa: Madlanga Commission Reopens Ekurhuleni Corruption Probe - South African News Briefs - June 22, 2026 (AllAfrica News: Latest, 2 outlets)\n* Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows (NPR Topics: World, 2 outlets)\n* Former Kenyan justice minister blocked from entering Uganda, lawyers' body says (BBC News, 2 outlets)\n* Watch World Cup Day 11: Egypt\u2019s first-ever win; Spain crushes Saudi Arabia (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Alan Greenspan, architect of the modern American economy, dies aged 100 (BBC News, 2 outlets)\n* Ethiopia: Ruling Party in Ethiopia Secures 90% of Seats in Parliament (AllAfrica News: Latest, 2 outlets)\n* Cape Verde fan goes wild live on BBC News as his country scores (BBC News, 2 outlets)\n* Zimbabwe: Zimbabwean Economy Doing Very Well, Capable of Absorbing All Citizens Being Chased Out of South Africa - Says Mutsvangwa (AllAfrica News: Latest, 1 outlets)\n* Singapore to take 'more flexible approach' to dialect films, open to more Teochew screenings of Dear You (Latest News, 1 outlets)\n* 'They took a healthy kid and returned him dead': Bedouin dies in Israeli custody with signs of torture (Section Feed, 1 outlets)\n* Congo-Kinshasa: DR Congo Announces Free Healthcare for All Illnesses in Ituri As Ebola Gains Ground (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-06-23 (extractive mode)\n\n* South Africa: Lawsuit Risks for Unvaccinated Kids? - South African News Briefs - June 23, 2026 (AllAfrica News: Latest, 2 outlets)\n* Former Kenyan justice minister blocked from entering Uganda, lawyers' body says (BBC News, 2 outlets)\n* Keir Starmer has resigned, paving way for a 7th U.K. prime minister in 10 years (NPR Topics: World, 2 outlets)\n* Kane, England play Ghana at the World Cup: Prediction, team news, lineups (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Kenya minister found in contempt of court over US-backed Ebola centre (BBC News, 2 outlets)\n* Congo-Kinshasa: As Ebola Cases Hit 1,000, Almost 3 Million Children and Adolescents Face Rising Risks in Eastern DR Congo - Unicef (AllAfrica News: Latest, 1 outlets)\n* 'I do', but let's spend less: Lavish weddings lose appeal as Singapore couples focus on housing, family plans (Latest News, 1 outlets)\n* South Africa: SAPS Launches R600m Operation to Counter Anti-Immigrant Unrest Ahead of 30 June Deadline (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Constitution Defenders Forum Calls for CAB3 to Be Scrapped, Alleges Vote Tainted By Bribery (AllAfrica News: Latest, 1 outlets)\n* China, India unlikely to replace US role in Middle East even as Iran war reshapes dynamics: Analysts (Latest News, 1 outlets)\n* Man got free laptops using PayPal glitch but lodged police report out of guilt, gets detention order (Latest News, 1 outlets)\n* India 'proactively monitoring' Telegram over concerns about illegal content, government report shows (Latest News, 1 outlets)"
 }
