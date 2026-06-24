@@ -1,10 +1,24 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-23T10:27:14.278613+00:00",
-  "digest_words": 263,
+  "generated_at": "2026-06-24T10:12:21.560220+00:00",
+  "digest_words": 242,
   "clusters": [
     {
-      "headline": "South Africa: Lawsuit Risks for Unvaccinated Kids? - South African News Briefs - June 23, 2026",
+      "headline": "Congo-Kinshasa: Ebola in DR Congo - First Month of Outbreak Sees Record Number of Cases - UN Humanitarians",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "[UN News] Ebola has been spreading at unprecedented speed in the eastern Democratic Republic of the Congo (DRC), bringing risk and fear into people's daily lives, UN humanitarians said on Tuesday.",
+      "links": [
+        "https://allafrica.com/stories/202606240002.html",
+        "https://www.dw.com/en/ebola-in-dr-congo-sees-record-first-month-caseload/a-77672493?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "South Africa: Joburg Wins Court Battle Over Water Levy - South African News Briefs - June 24, 2026",
       "countries": [
         "South Africa"
       ],
@@ -14,56 +28,59 @@
       "outlets": 2,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202606230093.html",
-        "https://allafrica.com/stories/202606230099.html"
+        "https://allafrica.com/stories/202606240075.html",
+        "https://allafrica.com/stories/202606240076.html"
       ]
     },
     {
-      "headline": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
+      "headline": "Kenya: Kenya Halts U.S. Ebola Facility, Health Minister Apologises for Disobeying Orders",
       "countries": [
+        "United States",
         "Kenya"
       ],
       "regions": [
         "Africa",
-        "Europe"
+        "Middle East"
       ],
       "outlets": 2,
-      "summary": "Martha  Karua is a lawyer representing detained Ugandan opposition leader Kizza Besigye who is on trial for treason.",
+      "summary": "[RFI] Kenya has ordered a halt to preparations for a controversial US-run Ebola quarantine facility, the health minister told a court Tuesday, after being held in contempt for ignoring a previous stop-work order. The project has prompted widespread anger, and several people were killed during protes",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202606240003.html",
+        "https://www.aljazeera.com/video/newsfeed/2026/6/24/kenyan-health-minister-orders-halt-of-construction-of-us-ebola-facility?traffic_source=rss"
       ]
     },
     {
-      "headline": "Keir Starmer has resigned, paving way for a 7th U.K. prime minister in 10 years",
+      "headline": "Former Israeli prime minister says he smuggled Starlink receptors into Iran",
       "countries": [
-        "United Kingdom"
+        "Israel",
+        "Iran"
       ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 2,
-      "summary": "Prime Minister Keir Starmer is stepping down. His likely successor, Andy Burnham, a popular former mayor, would become the U.K.'s seventh prime minister in 10 years.",
-      "links": [
-        "https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns",
-        "https://www.npr.org/2026/06/22/nx-s1-5866213/uk-prime-minister-keir-starmer-announces-resignation"
-      ]
-    },
-    {
-      "headline": "Kane, England play Ghana at the World Cup: Prediction, team news, lineups",
-      "countries": [],
       "regions": [
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "Harry Kane&#039;s England and Ghana meet in the 2026 FIFA World Cup Group L, with the winner advancing to the round of 32.",
+      "summary": "\n\n  \n      \n      \nFormer Israeli prime minister says he smuggled Starlink receptors into Iran\n\n    \n    \n\n        \n    \n                Former&nbsp;Israeli&nbsp;Prime Minister Naftali Bennett said he had helped to smuggle tens of thousands of Starlink receptors into&nbsp;Iran.\n\nSpeaking at the JNS ",
       "links": [
-        "https://www.aljazeera.com/sports/2026/6/23/england-ghana-prediction-fifa-world-cup-2026-kickoff-channel-kane-partey?traffic_source=rss",
-        "https://www.aljazeera.com/sports/2026/6/23/portugal-vs-uzbekistan-world-cup-ronaldo-prediction-kickoff-team-news?traffic_source=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/former-israeli-prime-minister-says-he-smuggled-starlink-receptors-iran",
+        "https://www.middleeasteye.net/news/former-israeli-prime-minister-says-he-smuggled-starlink-receptors-iran"
       ]
     },
     {
-      "headline": "Kenya minister found in contempt of court over US-backed Ebola centre",
+      "headline": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+      "countries": [],
+      "regions": [
+        "Europe",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+        "https://www.aljazeera.com/news/2026/6/24/mamdani-backed-candidates-sweep-new-york-city-democratic-primaries?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "Kenya to charge students with murder over deadly school fire",
       "countries": [
         "Kenya"
       ],
@@ -72,40 +89,14 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Aden Duale defied a High Court order to stop building work on a controversial US-funded facility.",
+      "summary": "Sixteen pupils, aged between 15 and 18, died when a fire broke out in a dormitory at Utumishi Girls' School last month.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Congo-Kinshasa: As Ebola Cases Hit 1,000, Almost 3 Million Children and Adolescents Face Rising Risks in Eastern DR Congo - Unicef",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Unicef] New York/Kampala/Kinshasa -- Ebola has left over 130 children orphaned in Ituri, driving urgent need for protection and care",
-      "links": [
-        "https://allafrica.com/stories/202606230054.html"
-      ]
-    },
-    {
-      "headline": "'I do', but let's spend less: Lavish weddings lose appeal as Singapore couples focus on housing, family plans",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Some wedding planners say demand for large and luxury weddings has fallen, with guest lists shrinking and couples seeking more personalised options.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/marriage-weddings-lavish-spending-falls-couples-prioritise-financial-stability-6203251"
-      ]
-    },
-    {
-      "headline": "South Africa: SAPS Launches R600m Operation to Counter Anti-Immigrant Unrest Ahead of 30 June Deadline",
+      "headline": "Malawi: South Africa's Top Court Rules Edgar Lungu Will Be Buried in South Africa, Hands Victory to Family",
       "countries": [
         "South Africa"
       ],
@@ -113,65 +104,78 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Daily Maverick] Acting Police Minister Firoz Cachalia said the special operation against efforts to destabilise the country is costing taxpayers more than R600m.",
+      "summary": "[Nyasa Times] Former Zambian President Edgar Chagwa Lungu will be buried in South Africa after the country's Supreme Court of Appeal overturned an earlier ruling that would have allowed the Zambian Government to repatriate his remains for a state funeral and burial in Lusaka.",
       "links": [
-        "https://allafrica.com/stories/202606230035.html"
+        "https://allafrica.com/stories/202606230330.html"
       ]
     },
     {
-      "headline": "Zimbabwe: Constitution Defenders Forum Calls for CAB3 to Be Scrapped, Alleges Vote Tainted By Bribery",
-      "countries": [],
+      "headline": "\u2018Tainted by other men\u2019: Dettol issues public apology after \u2018sexist\u2019 detergent ad sparks anger in China",
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The five-minute ad depicting a boyfriend who demanded a \"clean\" wife has triggered outrage, with critics saying the campaign's attempt to challenge sexism instead reinforced harmful stereotypes.",
+      "links": [
+        "https://www.channelnewsasia.com/east-asia/dettol-china-controversy-detergent-ad-sexism-misogynism-6206431"
+      ]
+    },
+    {
+      "headline": "Nigeria: U.S. Sanctions Lagos-Based ISIS Financier, Bureaux De Change in Global Terror Crackdown",
+      "countries": [
+        "United States",
+        "Nigeria"
+      ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[New Zimbabwe] The Constitution Defenders Forum (CDF) has called for the immediate withdrawal of Constitutional Amendment Bill No. 3, describing Parliament's passage of the controversial legislation as flawed and tainted by bribery and undue influence.",
+      "summary": "[Vanguard] The United States has sanctioned a Lagos-based ISIS financier, Mukhtar Adamu Muhammad, 35, and three bureaux de change linked to him for allegedly moving funds for the group, as part of a sweeping action targeting ISIS financial networks across Europe, the Middle East, and West Africa.",
       "links": [
-        "https://allafrica.com/stories/202606230105.html"
+        "https://allafrica.com/stories/202606240051.html"
       ]
     },
     {
-      "headline": "China, India unlikely to replace US role in Middle East even as Iran war reshapes dynamics: Analysts",
+      "headline": "Property agent promoted Australia housing scheme that lost investors S$16 million, gets jail",
       "countries": [
-        "China",
-        "India",
-        "Iran"
+        "Australia"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The influence of rising powers in the Middle East is unlikely to take the form of the military presence traditionally associated with the United States, say analysts at the Middle East Institute\u2019s annual conference.",
+      "summary": "When the scheme fell through, 347 investors who had entered into finance agreements through introduction services provided by Wendy Kwek Siang Ling's company lost a total of S$16 million.",
       "links": [
-        "https://www.channelnewsasia.com/east-asia/iran-war-china-india-major-powers-middle-east-6200131"
+        "https://www.channelnewsasia.com/singapore/property-agent-promote-australia-pilbara-ponzi-scheme-lost-16m-6206411"
       ]
     },
     {
-      "headline": "Man got free laptops using PayPal glitch but lodged police report out of guilt, gets detention order",
+      "headline": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Logistics firms accelerate EV adoption amid high diesel prices, but heavy trucks lag behind",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "After earning some money from the scheme and recruiting four friends into it, he felt guilty and lodged a police report incriminating himself.",
+      "summary": "Some are holding back on electrifying their heavy fleets due to the limited availability of charging infrastructure designed for larger vehicles.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/man-paypal-glitch-laptop-delivery-call-police-6203421"
-      ]
-    },
-    {
-      "headline": "India 'proactively monitoring' Telegram over concerns about illegal content, government report shows",
-      "countries": [
-        "India"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/india-proactively-monitoring-telegram-over-concerns-about-illegal-content-government-report-shows-6203456"
+        "https://www.channelnewsasia.com/singapore/logistics-firms-electric-vehicle-fleet-heavy-trucks-6206436"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-23 (extractive mode)\n\n* South Africa: Lawsuit Risks for Unvaccinated Kids? - South African News Briefs - June 23, 2026 (AllAfrica News: Latest, 2 outlets)\n* Former Kenyan justice minister blocked from entering Uganda, lawyers' body says (BBC News, 2 outlets)\n* Keir Starmer has resigned, paving way for a 7th U.K. prime minister in 10 years (NPR Topics: World, 2 outlets)\n* Kane, England play Ghana at the World Cup: Prediction, team news, lineups (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Kenya minister found in contempt of court over US-backed Ebola centre (BBC News, 2 outlets)\n* Congo-Kinshasa: As Ebola Cases Hit 1,000, Almost 3 Million Children and Adolescents Face Rising Risks in Eastern DR Congo - Unicef (AllAfrica News: Latest, 1 outlets)\n* 'I do', but let's spend less: Lavish weddings lose appeal as Singapore couples focus on housing, family plans (Latest News, 1 outlets)\n* South Africa: SAPS Launches R600m Operation to Counter Anti-Immigrant Unrest Ahead of 30 June Deadline (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Constitution Defenders Forum Calls for CAB3 to Be Scrapped, Alleges Vote Tainted By Bribery (AllAfrica News: Latest, 1 outlets)\n* China, India unlikely to replace US role in Middle East even as Iran war reshapes dynamics: Analysts (Latest News, 1 outlets)\n* Man got free laptops using PayPal glitch but lodged police report out of guilt, gets detention order (Latest News, 1 outlets)\n* India 'proactively monitoring' Telegram over concerns about illegal content, government report shows (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-06-24 (extractive mode)\n\n* Congo-Kinshasa: Ebola in DR Congo - First Month of Outbreak Sees Record Number of Cases - UN Humanitarians (AllAfrica News: Latest, 2 outlets)\n* South Africa: Joburg Wins Court Battle Over Water Levy - South African News Briefs - June 24, 2026 (AllAfrica News: Latest, 2 outlets)\n* Kenya: Kenya Halts U.S. Ebola Facility, Health Minister Apologises for Disobeying Orders (AllAfrica News: Latest, 2 outlets)\n* Former Israeli prime minister says he smuggled Starlink receptors into Iran (Section Feed, 2 outlets)\n* Clean sweep for Mamdani-backed candidates in New York's Democratic primary (BBC News, 2 outlets)\n* Kenya to charge students with murder over deadly school fire (BBC News, 2 outlets)\n* Malawi: South Africa's Top Court Rules Edgar Lungu Will Be Buried in South Africa, Hands Victory to Family (AllAfrica News: Latest, 1 outlets)\n* \u2018Tainted by other men\u2019: Dettol issues public apology after \u2018sexist\u2019 detergent ad sparks anger in China (Latest News, 1 outlets)\n* Nigeria: U.S. Sanctions Lagos-Based ISIS Financier, Bureaux De Change in Global Terror Crackdown (AllAfrica News: Latest, 1 outlets)\n* Property agent promoted Australia housing scheme that lost investors S$16 million, gets jail (Latest News, 1 outlets)\n* UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls (BBC News, 1 outlets)\n* Logistics firms accelerate EV adoption amid high diesel prices, but heavy trucks lag behind (Latest News, 1 outlets)"
 }
