@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-25T10:01:10.051168+00:00",
-  "digest_words": 267,
+  "generated_at": "2026-06-26T10:12:59.620200+00:00",
+  "digest_words": 248,
   "clusters": [
     {
-      "headline": "South Africa: Bafana Bafana Advance to World Cup Knockout Stage - South African News Briefs - June 25, 2026",
+      "headline": "South Africa: Joburg to Hire 1,700 Despite Budget Crunch - South African News Briefs - June 26, 2026",
       "countries": [
         "South Africa"
       ],
@@ -14,75 +14,12 @@
       "outlets": 2,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202606250104.html",
-        "https://allafrica.com/stories/202606250108.html"
+        "https://allafrica.com/stories/202606260112.html",
+        "https://allafrica.com/stories/202606260142.html"
       ]
     },
     {
-      "headline": "Rubio warns ship transit fees in Hormuz would 'spread like contagion' to other waterways",
-      "countries": [],
-      "regions": [
-        "Asia",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nRubio warns ship transit fees in Hormuz would 'spread like contagion' to other waterways\n\n    \n    \n\n        \n    \n                US Secretary of State Marco Rubio warned that if Iran started charging ships to transit the Strait of Hormuz,&nbsp;warning that such a move could spre",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-warns-ship-transit-fees-hormuz-would-spread-contagion-other",
-        "https://www.channelnewsasia.com/world/strait-hormuz-rubio-warns-tolls-spread-other-waterways-6209656"
-      ]
-    },
-    {
-      "headline": "U.N. nuclear chief says inspectors will visit Iran, but Iran says only after final deal",
-      "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Americas",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The head of the U.N.'s atomic agency said Iran's nuclear enrichment sites would be inspected as part of the interim deal. Iran insists any such visit would only come after a final deal.",
-      "links": [
-        "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
-        "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Trump airs grievances with NATO chief over alliance's lack of Iran war support",
-      "countries": [
-        "United States",
-        "Iran"
-      ],
-      "regions": [
-        "Americas",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "President Trump met with NATO Secretary General Mark Rutte Wednesday, where he shared his frustrations with the lack of support he's received from allies on the Iran war.",
-      "links": [
-        "https://www.npr.org/2026/06/25/nx-s1-5869806/trump-airs-grievances-with-nato-chief-over-alliances-lack-of-iran-war-support",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/trump-criticises-european-allies-over-lack-support-during-war-iran"
-      ]
-    },
-    {
-      "headline": "South Africa celebrates reaching World Cup knockout stage for first time",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "South Africa\u2019s team has celebrated reaching the World Cup knockout stage for the first time after defeating South Korea.",
-      "links": [
-        "https://www.aljazeera.com/video/newsfeed/2026/6/25/south-africa-celebrates-reaching-world-cup-knockout-stage-for-first-time?traffic_source=rss",
-        "https://allafrica.com/stories/202606250096.html"
-      ]
-    },
-    {
-      "headline": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
+      "headline": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
       "countries": [
         "Kenya"
       ],
@@ -91,65 +28,41 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Protesters demand justice for more than 80 people killed during the 2024 demonstrations and last year's anniversary protests.",
+      "summary": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests.",
       "links": [
         "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
         "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Iran warns against Hormuz crossings without authorisation",
+      "headline": "Kenya: Eight Utumishi Girls Students to Be Charged Over Deadly School Fire",
       "countries": [
-        "Iran"
+        "Kenya"
       ],
       "regions": [
-        "Middle East"
+        "Africa"
       ],
       "outlets": 2,
-      "summary": "An oil tanker navigates the strait, reportedly hugging the western coast, despite threats from Revolutionary Guards.",
+      "summary": "[Capital FM] Nairobi -- Eight students linked to the deadly fire at Utumishi Girls' School in Gilgil will be formally charged in court on Friday following a hearing in Naivasha, prosecutors have confirmed.",
       "links": [
-        "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-against-hormuz-crossings-without-authorisation"
+        "https://allafrica.com/stories/202606260116.html",
+        "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Congo-Kinshasa: Unicef and Gavi Launch Call to Manufacturers in Support of Accelerated Access to Bundibugyo Ebolavirus Vaccines",
+      "headline": "Cote d'Ivoire: C&#xf4;te d'Ivoire Make World Cup History As P&#xe9;p&#xe9; Double Sends Elephants Through",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Unicef] New York/Geneva/Copenhagen -- In a move designed to accelerate access to a vaccine against Bundibugyo Ebolavirus disease, UNICEF and Gavi, the Vaccine Alliance today announced the launch of a Request for Expression of Interest (EOI) to gather information from vaccine developers and manufact",
+      "summary": "[CAF] C&#xf4;te d'Ivoire reached the knockout stage of the FIFA World Cup for the first time in their history after Nicolas P&#xe9;p&#xe9; scored twice in a composed 2-0 win over Cura&#xe7;ao in Philadelphia on Thursday night.",
       "links": [
-        "https://allafrica.com/stories/202606250092.html"
+        "https://allafrica.com/stories/202606260093.html"
       ]
     },
     {
-      "headline": "Africa: 655 Million People Still Living Without Electricity Underscore Urgent Need to Deliver On Universal Energy Access Target",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[WHO] At a time when energy security and affordability have risen to the top of the development agenda, 655 million people globally still lack access to electricity, and two billion use polluting fuels and technologies for cooking putting their health and well-being at risk. Sub-Saharan Africa bears",
-      "links": [
-        "https://allafrica.com/stories/202606250086.html"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: Outcry As Chiredzi Man Spends Second Night in Prison Over Viral Mnangagwa, Chivayo Criticism",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] A Chiredzi man arrested on allegations of incitement to commit public violence following a viral video in which he criticised President Emmerson Mnangagwa and businessman Wicknell Chivayo spent a second night behind bars Wednesday after failing to secure bail.",
-      "links": [
-        "https://allafrica.com/stories/202606250116.html"
-      ]
-    },
-    {
-      "headline": "Amazon, Microsoft cloud computing services should fall under EU tech rules, EU regulators say",
+      "headline": "Swatch claiming $170 million in damages against Samsung over trademark infringement, FT reports",
       "countries": [],
       "regions": [
         "Asia"
@@ -157,23 +70,99 @@
       "outlets": 1,
       "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/business/amazon-microsoft-cloud-computing-services-should-fall-under-eu-tech-rules-eu-regulators-say-6209821"
+        "https://www.channelnewsasia.com/business/swatch-claiming-170-million-in-damages-against-samsung-over-trademark-infringement-ft-reports-6212921"
       ]
     },
     {
-      "headline": "Kenya: Court Frees Ninth Suspect in Utumishi Academy Arson Case Ahead of Friday Plea Taking",
-      "countries": [
-        "Kenya"
+      "headline": "Man jailed after joining Cambodia scam syndicate that fired him in 3 days for poor performance",
+      "countries": [],
+      "regions": [
+        "Asia"
       ],
+      "outlets": 1,
+      "summary": "Yip Chee Ming was unsuccessful in making any scam calls while at the syndicate's compound.&nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/cambodian-scam-syndicate-man-jailed-failed-job-6212346"
+      ]
+    },
+    {
+      "headline": "'They can kill you': African migrants fear a surge in xenophobic violence in South Africa",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Foreign-owned businesses have been attacked, African migrants driven from their homes, and several killed. A leading xenophobic group has given all undocumented immigrants until June 30 to leave the country.",
+      "links": [
+        "https://www.npr.org/2026/06/25/nx-s1-5866241/they-can-kill-you-immigrants-fear-a-surge-in-xenophobic-violence-in-south-africa"
+      ]
+    },
+    {
+      "headline": "Namibia: Rainstorms Wreak Havoc in //Kharas ...Roofs Snatched, Families Forced to Rebuild",
+      "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Capital FM] A Naivasha court has ordered the release of a ninth suspect linked to the deadly Utumishi Girls Academy fire after investigators found no evidence connecting her to the tragedy, even as eight other students remain in custody awaiting plea-taking on murder charges.",
+      "summary": "[New Era] BLOUWES - Recent heavy rainfall accompanied by strong winds in //Kharas has left three homes at Farm Blouwes without roofs, forcing affected households to start from scratch.",
       "links": [
-        "https://allafrica.com/stories/202606250105.html"
+        "https://allafrica.com/stories/202606260038.html"
+      ]
+    },
+    {
+      "headline": "'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "A cemetery at the epicentre of the outbreak is rapidly filling up, however large traditional funerals have been scrapped.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cj3gx8jl6d5o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.npr.org/2026/06/26/nx-s1-5871963/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-attack-vessel"
+      ]
+    },
+    {
+      "headline": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
+      "countries": [
+        "France"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Syria after Assad: How Israeli settlers are trying to establish new facts on the ground",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nSyria after Assad: How Israeli settlers are trying to establish new facts on the ground\n\n    \n    \n\n          \n      \n      \n        Submitted by \nWesam Sharaf\n on \nWed, 06/17/2026 - 16:21\n\n        \n      \n    \n      \n    \n                Emboldened by decades of violence and impu",
+      "links": [
+        "https://www.middleeasteye.net/opinion/syria-after-assad-how-israeli-settlers-are-trying-establish-new-facts-ground"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-25 (extractive mode)\n\n* South Africa: Bafana Bafana Advance to World Cup Knockout Stage - South African News Briefs - June 25, 2026 (AllAfrica News: Latest, 2 outlets)\n* Rubio warns ship transit fees in Hormuz would 'spread like contagion' to other waterways (Section Feed, 2 outlets)\n* U.N. nuclear chief says inspectors will visit Iran, but Iran says only after final deal (NPR Topics: World, 2 outlets)\n* Trump airs grievances with NATO chief over alliance's lack of Iran war support (NPR Topics: World, 2 outlets)\n* South Africa celebrates reaching World Cup knockout stage for first time (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Police seal off key roads in Nairobi as Kenya braces for Gen Z protests (BBC News, 2 outlets)\n* Iran warns against Hormuz crossings without authorisation (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Congo-Kinshasa: Unicef and Gavi Launch Call to Manufacturers in Support of Accelerated Access to Bundibugyo Ebolavirus Vaccines (AllAfrica News: Latest, 1 outlets)\n* Africa: 655 Million People Still Living Without Electricity Underscore Urgent Need to Deliver On Universal Energy Access Target (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Outcry As Chiredzi Man Spends Second Night in Prison Over Viral Mnangagwa, Chivayo Criticism (AllAfrica News: Latest, 1 outlets)\n* Amazon, Microsoft cloud computing services should fall under EU tech rules, EU regulators say (Latest News, 1 outlets)\n* Kenya: Court Frees Ninth Suspect in Utumishi Academy Arson Case Ahead of Friday Plea Taking (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-06-26 (extractive mode)\n\n* South Africa: Joburg to Hire 1,700 Despite Budget Crunch - South African News Briefs - June 26, 2026 (AllAfrica News: Latest, 2 outlets)\n* Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests (BBC News, 2 outlets)\n* Kenya: Eight Utumishi Girls Students to Be Charged Over Deadly School Fire (AllAfrica News: Latest, 2 outlets)\n* Cote d'Ivoire: C&#xf4;te d'Ivoire Make World Cup History As P&#xe9;p&#xe9; Double Sends Elephants Through (AllAfrica News: Latest, 1 outlets)\n* Swatch claiming $170 million in damages against Samsung over trademark infringement, FT reports (Latest News, 1 outlets)\n* Man jailed after joining Cambodia scam syndicate that fired him in 3 days for poor performance (Latest News, 1 outlets)\n* 'They can kill you': African migrants fear a surge in xenophobic violence in South Africa (NPR Topics: World, 1 outlets)\n* Namibia: Rainstorms Wreak Havoc in //Kharas ...Roofs Snatched, Families Forced to Rebuild (AllAfrica News: Latest, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)\n* UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel (NPR Topics: World, 1 outlets)\n* Women alleging rape and sexual assault in France call to abolish statute of limitations (BBC News, 1 outlets)\n* Syria after Assad: How Israeli settlers are trying to establish new facts on the ground (Section Feed, 1 outlets)"
 }
