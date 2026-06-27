@@ -1,168 +1,174 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-26T10:12:59.620200+00:00",
-  "digest_words": 248,
+  "generated_at": "2026-06-27T09:20:58.767816+00:00",
+  "digest_words": 255,
   "clusters": [
     {
-      "headline": "South Africa: Joburg to Hire 1,700 Despite Budget Crunch - South African News Briefs - June 26, 2026",
+      "headline": "US-Iran agreement amounts to 'conditional surrender', analyst says on Tucker Carlson's show",
       "countries": [
-        "South Africa"
+        "Iran"
       ],
       "regions": [
-        "Africa"
+        "Middle East"
       ],
       "outlets": 2,
-      "summary": "[allAfrica]",
+      "summary": "\n\n  \n      \n      \nUS-Iran agreement amounts to 'conditional surrender', analyst says on Tucker Carlson's show\n\n    \n    \n\n        \n    \n                The memorandum of understanding (MoU) signed by the&nbsp;United States&nbsp;after the joint&nbsp;US-Israeli&nbsp;war on Iran&nbsp;amounts to a \"con",
       "links": [
-        "https://allafrica.com/stories/202606260112.html",
-        "https://allafrica.com/stories/202606260142.html"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-agreement-amounts-conditional-surrender-analyst-says-tucker",
+        "https://www.middleeasteye.net/news/US-Iran-MoU-conditional-surrender-analyst-Tucker-Carlson-show"
       ]
     },
     {
-      "headline": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-      "countries": [
-        "Kenya"
-      ],
+      "headline": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+      "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests.",
+      "summary": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Kenya: Eight Utumishi Girls Students to Be Charged Over Deadly School Fire",
+      "headline": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who&#039;s in and who&#039;s out.",
+      "links": [
+        "https://www.aljazeera.com/sports/2026/6/27/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
+        "https://www.aljazeera.com/sports/2026/6/27/which-teams-are-in-the-world-cup-round-of-32-and-whats-the-schedule?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "DR Congo takes Rwanda to international court over decades of conflict",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "U.S. strikes Iran in response to a drone attack on a ship",
+      "countries": [
+        "United States",
+        "Iran"
+      ],
+      "regions": [
+        "Americas",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The U.S. struck Iran on Friday in response to a drone attack a day earlier on a cargo ship in the Strait of Hormuz. It's the most significant test yet to an interim understanding reached a week ago by the two countries.",
+      "links": [
+        "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
+        "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Nigeria: President Tinubu Approves National Health Technology and Data Analytics Office, Appoints Obi Adigwe National Coordinator",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[State Department] President Bola Tinubu has approved the establishment of the National Health Technology and Data Analytics Office (NHTDAO) and appointed Dr Obi Adigwe as the pioneer National Coordinator.",
+      "links": [
+        "https://allafrica.com/stories/202606260493.html"
+      ]
+    },
+    {
+      "headline": "Africa: Blue Transformation: The future of food will be shaped by water -- Africa at the heart of FAO's strategy",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica]",
+      "links": [
+        "https://allafrica.com/stories/202606260456.html"
+      ]
+    },
+    {
+      "headline": "Kenya: DPP Closes Case in Sh8.2bn Meth Bust As Six Iranians Await Fate in Landmark Drug Trafficking Trial",
+      "countries": [
+        "Iran",
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Capital FM] Nairobi -- The Office of the Director of Public Prosecutions (DPP) has closed its case against six Iranian nationals accused of trafficking more than one tonne of methamphetamine worth Sh8.2 billion, paving the way for the court to determine whether they have a case to answer.",
+      "links": [
+        "https://allafrica.com/stories/202606260496.html"
+      ]
+    },
+    {
+      "headline": "Johor election: Malaysian task force to tackle potential border travel disruptions on Jul 11 polling day",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Home Minister Saifuddin Nasution Ismail said his ministry also plans to provide \u201cdedicated lanes\u201d at immigration checkpoints for Johoreans residing in Singapore and returning to vote at the Johor polls.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/johor-election-malaysian-task-force-tackle-potential-border-travel-disruptions-jul-11-polling-day-6214931"
+      ]
+    },
+    {
+      "headline": "Uganda: Cross-Border Businesses Crippled As Traders Appeal for Reopening of Mpondwe-Lhubiriha Border",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Nile Post] Traders operating at the Mpondwe-Lhubiriha border in Kasese District are facing mounting financial losses following the temporary closure of the border point, which was introduced several weeks ago as part of government measures to contain the spread of the Ebola outbreak.",
+      "links": [
+        "https://allafrica.com/stories/202606260403.html"
+      ]
+    },
+    {
+      "headline": "Kenya: Plea Deferred for 8 Utumishi Girls Students As Court Orders Mental Assessment in Murder Case",
       "countries": [
         "Kenya"
       ],
       "regions": [
         "Africa"
       ],
-      "outlets": 2,
-      "summary": "[Capital FM] Nairobi -- Eight students linked to the deadly fire at Utumishi Girls' School in Gilgil will be formally charged in court on Friday following a hearing in Naivasha, prosecutors have confirmed.",
-      "links": [
-        "https://allafrica.com/stories/202606260116.html",
-        "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Cote d'Ivoire: C&#xf4;te d'Ivoire Make World Cup History As P&#xe9;p&#xe9; Double Sends Elephants Through",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
       "outlets": 1,
-      "summary": "[CAF] C&#xf4;te d'Ivoire reached the knockout stage of the FIFA World Cup for the first time in their history after Nicolas P&#xe9;p&#xe9; scored twice in a composed 2-0 win over Cura&#xe7;ao in Philadelphia on Thursday night.",
+      "summary": "[Capital FM] Nairobi -- The High Court in Kibera has deferred plea-taking for eight Utumishi Girls Academy students charged with the murder of sixteen schoolmates who died in a dormitory fire last month, ordering that they undergo mental and age assessments before standing trial.",
       "links": [
-        "https://allafrica.com/stories/202606260093.html"
-      ]
-    },
-    {
-      "headline": "Swatch claiming $170 million in damages against Samsung over trademark infringement, FT reports",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/swatch-claiming-170-million-in-damages-against-samsung-over-trademark-infringement-ft-reports-6212921"
-      ]
-    },
-    {
-      "headline": "Man jailed after joining Cambodia scam syndicate that fired him in 3 days for poor performance",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Yip Chee Ming was unsuccessful in making any scam calls while at the syndicate's compound.&nbsp;",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/cambodian-scam-syndicate-man-jailed-failed-job-6212346"
-      ]
-    },
-    {
-      "headline": "'They can kill you': African migrants fear a surge in xenophobic violence in South Africa",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Foreign-owned businesses have been attacked, African migrants driven from their homes, and several killed. A leading xenophobic group has given all undocumented immigrants until June 30 to leave the country.",
-      "links": [
-        "https://www.npr.org/2026/06/25/nx-s1-5866241/they-can-kill-you-immigrants-fear-a-surge-in-xenophobic-violence-in-south-africa"
-      ]
-    },
-    {
-      "headline": "Namibia: Rainstorms Wreak Havoc in //Kharas ...Roofs Snatched, Families Forced to Rebuild",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Era] BLOUWES - Recent heavy rainfall accompanied by strong winds in //Kharas has left three homes at Farm Blouwes without roofs, forcing affected households to start from scratch.",
-      "links": [
-        "https://allafrica.com/stories/202606260038.html"
-      ]
-    },
-    {
-      "headline": "'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "A cemetery at the epicentre of the outbreak is rapidly filling up, however large traditional funerals have been scrapped.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cj3gx8jl6d5o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
-      "countries": [],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.npr.org/2026/06/26/nx-s1-5871963/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-attack-vessel"
-      ]
-    },
-    {
-      "headline": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-      "countries": [
-        "France"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Syria after Assad: How Israeli settlers are trying to establish new facts on the ground",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nSyria after Assad: How Israeli settlers are trying to establish new facts on the ground\n\n    \n    \n\n          \n      \n      \n        Submitted by \nWesam Sharaf\n on \nWed, 06/17/2026 - 16:21\n\n        \n      \n    \n      \n    \n                Emboldened by decades of violence and impu",
-      "links": [
-        "https://www.middleeasteye.net/opinion/syria-after-assad-how-israeli-settlers-are-trying-establish-new-facts-ground"
+        "https://allafrica.com/stories/202606260289.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-26 (extractive mode)\n\n* South Africa: Joburg to Hire 1,700 Despite Budget Crunch - South African News Briefs - June 26, 2026 (AllAfrica News: Latest, 2 outlets)\n* Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests (BBC News, 2 outlets)\n* Kenya: Eight Utumishi Girls Students to Be Charged Over Deadly School Fire (AllAfrica News: Latest, 2 outlets)\n* Cote d'Ivoire: C&#xf4;te d'Ivoire Make World Cup History As P&#xe9;p&#xe9; Double Sends Elephants Through (AllAfrica News: Latest, 1 outlets)\n* Swatch claiming $170 million in damages against Samsung over trademark infringement, FT reports (Latest News, 1 outlets)\n* Man jailed after joining Cambodia scam syndicate that fired him in 3 days for poor performance (Latest News, 1 outlets)\n* 'They can kill you': African migrants fear a surge in xenophobic violence in South Africa (NPR Topics: World, 1 outlets)\n* Namibia: Rainstorms Wreak Havoc in //Kharas ...Roofs Snatched, Families Forced to Rebuild (AllAfrica News: Latest, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)\n* UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel (NPR Topics: World, 1 outlets)\n* Women alleging rape and sexual assault in France call to abolish statute of limitations (BBC News, 1 outlets)\n* Syria after Assad: How Israeli settlers are trying to establish new facts on the ground (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-06-27 (extractive mode)\n\n* US-Iran agreement amounts to 'conditional surrender', analyst says on Tucker Carlson's show (Section Feed, 2 outlets)\n* Four men held over child marriage in Sierra Leone appear in landmark court case (BBC News, 2 outlets)\n* US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals (BBC News, 2 outlets)\n* Which teams have qualified for the World Cup 2026 knockouts, round of 32? (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* DR Congo takes Rwanda to international court over decades of conflict (BBC News, 2 outlets)\n* U.S. strikes Iran in response to a drone attack on a ship (NPR Topics: World, 2 outlets)\n* Nigeria: President Tinubu Approves National Health Technology and Data Analytics Office, Appoints Obi Adigwe National Coordinator (AllAfrica News: Latest, 1 outlets)\n* Africa: Blue Transformation: The future of food will be shaped by water -- Africa at the heart of FAO's strategy (AllAfrica News: Latest, 1 outlets)\n* Kenya: DPP Closes Case in Sh8.2bn Meth Bust As Six Iranians Await Fate in Landmark Drug Trafficking Trial (AllAfrica News: Latest, 1 outlets)\n* Johor election: Malaysian task force to tackle potential border travel disruptions on Jul 11 polling day (Latest News, 1 outlets)\n* Uganda: Cross-Border Businesses Crippled As Traders Appeal for Reopening of Mpondwe-Lhubiriha Border (AllAfrica News: Latest, 1 outlets)\n* Kenya: Plea Deferred for 8 Utumishi Girls Students As Court Orders Mental Assessment in Murder Case (AllAfrica News: Latest, 1 outlets)"
 }
