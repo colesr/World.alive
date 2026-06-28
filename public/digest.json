@@ -1,10 +1,23 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-27T09:20:58.767816+00:00",
-  "digest_words": 255,
+  "generated_at": "2026-06-28T09:51:37.622032+00:00",
+  "digest_words": 264,
   "clusters": [
     {
-      "headline": "US-Iran agreement amounts to 'conditional surrender', analyst says on Tucker Carlson's show",
+      "headline": "Which teams are in World Cup last-32 knockouts, and what is the schedule?",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "All the qualified teams and match schedule for the round of 32 at the 2026 FIFA World Cup, which begins on Sunday.",
+      "links": [
+        "https://www.aljazeera.com/sports/2026/6/28/which-teams-are-in-world-cup-last-32-knockouts-and-what-is-the-schedule?traffic_source=rss",
+        "https://www.aljazeera.com/sports/2026/6/28/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
       "countries": [
         "Iran"
       ],
@@ -12,51 +25,10 @@
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \nUS-Iran agreement amounts to 'conditional surrender', analyst says on Tucker Carlson's show\n\n    \n    \n\n        \n    \n                The memorandum of understanding (MoU) signed by the&nbsp;United States&nbsp;after the joint&nbsp;US-Israeli&nbsp;war on Iran&nbsp;amounts to a \"con",
+      "summary": "US strikes Iran for a second day near Strait of Hormuz as Bahrain sounds sirens and Kuwait activates air defences.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-agreement-amounts-conditional-surrender-analyst-says-tucker",
-        "https://www.middleeasteye.net/news/US-Iran-MoU-conditional-surrender-analyst-Tucker-Carlson-show"
-      ]
-    },
-    {
-      "headline": "Four men held over child marriage in Sierra Leone appear in landmark court case",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who&#039;s in and who&#039;s out.",
-      "links": [
-        "https://www.aljazeera.com/sports/2026/6/27/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
-        "https://www.aljazeera.com/sports/2026/6/27/which-teams-are-in-the-world-cup-round-of-32-and-whats-the-schedule?traffic_source=rss"
+        "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
+        "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss"
       ]
     },
     {
@@ -74,20 +46,19 @@
       ]
     },
     {
-      "headline": "U.S. strikes Iran in response to a drone attack on a ship",
+      "headline": "Burkina Faso severs diplomatic ties with France",
       "countries": [
-        "United States",
-        "Iran"
+        "France"
       ],
       "regions": [
-        "Americas",
+        "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The U.S. struck Iran on Friday in response to a drone attack a day earlier on a cargo ship in the Strait of Hormuz. It's the most significant test yet to an interim understanding reached a week ago by the two countries.",
+      "summary": "The West African country's junta accused the former colonial power of undermining its national interests.",
       "links": [
-        "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
-        "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -132,18 +103,6 @@
       ]
     },
     {
-      "headline": "Johor election: Malaysian task force to tackle potential border travel disruptions on Jul 11 polling day",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Home Minister Saifuddin Nasution Ismail said his ministry also plans to provide \u201cdedicated lanes\u201d at immigration checkpoints for Johoreans residing in Singapore and returning to vote at the Johor polls.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/johor-election-malaysian-task-force-tackle-potential-border-travel-disruptions-jul-11-polling-day-6214931"
-      ]
-    },
-    {
       "headline": "Uganda: Cross-Border Businesses Crippled As Traders Appeal for Reopening of Mpondwe-Lhubiriha Border",
       "countries": [],
       "regions": [
@@ -168,7 +127,45 @@
       "links": [
         "https://allafrica.com/stories/202606260289.html"
       ]
+    },
+    {
+      "headline": "'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "A cemetery at the epicentre of the outbreak is rapidly filling up, however large traditional funerals have been scrapped.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cj3gx8jl6d5o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "A historian analyzes whether Ukraine has a localized advantage in modern combat power",
+      "countries": [
+        "Ukraine"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "NPR's Scott Simon talks with strategic studies professor Phillips O'Brien of St Andrew's University in Scotland about whether Ukraine has gained the upper hand in the fight against Russia.",
+      "links": [
+        "https://www.npr.org/2026/06/27/nx-s1-5869693/a-historian-analyzes-whether-ukraine-has-a-localized-advantage-in-modern-combat-power"
+      ]
+    },
+    {
+      "headline": "Low Thia Khiang says he will support Pritam Singh ahead of special cadres conference",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The Workers' Party is holding a special cadres conference over the future of secretary-general Pritam Singh, months after he was convicted of lying to a parliamentary committee of privileges.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/pritam-singh-workers-party-low-thia-kiang-6216066"
+      ]
     }
   ],
-  "narrative": "State of the World - 2026-06-27 (extractive mode)\n\n* US-Iran agreement amounts to 'conditional surrender', analyst says on Tucker Carlson's show (Section Feed, 2 outlets)\n* Four men held over child marriage in Sierra Leone appear in landmark court case (BBC News, 2 outlets)\n* US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals (BBC News, 2 outlets)\n* Which teams have qualified for the World Cup 2026 knockouts, round of 32? (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* DR Congo takes Rwanda to international court over decades of conflict (BBC News, 2 outlets)\n* U.S. strikes Iran in response to a drone attack on a ship (NPR Topics: World, 2 outlets)\n* Nigeria: President Tinubu Approves National Health Technology and Data Analytics Office, Appoints Obi Adigwe National Coordinator (AllAfrica News: Latest, 1 outlets)\n* Africa: Blue Transformation: The future of food will be shaped by water -- Africa at the heart of FAO's strategy (AllAfrica News: Latest, 1 outlets)\n* Kenya: DPP Closes Case in Sh8.2bn Meth Bust As Six Iranians Await Fate in Landmark Drug Trafficking Trial (AllAfrica News: Latest, 1 outlets)\n* Johor election: Malaysian task force to tackle potential border travel disruptions on Jul 11 polling day (Latest News, 1 outlets)\n* Uganda: Cross-Border Businesses Crippled As Traders Appeal for Reopening of Mpondwe-Lhubiriha Border (AllAfrica News: Latest, 1 outlets)\n* Kenya: Plea Deferred for 8 Utumishi Girls Students As Court Orders Mental Assessment in Murder Case (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-06-28 (extractive mode)\n\n* Which teams are in World Cup last-32 knockouts, and what is the schedule? (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* DR Congo takes Rwanda to international court over decades of conflict (BBC News, 2 outlets)\n* Burkina Faso severs diplomatic ties with France (BBC News, 2 outlets)\n* Nigeria: President Tinubu Approves National Health Technology and Data Analytics Office, Appoints Obi Adigwe National Coordinator (AllAfrica News: Latest, 1 outlets)\n* Africa: Blue Transformation: The future of food will be shaped by water -- Africa at the heart of FAO's strategy (AllAfrica News: Latest, 1 outlets)\n* Kenya: DPP Closes Case in Sh8.2bn Meth Bust As Six Iranians Await Fate in Landmark Drug Trafficking Trial (AllAfrica News: Latest, 1 outlets)\n* Uganda: Cross-Border Businesses Crippled As Traders Appeal for Reopening of Mpondwe-Lhubiriha Border (AllAfrica News: Latest, 1 outlets)\n* Kenya: Plea Deferred for 8 Utumishi Girls Students As Court Orders Mental Assessment in Murder Case (AllAfrica News: Latest, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)\n* A historian analyzes whether Ukraine has a localized advantage in modern combat power (NPR Topics: World, 1 outlets)\n* Low Thia Khiang says he will support Pritam Singh ahead of special cadres conference (Latest News, 1 outlets)"
 }
