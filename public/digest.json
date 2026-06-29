@@ -1,131 +1,163 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-28T09:51:37.622032+00:00",
-  "digest_words": 264,
+  "generated_at": "2026-06-29T11:52:20.797113+00:00",
+  "digest_words": 245,
   "clusters": [
     {
-      "headline": "Which teams are in World Cup last-32 knockouts, and what is the schedule?",
-      "countries": [],
+      "headline": "Azerbaijan issues rare rebuke against key ally Israel over Armenian genocide recognition",
+      "countries": [
+        "Israel"
+      ],
       "regions": [
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "All the qualified teams and match schedule for the round of 32 at the 2026 FIFA World Cup, which begins on Sunday.",
+      "summary": "\n\n  \n      \n      \nAzerbaijan issues rare rebuke against key ally Israel over Armenian genocide recognition\n\n    \n    \n\n        \n    \n                The Israeli&nbsp;government\u2019s decision on Sunday to formally recognise the Armenian genocide has drawn a rare rebuke from Azerbaijan, a close Israeli ",
       "links": [
-        "https://www.aljazeera.com/sports/2026/6/28/which-teams-are-in-world-cup-last-32-knockouts-and-what-is-the-schedule?traffic_source=rss",
-        "https://www.aljazeera.com/sports/2026/6/28/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/azerbaijan-issues-rare-rebuke-against-key-ally-israel-over-armenian",
+        "https://www.middleeasteye.net/news/israel-faces-rare-azerbaijani-rebuke-over-armenian-genocide-recognition"
       ]
     },
     {
-      "headline": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
+      "headline": "U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire",
       "countries": [
+        "United States",
         "Iran"
       ],
       "regions": [
+        "Americas",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "President Trump accused Iran of violating their framework agreement, and Tehran threatened to halt negotiations with the U.S. entirely. Meanwhile, violence continued between Israel and Hezbollah.",
+      "links": [
+        "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
+        "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Netherlands vs Morocco: FIFA World Cup Round of 32: Prediction, team news",
+      "countries": [
+        "Netherlands"
+      ],
+      "regions": [
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "US strikes Iran for a second day near Strait of Hormuz as Bahrain sounds sirens and Kuwait activates air defences.",
+      "summary": "A rare meeting of the top 10 ranked teams sees Morocco take on the Netherlands in the round of 32 in Monterrey, Mexico.",
       "links": [
-        "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
-        "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss"
+        "https://www.aljazeera.com/sports/2026/6/29/netherlands-vs-morocco-fifa-world-cup-round-of-32-prediction-team-news?traffic_source=rss",
+        "https://www.aljazeera.com/sports/2026/6/29/fifa-world-cup-round-of-32-schedule-predictions-and-latest-news?traffic_source=rss"
       ]
     },
     {
-      "headline": "DR Congo takes Rwanda to international court over decades of conflict",
+      "headline": "Senior South African police officer survives assassination attempt",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Deputy crime intelligence boss Maj-Gen Feroz Khan was due to appear before an inquiry into police corruption this week.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Kpod user who drove against traffic, causing crash, jailed in first such case since etomidate listed as drug",
       "countries": [],
       "regions": [
-        "Africa",
-        "Europe"
+        "Asia"
       ],
-      "outlets": 2,
-      "summary": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
+      "outlets": 1,
+      "summary": "The victim saw Ng Bing Hong's vehicle approaching his and reversed but could not avoid a collision.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/singapore/kpod-etomidate-driver-crash-jail-ban-6218271"
       ]
     },
     {
-      "headline": "Burkina Faso severs diplomatic ties with France",
+      "headline": "Kenya: Kibera Court Hands Two Men Combined 70-Year Jail Term for Violent Robbery and Sexual Assault",
       "countries": [
-        "France"
+        "Kenya"
       ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Africa"
       ],
-      "outlets": 2,
-      "summary": "The West African country's junta accused the former colonial power of undermining its national interests.",
+      "outlets": 1,
+      "summary": "[Capital FM] Nairobi -- Two men convicted of robbery and sexual assault have each been handed consecutive prison sentences totaling 70 years after the Office of the Director of Public Prosecutions (ODPP) successfully secured their conviction at the Kibera Law Courts.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202606290368.html"
       ]
     },
     {
-      "headline": "Nigeria: President Tinubu Approves National Health Technology and Data Analytics Office, Appoints Obi Adigwe National Coordinator",
+      "headline": "South Africa: Ramaphosa Warns Protesters Against Violence Before Anti-Migrant Demonstrations",
       "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Capital FM] Nairobi -- South African President Cyril Ramaphosa has issued a firm warning that any criminal conduct during planned nationwide protests against undocumented immigration will be met with the full force of the law, as several African governments move to evacuate thousands of their citiz",
+      "links": [
+        "https://allafrica.com/stories/202606290381.html"
+      ]
+    },
+    {
+      "headline": "Nigeria: We Recovered the Biggest Haul of Terrorists' Equipment in Nigeria Since 9-11 - U.S.",
+      "countries": [
+        "United States",
         "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[State Department] President Bola Tinubu has approved the establishment of the National Health Technology and Data Analytics Office (NHTDAO) and appointed Dr Obi Adigwe as the pioneer National Coordinator.",
+      "summary": "[This Day] The United States has disclosed that the cache of seized materials from terrorists during its recent raid in Nigeria was the largest haul of enemy electronic equipment recovered since the September 11, 2001, terrorist attacks.",
       "links": [
-        "https://allafrica.com/stories/202606260493.html"
+        "https://allafrica.com/stories/202606290135.html"
       ]
     },
     {
-      "headline": "Africa: Blue Transformation: The future of food will be shaped by water -- Africa at the heart of FAO's strategy",
+      "headline": "MOH to revoke licence of LC Nursing Home in Siglap after finding lapses in care and safety",
       "countries": [],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "The Health Ministry found serious lapses at LC Nursing Home, including staff members administering medication without suitable credentials.",
       "links": [
-        "https://allafrica.com/stories/202606260456.html"
+        "https://www.channelnewsasia.com/singapore/lc-nursing-home-licence-revoke-moh-6218516"
       ]
     },
     {
-      "headline": "Kenya: DPP Closes Case in Sh8.2bn Meth Bust As Six Iranians Await Fate in Landmark Drug Trafficking Trial",
-      "countries": [
-        "Iran",
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- The Office of the Director of Public Prosecutions (DPP) has closed its case against six Iranian nationals accused of trafficking more than one tonne of methamphetamine worth Sh8.2 billion, paving the way for the court to determine whether they have a case to answer.",
-      "links": [
-        "https://allafrica.com/stories/202606260496.html"
-      ]
-    },
-    {
-      "headline": "Uganda: Cross-Border Businesses Crippled As Traders Appeal for Reopening of Mpondwe-Lhubiriha Border",
+      "headline": "More seniors level up with esports pro training aimed at boosting reflexes, digital skills",
       "countries": [],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[Nile Post] Traders operating at the Mpondwe-Lhubiriha border in Kasese District are facing mounting financial losses following the temporary closure of the border point, which was introduced several weeks ago as part of government measures to contain the spread of the Ebola outbreak.",
+      "summary": "Some 2,400 coaching sessions will be conducted at gaming facilities in Bishan, Pasir Ris and Jurong West.",
       "links": [
-        "https://allafrica.com/stories/202606260403.html"
+        "https://www.channelnewsasia.com/singapore/seniors-esports-gaming-train-boosting-reflexes-digital-skills-lions-befrienders-6218286"
       ]
     },
     {
-      "headline": "Kenya: Plea Deferred for 8 Utumishi Girls Students As Court Orders Mental Assessment in Murder Case",
+      "headline": "Singapore Airlines and Air China sign MOU to deepen cooperation, expand codeshare services",
       "countries": [
-        "Kenya"
+        "China",
+        "Singapore"
       ],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- The High Court in Kibera has deferred plea-taking for eight Utumishi Girls Academy students charged with the murder of sixteen schoolmates who died in a dormitory fire last month, ordering that they undergo mental and age assessments before standing trial.",
+      "summary": "Under the agreement, the airlines could expand their codeshare partnership to additional routes between Singapore and mainland China, within China and to destinations beyond the two countries.",
       "links": [
-        "https://allafrica.com/stories/202606260289.html"
+        "https://www.channelnewsasia.com/singapore/singapore-airlines-air-china-mou-codeshare-6218296"
       ]
     },
     {
@@ -139,33 +171,7 @@
       "links": [
         "https://www.bbc.co.uk/news/articles/cj3gx8jl6d5o?at_medium=RSS&at_campaign=rss"
       ]
-    },
-    {
-      "headline": "A historian analyzes whether Ukraine has a localized advantage in modern combat power",
-      "countries": [
-        "Ukraine"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "NPR's Scott Simon talks with strategic studies professor Phillips O'Brien of St Andrew's University in Scotland about whether Ukraine has gained the upper hand in the fight against Russia.",
-      "links": [
-        "https://www.npr.org/2026/06/27/nx-s1-5869693/a-historian-analyzes-whether-ukraine-has-a-localized-advantage-in-modern-combat-power"
-      ]
-    },
-    {
-      "headline": "Low Thia Khiang says he will support Pritam Singh ahead of special cadres conference",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The Workers' Party is holding a special cadres conference over the future of secretary-general Pritam Singh, months after he was convicted of lying to a parliamentary committee of privileges.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/pritam-singh-workers-party-low-thia-kiang-6216066"
-      ]
     }
   ],
-  "narrative": "State of the World - 2026-06-28 (extractive mode)\n\n* Which teams are in World Cup last-32 knockouts, and what is the schedule? (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* DR Congo takes Rwanda to international court over decades of conflict (BBC News, 2 outlets)\n* Burkina Faso severs diplomatic ties with France (BBC News, 2 outlets)\n* Nigeria: President Tinubu Approves National Health Technology and Data Analytics Office, Appoints Obi Adigwe National Coordinator (AllAfrica News: Latest, 1 outlets)\n* Africa: Blue Transformation: The future of food will be shaped by water -- Africa at the heart of FAO's strategy (AllAfrica News: Latest, 1 outlets)\n* Kenya: DPP Closes Case in Sh8.2bn Meth Bust As Six Iranians Await Fate in Landmark Drug Trafficking Trial (AllAfrica News: Latest, 1 outlets)\n* Uganda: Cross-Border Businesses Crippled As Traders Appeal for Reopening of Mpondwe-Lhubiriha Border (AllAfrica News: Latest, 1 outlets)\n* Kenya: Plea Deferred for 8 Utumishi Girls Students As Court Orders Mental Assessment in Murder Case (AllAfrica News: Latest, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)\n* A historian analyzes whether Ukraine has a localized advantage in modern combat power (NPR Topics: World, 1 outlets)\n* Low Thia Khiang says he will support Pritam Singh ahead of special cadres conference (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-06-29 (extractive mode)\n\n* Azerbaijan issues rare rebuke against key ally Israel over Armenian genocide recognition (Section Feed, 2 outlets)\n* U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire (NPR Topics: World, 2 outlets)\n* Netherlands vs Morocco: FIFA World Cup Round of 32: Prediction, team news (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Senior South African police officer survives assassination attempt (BBC News, 2 outlets)\n* Kpod user who drove against traffic, causing crash, jailed in first such case since etomidate listed as drug (Latest News, 1 outlets)\n* Kenya: Kibera Court Hands Two Men Combined 70-Year Jail Term for Violent Robbery and Sexual Assault (AllAfrica News: Latest, 1 outlets)\n* South Africa: Ramaphosa Warns Protesters Against Violence Before Anti-Migrant Demonstrations (AllAfrica News: Latest, 1 outlets)\n* Nigeria: We Recovered the Biggest Haul of Terrorists' Equipment in Nigeria Since 9-11 - U.S. (AllAfrica News: Latest, 1 outlets)\n* MOH to revoke licence of LC Nursing Home in Siglap after finding lapses in care and safety (Latest News, 1 outlets)\n* More seniors level up with esports pro training aimed at boosting reflexes, digital skills (Latest News, 1 outlets)\n* Singapore Airlines and Air China sign MOU to deepen cooperation, expand codeshare services (Latest News, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)"
 }
