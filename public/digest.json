@@ -1,57 +1,40 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-29T11:52:20.797113+00:00",
-  "digest_words": 245,
+  "generated_at": "2026-06-30T10:22:29.864629+00:00",
+  "digest_words": 255,
   "clusters": [
     {
-      "headline": "Azerbaijan issues rare rebuke against key ally Israel over Armenian genocide recognition",
-      "countries": [
-        "Israel"
-      ],
+      "headline": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
+      "countries": [],
       "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nAzerbaijan issues rare rebuke against key ally Israel over Armenian genocide recognition\n\n    \n    \n\n        \n    \n                The Israeli&nbsp;government\u2019s decision on Sunday to formally recognise the Armenian genocide has drawn a rare rebuke from Azerbaijan, a close Israeli ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/azerbaijan-issues-rare-rebuke-against-key-ally-israel-over-armenian",
-        "https://www.middleeasteye.net/news/israel-faces-rare-azerbaijani-rebuke-over-armenian-genocide-recognition"
-      ]
-    },
-    {
-      "headline": "U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire",
-      "countries": [
-        "United States",
-        "Iran"
-      ],
-      "regions": [
-        "Americas",
+        "Africa",
         "Europe"
       ],
-      "outlets": 2,
-      "summary": "President Trump accused Iran of violating their framework agreement, and Tehran threatened to halt negotiations with the U.S. entirely. Meanwhile, violence continued between Israel and Hezbollah.",
+      "outlets": 3,
+      "summary": "Opposition politicians accuse the government of using the outbreak to halt a planned protest.",
       "links": [
-        "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
-        "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
+        "https://allafrica.com/stories/202606300149.html"
       ]
     },
     {
-      "headline": "Netherlands vs Morocco: FIFA World Cup Round of 32: Prediction, team news",
+      "headline": "South Africa: Ramaphosa Urges Calm Ahead of Anti-Migrant Protests - South African News Briefs - June 30, 2026",
       "countries": [
-        "Netherlands"
+        "South Africa"
       ],
       "regions": [
-        "Middle East"
+        "Africa"
       ],
       "outlets": 2,
-      "summary": "A rare meeting of the top 10 ranked teams sees Morocco take on the Netherlands in the round of 32 in Monterrey, Mexico.",
+      "summary": "[allAfrica]",
       "links": [
-        "https://www.aljazeera.com/sports/2026/6/29/netherlands-vs-morocco-fifa-world-cup-round-of-32-prediction-team-news?traffic_source=rss",
-        "https://www.aljazeera.com/sports/2026/6/29/fifa-world-cup-round-of-32-schedule-predictions-and-latest-news?traffic_source=rss"
+        "https://allafrica.com/stories/202606300110.html",
+        "https://allafrica.com/stories/202606300119.html"
       ]
     },
     {
-      "headline": "Senior South African police officer survives assassination attempt",
+      "headline": "Africa: CPJ, Partners Condemn Targeting of Journalists Covering South Africa's Anti-Migrant Protests",
       "countries": [
         "South Africa"
       ],
@@ -60,40 +43,70 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Deputy crime intelligence boss Maj-Gen Feroz Khan was due to appear before an inquiry into police corruption this week.",
+      "summary": "[CPJ] The Committee to Protect Journalists has joined seven other media freedom organizations in condemning attacks on foreign nationals and the targeting of journalists covering anti-migrant protests in South Africa.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202606300024.html",
+        "https://www.dw.com/en/south-africa-braces-for-anti-migrant-protests/a-77722920?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Kpod user who drove against traffic, causing crash, jailed in first such case since etomidate listed as drug",
+      "headline": "Heavy security in South Africa as anti-migrant protesters take to the streets",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Pride Month has great significance for those who feel invisible. In Slovenia, many LGBTQ+ people understand just what that means",
       "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "One of the first steps taken by Slovenia's new right-wing government in June was to remove the rainbow flag outside the Culture Ministry. As Pride Month draws to a close, DW surveys the situation of the LGBTQ+ community.",
+      "links": [
+        "https://www.dw.com/en/pride-month-has-great-significance-for-those-who-feel-invisible-in-slovenia-many-lgbtq-people-understand-just-what-that-means/a-77753587?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Four men nabbed as Singapore cracks down on first suspected transnational Kpod syndicate under tougher anti-vaping law",
+      "countries": [
+        "Singapore"
+      ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The victim saw Ng Bing Hong's vehicle approaching his and reversed but could not avoid a collision.",
+      "summary": "The case follows an earlier S$800,000 Kpod bust, with suppliers and importers now facing significantly harsher jail terms and caning under the amended law.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/kpod-etomidate-driver-crash-jail-ban-6218271"
+        "https://www.channelnewsasia.com/singapore/etomidate-kpod-vape-amended-law-hsa-transnational-syndicate-6221231"
       ]
     },
     {
-      "headline": "Kenya: Kibera Court Hands Two Men Combined 70-Year Jail Term for Violent Robbery and Sexual Assault",
+      "headline": "Nigeria: Top Boko Haram, ISWAP Commanders Surrender As Troops Intensify Operations Against Terrorists in North-East",
       "countries": [
-        "Kenya"
+        "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- Two men convicted of robbery and sexual assault have each been handed consecutive prison sentences totaling 70 years after the Office of the Director of Public Prosecutions (ODPP) successfully secured their conviction at the Kibera Law Courts.",
+      "summary": "[This Day] Abuja -- The Joint Task Force (North East), Operation Hadin Kai (OPHK), has recorded another major breakthrough in its counter-terrorism campaign, with top Boko Haram and Islamic State West Africa Province (ISWAP) commanders abandoning their enclaves and surrendering to troops following s",
       "links": [
-        "https://allafrica.com/stories/202606290368.html"
+        "https://allafrica.com/stories/202606300085.html"
       ]
     },
     {
-      "headline": "South Africa: Ramaphosa Warns Protesters Against Violence Before Anti-Migrant Demonstrations",
+      "headline": "Zimbabwe: Zimbabwe Waives Import Duty for South Africa Returnees, Imposes Strict Conditions to Curb Abuse",
       "countries": [
         "South Africa"
       ],
@@ -101,77 +114,59 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- South African President Cyril Ramaphosa has issued a firm warning that any criminal conduct during planned nationwide protests against undocumented immigration will be met with the full force of the law, as several African governments move to evacuate thousands of their citiz",
+      "summary": "[New Zimbabwe] GOVERNMENT has announced a special duty waiver for Zimbabweans returning from South Africa, but has imposed strict conditions aimed at preventing \"abuse by non-qualifying individuals\".",
       "links": [
-        "https://allafrica.com/stories/202606290381.html"
+        "https://allafrica.com/stories/202606300134.html"
       ]
     },
     {
-      "headline": "Nigeria: We Recovered the Biggest Haul of Terrorists' Equipment in Nigeria Since 9-11 - U.S.",
-      "countries": [
-        "United States",
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[This Day] The United States has disclosed that the cache of seized materials from terrorists during its recent raid in Nigeria was the largest haul of enemy electronic equipment recovered since the September 11, 2001, terrorist attacks.",
-      "links": [
-        "https://allafrica.com/stories/202606290135.html"
-      ]
-    },
-    {
-      "headline": "MOH to revoke licence of LC Nursing Home in Siglap after finding lapses in care and safety",
+      "headline": "Hong Kong prison service pulls controversial AI-generated K-pop ad after anti-drug messaging backfires",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The Health Ministry found serious lapses at LC Nursing Home, including staff members administering medication without suitable credentials.",
+      "summary": "Featuring four female K-pop stars who later transform into old men behind bars, the ad was meant to convey the message that drugs will ruin lives \u201cno matter how pretty they're packaged\u201d.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/lc-nursing-home-licence-revoke-moh-6218516"
+        "https://www.channelnewsasia.com/east-asia/hong-kong-ai-anti-drug-video-ad-kpop-controversy-6221001"
       ]
     },
     {
-      "headline": "More seniors level up with esports pro training aimed at boosting reflexes, digital skills",
+      "headline": "14,000 tickets for Teochew screenings of Dear You sell out in 3 hours, 100 more screenings requested",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Some 2,400 coaching sessions will be conducted at gaming facilities in Bishan, Pasir Ris and Jurong West.",
+      "summary": "Long queues formed at Golden Village cinema outlets as all 40 additional commercial screenings of Dear You in its original Teochew sold out within three hours.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/seniors-esports-gaming-train-boosting-reflexes-digital-skills-lions-befrienders-6218286"
+        "https://www.channelnewsasia.com/entertainment/dear-you-teochew-tickets-sold-out-6221046"
       ]
     },
     {
-      "headline": "Singapore Airlines and Air China sign MOU to deepen cooperation, expand codeshare services",
-      "countries": [
-        "China",
-        "Singapore"
-      ],
+      "headline": "LTA ramps up efforts against indiscriminate bicycle parking, more spaces planned at transport nodes",
+      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Under the agreement, the airlines could expand their codeshare partnership to additional routes between Singapore and mainland China, within China and to destinations beyond the two countries.",
+      "summary": "More than 30,000 advisory notices have been issued since 2023 as authorities tackle the persistent issue of bicycles blocking walkways and station entrances.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/singapore-airlines-air-china-mou-codeshare-6218296"
+        "https://www.channelnewsasia.com/singapore/indiscriminate-bicycle-parking-mrt-stations-lta-6221071"
       ]
     },
     {
-      "headline": "'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely",
+      "headline": "Two women to be charged over using S$1.7 million of misappropriated funds on gambling, loans",
       "countries": [],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "A cemetery at the epicentre of the outbreak is rapidly filling up, however large traditional funerals have been scrapped.",
+      "summary": "One of the women, now aged 65, allegedly&nbsp;misappropriated S$1,729,000 from a bank's vault while working there as a branch manager.&nbsp;",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cj3gx8jl6d5o?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/singapore/women-charged-bank-funds-illegal-gambling-6221286"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-29 (extractive mode)\n\n* Azerbaijan issues rare rebuke against key ally Israel over Armenian genocide recognition (Section Feed, 2 outlets)\n* U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire (NPR Topics: World, 2 outlets)\n* Netherlands vs Morocco: FIFA World Cup Round of 32: Prediction, team news (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Senior South African police officer survives assassination attempt (BBC News, 2 outlets)\n* Kpod user who drove against traffic, causing crash, jailed in first such case since etomidate listed as drug (Latest News, 1 outlets)\n* Kenya: Kibera Court Hands Two Men Combined 70-Year Jail Term for Violent Robbery and Sexual Assault (AllAfrica News: Latest, 1 outlets)\n* South Africa: Ramaphosa Warns Protesters Against Violence Before Anti-Migrant Demonstrations (AllAfrica News: Latest, 1 outlets)\n* Nigeria: We Recovered the Biggest Haul of Terrorists' Equipment in Nigeria Since 9-11 - U.S. (AllAfrica News: Latest, 1 outlets)\n* MOH to revoke licence of LC Nursing Home in Siglap after finding lapses in care and safety (Latest News, 1 outlets)\n* More seniors level up with esports pro training aimed at boosting reflexes, digital skills (Latest News, 1 outlets)\n* Singapore Airlines and Air China sign MOU to deepen cooperation, expand codeshare services (Latest News, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-06-30 (extractive mode)\n\n* DR Congo bans mass gatherings in the  capital to prevent spread of Ebola (BBC News, 3 outlets)\n* South Africa: Ramaphosa Urges Calm Ahead of Anti-Migrant Protests - South African News Briefs - June 30, 2026 (AllAfrica News: Latest, 2 outlets)\n* Africa: CPJ, Partners Condemn Targeting of Journalists Covering South Africa's Anti-Migrant Protests (AllAfrica News: Latest, 2 outlets)\n* Heavy security in South Africa as anti-migrant protesters take to the streets (BBC News, 2 outlets)\n* Pride Month has great significance for those who feel invisible. In Slovenia, many LGBTQ+ people understand just what that means (World | Deutsche Welle, 1 outlets)\n* Four men nabbed as Singapore cracks down on first suspected transnational Kpod syndicate under tougher anti-vaping law (Latest News, 1 outlets)\n* Nigeria: Top Boko Haram, ISWAP Commanders Surrender As Troops Intensify Operations Against Terrorists in North-East (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Zimbabwe Waives Import Duty for South Africa Returnees, Imposes Strict Conditions to Curb Abuse (AllAfrica News: Latest, 1 outlets)\n* Hong Kong prison service pulls controversial AI-generated K-pop ad after anti-drug messaging backfires (Latest News, 1 outlets)\n* 14,000 tickets for Teochew screenings of Dear You sell out in 3 hours, 100 more screenings requested (Latest News, 1 outlets)\n* LTA ramps up efforts against indiscriminate bicycle parking, more spaces planned at transport nodes (Latest News, 1 outlets)\n* Two women to be charged over using S$1.7 million of misappropriated funds on gambling, loans (Latest News, 1 outlets)"
 }
