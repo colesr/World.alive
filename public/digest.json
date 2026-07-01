@@ -1,40 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-06-30T10:22:29.864629+00:00",
-  "digest_words": 255,
+  "generated_at": "2026-07-01T10:37:08.728005+00:00",
+  "digest_words": 434,
   "clusters": [
     {
-      "headline": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 3,
-      "summary": "Opposition politicians accuse the government of using the outbreak to halt a planned protest.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
-        "https://allafrica.com/stories/202606300149.html"
-      ]
-    },
-    {
-      "headline": "South Africa: Ramaphosa Urges Calm Ahead of Anti-Migrant Protests - South African News Briefs - June 30, 2026",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 2,
-      "summary": "[allAfrica]",
-      "links": [
-        "https://allafrica.com/stories/202606300110.html",
-        "https://allafrica.com/stories/202606300119.html"
-      ]
-    },
-    {
-      "headline": "Africa: CPJ, Partners Condemn Targeting of Journalists Covering South Africa's Anti-Migrant Protests",
+      "headline": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
       "countries": [
         "South Africa"
       ],
@@ -43,70 +13,40 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "[CPJ] The Committee to Protect Journalists has joined seven other media freedom organizations in condemning attacks on foreign nationals and the targeting of journalists covering anti-migrant protests in South Africa.",
-      "links": [
-        "https://allafrica.com/stories/202606300024.html",
-        "https://www.dw.com/en/south-africa-braces-for-anti-migrant-protests/a-77722920?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Heavy security in South Africa as anti-migrant protesters take to the streets",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+      "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
       "links": [
         "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
         "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Pride Month has great significance for those who feel invisible. In Slovenia, many LGBTQ+ people understand just what that means",
+      "headline": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
       "countries": [],
       "regions": [
+        "Africa",
         "Europe"
       ],
-      "outlets": 1,
-      "summary": "One of the first steps taken by Slovenia's new right-wing government in June was to remove the rainbow flag outside the Culture Ministry. As Pride Month draws to a close, DW surveys the situation of the LGBTQ+ community.",
+      "outlets": 2,
+      "summary": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
       "links": [
-        "https://www.dw.com/en/pride-month-has-great-significance-for-those-who-feel-invisible-in-slovenia-many-lgbtq-people-understand-just-what-that-means/a-77753587?maca=en-rss-en-world-4025-rdf"
+        "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Four men nabbed as Singapore cracks down on first suspected transnational Kpod syndicate under tougher anti-vaping law",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The case follows an earlier S$800,000 Kpod bust, with suppliers and importers now facing significantly harsher jail terms and caning under the amended law.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/etomidate-kpod-vape-amended-law-hsa-transnational-syndicate-6221231"
-      ]
-    },
-    {
-      "headline": "Nigeria: Top Boko Haram, ISWAP Commanders Surrender As Troops Intensify Operations Against Terrorists in North-East",
-      "countries": [
-        "Nigeria"
-      ],
+      "headline": "Zimbabwe: Mnangagwa One Step From Extending Term As Parliament Passes Constitutional Amendment Bill No. 3 Again",
+      "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[This Day] Abuja -- The Joint Task Force (North East), Operation Hadin Kai (OPHK), has recorded another major breakthrough in its counter-terrorism campaign, with top Boko Haram and Islamic State West Africa Province (ISWAP) commanders abandoning their enclaves and surrendering to troops following s",
+      "summary": "[New Zimbabwe] PARLIAMENT has passed the Constitutional Amendment Bill No. 3 for a second time after the National Assembly adopted amendments proposed by the Senate, paving the way for President Emmerson Mnangagwa's assent.",
       "links": [
-        "https://allafrica.com/stories/202606300085.html"
+        "https://allafrica.com/stories/202607010059.html"
       ]
     },
     {
-      "headline": "Zimbabwe: Zimbabwe Waives Import Duty for South Africa Returnees, Imposes Strict Conditions to Curb Abuse",
+      "headline": "South Africa: One Dead, 11 Hurt in Limpopo Border Bus Crash - South African News Briefs - July 1, 2026",
       "countries": [
         "South Africa"
       ],
@@ -114,59 +54,109 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[New Zimbabwe] GOVERNMENT has announced a special duty waiver for Zimbabweans returning from South Africa, but has imposed strict conditions aimed at preventing \"abuse by non-qualifying individuals\".",
+      "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202606300134.html"
+        "https://allafrica.com/stories/202607010084.html"
       ]
     },
     {
-      "headline": "Hong Kong prison service pulls controversial AI-generated K-pop ad after anti-drug messaging backfires",
+      "headline": "Contractor, supervisor get conditional warning over Lower Peirce Reservoir tree clearance: NParks",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Featuring four female K-pop stars who later transform into old men behind bars, the ad was meant to convey the message that drugs will ruin lives \u201cno matter how pretty they're packaged\u201d.",
+      "summary": "The contractor and project supervisor have been issued with a 24-month conditional warning.",
       "links": [
-        "https://www.channelnewsasia.com/east-asia/hong-kong-ai-anti-drug-video-ad-kpop-controversy-6221001"
+        "https://www.channelnewsasia.com/singapore/nparks-tree-clearance-lower-peirce-reservoir-conditional-warning-6224381"
       ]
     },
     {
-      "headline": "14,000 tickets for Teochew screenings of Dear You sell out in 3 hours, 100 more screenings requested",
+      "headline": "Read it yourself: The UN report on Israel targeting Palestinian children stands up to scrutiny",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nRead it yourself: The UN report on Israel targeting Palestinian children stands up to scrutiny\n\n    \n    \n\n          \n      \n      \n        Submitted by \nPeter Oborne\n on \nMon, 06/29/2026 - 21:58\n\n        \n      \n    \n      \n    \n                The 94-page document offers a clear",
+      "links": [
+        "https://www.middleeasteye.net/opinion/read-it-yourself-un-report-israel-targeting-palestinian-children-stands-scrutiny"
+      ]
+    },
+    {
+      "headline": "Cote d'Ivoire: C&#xf4;te d'Ivoire Exit World Cup With Pride After Historic Run - Amad Diallo",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[CAF] C&#xf4;te d'Ivoire's 2026 FIFA World Cup journey ended in disappointment, but Amad Diallo says the Elephants can leave North America proud after reaching the knockout stage for the first time in their history.",
+      "links": [
+        "https://allafrica.com/stories/202607010127.html"
+      ]
+    },
+    {
+      "headline": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "President Trump called the ruling a \"big win\", while an LGBT group said it was \"heartbreaking\".",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "European holidaymakers stay closer to home as Middle East conflict reshapes summer travel",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Long queues formed at Golden Village cinema outlets as all 40 additional commercial screenings of Dear You in its original Teochew sold out within three hours.",
+      "summary": "Geopolitical uncertainty is prompting more Europeans to book trips later, favour nearby destinations and rethink long-haul holidays, leaving travel firms facing an unpredictable peak season.",
       "links": [
-        "https://www.channelnewsasia.com/entertainment/dear-you-teochew-tickets-sold-out-6221046"
+        "https://www.channelnewsasia.com/world/europe-travel-middle-east-conflict-6224281"
       ]
     },
     {
-      "headline": "LTA ramps up efforts against indiscriminate bicycle parking, more spaces planned at transport nodes",
+      "headline": "'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "A cemetery at the epicentre of the outbreak is rapidly filling up, however large traditional funerals have been scrapped.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cj3gx8jl6d5o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Village People singer Victor Willis dies at 74, co-writer of YMCA and other disco hits",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "More than 30,000 advisory notices have been issued since 2023 as authorities tackle the persistent issue of bicycles blocking walkways and station entrances.",
+      "summary": "The Texas-born musician was a co-founder of the disco group and also co-wrote other hits such as In The Navy and Macho Man that swept the world's dancefloors in the late 1970s.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/indiscriminate-bicycle-parking-mrt-stations-lta-6221071"
+        "https://www.channelnewsasia.com/entertainment/village-people-victor-willis-dies-ymca-6224531"
       ]
     },
     {
-      "headline": "Two women to be charged over using S$1.7 million of misappropriated funds on gambling, loans",
+      "headline": "Former air force chief fined for driving into maid who was pushing toddler in stroller",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "One of the women, now aged 65, allegedly&nbsp;misappropriated S$1,729,000 from a bank's vault while working there as a branch manager.&nbsp;",
+      "summary": "The maid was hospitalised and struggled to return to work due to pain, with her employer having to hire part-time help to take over from her.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/women-charged-bank-funds-illegal-gambling-6221286"
+        "https://www.channelnewsasia.com/singapore/air-force-chief-fined-collide-maid-stroller-6224376"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-06-30 (extractive mode)\n\n* DR Congo bans mass gatherings in the  capital to prevent spread of Ebola (BBC News, 3 outlets)\n* South Africa: Ramaphosa Urges Calm Ahead of Anti-Migrant Protests - South African News Briefs - June 30, 2026 (AllAfrica News: Latest, 2 outlets)\n* Africa: CPJ, Partners Condemn Targeting of Journalists Covering South Africa's Anti-Migrant Protests (AllAfrica News: Latest, 2 outlets)\n* Heavy security in South Africa as anti-migrant protesters take to the streets (BBC News, 2 outlets)\n* Pride Month has great significance for those who feel invisible. In Slovenia, many LGBTQ+ people understand just what that means (World | Deutsche Welle, 1 outlets)\n* Four men nabbed as Singapore cracks down on first suspected transnational Kpod syndicate under tougher anti-vaping law (Latest News, 1 outlets)\n* Nigeria: Top Boko Haram, ISWAP Commanders Surrender As Troops Intensify Operations Against Terrorists in North-East (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Zimbabwe Waives Import Duty for South Africa Returnees, Imposes Strict Conditions to Curb Abuse (AllAfrica News: Latest, 1 outlets)\n* Hong Kong prison service pulls controversial AI-generated K-pop ad after anti-drug messaging backfires (Latest News, 1 outlets)\n* 14,000 tickets for Teochew screenings of Dear You sell out in 3 hours, 100 more screenings requested (Latest News, 1 outlets)\n* LTA ramps up efforts against indiscriminate bicycle parking, more spaces planned at transport nodes (Latest News, 1 outlets)\n* Two women to be charged over using S$1.7 million of misappropriated funds on gambling, loans (Latest News, 1 outlets)"
+  "narrative": "**State of the World - Daily Email Digest**\n\n**Global Unrest and Conflict**\n\nLeading our digest today are stories of unrest and conflict from around the world. In South Africa, thousands of anti-migrant protesters marched amid a heavy police presence, with foreigners already leaving the country ahead of a deadline set by anti-migrant groups (BBC News, Africa and Europe). The sentiment tone for this story is -0.62, indicating a strongly negative tone.\n\nSimilarly, in Sudan, Amnesty International has reported that the Rapid Support Forces (RSF) committed crimes against humanity in el-Fasher, with the UN saying the atrocities bore the hallmarks of genocide (BBC News, Africa and Europe).\n\n**Regional Politics and Governance**\n\nIn Zimbabwe, Parliament has passed the Constitutional Amendment Bill No. 3 for a second time, paving the way for President Mnangagwa to extend his term (AllAfrica News, Africa). This move has significant implications for the country's governance and political stability.\n\nIn a related story, the UN report on Israel targeting Palestinian children has been scrutinized, with some outlets defending the report's findings (Section Feed, Middle East). The sentiment tone for this story is -0.03, indicating a slightly negative tone.\n\n**Social and Humanitarian Issues**\n\nIn South Africa, one person has died and 11 others were injured in a bus crash at the Limpopo border (AllAfrica News, Africa). The sentiment tone for this story is -0.62, indicating a strongly negative tone.\n\nIn other news, Ebola mourners in Africa are learning how to grieve safely, with large traditional funerals being scrapped due to the risk of transmission (BBC News, Africa).\n\n**Global News and Trends**\n\nIn the US, the Supreme Court has upheld bans on transgender athletes in female school and college sports, sparking controversy and debate (BBC News, Europe).\n\nIn Asia, European holidaymakers are staying closer to home due to the Middle East conflict, with travel firms facing an unpredictable peak season (Latest News, Asia).\n\n**Other News**\n\nIn Singapore, a contractor and supervisor have been issued with a 24-month conditional warning over tree clearance at Lower Peirce Reservoir (Latest News, Asia).\n\nIn Cote d'Ivoire, the national football team has exited the World Cup with pride after a historic run (AllAfrica News, Africa).\n\nIn entertainment news, Village People singer Victor Willis has died at 74, leaving behind a legacy of disco hits (Latest News, Asia).\n\nFinally, in a notable incident, a former air force chief has been fined for driving into a maid who was pushing a toddler in a stroller (Latest News, Asia).\n\nThese stories represent a snapshot of the global news landscape, with a focus on the most significant and impactful events from around the world."
 }
