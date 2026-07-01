@@ -152,75 +152,108 @@ def _combined_similarity(item1: dict, item2: dict, title_weight: float = 0.7) ->
 
 
 def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
-    """Improved clustering by combining title and summary similarity with iterative refinement."""
-    clusters: list[dict] = []  # each: {"title_tokens": set, "summary_tokens": set, "items": [..]}
+    """Enhanced clustering using centroid-based similarity with iterative refinement."""
+    if not items:
+        return []
     
-    # Sort items by title length (longer titles first) for better centroid representation
+    # Sort items by title length (longer titles first) for better initial centroid selection
     sorted_items = sorted(items, key=lambda x: len(x["title"]), reverse=True)
+    
+    clusters = []  # Each cluster: {"centroid_tokens": {"title": set, "summary": set}, "items": [..]}
     
     for item in sorted_items:
         item_title_tokens = _tokens(item["title"])
         item_summary_tokens = _tokens(item["summary"])
-        best, best_score = None, 0.0
+        best_cluster_idx = -1
+        best_score = 0.0
         
-        # Find the best matching cluster
-        for cluster in clusters:
-            # Calculate combined similarity using both title and summary
-            score = _combined_similarity(item, cluster["items"][0])
+        # Find the best matching cluster by comparing to centroid
+        for i, cluster in enumerate(clusters):
+            # Calculate combined similarity using both title and summary against centroid
+            title_score = _similarity(item_title_tokens, cluster["centroid_tokens"]["title"])
+            summary_score = _similarity(item_summary_tokens, cluster["centroid_tokens"]["summary"])
+            score = 0.7 * title_score + 0.3 * summary_score
+            
             if score > best_score:
-                best, best_score = cluster, score
+                best_cluster_idx, best_score = i, score
                 
-        # If we found a good match, add to that cluster
-        if best is not None and best_score >= threshold:
-            best["items"].append(item)
-            # Update the cluster's token sets to improve future matching
-            best["title_tokens"] |= item_title_tokens
-            best["summary_tokens"] |= item_summary_tokens
+        # If we found a good match, add to that cluster and update centroid
+        if best_cluster_idx >= 0 and best_score >= threshold:
+            cluster = clusters[best_cluster_idx]
+            cluster["items"].append(item)
+            # Update centroid by merging tokens (incremental averaging)
+            cluster["centroid_tokens"]["title"] |= item_title_tokens
+            cluster["centroid_tokens"]["summary"] |= item_summary_tokens
         else:
-            # Create a new cluster
+            # Create a new cluster with this item as the seed
             clusters.append({
-                "title_tokens": set(item_title_tokens),
-                "summary_tokens": set(item_summary_tokens),
+                "centroid_tokens": {
+                    "title": set(item_title_tokens),
+                    "summary": set(item_summary_tokens)
+                },
                 "items": [item]
             })
-            
-    # Second pass: Try to merge similar clusters to further reduce duplicates
-    merged_clusters = []
-    used_indices = set()
     
-    for i, cluster_a in enumerate(clusters):
-        if i in used_indices:
-            continue
-            
-        # Start with the current cluster
-        merged_cluster = {
-            "title_tokens": set(cluster_a["title_tokens"]),
-            "summary_tokens": set(cluster_a["summary_tokens"]),
-            "items": list(cluster_a["items"])
-        }
-        used_indices.add(i)
+    # Iterative refinement: Reassign items to better clusters
+    changed = True
+    max_iterations = 3
+    iteration = 0
+    
+    while changed and iteration < max_iterations:
+        changed = False
+        iteration += 1
         
-        # Check for merge candidates
-        for j, cluster_b in enumerate(clusters[i+1:], i+1):
-            if j in used_indices:
-                continue
+        # For each cluster, check if items might fit better elsewhere
+        for cluster in clusters:
+            items_to_move = []
+            for item in cluster["items"][1:]:  # Skip the first item (seed)
+                item_title_tokens = _tokens(item["title"])
+                item_summary_tokens = _tokens(item["summary"])
+                current_score = 0.7 * _similarity(item_title_tokens, cluster["centroid_tokens"]["title"]) + \
+                               0.3 * _similarity(item_summary_tokens, cluster["centroid_tokens"]["summary"])
                 
-            # Use a slightly lower threshold for cluster merging
-            title_score = _similarity(cluster_a["title_tokens"], cluster_b["title_tokens"])
-            summary_score = _similarity(cluster_a["summary_tokens"], cluster_b["summary_tokens"])
-            combined_score = 0.7 * title_score + 0.3 * summary_score
+                best_other_cluster_idx = -1
+                best_other_score = current_score
+                
+                # Check all other clusters
+                for i, other_cluster in enumerate(clusters):
+                    if other_cluster is cluster:  # Skip self
+                        continue
+                    title_score = _similarity(item_title_tokens, other_cluster["centroid_tokens"]["title"])
+                    summary_score = _similarity(item_summary_tokens, other_cluster["centroid_tokens"]["summary"])
+                    other_score = 0.7 * title_score + 0.3 * summary_score
+                    
+                    if other_score > best_other_score:
+                        best_other_cluster_idx, best_other_score = i, other_score
+                
+                # If better cluster found, mark for moving
+                if best_other_cluster_idx >= 0 and best_other_score > current_score:
+                    items_to_move.append((item, best_other_cluster_idx))
             
-            if combined_score >= threshold * 0.8:  # Slightly lower threshold for cluster merging
-                merged_cluster["title_tokens"] |= cluster_b["title_tokens"]
-                merged_cluster["summary_tokens"] |= cluster_b["summary_tokens"]
-                merged_cluster["items"].extend(cluster_b["items"])
-                used_indices.add(j)
-                
-        merged_clusters.append(merged_cluster)
+            # Move items to better clusters
+            for item, target_idx in items_to_move:
+                cluster["items"].remove(item)
+                clusters[target_idx]["items"].append(item)
+                changed = True
+        
+        # Recalculate centroids after moves
+        for cluster in clusters:
+            if cluster["items"]:
+                # Reset centroid tokens
+                all_title_tokens = set()
+                all_summary_tokens = set()
+                for item in cluster["items"]:
+                    all_title_tokens |= _tokens(item["title"])
+                    all_summary_tokens |= _tokens(item["summary"])
+                cluster["centroid_tokens"]["title"] = all_title_tokens
+                cluster["centroid_tokens"]["summary"] = all_summary_tokens
+    
+    # Remove empty clusters
+    clusters = [c for c in clusters if c["items"]]
     
     # Sort by cluster size (bigger clusters first = more widely covered = more important)
-    merged_clusters.sort(key=lambda c: len(c["items"]), reverse=True)
-    return [c["items"] for c in merged_clusters]
+    clusters.sort(key=lambda c: len(c["items"]), reverse=True)
+    return [c["items"] for c in clusters]
 
 
 # ---------------------------------------------------------------------------
