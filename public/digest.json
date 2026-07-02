@@ -1,24 +1,8 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-01T10:37:08.728005+00:00",
-  "digest_words": 434,
+  "generated_at": "2026-07-02T09:50:58.016224+00:00",
+  "digest_words": 391,
   "clusters": [
-    {
-      "headline": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
-      ]
-    },
     {
       "headline": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
       "countries": [],
@@ -26,137 +10,175 @@
         "Africa",
         "Europe"
       ],
-      "outlets": 2,
+      "outlets": 3,
       "summary": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
       "links": [
         "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202607020102.html",
+        "https://www.dw.com/en/sudan-s-rsf-accused-of-crimes-against-humanity-in-el-fasher/a-77781532?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Zimbabwe: Mnangagwa One Step From Extending Term As Parliament Passes Constitutional Amendment Bill No. 3 Again",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] PARLIAMENT has passed the Constitutional Amendment Bill No. 3 for a second time after the National Assembly adopted amendments proposed by the Senate, paving the way for President Emmerson Mnangagwa's assent.",
-      "links": [
-        "https://allafrica.com/stories/202607010059.html"
-      ]
-    },
-    {
-      "headline": "South Africa: One Dead, 11 Hurt in Limpopo Border Bus Crash - South African News Briefs - July 1, 2026",
+      "headline": "South Africa: Foreign-Owned Shops Looted in Durban - South African News Briefs - July 2, 2026",
       "countries": [
         "South Africa"
       ],
       "regions": [
         "Africa"
       ],
-      "outlets": 1,
+      "outlets": 2,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202607010084.html"
+        "https://allafrica.com/stories/202607020100.html",
+        "https://allafrica.com/stories/202607020105.html"
       ]
     },
     {
-      "headline": "Contractor, supervisor get conditional warning over Lower Peirce Reservoir tree clearance: NParks",
+      "headline": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
+      "countries": [
+        "Nigeria",
+        "South Africa"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Nigeria's High Commissioner says businesses and properties left behind by returnees are being documented.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "West Africa: How the Cocoa Price Crash is Crushing West African Farmers",
       "countries": [],
       "regions": [
-        "Asia"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "The contractor and project supervisor have been issued with a 24-month conditional warning.",
+      "outlets": 2,
+      "summary": "[DW] Cocoa prices reached a peak in 2024 before plummeting by nearly 75%, dealing a financial blow to millions of farmers in Ghana and Cote d'Ivoire. Will the crisis mark a turning point for the sector?",
       "links": [
-        "https://www.channelnewsasia.com/singapore/nparks-tree-clearance-lower-peirce-reservoir-conditional-warning-6224381"
+        "https://allafrica.com/stories/202607020104.html",
+        "https://www.dw.com/en/how-the-cocoa-price-crash-is-crushing-west-african-farmers/a-77784709?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Read it yourself: The UN report on Israel targeting Palestinian children stands up to scrutiny",
+      "headline": "Pakistan PM Sharif to attend funeral of Iran's Ali Khamenei",
       "countries": [
-        "Israel"
+        "Iran",
+        "Pakistan",
+        "China"
       ],
       "regions": [
         "Middle East"
       ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nRead it yourself: The UN report on Israel targeting Palestinian children stands up to scrutiny\n\n    \n    \n\n          \n      \n      \n        Submitted by \nPeter Oborne\n on \nMon, 06/29/2026 - 21:58\n\n        \n      \n    \n      \n    \n                The 94-page document offers a clear",
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nPakistan PM Sharif to attend funeral of Iran's Ali Khamenei\n\n    \n    \n\n        \n    \n                Pakistani Prime Minister Shehbaz Sharif will attend the state funeral of&nbsp;Iran's former Supreme Leader Ayatollah Ali Khamenei, Pakistan's foreign ministry said.\n\nThe 86-year o",
       "links": [
-        "https://www.middleeasteye.net/opinion/read-it-yourself-un-report-israel-targeting-palestinian-children-stands-scrutiny"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-sharif-attend-funeral-irans-ali-khamenei",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/senior-chinese-lawmaker-attend-khamenei-funeral"
       ]
     },
     {
-      "headline": "Cote d'Ivoire: C&#xf4;te d'Ivoire Exit World Cup With Pride After Historic Run - Amad Diallo",
+      "headline": "Rwanda: German Prosecutors Arrest Rwanda Genocide Suspect",
+      "countries": [
+        "Germany"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "[DW] A German-Rwandan national has been arrested on suspicion of complicity in murders during Rwanda's 1994 genocide. He is thought to have been personally involved in the killing of one victim.",
+      "links": [
+        "https://allafrica.com/stories/202607020101.html",
+        "https://www.dw.com/en/german-prosecutors-arrest-rwanda-genocide-suspect/a-77784724?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Pakistan says US-Iran talks make progress in Doha",
+      "countries": [
+        "Iran",
+        "Pakistan"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nPakistan says US-Iran talks make progress in Doha\n\n    \n    \n\n        \n    \n                Pakistan says indirect talks between Iranian and US delegations in Doha have ended with \u201cpositive progress made on issues related to the aspects of the Islamabad MoU\u201d.\n\nIn a statement, Paki",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-us-iran-talks-make-progress-doha",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-us-iran-talks-made-positive-progress"
+      ]
+    },
+    {
+      "headline": "Zimbabwe: Chiwenga Sends Another Cryptic Message, Says People Should Have Participated in Constitutional Amendment",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[CAF] C&#xf4;te d'Ivoire's 2026 FIFA World Cup journey ended in disappointment, but Amad Diallo says the Elephants can leave North America proud after reaching the knockout stage for the first time in their history.",
+      "summary": "[New Zimbabwe] VICE President Constantino Chiwenga has sent another cryptic message on Constitutional Amendment Bill No.3 (CAB3), by using the bible to tell party supporters that a referendum should have been held.",
       "links": [
-        "https://allafrica.com/stories/202607010127.html"
+        "https://allafrica.com/stories/202607020107.html"
       ]
     },
     {
-      "headline": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
+      "headline": "A decade since Duterte's deadly drug war, victims' families continue fight for justice as ICC trial nears",
       "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Human rights groups believe the true death toll could be in the tens of thousands, arguing that many killings went undocumented.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/philippines-drug-war-president-duterte-icc-trial-families-6226996"
+      ]
+    },
+    {
+      "headline": "Chinese electric scooter maker Luyuan apologises for risque advertisements that sparked controversy",
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The ads, which were subsequently removed, featured female models in various sexually suggestive poses.",
+      "links": [
+        "https://www.channelnewsasia.com/east-asia/china-ev-scooter-maker-luyuan-apologise-advertisement-controversy-6227166"
+      ]
+    },
+    {
+      "headline": "Mother fails in court bid to get ex-husband to foot half their daughter's Australia university bill",
+      "countries": [
+        "Australia"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The court said it was not reasonable to order the father to foot half of the bill when he had, from the outset, expressed concerns about the cost and said he preferred that his daughter attend a local university.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/mother-fails-father-foot-half-australia-university-bill-maintenance-6226986"
+      ]
+    },
+    {
+      "headline": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+      "countries": [
+        "United States"
+      ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "President Trump called the ruling a \"big win\", while an LGBT group said it was \"heartbreaking\".",
+      "summary": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "European holidaymakers stay closer to home as Middle East conflict reshapes summer travel",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Geopolitical uncertainty is prompting more Europeans to book trips later, favour nearby destinations and rethink long-haul holidays, leaving travel firms facing an unpredictable peak season.",
-      "links": [
-        "https://www.channelnewsasia.com/world/europe-travel-middle-east-conflict-6224281"
-      ]
-    },
-    {
-      "headline": "'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "A cemetery at the epicentre of the outbreak is rapidly filling up, however large traditional funerals have been scrapped.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cj3gx8jl6d5o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Village People singer Victor Willis dies at 74, co-writer of YMCA and other disco hits",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The Texas-born musician was a co-founder of the disco group and also co-wrote other hits such as In The Navy and Macho Man that swept the world's dancefloors in the late 1970s.",
-      "links": [
-        "https://www.channelnewsasia.com/entertainment/village-people-victor-willis-dies-ymca-6224531"
-      ]
-    },
-    {
-      "headline": "Former air force chief fined for driving into maid who was pushing toddler in stroller",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The maid was hospitalised and struggled to return to work due to pain, with her employer having to hire part-time help to take over from her.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/air-force-chief-fined-collide-maid-stroller-6224376"
+        "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "**State of the World - Daily Email Digest**\n\n**Global Unrest and Conflict**\n\nLeading our digest today are stories of unrest and conflict from around the world. In South Africa, thousands of anti-migrant protesters marched amid a heavy police presence, with foreigners already leaving the country ahead of a deadline set by anti-migrant groups (BBC News, Africa and Europe). The sentiment tone for this story is -0.62, indicating a strongly negative tone.\n\nSimilarly, in Sudan, Amnesty International has reported that the Rapid Support Forces (RSF) committed crimes against humanity in el-Fasher, with the UN saying the atrocities bore the hallmarks of genocide (BBC News, Africa and Europe).\n\n**Regional Politics and Governance**\n\nIn Zimbabwe, Parliament has passed the Constitutional Amendment Bill No. 3 for a second time, paving the way for President Mnangagwa to extend his term (AllAfrica News, Africa). This move has significant implications for the country's governance and political stability.\n\nIn a related story, the UN report on Israel targeting Palestinian children has been scrutinized, with some outlets defending the report's findings (Section Feed, Middle East). The sentiment tone for this story is -0.03, indicating a slightly negative tone.\n\n**Social and Humanitarian Issues**\n\nIn South Africa, one person has died and 11 others were injured in a bus crash at the Limpopo border (AllAfrica News, Africa). The sentiment tone for this story is -0.62, indicating a strongly negative tone.\n\nIn other news, Ebola mourners in Africa are learning how to grieve safely, with large traditional funerals being scrapped due to the risk of transmission (BBC News, Africa).\n\n**Global News and Trends**\n\nIn the US, the Supreme Court has upheld bans on transgender athletes in female school and college sports, sparking controversy and debate (BBC News, Europe).\n\nIn Asia, European holidaymakers are staying closer to home due to the Middle East conflict, with travel firms facing an unpredictable peak season (Latest News, Asia).\n\n**Other News**\n\nIn Singapore, a contractor and supervisor have been issued with a 24-month conditional warning over tree clearance at Lower Peirce Reservoir (Latest News, Asia).\n\nIn Cote d'Ivoire, the national football team has exited the World Cup with pride after a historic run (AllAfrica News, Africa).\n\nIn entertainment news, Village People singer Victor Willis has died at 74, leaving behind a legacy of disco hits (Latest News, Asia).\n\nFinally, in a notable incident, a former air force chief has been fined for driving into a maid who was pushing a toddler in a stroller (Latest News, Asia).\n\nThese stories represent a snapshot of the global news landscape, with a focus on the most significant and impactful events from around the world."
+  "narrative": "**State of the World - Daily Digest**\n\n**Human Rights and Conflict**\n\nThe most significant stories today are centered around human rights abuses and conflicts in Africa. According to Amnesty International, Sudan's Rapid Support Forces (RSF) militia has committed crimes against humanity, including ethnic cleansing, in the city of el-Fasher (BBC News, AllAfrica News, Deutsche Welle). The UN has described the situation as bearing the hallmarks of genocide. The tone of these reports is uniformly negative, reflecting the gravity of the situation.\n\nIn South Africa, foreign-owned shops have been looted in Durban, with a negative tone reported by AllAfrica News (avg tone -0.67). Nigeria is seeking compensation for property abandoned by its citizens fleeing South Africa, with a negative tone reported by BBC News (avg tone -0.57).\n\n**Regional Developments**\n\nIn West Africa, the cocoa price crash is having a devastating impact on farmers in Ghana and Cote d'Ivoire, with a negative tone reported by AllAfrica News and Deutsche Welle. The crisis has led to a financial blow for millions of farmers, with cocoa prices plummeting by nearly 75% since 2024.\n\nIn Rwanda, a German-Rwandan national has been arrested on suspicion of complicity in murders during the 1994 genocide, with a negative tone reported by AllAfrica News and Deutsche Welle (avg tone -0.51).\n\n**Middle East**\n\nIn Iran, the funeral of Supreme Leader Ali Khamenei is being attended by dignitaries from Pakistan and China, with a negative tone reported by Section Feed (avg tone -0.26). Meanwhile, indirect talks between the US and Iran in Doha have made \"positive progress\", according to Qatar, although the tone remains cautious (avg tone -0.33).\n\n**Asia and Europe**\n\nIn the Philippines, it has been a decade since the start of President Duterte's deadly drug war, with victims' families continuing to fight for justice as an ICC trial nears, with a negative tone reported by Latest News.\n\nIn China, an electric scooter maker has apologized for risque advertisements that sparked controversy, with a slightly negative tone reported by Latest News (avg tone -0.12).\n\nIn the US, historians have noted that former President Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest, with a slightly negative tone reported by BBC News (avg tone -0.05).\n\nOverall, the tone of today's digest is predominantly negative, reflecting the gravity of human rights abuses and conflicts around the world."
 }
