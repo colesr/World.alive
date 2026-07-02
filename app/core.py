@@ -83,7 +83,7 @@ DEFAULT_CONFIG = {
     "max_items_per_feed": 15,
     "max_clusters_in_digest": 12,
     "digest_word_limit": 800,
-    "similarity_threshold": 0.35,  # Increased from 0.25 to improve deduplication
+    "similarity_threshold": 0.25,  # Reduced from 0.35 to improve clustering/merging of similar stories
 }
 
 
