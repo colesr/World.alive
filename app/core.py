@@ -83,7 +83,7 @@ DEFAULT_CONFIG = {
     "max_items_per_feed": 15,
     "max_clusters_in_digest": 12,
     "digest_word_limit": 800,
-    "similarity_threshold": 0.25,  # Reduced from 0.35 to improve clustering/merging of similar stories
+    "similarity_threshold": 0.30,  # Increased from 0.25 to improve clustering/merging of similar stories
 }
 
 
@@ -247,6 +247,45 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
                     all_summary_tokens |= _tokens(item["summary"])
                 cluster["centroid_tokens"]["title"] = all_title_tokens
                 cluster["centroid_tokens"]["summary"] = all_summary_tokens
+    
+    # Post-processing: Merge small clusters with similar centroids
+    # This helps reduce the total number of clusters by merging borderline cases
+    i = 0
+    while i < len(clusters):
+        cluster = clusters[i]
+        if len(cluster["items"]) <= 2:  # Small cluster - try to merge
+            best_merge_idx = -1
+            best_merge_score = 0.4  # Only merge if reasonably similar
+            
+            item_title_tokens = cluster["centroid_tokens"]["title"]
+            item_summary_tokens = cluster["centroid_tokens"]["summary"]
+            
+            for j, other_cluster in enumerate(clusters):
+                if i == j:
+                    continue
+                    
+                title_score = _similarity(item_title_tokens, other_cluster["centroid_tokens"]["title"])
+                summary_score = _similarity(item_summary_tokens, other_cluster["centroid_tokens"]["summary"])
+                score = 0.7 * title_score + 0.3 * summary_score
+                
+                if score > best_merge_score:
+                    best_merge_idx, best_merge_score = j, score
+            
+            if best_merge_idx >= 0:
+                # Merge this cluster into the best matching cluster
+                clusters[best_merge_idx]["items"].extend(cluster["items"])
+                # Recalculate centroid for the merged cluster
+                all_title_tokens = set()
+                all_summary_tokens = set()
+                for item in clusters[best_merge_idx]["items"]:
+                    all_title_tokens |= _tokens(item["title"])
+                    all_summary_tokens |= _tokens(item["summary"])
+                clusters[best_merge_idx]["centroid_tokens"]["title"] = all_title_tokens
+                clusters[best_merge_idx]["centroid_tokens"]["summary"] = all_summary_tokens
+                # Remove the merged cluster
+                clusters.pop(i)
+                continue  # Don't increment i, check the same index again
+        i += 1
     
     # Remove empty clusters
     clusters = [c for c in clusters if c["items"]]
