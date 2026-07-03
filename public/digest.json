@@ -1,105 +1,12 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-02T09:50:58.016224+00:00",
-  "digest_words": 391,
+  "generated_at": "2026-07-03T09:48:58.828614+00:00",
+  "digest_words": 454,
   "clusters": [
     {
-      "headline": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 3,
-      "summary": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
-        "https://allafrica.com/stories/202607020102.html",
-        "https://www.dw.com/en/sudan-s-rsf-accused-of-crimes-against-humanity-in-el-fasher/a-77781532?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "South Africa: Foreign-Owned Shops Looted in Durban - South African News Briefs - July 2, 2026",
+      "headline": "Israeli jets entered Iranian airspace to attack negotiators' plane after talks in Islamabad",
       "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 2,
-      "summary": "[allAfrica]",
-      "links": [
-        "https://allafrica.com/stories/202607020100.html",
-        "https://allafrica.com/stories/202607020105.html"
-      ]
-    },
-    {
-      "headline": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
-      "countries": [
-        "Nigeria",
-        "South Africa"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Nigeria's High Commissioner says businesses and properties left behind by returnees are being documented.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "West Africa: How the Cocoa Price Crash is Crushing West African Farmers",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "[DW] Cocoa prices reached a peak in 2024 before plummeting by nearly 75%, dealing a financial blow to millions of farmers in Ghana and Cote d'Ivoire. Will the crisis mark a turning point for the sector?",
-      "links": [
-        "https://allafrica.com/stories/202607020104.html",
-        "https://www.dw.com/en/how-the-cocoa-price-crash-is-crushing-west-african-farmers/a-77784709?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Pakistan PM Sharif to attend funeral of Iran's Ali Khamenei",
-      "countries": [
-        "Iran",
-        "Pakistan",
-        "China"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nPakistan PM Sharif to attend funeral of Iran's Ali Khamenei\n\n    \n    \n\n        \n    \n                Pakistani Prime Minister Shehbaz Sharif will attend the state funeral of&nbsp;Iran's former Supreme Leader Ayatollah Ali Khamenei, Pakistan's foreign ministry said.\n\nThe 86-year o",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-sharif-attend-funeral-irans-ali-khamenei",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/senior-chinese-lawmaker-attend-khamenei-funeral"
-      ]
-    },
-    {
-      "headline": "Rwanda: German Prosecutors Arrest Rwanda Genocide Suspect",
-      "countries": [
-        "Germany"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "[DW] A German-Rwandan national has been arrested on suspicion of complicity in murders during Rwanda's 1994 genocide. He is thought to have been personally involved in the killing of one victim.",
-      "links": [
-        "https://allafrica.com/stories/202607020101.html",
-        "https://www.dw.com/en/german-prosecutors-arrest-rwanda-genocide-suspect/a-77784724?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Pakistan says US-Iran talks make progress in Doha",
-      "countries": [
+        "Israel",
         "Iran",
         "Pakistan"
       ],
@@ -107,78 +14,160 @@
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \nPakistan says US-Iran talks make progress in Doha\n\n    \n    \n\n        \n    \n                Pakistan says indirect talks between Iranian and US delegations in Doha have ended with \u201cpositive progress made on issues related to the aspects of the Islamabad MoU\u201d.\n\nIn a statement, Paki",
+      "summary": "\n\n  \n      \n      \nIsraeli jets entered Iranian airspace to attack negotiators' plane after talks in Islamabad\n\n    \n    \n\n        \n    \n                Israeli fighter jets entered Iranian airspace as Tehran's top negotiators were engaged in diplomatic efforts with the United States, according to a",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-us-iran-talks-make-progress-doha",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-us-iran-talks-made-positive-progress"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-entered-iranian-airspace-attack-negotiators-plane-after",
+        "https://www.middleeasteye.net/news/israeli-jets-entered-iranian-airspace-assasinate-negotiators-amid-peace-talks-nyt-reports"
       ]
     },
     {
-      "headline": "Zimbabwe: Chiwenga Sends Another Cryptic Message, Says People Should Have Participated in Constitutional Amendment",
+      "headline": "Pro-Palestinian protesters convicted of misdemeanour charges in 2024 US protest",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nPro-Palestinian protesters convicted of misdemeanour charges in 2024 US protest\n\n    \n    \n\n        \n    \n                Seven protesters who blocked traffic on the&nbsp;Golden&nbsp;Gate&nbsp;Bridge&nbsp;in a 2024 pro-Palestinian protest against Israel's assault on Gaza were conv",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestinian-protesters-convicted-misdemeanour-charges-2024-us",
+        "https://www.aljazeera.com/news/2026/7/3/seven-pro-palestine-protesters-convicted-of-misdemeanour-charges-in-us?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "EU lawmaker investigating surveillance hacked by Israeli spyware, report says",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "Greek former parliamentarian Stelios Kouloglou targeted with Pegasus software, Citizen Lab analysis finds.",
+      "links": [
+        "https://www.aljazeera.com/economy/2026/7/3/eu-lawmaker-investigating-surveillance-hacked-by-israeli-spyware-report-says?traffic_source=rss",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/report-eu-lawmaker-who-probed-surveillance-was-hacked-israeli-spyware"
+      ]
+    },
+    {
+      "headline": "Killers of British couple in South Africa sentenced to life",
+      "countries": [
+        "United Kingdom",
+        "South Africa"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The pair had been collecting rare plants and seeds before their bodies were found days later in a river.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "IRGC caretaker chief Vahidi makes first public appearance",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nIRGC caretaker chief Vahidi makes first public appearance\n\n    \n    \n\n        \n    \n                Ahmad Vahidi, the caretaker commander of Iran\u2019s Islamic Revolutionary Guard Corps, has made his first public appearance since the start of the US-Israel war on Iran, according to Al",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-caretaker-chief-vahidi-makes-first-public-appearance",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-chief-makes-first-public-appearance-war-began"
+      ]
+    },
+    {
+      "headline": "Ebola treatments trial begins in DR Congo",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "According to WHO data, there have been 1,406 confirmed cases of the disease in DRC, with 301 suspected cases and 438 deaths.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Africa: Africa's Immunization Acceleration - Charting a Path to Better Health, Health Security and Economic Growth for a Continent on the Rise",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[New Zimbabwe] VICE President Constantino Chiwenga has sent another cryptic message on Constitutional Amendment Bill No.3 (CAB3), by using the bible to tell party supporters that a referendum should have been held.",
+      "summary": "[Africa CDC] Introduction: Africa's Immunization Landscape and Its Significance",
       "links": [
-        "https://allafrica.com/stories/202607020107.html"
+        "https://allafrica.com/stories/202607030145.html"
       ]
     },
     {
-      "headline": "A decade since Duterte's deadly drug war, victims' families continue fight for justice as ICC trial nears",
+      "headline": "Johor-Singapore SEZ master plan \u2018should not be delayed further\u2019, says chief minister in clash with government",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Johor caretaker chief minister Onn Hafiz Ghazi said the launch of the zone\u2019s master plan need not wait until the Singapore-Malaysia Leaders\u2019 Retreat at the end of the year, prompting a swift rebuttal from Economy Minister Akmal Nasir.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/johor-singapore-special-economic-zone-chief-minister-clash-federal-government-master-plan-6229981"
+      ]
+    },
+    {
+      "headline": "Uganda: Besigye, Lutale Accuse High Court of Violating Fair Hearing Rights in Ongoing Bail Proceedings",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Nile Post] Opposition politician Dr. Kizza Besigye and co-accused Hajj Obeid Lutale have accused the High Court Criminal Division of violating their constitutional right to a fair hearing and legal representation of their choice in ongoing criminal and human rights proceedings.",
+      "links": [
+        "https://allafrica.com/stories/202607030047.html"
+      ]
+    },
+    {
+      "headline": "Malawi: Govt Blames 'Technical Glitch' for Payday Chaos Leaving Civil Servants Unable to Pay Bills",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Nyasa Times] Thousands of Malawian civil servants were left without their June salaries this week after a technical failure at the Accountic General's Office disrupted the payment process -- despite the salaries having been processed on 30 June 2026.",
+      "links": [
+        "https://allafrica.com/stories/202607030012.html"
+      ]
+    },
+    {
+      "headline": "Toyota and Daimler to cut Archion stakes, selling shares worth up to $1.87 billion, Nikkei says",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Human rights groups believe the true death toll could be in the tens of thousands, arguing that many killings went undocumented.",
+      "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/asia/philippines-drug-war-president-duterte-icc-trial-families-6226996"
+        "https://www.channelnewsasia.com/business/toyota-and-daimler-cut-archion-stakes-selling-shares-worth-up-187-billion-nikkei-says-6230086"
       ]
     },
     {
-      "headline": "Chinese electric scooter maker Luyuan apologises for risque advertisements that sparked controversy",
+      "headline": "Exclusive-World's biggest domain seller fears India's fake site crackdown could damage internet",
       "countries": [
-        "China"
+        "India"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The ads, which were subsequently removed, featured female models in various sexually suggestive poses.",
+      "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/east-asia/china-ev-scooter-maker-luyuan-apologise-advertisement-controversy-6227166"
-      ]
-    },
-    {
-      "headline": "Mother fails in court bid to get ex-husband to foot half their daughter's Australia university bill",
-      "countries": [
-        "Australia"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The court said it was not reasonable to order the father to foot half of the bill when he had, from the outset, expressed concerns about the cost and said he preferred that his daughter attend a local university.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/mother-fails-father-foot-half-australia-university-bill-maintenance-6226986"
-      ]
-    },
-    {
-      "headline": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/business/exclusive-worlds-biggest-domain-seller-fears-indias-fake-site-crackdown-could-damage-internet-6230051"
       ]
     }
   ],
-  "narrative": "**State of the World - Daily Digest**\n\n**Human Rights and Conflict**\n\nThe most significant stories today are centered around human rights abuses and conflicts in Africa. According to Amnesty International, Sudan's Rapid Support Forces (RSF) militia has committed crimes against humanity, including ethnic cleansing, in the city of el-Fasher (BBC News, AllAfrica News, Deutsche Welle). The UN has described the situation as bearing the hallmarks of genocide. The tone of these reports is uniformly negative, reflecting the gravity of the situation.\n\nIn South Africa, foreign-owned shops have been looted in Durban, with a negative tone reported by AllAfrica News (avg tone -0.67). Nigeria is seeking compensation for property abandoned by its citizens fleeing South Africa, with a negative tone reported by BBC News (avg tone -0.57).\n\n**Regional Developments**\n\nIn West Africa, the cocoa price crash is having a devastating impact on farmers in Ghana and Cote d'Ivoire, with a negative tone reported by AllAfrica News and Deutsche Welle. The crisis has led to a financial blow for millions of farmers, with cocoa prices plummeting by nearly 75% since 2024.\n\nIn Rwanda, a German-Rwandan national has been arrested on suspicion of complicity in murders during the 1994 genocide, with a negative tone reported by AllAfrica News and Deutsche Welle (avg tone -0.51).\n\n**Middle East**\n\nIn Iran, the funeral of Supreme Leader Ali Khamenei is being attended by dignitaries from Pakistan and China, with a negative tone reported by Section Feed (avg tone -0.26). Meanwhile, indirect talks between the US and Iran in Doha have made \"positive progress\", according to Qatar, although the tone remains cautious (avg tone -0.33).\n\n**Asia and Europe**\n\nIn the Philippines, it has been a decade since the start of President Duterte's deadly drug war, with victims' families continuing to fight for justice as an ICC trial nears, with a negative tone reported by Latest News.\n\nIn China, an electric scooter maker has apologized for risque advertisements that sparked controversy, with a slightly negative tone reported by Latest News (avg tone -0.12).\n\nIn the US, historians have noted that former President Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest, with a slightly negative tone reported by BBC News (avg tone -0.05).\n\nOverall, the tone of today's digest is predominantly negative, reflecting the gravity of human rights abuses and conflicts around the world."
+  "narrative": "Subject: State of the World - July 3, 2026\n\nToday's digest leads with the most globally significant and negative-tone stories.\n\n**Middle East Tensions**\n\nIsraeli jets entered Iranian airspace to attack a plane carrying negotiators after talks in Islamabad, as reported by Middle East Eye and The New York Times. This incident has significant implications for regional stability and global security. The tone of the coverage is neutral, with an average tone of -0.20.\n\nIn related news, a former EU lawmaker who investigated surveillance was hacked by Israeli spyware, according to Al Jazeera and Citizen Lab analysis. The tone of this story is slightly negative, with an average tone of -0.15.\n\n**Pro-Palestinian Protesters Convicted**\n\nSeven pro-Palestinian protesters were convicted of misdemeanor charges in the US for blocking traffic on the Golden Gate Bridge in 2024, as reported by Middle East Eye and Al Jazeera. The tone of the coverage is neutral.\n\n**Africa and Europe**\n\nIn South Africa, the killers of a British couple who were collecting rare plants and seeds were sentenced to life, as reported by BBC News. The tone of this story is negative, with an average tone of -0.50.\n\nAn Ebola treatments trial has begun in the Democratic Republic of Congo, with 1,406 confirmed cases and 438 deaths, according to BBC News. The tone of this story is neutral.\n\n**Regional Developments**\n\nIn Africa, the Africa CDC has highlighted the importance of immunization acceleration for better health, health security, and economic growth, as reported by AllAfrica News. The tone of this story is positive.\n\nIn Uganda, opposition politician Dr. Kizza Besigye and co-accused Hajj Obeid Lutale have accused the High Court of violating their constitutional right to a fair hearing, as reported by AllAfrica News. The tone of this story is negative.\n\nIn Malawi, a technical glitch has disrupted the payment of civil servants' salaries, leaving thousands unable to pay bills, as reported by AllAfrica News. The tone of this story is negative.\n\n**Asia**\n\nIn Singapore, the chief minister of Johor has clashed with the government over the launch of the Johor-Singapore SEZ master plan, as reported by Latest News. The tone of this story is positive, with an average tone of +0.44.\n\nToyota and Daimler are set to cut their stakes in Archion, selling shares worth up to $1.87 billion, as reported by Latest News. The tone of this story is neutral.\n\nThe world's biggest domain seller has expressed concerns that India's fake site crackdown could damage the internet, as reported by Latest News. The tone of this story is slightly positive, with an average tone of +0.01.\n\nNote: The tone analysis is based on the sentiment context borrowed from the sibling sentiment service, with -1 being negative and +1 being positive."
 }
