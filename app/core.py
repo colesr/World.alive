@@ -83,7 +83,7 @@ DEFAULT_CONFIG = {
     "max_items_per_feed": 15,
     "max_clusters_in_digest": 12,
     "digest_word_limit": 800,
-    "similarity_threshold": 0.30,  # Increased from 0.25 to improve clustering/merging of similar stories
+    "similarity_threshold": 0.35,  # Increased threshold to improve deduplication
 }
 
 
@@ -148,6 +148,11 @@ def _combined_similarity(item1: dict, item2: dict, title_weight: float = 0.7) ->
     """Calculate combined similarity based on title and summary with weighted average."""
     title_sim = _similarity(_tokens(item1["title"]), _tokens(item2["title"]))
     summary_sim = _similarity(_tokens(item1["summary"]), _tokens(item2["summary"]))
+    
+    # Boost similarity for items with identical links (definite duplicates)
+    if item1["link"] and item2["link"] and item1["link"] == item2["link"]:
+        return min(1.0, title_sim * 1.5)  # Boost but cap at 1.0
+    
     return title_weight * title_sim + (1 - title_weight) * summary_sim
 
 
@@ -173,6 +178,13 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
             title_score = _similarity(item_title_tokens, cluster["centroid_tokens"]["title"])
             summary_score = _similarity(item_summary_tokens, cluster["centroid_tokens"]["summary"])
             score = 0.7 * title_score + 0.3 * summary_score
+            
+            # Boost score if links match (likely the same story)
+            for cluster_item in cluster["items"]:
+                if (item["link"] and cluster_item["link"] and 
+                    item["link"] == cluster_item["link"]):
+                    score = min(1.0, score * 1.5)  # Boost but cap at 1.0
+                    break
             
             if score > best_score:
                 best_cluster_idx, best_score = i, score
@@ -212,6 +224,13 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
                 current_score = 0.7 * _similarity(item_title_tokens, cluster["centroid_tokens"]["title"]) + \
                                0.3 * _similarity(item_summary_tokens, cluster["centroid_tokens"]["summary"])
                 
+                # Boost current score if links match
+                for cluster_item in cluster["items"]:
+                    if (item["link"] and cluster_item["link"] and 
+                        item["link"] == cluster_item["link"]):
+                        current_score = min(1.0, current_score * 1.5)
+                        break
+                
                 best_other_cluster_idx = -1
                 best_other_score = current_score
                 
@@ -222,6 +241,13 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
                     title_score = _similarity(item_title_tokens, other_cluster["centroid_tokens"]["title"])
                     summary_score = _similarity(item_summary_tokens, other_cluster["centroid_tokens"]["summary"])
                     other_score = 0.7 * title_score + 0.3 * summary_score
+                    
+                    # Boost other score if links match
+                    for other_item in other_cluster["items"]:
+                        if (item["link"] and other_item["link"] and 
+                            item["link"] == other_item["link"]):
+                            other_score = min(1.0, other_score * 1.5)
+                            break
                     
                     if other_score > best_other_score:
                         best_other_cluster_idx, best_other_score = i, other_score
@@ -267,6 +293,20 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
                 title_score = _similarity(item_title_tokens, other_cluster["centroid_tokens"]["title"])
                 summary_score = _similarity(item_summary_tokens, other_cluster["centroid_tokens"]["summary"])
                 score = 0.7 * title_score + 0.3 * summary_score
+                
+                # Additional boost for link matches during post-processing
+                link_match = False
+                for item1 in cluster["items"]:
+                    for item2 in other_cluster["items"]:
+                        if (item1["link"] and item2["link"] and 
+                            item1["link"] == item2["link"]):
+                            link_match = True
+                            break
+                    if link_match:
+                        break
+                
+                if link_match:
+                    score = min(1.0, score * 1.5)
                 
                 if score > best_merge_score:
                     best_merge_idx, best_merge_score = j, score
