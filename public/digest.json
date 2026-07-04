@@ -1,57 +1,11 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-03T09:48:58.828614+00:00",
-  "digest_words": 454,
+  "generated_at": "2026-07-04T09:12:21.635766+00:00",
+  "digest_words": 241,
   "clusters": [
     {
-      "headline": "Israeli jets entered Iranian airspace to attack negotiators' plane after talks in Islamabad",
+      "headline": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
       "countries": [
-        "Israel",
-        "Iran",
-        "Pakistan"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIsraeli jets entered Iranian airspace to attack negotiators' plane after talks in Islamabad\n\n    \n    \n\n        \n    \n                Israeli fighter jets entered Iranian airspace as Tehran's top negotiators were engaged in diplomatic efforts with the United States, according to a",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-entered-iranian-airspace-attack-negotiators-plane-after",
-        "https://www.middleeasteye.net/news/israeli-jets-entered-iranian-airspace-assasinate-negotiators-amid-peace-talks-nyt-reports"
-      ]
-    },
-    {
-      "headline": "Pro-Palestinian protesters convicted of misdemeanour charges in 2024 US protest",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nPro-Palestinian protesters convicted of misdemeanour charges in 2024 US protest\n\n    \n    \n\n        \n    \n                Seven protesters who blocked traffic on the&nbsp;Golden&nbsp;Gate&nbsp;Bridge&nbsp;in a 2024 pro-Palestinian protest against Israel's assault on Gaza were conv",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestinian-protesters-convicted-misdemeanour-charges-2024-us",
-        "https://www.aljazeera.com/news/2026/7/3/seven-pro-palestine-protesters-convicted-of-misdemeanour-charges-in-us?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "EU lawmaker investigating surveillance hacked by Israeli spyware, report says",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "Greek former parliamentarian Stelios Kouloglou targeted with Pegasus software, Citizen Lab analysis finds.",
-      "links": [
-        "https://www.aljazeera.com/economy/2026/7/3/eu-lawmaker-investigating-surveillance-hacked-by-israeli-spyware-report-says?traffic_source=rss",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/report-eu-lawmaker-who-probed-surveillance-was-hacked-israeli-spyware"
-      ]
-    },
-    {
-      "headline": "Killers of British couple in South Africa sentenced to life",
-      "countries": [
-        "United Kingdom",
         "South Africa"
       ],
       "regions": [
@@ -59,115 +13,161 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The pair had been collecting rare plants and seeds before their bodies were found days later in a river.",
+      "summary": "Former President Zuma's trip to India reignites anger over a decade-old corruption scandal.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "IRGC caretaker chief Vahidi makes first public appearance",
+      "headline": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "countries": [
+        "France"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "PAP can continue to govern well if party is renewed with 'good people' willing to serve: PM Wong",
       "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The party's youth wing launched the Young PAP Academy and the YP 40 Under 40 Action Fellowship, two new initiatives serving as a \"launchpad\" for the party's next generation of leaders.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/pap-lawrence-wong-young-pap-40th-anniversary-youth-wing-6231891"
+      ]
+    },
+    {
+      "headline": "Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Independent (Kampala)] Geneva -- The Ebola outbreak in the Democratic Republic of the Congo (DRC) could cause economic losses for African countries of up to $3.6 billion and threaten more than 300,000 jobs on the continent, according to Damien Mama, UN Development Program (UNDP) Resident Representa",
+      "links": [
+        "https://allafrica.com/stories/202607030200.html"
+      ]
+    },
+    {
+      "headline": "'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "A cemetery at the epicentre of the outbreak is rapidly filling up, however large traditional funerals have been scrapped.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cj3gx8jl6d5o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Ibrahimovic offers support to Australia's Herrington after World Cup penalty heartbreak",
+      "countries": [
+        "Australia"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/sport/ibrahimovic-offers-support-australias-herrington-after-world-cup-penalty-heartbreak-6231866"
+      ]
+    },
+    {
+      "headline": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Trump and his family earned over $1 billion last year through cryptocurrency ventures and other businesses. And, the Vatican declared that the traditionalist Society of St. Pius X has entered schism.",
+      "links": [
+        "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup"
+      ]
+    },
+    {
+      "headline": "South Africa: Hungry and Displaced - Thousands Moved to New Musina Repatriation Centre",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[GroundUp] Conditions have improved but facilities are inadequate and food in short supply",
+      "links": [
+        "https://allafrica.com/stories/202607030241.html"
+      ]
+    },
+    {
+      "headline": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+      "countries": [
+        "Ukraine"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Iranian analyst says Khamenei funeral will draw 20 million, seen as show of support",
+      "countries": [
+        "Iran"
+      ],
       "regions": [
         "Middle East"
       ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIRGC caretaker chief Vahidi makes first public appearance\n\n    \n    \n\n        \n    \n                Ahmad Vahidi, the caretaker commander of Iran\u2019s Islamic Revolutionary Guard Corps, has made his first public appearance since the start of the US-Israel war on Iran, according to Al",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-caretaker-chief-vahidi-makes-first-public-appearance",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-chief-makes-first-public-appearance-war-began"
-      ]
-    },
-    {
-      "headline": "Ebola treatments trial begins in DR Congo",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "According to WHO data, there have been 1,406 confirmed cases of the disease in DRC, with 301 suspected cases and 438 deaths.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Africa: Africa's Immunization Acceleration - Charting a Path to Better Health, Health Security and Economic Growth for a Continent on the Rise",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
       "outlets": 1,
-      "summary": "[Africa CDC] Introduction: Africa's Immunization Landscape and Its Significance",
+      "summary": "\n\n  \n      \n      \nIranian analyst says Khamenei funeral will draw 20 million, seen as show of support\n\n    \n    \n\n        \n    \n                Iranian international relations researcher Mohsen Farkhani said more than 20 million people are expected to participate in the funeral of former Supreme Le",
       "links": [
-        "https://allafrica.com/stories/202607030145.html"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-analyst-says-khamenei-funeral-will-draw-20-million-seen-show"
       ]
     },
     {
-      "headline": "Johor-Singapore SEZ master plan \u2018should not be delayed further\u2019, says chief minister in clash with government",
+      "headline": "Australian officials ask fans to respect the privacy of Neil, a trouble-making seal",
       "countries": [
-        "Singapore"
+        "Australia"
       ],
       "regions": [
-        "Asia"
+        "Americas"
       ],
       "outlets": 1,
-      "summary": "Johor caretaker chief minister Onn Hafiz Ghazi said the launch of the zone\u2019s master plan need not wait until the Singapore-Malaysia Leaders\u2019 Retreat at the end of the year, prompting a swift rebuttal from Economy Minister Akmal Nasir.",
+      "summary": "The 5-year-old seal has a social media following twice the size of Tasmania's population, and his antics include bending traffic bollards and blocking roads.",
       "links": [
-        "https://www.channelnewsasia.com/asia/johor-singapore-special-economic-zone-chief-minister-clash-federal-government-master-plan-6229981"
+        "https://www.npr.org/2026/07/03/g-s1-131911/australia-trouble-making-seal"
       ]
     },
     {
-      "headline": "Uganda: Besigye, Lutale Accuse High Court of Violating Fair Hearing Rights in Ongoing Bail Proceedings",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Nile Post] Opposition politician Dr. Kizza Besigye and co-accused Hajj Obeid Lutale have accused the High Court Criminal Division of violating their constitutional right to a fair hearing and legal representation of their choice in ongoing criminal and human rights proceedings.",
-      "links": [
-        "https://allafrica.com/stories/202607030047.html"
-      ]
-    },
-    {
-      "headline": "Malawi: Govt Blames 'Technical Glitch' for Payday Chaos Leaving Civil Servants Unable to Pay Bills",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Nyasa Times] Thousands of Malawian civil servants were left without their June salaries this week after a technical failure at the Accountic General's Office disrupted the payment process -- despite the salaries having been processed on 30 June 2026.",
-      "links": [
-        "https://allafrica.com/stories/202607030012.html"
-      ]
-    },
-    {
-      "headline": "Toyota and Daimler to cut Archion stakes, selling shares worth up to $1.87 billion, Nikkei says",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/toyota-and-daimler-cut-archion-stakes-selling-shares-worth-up-187-billion-nikkei-says-6230086"
-      ]
-    },
-    {
-      "headline": "Exclusive-World's biggest domain seller fears India's fake site crackdown could damage internet",
+      "headline": "Nigeria: Africom Commander Announces Partial Withdrawal of U.S. Troops From Nigeria",
       "countries": [
-        "India"
+        "United States",
+        "Nigeria"
       ],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "",
+      "summary": "[Premium Times] \"We have withdrawn much of our forces that were just there for that operation.\"",
       "links": [
-        "https://www.channelnewsasia.com/business/exclusive-worlds-biggest-domain-seller-fears-indias-fake-site-crackdown-could-damage-internet-6230051"
+        "https://allafrica.com/stories/202607030336.html"
       ]
     }
   ],
-  "narrative": "Subject: State of the World - July 3, 2026\n\nToday's digest leads with the most globally significant and negative-tone stories.\n\n**Middle East Tensions**\n\nIsraeli jets entered Iranian airspace to attack a plane carrying negotiators after talks in Islamabad, as reported by Middle East Eye and The New York Times. This incident has significant implications for regional stability and global security. The tone of the coverage is neutral, with an average tone of -0.20.\n\nIn related news, a former EU lawmaker who investigated surveillance was hacked by Israeli spyware, according to Al Jazeera and Citizen Lab analysis. The tone of this story is slightly negative, with an average tone of -0.15.\n\n**Pro-Palestinian Protesters Convicted**\n\nSeven pro-Palestinian protesters were convicted of misdemeanor charges in the US for blocking traffic on the Golden Gate Bridge in 2024, as reported by Middle East Eye and Al Jazeera. The tone of the coverage is neutral.\n\n**Africa and Europe**\n\nIn South Africa, the killers of a British couple who were collecting rare plants and seeds were sentenced to life, as reported by BBC News. The tone of this story is negative, with an average tone of -0.50.\n\nAn Ebola treatments trial has begun in the Democratic Republic of Congo, with 1,406 confirmed cases and 438 deaths, according to BBC News. The tone of this story is neutral.\n\n**Regional Developments**\n\nIn Africa, the Africa CDC has highlighted the importance of immunization acceleration for better health, health security, and economic growth, as reported by AllAfrica News. The tone of this story is positive.\n\nIn Uganda, opposition politician Dr. Kizza Besigye and co-accused Hajj Obeid Lutale have accused the High Court of violating their constitutional right to a fair hearing, as reported by AllAfrica News. The tone of this story is negative.\n\nIn Malawi, a technical glitch has disrupted the payment of civil servants' salaries, leaving thousands unable to pay bills, as reported by AllAfrica News. The tone of this story is negative.\n\n**Asia**\n\nIn Singapore, the chief minister of Johor has clashed with the government over the launch of the Johor-Singapore SEZ master plan, as reported by Latest News. The tone of this story is positive, with an average tone of +0.44.\n\nToyota and Daimler are set to cut their stakes in Archion, selling shares worth up to $1.87 billion, as reported by Latest News. The tone of this story is neutral.\n\nThe world's biggest domain seller has expressed concerns that India's fake site crackdown could damage the internet, as reported by Latest News. The tone of this story is slightly positive, with an average tone of +0.01.\n\nNote: The tone analysis is based on the sentiment context borrowed from the sibling sentiment service, with -1 being negative and +1 being positive."
+  "narrative": "State of the World - 2026-07-04 (extractive mode)\n\n* Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister (BBC News, 2 outlets)\n* France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather (BBC News, 1 outlets)\n* PAP can continue to govern well if party is renewed with 'good people' willing to serve: PM Wong (Latest News, 1 outlets)\n* Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk (AllAfrica News: Latest, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)\n* Ibrahimovic offers support to Australia's Herrington after World Cup penalty heartbreak (Latest News, 1 outlets)\n* Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group (NPR Topics: World, 1 outlets)\n* South Africa: Hungry and Displaced - Thousands Moved to New Musina Repatriation Centre (AllAfrica News: Latest, 1 outlets)\n* Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man' (BBC News, 1 outlets)\n* Iranian analyst says Khamenei funeral will draw 20 million, seen as show of support (Section Feed, 1 outlets)\n* Australian officials ask fans to respect the privacy of Neil, a trouble-making seal (NPR Topics: World, 1 outlets)\n* Nigeria: Africom Commander Announces Partial Withdrawal of U.S. Troops From Nigeria (AllAfrica News: Latest, 1 outlets)"
 }
