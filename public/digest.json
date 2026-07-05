@@ -1,22 +1,35 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-04T09:12:21.635766+00:00",
-  "digest_words": 241,
+  "generated_at": "2026-07-05T09:33:29.111082+00:00",
+  "digest_words": 246,
   "clusters": [
     {
-      "headline": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
+      "headline": "Pastor freed from prison in China weeks after US President Donald Trump requested his release",
       "countries": [
-        "South Africa"
+        "United States",
+        "China"
       ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Americas",
+        "Asia"
       ],
       "outlets": 2,
-      "summary": "Former President Zuma's trip to India reignites anger over a decade-old corruption scandal.",
+      "summary": "Pastor Ezra Jin Mingri&nbsp;was detained with 17 other church leaders in October in one of China\u2019s largest crackdowns on a single church in decades.&nbsp;",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/east-asia/china-pastor-zion-church-freed-donald-trump-6232881",
+        "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request"
+      ]
+    },
+    {
+      "headline": "IRNA: Funeral prayers offered for Khamenei and family members, bodies shifted to 'designated site'",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nIRNA: Funeral prayers offered for Khamenei and family members, bodies shifted to 'designated site'\n\n    \n    \n\n        \n    \n                Hundreds of thousands of Iranians offered funeral prayers for the former supreme leader Ayatollah Seyyed Ali Khamenei.\n\nIRNA reported that B",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/irna-funeral-prayers-offered-khamenei-and-family-members-bodies-shifted"
       ]
     },
     {
@@ -34,18 +47,6 @@
       ]
     },
     {
-      "headline": "PAP can continue to govern well if party is renewed with 'good people' willing to serve: PM Wong",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The party's youth wing launched the Young PAP Academy and the YP 40 Under 40 Action Fellowship, two new initiatives serving as a \"launchpad\" for the party's next generation of leaders.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/pap-lawrence-wong-young-pap-40th-anniversary-youth-wing-6231891"
-      ]
-    },
-    {
       "headline": "Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk",
       "countries": [],
       "regions": [
@@ -55,6 +56,34 @@
       "summary": "[Independent (Kampala)] Geneva -- The Ebola outbreak in the Democratic Republic of the Congo (DRC) could cause economic losses for African countries of up to $3.6 billion and threaten more than 300,000 jobs on the continent, according to Damien Mama, UN Development Program (UNDP) Resident Representa",
       "links": [
         "https://allafrica.com/stories/202607030200.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Have Your Say On Draft Electoral Code of Conduct On Countering Disinformation",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[SAnews.gov.za] The Electoral Commission is calling on South Africans to comment on the draft Electoral Code of Conduct on Countering Disinformation ahead of the 21 July 2026 deadline.",
+      "links": [
+        "https://allafrica.com/stories/202607030362.html"
+      ]
+    },
+    {
+      "headline": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "countries": [
+        "France"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -70,9 +99,9 @@
       ]
     },
     {
-      "headline": "Ibrahimovic offers support to Australia's Herrington after World Cup penalty heartbreak",
+      "headline": "Pakistan replace Masood with Babar as test captain ahead of West Indies, England series",
       "countries": [
-        "Australia"
+        "Pakistan"
       ],
       "regions": [
         "Asia"
@@ -80,21 +109,21 @@
       "outlets": 1,
       "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/sport/ibrahimovic-offers-support-australias-herrington-after-world-cup-penalty-heartbreak-6231866"
+        "https://www.channelnewsasia.com/sport/pakistan-replace-masood-babar-test-captain-ahead-west-indies-england-series-6233036"
       ]
     },
     {
-      "headline": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
+      "headline": "South Korea to create future fund from chip windfall to spur growth, tackle inequality",
       "countries": [
-        "United States"
+        "South Korea"
       ],
       "regions": [
-        "Americas"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "Trump and his family earned over $1 billion last year through cryptocurrency ventures and other businesses. And, the Vatican declared that the traditionalist Society of St. Pius X has entered schism.",
+      "summary": "A top official says the government will use the \"Future Response Fund\" to help finance major national investment projects and strengthen the country's long-term competitiveness.",
       "links": [
-        "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup"
+        "https://www.channelnewsasia.com/east-asia/south-korea-future-fund-chip-windfall-6233061"
       ]
     },
     {
@@ -126,48 +155,19 @@
       ]
     },
     {
-      "headline": "Iranian analyst says Khamenei funeral will draw 20 million, seen as show of support",
+      "headline": "Funeral prayers held for Khamenei\u2019s infant granddaughter killed in US-Israeli strike",
       "countries": [
-        "Iran"
+        "Israel"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIranian analyst says Khamenei funeral will draw 20 million, seen as show of support\n\n    \n    \n\n        \n    \n                Iranian international relations researcher Mohsen Farkhani said more than 20 million people are expected to participate in the funeral of former Supreme Le",
+      "summary": "\n\n  \n      \n      \nFuneral prayers held for Khamenei\u2019s infant granddaughter killed in US-Israeli strike\n\n    \n    \n\n        \n    \n                Funeral prayers were also held for four members of Ali Khamenei\u2019s family who were killed in the joint US-Israeli strike on 28 February, including his 14-m",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-analyst-says-khamenei-funeral-will-draw-20-million-seen-show"
-      ]
-    },
-    {
-      "headline": "Australian officials ask fans to respect the privacy of Neil, a trouble-making seal",
-      "countries": [
-        "Australia"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "The 5-year-old seal has a social media following twice the size of Tasmania's population, and his antics include bending traffic bollards and blocking roads.",
-      "links": [
-        "https://www.npr.org/2026/07/03/g-s1-131911/australia-trouble-making-seal"
-      ]
-    },
-    {
-      "headline": "Nigeria: Africom Commander Announces Partial Withdrawal of U.S. Troops From Nigeria",
-      "countries": [
-        "United States",
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Premium Times] \"We have withdrawn much of our forces that were just there for that operation.\"",
-      "links": [
-        "https://allafrica.com/stories/202607030336.html"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/funeral-prayers-held-khameneis-infant-granddaughter-killed-us-israeli"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-04 (extractive mode)\n\n* Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister (BBC News, 2 outlets)\n* France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather (BBC News, 1 outlets)\n* PAP can continue to govern well if party is renewed with 'good people' willing to serve: PM Wong (Latest News, 1 outlets)\n* Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk (AllAfrica News: Latest, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)\n* Ibrahimovic offers support to Australia's Herrington after World Cup penalty heartbreak (Latest News, 1 outlets)\n* Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group (NPR Topics: World, 1 outlets)\n* South Africa: Hungry and Displaced - Thousands Moved to New Musina Repatriation Centre (AllAfrica News: Latest, 1 outlets)\n* Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man' (BBC News, 1 outlets)\n* Iranian analyst says Khamenei funeral will draw 20 million, seen as show of support (Section Feed, 1 outlets)\n* Australian officials ask fans to respect the privacy of Neil, a trouble-making seal (NPR Topics: World, 1 outlets)\n* Nigeria: Africom Commander Announces Partial Withdrawal of U.S. Troops From Nigeria (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-07-05 (extractive mode)\n\n* Pastor freed from prison in China weeks after US President Donald Trump requested his release (Latest News, 2 outlets)\n* IRNA: Funeral prayers offered for Khamenei and family members, bodies shifted to 'designated site' (Section Feed, 1 outlets)\n* France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather (BBC News, 1 outlets)\n* Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk (AllAfrica News: Latest, 1 outlets)\n* South Africa: Have Your Say On Draft Electoral Code of Conduct On Countering Disinformation (AllAfrica News: Latest, 1 outlets)\n* Moment of destiny for France's Le Pen in verdict to decide her future in presidential race (BBC News, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)\n* Pakistan replace Masood with Babar as test captain ahead of West Indies, England series (Latest News, 1 outlets)\n* South Korea to create future fund from chip windfall to spur growth, tackle inequality (Latest News, 1 outlets)\n* South Africa: Hungry and Displaced - Thousands Moved to New Musina Repatriation Centre (AllAfrica News: Latest, 1 outlets)\n* Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man' (BBC News, 1 outlets)\n* Funeral prayers held for Khamenei\u2019s infant granddaughter killed in US-Israeli strike (Section Feed, 1 outlets)"
 }
