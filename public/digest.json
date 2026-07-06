@@ -1,89 +1,121 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-05T09:33:29.111082+00:00",
-  "digest_words": 246,
+  "generated_at": "2026-07-06T11:20:47.010436+00:00",
+  "digest_words": 243,
   "clusters": [
     {
-      "headline": "Pastor freed from prison in China weeks after US President Donald Trump requested his release",
-      "countries": [
-        "United States",
-        "China"
-      ],
-      "regions": [
-        "Americas",
-        "Asia"
-      ],
-      "outlets": 2,
-      "summary": "Pastor Ezra Jin Mingri&nbsp;was detained with 17 other church leaders in October in one of China\u2019s largest crackdowns on a single church in decades.&nbsp;",
-      "links": [
-        "https://www.channelnewsasia.com/east-asia/china-pastor-zion-church-freed-donald-trump-6232881",
-        "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request"
-      ]
-    },
-    {
-      "headline": "IRNA: Funeral prayers offered for Khamenei and family members, bodies shifted to 'designated site'",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIRNA: Funeral prayers offered for Khamenei and family members, bodies shifted to 'designated site'\n\n    \n    \n\n        \n    \n                Hundreds of thousands of Iranians offered funeral prayers for the former supreme leader Ayatollah Seyyed Ali Khamenei.\n\nIRNA reported that B",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/irna-funeral-prayers-offered-khamenei-and-family-members-bodies-shifted"
-      ]
-    },
-    {
-      "headline": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-      "countries": [
-        "France"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Independent (Kampala)] Geneva -- The Ebola outbreak in the Democratic Republic of the Congo (DRC) could cause economic losses for African countries of up to $3.6 billion and threaten more than 300,000 jobs on the continent, according to Damien Mama, UN Development Program (UNDP) Resident Representa",
-      "links": [
-        "https://allafrica.com/stories/202607030200.html"
-      ]
-    },
-    {
-      "headline": "South Africa: Have Your Say On Draft Electoral Code of Conduct On Countering Disinformation",
+      "headline": "South Africa: Gauteng Offers Counselling to Families of Protest Victims - South African News Briefs - July 6, 2026",
       "countries": [
         "South Africa"
       ],
       "regions": [
         "Africa"
       ],
-      "outlets": 1,
-      "summary": "[SAnews.gov.za] The Electoral Commission is calling on South Africans to comment on the draft Electoral Code of Conduct on Countering Disinformation ahead of the 21 July 2026 deadline.",
+      "outlets": 2,
+      "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202607030362.html"
+        "https://allafrica.com/stories/202607060109.html",
+        "https://allafrica.com/stories/202607060121.html"
       ]
     },
     {
-      "headline": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "headline": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
       "countries": [
-        "France"
+        "Nigeria",
+        "South Africa"
       ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+      "countries": [],
+      "regions": [
+        "Europe",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+        "https://www.aljazeera.com/news/2026/7/6/super-typhoon-bavi-makes-landfall-on-us-pacific-islands?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Philippine Vice President Duterte\u2019s impeachment trial begins: What we know",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "Duterte faces charges of mishandling government funds and making threats during rift with President Ferdinand Marcos Jr.",
+      "links": [
+        "https://www.aljazeera.com/news/2026/7/6/philippine-vice-president-dutertes-impeachment-trial-begins-what-we-know?traffic_source=rss",
+        "https://www.aljazeera.com/news/2026/7/6/impeachment-trial-of-philippine-vice-president-sara-duterte-begins?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "The African fishermen who blame Chinese trawlers for their woes",
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering up stocks.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+      "countries": [],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
+      "summary": "Some of the famous guests have been posting on social media about the big day in New York.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Liberia: Absence of Suspects Charged in Absentia in U.S.$19m Drug Bust Could Derail Probe",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[FrontPageAfrica] Monrovia -- Nearly a month after authorities seized US$19 million worth of cocaine at Roberts International Airport, five people have been formally charged and named as principal suspects in a case that is once again drawing global scrutiny of Liberia's much-publicized war on drugs",
+      "links": [
+        "https://allafrica.com/stories/202607060347.html"
       ]
     },
     {
@@ -99,63 +131,19 @@
       ]
     },
     {
-      "headline": "Pakistan replace Masood with Babar as test captain ahead of West Indies, England series",
-      "countries": [
-        "Pakistan"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/sport/pakistan-replace-masood-babar-test-captain-ahead-west-indies-england-series-6233036"
-      ]
-    },
-    {
-      "headline": "South Korea to create future fund from chip windfall to spur growth, tackle inequality",
-      "countries": [
-        "South Korea"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "A top official says the government will use the \"Future Response Fund\" to help finance major national investment projects and strengthen the country's long-term competitiveness.",
-      "links": [
-        "https://www.channelnewsasia.com/east-asia/south-korea-future-fund-chip-windfall-6233061"
-      ]
-    },
-    {
-      "headline": "South Africa: Hungry and Displaced - Thousands Moved to New Musina Repatriation Centre",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[GroundUp] Conditions have improved but facilities are inadequate and food in short supply",
-      "links": [
-        "https://allafrica.com/stories/202607030241.html"
-      ]
-    },
-    {
-      "headline": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-      "countries": [
-        "Ukraine"
-      ],
+      "headline": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+      "countries": [],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
+      "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Funeral prayers held for Khamenei\u2019s infant granddaughter killed in US-Israeli strike",
+      "headline": "UK urged to sanction Netanyahu and justice minister over Israeli torture of Palestinians",
       "countries": [
         "Israel"
       ],
@@ -163,11 +151,23 @@
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nFuneral prayers held for Khamenei\u2019s infant granddaughter killed in US-Israeli strike\n\n    \n    \n\n        \n    \n                Funeral prayers were also held for four members of Ali Khamenei\u2019s family who were killed in the joint US-Israeli strike on 28 February, including his 14-m",
+      "summary": "\n\n  \n      \n      \nUK urged to sanction Netanyahu and justice minister over Israeli torture of Palestinians    \n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nMon, 07/06/2026 - 10:16\n\n        \n      \n    \n      \n    \n                Over 70 British lawmakers say Israeli pr",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/funeral-prayers-held-khameneis-infant-granddaughter-killed-us-israeli"
+        "https://www.middleeasteye.net/news/uk-government-urged-sanction-netanyahu-and-israeli-justice-minister-over-torture-palestinian"
+      ]
+    },
+    {
+      "headline": "'My stomach is eating itself': Biohacker Bryan Johnson reveals he has autoimmune disease",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The tech entrepreneur, who is known for spending about US$2 million a year on longevity treatments, said he was diagnosed with autoimmune gastritis after months of medical tests.",
+      "links": [
+        "https://www.channelnewsasia.com/wellness/bryan-johnson-autoimmune-gastritis-disease-6235086"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-05 (extractive mode)\n\n* Pastor freed from prison in China weeks after US President Donald Trump requested his release (Latest News, 2 outlets)\n* IRNA: Funeral prayers offered for Khamenei and family members, bodies shifted to 'designated site' (Section Feed, 1 outlets)\n* France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather (BBC News, 1 outlets)\n* Congo-Kinshasa: UN - Ebola Outbreak in DRC Could Cost Africa $3.6 Bln, Put 300,000 Jobs At Risk (AllAfrica News: Latest, 1 outlets)\n* South Africa: Have Your Say On Draft Electoral Code of Conduct On Countering Disinformation (AllAfrica News: Latest, 1 outlets)\n* Moment of destiny for France's Le Pen in verdict to decide her future in presidential race (BBC News, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)\n* Pakistan replace Masood with Babar as test captain ahead of West Indies, England series (Latest News, 1 outlets)\n* South Korea to create future fund from chip windfall to spur growth, tackle inequality (Latest News, 1 outlets)\n* South Africa: Hungry and Displaced - Thousands Moved to New Musina Repatriation Centre (AllAfrica News: Latest, 1 outlets)\n* Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man' (BBC News, 1 outlets)\n* Funeral prayers held for Khamenei\u2019s infant granddaughter killed in US-Israeli strike (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-07-06 (extractive mode)\n\n* South Africa: Gauteng Offers Counselling to Families of Protest Victims - South African News Briefs - July 6, 2026 (AllAfrica News: Latest, 2 outlets)\n* Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks (BBC News, 2 outlets)\n* Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts (BBC News, 2 outlets)\n* Thousands welcome home Cape Verde footballers after stunning World Cup run (BBC News, 2 outlets)\n* Philippine Vice President Duterte\u2019s impeachment trial begins: What we know (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* The African fishermen who blame Chinese trawlers for their woes (BBC News, 2 outlets)\n* From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding (BBC News, 1 outlets)\n* Liberia: Absence of Suspects Charged in Absentia in U.S.$19m Drug Bust Could Derail Probe (AllAfrica News: Latest, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)\n* 'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours (BBC News, 1 outlets)\n* UK urged to sanction Netanyahu and justice minister over Israeli torture of Palestinians (Section Feed, 1 outlets)\n* 'My stomach is eating itself': Biohacker Bryan Johnson reveals he has autoimmune disease (Latest News, 1 outlets)"
 }
