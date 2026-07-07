@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-06T11:20:47.010436+00:00",
-  "digest_words": 243,
+  "generated_at": "2026-07-07T10:17:10.931192+00:00",
+  "digest_words": 238,
   "clusters": [
     {
-      "headline": "South Africa: Gauteng Offers Counselling to Families of Protest Victims - South African News Briefs - July 6, 2026",
+      "headline": "South Africa: Matlala's Lawyers Head to Madlanga Commission - South African News Briefs - July 7, 2026",
       "countries": [
         "South Africa"
       ],
@@ -14,160 +14,162 @@
       "outlets": 2,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202607060109.html",
-        "https://allafrica.com/stories/202607060121.html"
+        "https://allafrica.com/stories/202607070080.html",
+        "https://allafrica.com/stories/202607070102.html"
       ]
     },
     {
-      "headline": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+      "headline": "Explosions rock Damascus, wounding 18, as French President Macron visits Syria",
       "countries": [
-        "Nigeria",
-        "South Africa"
+        "France"
       ],
       "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
-      "countries": [],
-      "regions": [
-        "Europe",
+        "Americas",
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+      "summary": "The French president's office said that Macron was safe and that his meeting with Syrian President Ahmad al-Sharaa would continue as scheduled.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-        "https://www.aljazeera.com/news/2026/7/6/super-typhoon-bavi-makes-landfall-on-us-pacific-islands?traffic_source=rss"
+        "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
+        "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss"
       ]
     },
     {
-      "headline": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
+      "headline": "Syria says 18 wounded in Damascus blasts during Macron visit",
+      "countries": [
+        "France"
       ],
-      "outlets": 2,
-      "summary": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Philippine Vice President Duterte\u2019s impeachment trial begins: What we know",
-      "countries": [],
       "regions": [
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "Duterte faces charges of mishandling government funds and making threats during rift with President Ferdinand Marcos Jr.",
+      "summary": "\n\n  \n      \n      \nSyria says 18 wounded in Damascus blasts during Macron visit\n\n    \n    \n\n        \n    \n                The blasts occurred in central Damascus near the hotel where France's president spent the night, with the Elysee Palace saying his visit is ongoing.\n\nThe blasts came moments befo",
       "links": [
-        "https://www.aljazeera.com/news/2026/7/6/philippine-vice-president-dutertes-impeachment-trial-begins-what-we-know?traffic_source=rss",
-        "https://www.aljazeera.com/news/2026/7/6/impeachment-trial-of-philippine-vice-president-sara-duterte-begins?traffic_source=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/syria-says-18-wounded-damascus-blasts-during-macron-visit",
+        "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss"
       ]
     },
     {
-      "headline": "The African fishermen who blame Chinese trawlers for their woes",
+      "headline": "Spain may style itself as Israel's most fervent adversary, but its sanctions are far from comprehensive",
       "countries": [
-        "China"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering up stocks.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
-      "countries": [],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Some of the famous guests have been posting on social media about the big day in New York.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Liberia: Absence of Suspects Charged in Absentia in U.S.$19m Drug Bust Could Derail Probe",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[FrontPageAfrica] Monrovia -- Nearly a month after authorities seized US$19 million worth of cocaine at Roberts International Airport, five people have been formally charged and named as principal suspects in a case that is once again drawing global scrutiny of Liberia's much-publicized war on drugs",
-      "links": [
-        "https://allafrica.com/stories/202607060347.html"
-      ]
-    },
-    {
-      "headline": "'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "A cemetery at the epicentre of the outbreak is rapidly filling up, however large traditional funerals have been scrapped.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cj3gx8jl6d5o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-      "countries": [],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "UK urged to sanction Netanyahu and justice minister over Israeli torture of Palestinians",
-      "countries": [
+        "Spain",
         "Israel"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nUK urged to sanction Netanyahu and justice minister over Israeli torture of Palestinians    \n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nMon, 07/06/2026 - 10:16\n\n        \n      \n    \n      \n    \n                Over 70 British lawmakers say Israeli pr",
+      "summary": "\n\n  \n      \n      \nSpain may style itself as Israel's most fervent adversary, but its sanctions are far from comprehensive \n\n    \n    \n\n          \n      \n      \n        Submitted by \nAna Maria Monjardino\n on \nMon, 07/06/2026 - 15:00\n\n        \n      \n    \n      \n    \n                Madrid, like Colo",
       "links": [
-        "https://www.middleeasteye.net/news/uk-government-urged-sanction-netanyahu-and-israeli-justice-minister-over-torture-palestinian"
+        "https://www.middleeasteye.net/news/beyond-symbolism-has-spain-become-israels-most-fervent-adversary"
       ]
     },
     {
-      "headline": "'My stomach is eating itself': Biohacker Bryan Johnson reveals he has autoimmune disease",
+      "headline": "Nigeria: Govt Orders Probe of Meta, Google, X, AI Platforms Over Alleged Exploitation of Nigerian Media",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[This Day] President Bola Tinubu, yesterday, directed Federal Competition and Consumer Protection Commission (FCCPC) to investigate major global technology companies and Generative Artificial Intelligence (AI) platforms over allegations of anti-competitive practices and the exploitation of content b",
+      "links": [
+        "https://allafrica.com/stories/202607070027.html"
+      ]
+    },
+    {
+      "headline": "Zimbabwe: Mnangagwa Seeks More Donations As Zimbabwe Struggles to Repatriate Citizens From South Africa",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Zimbabwe] President Emmerson Mnangagwa has appealed to the private sector and other well-wishers to provide additional financial support for Zimbabwe's ongoing repatriation programme to bring home citizens stranded in South Africa.",
+      "links": [
+        "https://allafrica.com/stories/202607070023.html"
+      ]
+    },
+    {
+      "headline": "Burkina Faso: Burkina Faso's Army Accused of Preventing Civilians From Leaving Jihadist-Besieged Towns",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[The New Humanitarian] Ouagadougou -- \"They say we have to accept dying for the homeland.\"",
+      "links": [
+        "https://allafrica.com/stories/202607070011.html"
+      ]
+    },
+    {
+      "headline": "Man sexually exploited 71-year-old woman with dementia after walking her home, admits to rape",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The tech entrepreneur, who is known for spending about US$2 million a year on longevity treatments, said he was diagnosed with autoimmune gastritis after months of medical tests.",
+      "summary": "Mohamad Zakir Jaafar thought he could get away with his crimes since the victim was senile and would not tell anyone.",
       "links": [
-        "https://www.channelnewsasia.com/wellness/bryan-johnson-autoimmune-gastritis-disease-6235086"
+        "https://www.channelnewsasia.com/singapore/man-rape-71-year-old-woman-dementia-6237741"
+      ]
+    },
+    {
+      "headline": "Watch: Crowds march through Tehran during funeral procession for Iran's slain Supreme Leader",
+      "countries": [
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nWatch: Crowds march through Tehran during funeral procession for Iran's slain Supreme Leader\n\n    \n    \n\n        \n    \n                Aerial footage from the funeral procession of Iran's late Supreme Leader, Ayatollah Ali Khamenei, on Monday showed hundreds of thousands of people",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/watch-crowds-march-through-tehran-during-funeral-procession-irans-slain"
+      ]
+    },
+    {
+      "headline": "Kenya: Police Tighten Nairobi Security With Checkpoints Ahead of Defiant Saba Saba Protests",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Capital FM] Nairobi -- Police will mount enhanced checkpoints across Nairobi on Tuesday in a major security operation ahead of planned Saba Saba demonstrations, even as activists insist they will proceed with the protests despite warnings that any gathering will be treated as unlawful.",
+      "links": [
+        "https://allafrica.com/stories/202607070044.html"
+      ]
+    },
+    {
+      "headline": "Tanzania: Tanzania Protesters Face Heavy Security, Fear Repeat of Deadly Election Violence",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[RFI] Tanzanians planning to protest Tuesday against government repression are facing a heavy police presence and warnings from authorities, which recalls the mass killings that followed last October's disputed election.",
+      "links": [
+        "https://allafrica.com/stories/202607070002.html"
+      ]
+    },
+    {
+      "headline": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "The launch, using a dummy warhead, took place the same day Australia and Fiji signed a mutual defense treaty meant to counter Chinese influence in the Pacific.",
+      "links": [
+        "https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-06 (extractive mode)\n\n* South Africa: Gauteng Offers Counselling to Families of Protest Victims - South African News Briefs - July 6, 2026 (AllAfrica News: Latest, 2 outlets)\n* Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks (BBC News, 2 outlets)\n* Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts (BBC News, 2 outlets)\n* Thousands welcome home Cape Verde footballers after stunning World Cup run (BBC News, 2 outlets)\n* Philippine Vice President Duterte\u2019s impeachment trial begins: What we know (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* The African fishermen who blame Chinese trawlers for their woes (BBC News, 2 outlets)\n* From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding (BBC News, 1 outlets)\n* Liberia: Absence of Suspects Charged in Absentia in U.S.$19m Drug Bust Could Derail Probe (AllAfrica News: Latest, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)\n* 'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours (BBC News, 1 outlets)\n* UK urged to sanction Netanyahu and justice minister over Israeli torture of Palestinians (Section Feed, 1 outlets)\n* 'My stomach is eating itself': Biohacker Bryan Johnson reveals he has autoimmune disease (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-07-07 (extractive mode)\n\n* South Africa: Matlala's Lawyers Head to Madlanga Commission - South African News Briefs - July 7, 2026 (AllAfrica News: Latest, 2 outlets)\n* Explosions rock Damascus, wounding 18, as French President Macron visits Syria (NPR Topics: World, 2 outlets)\n* Syria says 18 wounded in Damascus blasts during Macron visit (Section Feed, 2 outlets)\n* Spain may style itself as Israel's most fervent adversary, but its sanctions are far from comprehensive (Section Feed, 1 outlets)\n* Nigeria: Govt Orders Probe of Meta, Google, X, AI Platforms Over Alleged Exploitation of Nigerian Media (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Mnangagwa Seeks More Donations As Zimbabwe Struggles to Repatriate Citizens From South Africa (AllAfrica News: Latest, 1 outlets)\n* Burkina Faso: Burkina Faso's Army Accused of Preventing Civilians From Leaving Jihadist-Besieged Towns (AllAfrica News: Latest, 1 outlets)\n* Man sexually exploited 71-year-old woman with dementia after walking her home, admits to rape (Latest News, 1 outlets)\n* Watch: Crowds march through Tehran during funeral procession for Iran's slain Supreme Leader (Section Feed, 1 outlets)\n* Kenya: Police Tighten Nairobi Security With Checkpoints Ahead of Defiant Saba Saba Protests (AllAfrica News: Latest, 1 outlets)\n* Tanzania: Tanzania Protesters Face Heavy Security, Fear Repeat of Deadly Election Violence (AllAfrica News: Latest, 1 outlets)\n* China test-launches a ballistic missile in the South Pacific and raises regional concerns (NPR Topics: World, 1 outlets)"
 }
