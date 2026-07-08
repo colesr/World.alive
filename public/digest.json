@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-07T10:17:10.931192+00:00",
-  "digest_words": 238,
+  "generated_at": "2026-07-08T09:19:33.199724+00:00",
+  "digest_words": 251,
   "clusters": [
     {
-      "headline": "South Africa: Matlala's Lawyers Head to Madlanga Commission - South African News Briefs - July 7, 2026",
+      "headline": "South Africa: Madlanga Commission to Rule on Request for Private Testimony - South African News Briefs - July 8, 2026",
       "countries": [
         "South Africa"
       ],
@@ -14,110 +14,59 @@
       "outlets": 2,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202607070080.html",
-        "https://allafrica.com/stories/202607070102.html"
+        "https://allafrica.com/stories/202607080106.html",
+        "https://allafrica.com/stories/202607080109.html"
       ]
     },
     {
-      "headline": "Explosions rock Damascus, wounding 18, as French President Macron visits Syria",
+      "headline": "Egypt: Brave Egypt Fall Just Short As Argentina Stage Dramatic Comeback to Reach World Cup Quarter-Finals",
       "countries": [
-        "France"
-      ],
-      "regions": [
-        "Americas",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "The French president's office said that Macron was safe and that his meeting with Syrian President Ahmad al-Sharaa would continue as scheduled.",
-      "links": [
-        "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
-        "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "Syria says 18 wounded in Damascus blasts during Macron visit",
-      "countries": [
-        "France"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nSyria says 18 wounded in Damascus blasts during Macron visit\n\n    \n    \n\n        \n    \n                The blasts occurred in central Damascus near the hotel where France's president spent the night, with the Elysee Palace saying his visit is ongoing.\n\nThe blasts came moments befo",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/syria-says-18-wounded-damascus-blasts-during-macron-visit",
-        "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "Spain may style itself as Israel's most fervent adversary, but its sanctions are far from comprehensive",
-      "countries": [
-        "Spain",
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nSpain may style itself as Israel's most fervent adversary, but its sanctions are far from comprehensive \n\n    \n    \n\n          \n      \n      \n        Submitted by \nAna Maria Monjardino\n on \nMon, 07/06/2026 - 15:00\n\n        \n      \n    \n      \n    \n                Madrid, like Colo",
-      "links": [
-        "https://www.middleeasteye.net/news/beyond-symbolism-has-spain-become-israels-most-fervent-adversary"
-      ]
-    },
-    {
-      "headline": "Nigeria: Govt Orders Probe of Meta, Google, X, AI Platforms Over Alleged Exploitation of Nigerian Media",
-      "countries": [
-        "Nigeria"
+        "Argentina",
+        "Egypt"
       ],
       "regions": [
         "Africa"
       ],
-      "outlets": 1,
-      "summary": "[This Day] President Bola Tinubu, yesterday, directed Federal Competition and Consumer Protection Commission (FCCPC) to investigate major global technology companies and Generative Artificial Intelligence (AI) platforms over allegations of anti-competitive practices and the exploitation of content b",
+      "outlets": 2,
+      "summary": "[CAF] Egypt's FIFA World Cup dream ended in heartbreaking fashion on Tuesday after the Pharaohs produced a heroic performance before eventually succumbing 3-2 to defending champions Argentina in a dramatic Round of 16 encounter in Atlanta.",
       "links": [
-        "https://allafrica.com/stories/202607070027.html"
+        "https://allafrica.com/stories/202607080090.html",
+        "https://allafrica.com/stories/202607080121.html"
       ]
     },
     {
-      "headline": "Zimbabwe: Mnangagwa Seeks More Donations As Zimbabwe Struggles to Repatriate Citizens From South Africa",
+      "headline": "Ghana halts visit by South African president amid row over anti-migrant protests",
       "countries": [
         "South Africa"
       ],
       "regions": [
-        "Africa"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] President Emmerson Mnangagwa has appealed to the private sector and other well-wishers to provide additional financial support for Zimbabwe's ongoing repatriation programme to bring home citizens stranded in South Africa.",
+      "outlets": 2,
+      "summary": "Many in Ghana feared his presence would lead to mass protests, and officials say it is postponed for now.",
       "links": [
-        "https://allafrica.com/stories/202607070023.html"
+        "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Burkina Faso: Burkina Faso's Army Accused of Preventing Civilians From Leaving Jihadist-Besieged Towns",
-      "countries": [],
+      "headline": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+      "countries": [
+        "Ukraine"
+      ],
       "regions": [
-        "Africa"
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "[The New Humanitarian] Ouagadougou -- \"They say we have to accept dying for the homeland.\"",
+      "outlets": 2,
+      "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
       "links": [
-        "https://allafrica.com/stories/202607070011.html"
+        "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/ukraine-suspect-in-monaco-bomb-attack-found-dead-near-kyiv/a-77863128?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Man sexually exploited 71-year-old woman with dementia after walking her home, admits to rape",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Mohamad Zakir Jaafar thought he could get away with his crimes since the victim was senile and would not tell anyone.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/man-rape-71-year-old-woman-dementia-6237741"
-      ]
-    },
-    {
-      "headline": "Watch: Crowds march through Tehran during funeral procession for Iran's slain Supreme Leader",
+      "headline": "Middle East states should not allow their territories to be used to attack Iran, foreign ministry warns",
       "countries": [
         "Iran"
       ],
@@ -125,13 +74,37 @@
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nWatch: Crowds march through Tehran during funeral procession for Iran's slain Supreme Leader\n\n    \n    \n\n        \n    \n                Aerial footage from the funeral procession of Iran's late Supreme Leader, Ayatollah Ali Khamenei, on Monday showed hundreds of thousands of people",
+      "summary": "\n\n  \n      \n      \nMiddle East states should not allow their territories to be used to attack Iran, foreign ministry warns\n\n    \n    \n\n        \n    \n                Violations of Iranian arrangements in the Strait of Hormuz as well as ongoing Israeli attacks in Lebanon are making the interim deal wi",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/watch-crowds-march-through-tehran-during-funeral-procession-irans-slain"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/middle-east-states-should-not-allow-their-territories-be-used-attack"
       ]
     },
     {
-      "headline": "Kenya: Police Tighten Nairobi Security With Checkpoints Ahead of Defiant Saba Saba Protests",
+      "headline": "Man dies of heart disease in Woodlands flat after release from jail for killing temple worker: Coroner",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Loh Suan Lit had bludgeoned a temple assistant to death in 2016.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/man-dies-heart-disease-jail-release-kill-temple-worker-6240501"
+      ]
+    },
+    {
+      "headline": "\u2018Abandoned and left to die\u2019: Family of Hussam Abu Safiya says he has been betrayed by rights groups",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \n\u2018Abandoned and left to die\u2019: Family of Hussam Abu Safiya says he has been betrayed by rights groups\n\n    \n    \n\n          \n      \n      \n        Submitted by \nAmara Sophia Elahi\n on \nTue, 07/07/2026 - 11:57\n\n        \n      \n    \n      \n    \n                Abu Safiya has been held",
+      "links": [
+        "https://www.middleeasteye.net/news/abandoned-and-left-die-family-hussam-abu-safiya-say-he-has-been-betrayed-rights-groups"
+      ]
+    },
+    {
+      "headline": "Kenya: Activists Push for Parliamentary Probe Into Alleged Rights Violations By Security Agencies",
       "countries": [
         "Kenya"
       ],
@@ -139,37 +112,63 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- Police will mount enhanced checkpoints across Nairobi on Tuesday in a major security operation ahead of planned Saba Saba demonstrations, even as activists insist they will proceed with the protests despite warnings that any gathering will be treated as unlawful.",
+      "summary": "[Capital FM] Nairobi -- Human rights campaigners are seeking the formation of a joint parliamentary committee to investigate allegations of extrajudicial killings, enforced disappearances, torture, abductions and the excessive use of force by security agencies.",
       "links": [
-        "https://allafrica.com/stories/202607070044.html"
+        "https://allafrica.com/stories/202607080133.html"
       ]
     },
     {
-      "headline": "Tanzania: Tanzania Protesters Face Heavy Security, Fear Repeat of Deadly Election Violence",
+      "headline": "Singer Wu Chun returns to Singapore phone booth where he tearfully called his wife 30 years ago",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The former Fahrenheit member and actor&nbsp;made a sentimental detour to an old public phone booth outside Ngee Ann City along Orchard Road.",
+      "links": [
+        "https://www.channelnewsasia.com/entertainment/wu-chun-singapore-trip-phone-booth-6240076"
+      ]
+    },
+    {
+      "headline": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
+      "countries": [
+        "Australia"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation",
       "countries": [],
       "regions": [
-        "Africa"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "[RFI] Tanzanians planning to protest Tuesday against government repression are facing a heavy police presence and warnings from authorities, which recalls the mass killings that followed last October's disputed election.",
+      "summary": "Graham Platner denied the allegation, calling it \"categorically false\" but said he was \"taking the time to reflect on the best path forward\".",
       "links": [
-        "https://allafrica.com/stories/202607070002.html"
+        "https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
-      "countries": [
-        "China"
-      ],
+      "headline": "Taiwan's premium chocolate makers earn global recognition but climate change threatens growth",
+      "countries": [],
       "regions": [
-        "Americas"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "The launch, using a dummy warhead, took place the same day Australia and Fiji signed a mutual defense treaty meant to counter Chinese influence in the Pacific.",
+      "summary": "In the second of a three-part series on Taiwan beyond semiconductors, CNA explores how the island\u2019s emerging premium chocolate industry is balancing global success with growing climate pressures.&nbsp;",
       "links": [
-        "https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific"
+        "https://www.channelnewsasia.com/east-asia/taiwan-premium-chocolate-makers-earn-recognition-6238031"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-07 (extractive mode)\n\n* South Africa: Matlala's Lawyers Head to Madlanga Commission - South African News Briefs - July 7, 2026 (AllAfrica News: Latest, 2 outlets)\n* Explosions rock Damascus, wounding 18, as French President Macron visits Syria (NPR Topics: World, 2 outlets)\n* Syria says 18 wounded in Damascus blasts during Macron visit (Section Feed, 2 outlets)\n* Spain may style itself as Israel's most fervent adversary, but its sanctions are far from comprehensive (Section Feed, 1 outlets)\n* Nigeria: Govt Orders Probe of Meta, Google, X, AI Platforms Over Alleged Exploitation of Nigerian Media (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Mnangagwa Seeks More Donations As Zimbabwe Struggles to Repatriate Citizens From South Africa (AllAfrica News: Latest, 1 outlets)\n* Burkina Faso: Burkina Faso's Army Accused of Preventing Civilians From Leaving Jihadist-Besieged Towns (AllAfrica News: Latest, 1 outlets)\n* Man sexually exploited 71-year-old woman with dementia after walking her home, admits to rape (Latest News, 1 outlets)\n* Watch: Crowds march through Tehran during funeral procession for Iran's slain Supreme Leader (Section Feed, 1 outlets)\n* Kenya: Police Tighten Nairobi Security With Checkpoints Ahead of Defiant Saba Saba Protests (AllAfrica News: Latest, 1 outlets)\n* Tanzania: Tanzania Protesters Face Heavy Security, Fear Repeat of Deadly Election Violence (AllAfrica News: Latest, 1 outlets)\n* China test-launches a ballistic missile in the South Pacific and raises regional concerns (NPR Topics: World, 1 outlets)"
+  "narrative": "State of the World - 2026-07-08 (extractive mode)\n\n* South Africa: Madlanga Commission to Rule on Request for Private Testimony - South African News Briefs - July 8, 2026 (AllAfrica News: Latest, 2 outlets)\n* Egypt: Brave Egypt Fall Just Short As Argentina Stage Dramatic Comeback to Reach World Cup Quarter-Finals (AllAfrica News: Latest, 2 outlets)\n* Ghana halts visit by South African president amid row over anti-migrant protests (BBC News, 2 outlets)\n* Woman suspected of Monaco bomb attack found dead in Ukraine (BBC News, 2 outlets)\n* Middle East states should not allow their territories to be used to attack Iran, foreign ministry warns (Section Feed, 1 outlets)\n* Man dies of heart disease in Woodlands flat after release from jail for killing temple worker: Coroner (Latest News, 1 outlets)\n* \u2018Abandoned and left to die\u2019: Family of Hussam Abu Safiya says he has been betrayed by rights groups (Section Feed, 1 outlets)\n* Kenya: Activists Push for Parliamentary Probe Into Alleged Rights Violations By Security Agencies (AllAfrica News: Latest, 1 outlets)\n* Singer Wu Chun returns to Singapore phone booth where he tearfully called his wife 30 years ago (Latest News, 1 outlets)\n* Trains and emergency calls affected after major outage at Australia's largest telecoms company (BBC News, 1 outlets)\n* Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation (BBC News, 1 outlets)\n* Taiwan's premium chocolate makers earn global recognition but climate change threatens growth (Latest News, 1 outlets)"
 }
