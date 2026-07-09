@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-08T09:19:33.199724+00:00",
-  "digest_words": 251,
+  "generated_at": "2026-07-09T10:17:25.654154+00:00",
+  "digest_words": 248,
   "clusters": [
     {
-      "headline": "South Africa: Madlanga Commission to Rule on Request for Private Testimony - South African News Briefs - July 8, 2026",
+      "headline": "South Africa: Over 1,000 in Western Cape Initiated on Lenacapavir - South African News Briefs - July 9, 2026",
       "countries": [
         "South Africa"
       ],
@@ -14,161 +14,157 @@
       "outlets": 2,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202607080106.html",
-        "https://allafrica.com/stories/202607080109.html"
+        "https://allafrica.com/stories/202607090056.html",
+        "https://allafrica.com/stories/202607090085.html"
       ]
     },
     {
-      "headline": "Egypt: Brave Egypt Fall Just Short As Argentina Stage Dramatic Comeback to Reach World Cup Quarter-Finals",
-      "countries": [
-        "Argentina",
-        "Egypt"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 2,
-      "summary": "[CAF] Egypt's FIFA World Cup dream ended in heartbreaking fashion on Tuesday after the Pharaohs produced a heroic performance before eventually succumbing 3-2 to defending champions Argentina in a dramatic Round of 16 encounter in Atlanta.",
-      "links": [
-        "https://allafrica.com/stories/202607080090.html",
-        "https://allafrica.com/stories/202607080121.html"
-      ]
-    },
-    {
-      "headline": "Ghana halts visit by South African president amid row over anti-migrant protests",
-      "countries": [
-        "South Africa"
-      ],
+      "headline": "International court tells BBC of breakthrough in Sudan war crimes probe",
+      "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Many in Ghana feared his presence would lead to mass protests, and officials say it is postponed for now.",
+      "summary": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Woman suspected of Monaco bomb attack found dead in Ukraine",
-      "countries": [
-        "Ukraine"
-      ],
+      "headline": "DR Congo: Tensions mount over planned constitutional referendum",
+      "countries": [],
       "regions": [
+        "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
+      "summary": "Tensions are rising in DR Congo over plans to introduce a new constitution. The opposition accuses President Tshisekedi of using it to seek a third term but has postponed planned protests following an AU mediation offer.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-        "https://www.dw.com/en/ukraine-suspect-in-monaco-bomb-attack-found-dead-near-kyiv/a-77863128?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/dr-congo-tensions-mount-over-planned-constitutional-referendum/a-77859643?maca=en-rss-en-world-4025-rdf",
+        "https://allafrica.com/stories/202607090055.html"
       ]
     },
     {
-      "headline": "Middle East states should not allow their territories to be used to attack Iran, foreign ministry warns",
+      "headline": "Trump says ceasefire with Iran is 'over' as NATO summit wraps",
       "countries": [
+        "United States",
         "Iran"
       ],
       "regions": [
-        "Middle East"
+        "Americas"
       ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nMiddle East states should not allow their territories to be used to attack Iran, foreign ministry warns\n\n    \n    \n\n        \n    \n                Violations of Iranian arrangements in the Strait of Hormuz as well as ongoing Israeli attacks in Lebanon are making the interim deal wi",
+      "outlets": 2,
+      "summary": "President Trump said he believes the current ceasefire with Iran is over following an exchange of attacks between the U.S. and Iran in the latest escalation straining the agreement to end the war.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/middle-east-states-should-not-allow-their-territories-be-used-attack"
+        "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
+        "https://www.npr.org/2026/07/08/nx-s1-5886102/trump-threatens-iran-as-nato-summit-wraps"
       ]
     },
     {
-      "headline": "Man dies of heart disease in Woodlands flat after release from jail for killing temple worker: Coroner",
+      "headline": "Late payments and financial penalties squeeze security firms, raising risk of wage delays, say industry players",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Loh Suan Lit had bludgeoned a temple assistant to death in 2016.",
+      "summary": "The closure of a security agency has drawn attention to business practices that can strain companies\u2019 cash flow and affect workers\u2019 pay.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/man-dies-heart-disease-jail-release-kill-temple-worker-6240501"
+        "https://www.channelnewsasia.com/singapore/late-payments-financial-penalties-security-firms-wage-delays-6243321"
       ]
     },
     {
-      "headline": "\u2018Abandoned and left to die\u2019: Family of Hussam Abu Safiya says he has been betrayed by rights groups",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \n\u2018Abandoned and left to die\u2019: Family of Hussam Abu Safiya says he has been betrayed by rights groups\n\n    \n    \n\n          \n      \n      \n        Submitted by \nAmara Sophia Elahi\n on \nTue, 07/07/2026 - 11:57\n\n        \n      \n    \n      \n    \n                Abu Safiya has been held",
-      "links": [
-        "https://www.middleeasteye.net/news/abandoned-and-left-die-family-hussam-abu-safiya-say-he-has-been-betrayed-rights-groups"
-      ]
-    },
-    {
-      "headline": "Kenya: Activists Push for Parliamentary Probe Into Alleged Rights Violations By Security Agencies",
+      "headline": "Nigeria: Govt to Stem Human Trafficking, Irregular Migration As Over 1,000 Nigerians Return From Crisis Routes",
       "countries": [
-        "Kenya"
+        "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- Human rights campaigners are seeking the formation of a joint parliamentary committee to investigate allegations of extrajudicial killings, enforced disappearances, torture, abductions and the excessive use of force by security agencies.",
+      "summary": "[This Day] Abuja -- The Federal Government has unveiled a renewed strategy to curb irregular migration and dismantle human trafficking networks, warning that worsening economic hardship and the growing use of digital platforms by traffickers are exposing more Nigerians, particularly women and young ",
       "links": [
-        "https://allafrica.com/stories/202607080133.html"
+        "https://allafrica.com/stories/202607090032.html"
       ]
     },
     {
-      "headline": "Singer Wu Chun returns to Singapore phone booth where he tearfully called his wife 30 years ago",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The former Fahrenheit member and actor&nbsp;made a sentimental detour to an old public phone booth outside Ngee Ann City along Orchard Road.",
-      "links": [
-        "https://www.channelnewsasia.com/entertainment/wu-chun-singapore-trip-phone-booth-6240076"
-      ]
-    },
-    {
-      "headline": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
-      "countries": [
-        "Australia"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation",
+      "headline": "It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked",
       "countries": [],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Graham Platner denied the allegation, calling it \"categorically false\" but said he was \"taking the time to reflect on the best path forward\".",
+      "summary": "When they adopted Marcus, David and Ally's dream of having a child was complete - but now they could lose him.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Taiwan's premium chocolate makers earn global recognition but climate change threatens growth",
+      "headline": "Nigeria: Reps in Rowdy Session Over Bid to Summon Tinubu to Explain Poor Budget Implementation",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Premium Times] The lawmakers were engaged in a rowdy debate over whether President Bola Tinubu should be invited to address concerns about inadequate funding of government agencies and delays in implementing the 2025 budget.",
+      "links": [
+        "https://allafrica.com/stories/202607080717.html"
+      ]
+    },
+    {
+      "headline": "US and Iran trade strikes for second night in a row after Trump declares ceasefire 'over'",
+      "countries": [
+        "United States",
+        "Iran"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Traffic through the Strait of Hormuz has dropped 'dramatically' since the lastest attacks began.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "A cemetery at the epicentre of the outbreak is rapidly filling up, however large traditional funerals have been scrapped.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cj3gx8jl6d5o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "SAP averts EU antitrust fine as regulators accept offer to address competition concerns",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "In the second of a three-part series on Taiwan beyond semiconductors, CNA explores how the island\u2019s emerging premium chocolate industry is balancing global success with growing climate pressures.&nbsp;",
+      "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/east-asia/taiwan-premium-chocolate-makers-earn-recognition-6238031"
+        "https://www.channelnewsasia.com/business/sap-averts-eu-antitrust-fine-regulators-accept-offer-address-competition-concerns-6243636"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-08 (extractive mode)\n\n* South Africa: Madlanga Commission to Rule on Request for Private Testimony - South African News Briefs - July 8, 2026 (AllAfrica News: Latest, 2 outlets)\n* Egypt: Brave Egypt Fall Just Short As Argentina Stage Dramatic Comeback to Reach World Cup Quarter-Finals (AllAfrica News: Latest, 2 outlets)\n* Ghana halts visit by South African president amid row over anti-migrant protests (BBC News, 2 outlets)\n* Woman suspected of Monaco bomb attack found dead in Ukraine (BBC News, 2 outlets)\n* Middle East states should not allow their territories to be used to attack Iran, foreign ministry warns (Section Feed, 1 outlets)\n* Man dies of heart disease in Woodlands flat after release from jail for killing temple worker: Coroner (Latest News, 1 outlets)\n* \u2018Abandoned and left to die\u2019: Family of Hussam Abu Safiya says he has been betrayed by rights groups (Section Feed, 1 outlets)\n* Kenya: Activists Push for Parliamentary Probe Into Alleged Rights Violations By Security Agencies (AllAfrica News: Latest, 1 outlets)\n* Singer Wu Chun returns to Singapore phone booth where he tearfully called his wife 30 years ago (Latest News, 1 outlets)\n* Trains and emergency calls affected after major outage at Australia's largest telecoms company (BBC News, 1 outlets)\n* Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation (BBC News, 1 outlets)\n* Taiwan's premium chocolate makers earn global recognition but climate change threatens growth (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-07-09 (extractive mode)\n\n* South Africa: Over 1,000 in Western Cape Initiated on Lenacapavir - South African News Briefs - July 9, 2026 (AllAfrica News: Latest, 2 outlets)\n* International court tells BBC of breakthrough in Sudan war crimes probe (BBC News, 2 outlets)\n* DR Congo: Tensions mount over planned constitutional referendum (World | Deutsche Welle, 2 outlets)\n* Trump says ceasefire with Iran is 'over' as NATO summit wraps (NPR Topics: World, 2 outlets)\n* Late payments and financial penalties squeeze security firms, raising risk of wage delays, say industry players (Latest News, 1 outlets)\n* Nigeria: Govt to Stem Human Trafficking, Irregular Migration As Over 1,000 Nigerians Return From Crisis Routes (AllAfrica News: Latest, 1 outlets)\n* It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked (BBC News, 1 outlets)\n* Nigeria: Reps in Rowdy Session Over Bid to Summon Tinubu to Explain Poor Budget Implementation (AllAfrica News: Latest, 1 outlets)\n* US and Iran trade strikes for second night in a row after Trump declares ceasefire 'over' (BBC News, 1 outlets)\n* Democrat Graham Platner suspends campaign for key US Senate race after assault allegation (BBC News, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)\n* SAP averts EU antitrust fine as regulators accept offer to address competition concerns (Latest News, 1 outlets)"
 }
