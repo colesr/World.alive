@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-09T10:17:25.654154+00:00",
-  "digest_words": 248,
+  "generated_at": "2026-07-10T10:13:39.839212+00:00",
+  "digest_words": 232,
   "clusters": [
     {
-      "headline": "South Africa: Over 1,000 in Western Cape Initiated on Lenacapavir - South African News Briefs - July 9, 2026",
+      "headline": "South Africa: Spar Recalls Multiple Yoghurts Over Spoilage - South African News Briefs - July 10, 2026",
       "countries": [
         "South Africa"
       ],
@@ -14,119 +14,73 @@
       "outlets": 2,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202607090056.html",
-        "https://allafrica.com/stories/202607090085.html"
+        "https://allafrica.com/stories/202607100109.html",
+        "https://allafrica.com/stories/202607100111.html"
       ]
     },
     {
-      "headline": "International court tells BBC of breakthrough in Sudan war crimes probe",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "DR Congo: Tensions mount over planned constitutional referendum",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Tensions are rising in DR Congo over plans to introduce a new constitution. The opposition accuses President Tshisekedi of using it to seek a third term but has postponed planned protests following an AU mediation offer.",
-      "links": [
-        "https://www.dw.com/en/dr-congo-tensions-mount-over-planned-constitutional-referendum/a-77859643?maca=en-rss-en-world-4025-rdf",
-        "https://allafrica.com/stories/202607090055.html"
-      ]
-    },
-    {
-      "headline": "Trump says ceasefire with Iran is 'over' as NATO summit wraps",
+      "headline": "South Africa: Embassy Visit, Event-Snooping - South Africa 'Spy' Portia Anyamba's Secret U.S. Reports for Cash",
       "countries": [
         "United States",
-        "Iran"
+        "South Africa"
       ],
       "regions": [
-        "Americas"
+        "Africa"
       ],
-      "outlets": 2,
-      "summary": "President Trump said he believes the current ceasefire with Iran is over following an exchange of attacks between the U.S. and Iran in the latest escalation straining the agreement to end the war.",
+      "outlets": 1,
+      "summary": "[Daily Maverick] Former SA Air Force brigadier general Portia 'Posh' Anyamba, who has been sentenced to jail in the United States for being a foreign agent for South Africa, was apparently paid to go to events and secretly report back to officials from this country. These and other accusations and a",
       "links": [
-        "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
-        "https://www.npr.org/2026/07/08/nx-s1-5886102/trump-threatens-iran-as-nato-summit-wraps"
+        "https://allafrica.com/stories/202607100045.html"
       ]
     },
     {
-      "headline": "Late payments and financial penalties squeeze security firms, raising risk of wage delays, say industry players",
+      "headline": "Uganda: Teacher Killed, Dozens of Students Injured in Train-Bus Collision At Mukono Railway Crossing",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Nile Post] MUKONO: One teacher was killed and several students injured on Friday morning after a passenger train collided with a bus carrying Mwebaza High School students on a study trip to Jinja at the Namumira railway crossing in Mukono Municipality.",
+      "links": [
+        "https://allafrica.com/stories/202607100187.html"
+      ]
+    },
+    {
+      "headline": "Zimbabwe: Opposition Coalition Launches Campaign to Overturn Mnangagwa's Constitutional Changes",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Zimbabwe] A broad coalition of churches, labour unions, civic groups, students, war veterans and opposition political actors has launched a nationwide campaign to challenge Zimbabwe's newly enacted constitutional amendments in court and mobilise peaceful mass action, escalating resistance to le",
+      "links": [
+        "https://allafrica.com/stories/202607090520.html"
+      ]
+    },
+    {
+      "headline": "Johor state polls: Political heavyweights take centre stage as parties chase undecided voters",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The closure of a security agency has drawn attention to business practices that can strain companies\u2019 cash flow and affect workers\u2019 pay.",
+      "summary": "Prime Minister Anwar Ibrahim, Deputy Prime Minister Ahmad Zahid Hamidi and Parti Islam Se-Malaysia (PAS) president Abdul Hadi Awang have all been campaigning for their respective coalitions in a final push for votes.\n&nbsp;",
       "links": [
-        "https://www.channelnewsasia.com/singapore/late-payments-financial-penalties-security-firms-wage-delays-6243321"
+        "https://www.channelnewsasia.com/asia/johor-state-election-political-bigwigs-anwar-ibrahim-ahmad-zahid-hamidi-abdul-hadi-awang-6245551"
       ]
     },
     {
-      "headline": "Nigeria: Govt to Stem Human Trafficking, Irregular Migration As Over 1,000 Nigerians Return From Crisis Routes",
+      "headline": "Iranian foreign ministry says Nato chief exposed Europe's 'willful complicity' in US attacks",
       "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[This Day] Abuja -- The Federal Government has unveiled a renewed strategy to curb irregular migration and dismantle human trafficking networks, warning that worsening economic hardship and the growing use of digital platforms by traffickers are exposing more Nigerians, particularly women and young ",
-      "links": [
-        "https://allafrica.com/stories/202607090032.html"
-      ]
-    },
-    {
-      "headline": "It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked",
-      "countries": [],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "When they adopted Marcus, David and Ally's dream of having a child was complete - but now they could lose him.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Nigeria: Reps in Rowdy Session Over Bid to Summon Tinubu to Explain Poor Budget Implementation",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Premium Times] The lawmakers were engaged in a rowdy debate over whether President Bola Tinubu should be invited to address concerns about inadequate funding of government agencies and delays in implementing the 2025 budget.",
-      "links": [
-        "https://allafrica.com/stories/202607080717.html"
-      ]
-    },
-    {
-      "headline": "US and Iran trade strikes for second night in a row after Trump declares ceasefire 'over'",
-      "countries": [
-        "United States",
         "Iran"
       ],
       "regions": [
-        "Europe"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "Traffic through the Strait of Hormuz has dropped 'dramatically' since the lastest attacks began.",
+      "summary": "\n\n  \n      \n      \nIranian foreign ministry says Nato chief exposed Europe's 'willful complicity' in US attacks \n\n    \n    \n\n        \n    \n                Iranian foreign ministry spokesperson Esmaeil Baghaei&nbsp;has accused Europe of backing the&nbsp;US-Israeli war on Tehran.\n\n\"[Secretary General ",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-ministry-says-nato-chief-exposed-europes-willful"
       ]
     },
     {
@@ -142,29 +96,67 @@
       ]
     },
     {
-      "headline": "'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "A cemetery at the epicentre of the outbreak is rapidly filling up, however large traditional funerals have been scrapped.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cj3gx8jl6d5o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "SAP averts EU antitrust fine as regulators accept offer to address competition concerns",
+      "headline": "Changi Airport opens new building with aerobridges for flights parked away from terminals",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "",
+      "summary": "The air-conditioned facility, complete with solar panels and a wheelchair-friendly ramp, will be tested on selected flights from August.",
       "links": [
-        "https://www.channelnewsasia.com/business/sap-averts-eu-antitrust-fine-regulators-accept-offer-address-competition-concerns-6243636"
+        "https://www.channelnewsasia.com/singapore/changi-airport-new-building-remote-flights-aerobridges-ramp-6246036"
+      ]
+    },
+    {
+      "headline": "South Sudan: Fifteen Years of Independence for South Sudan, but Still Little to Celebrate",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[RFI] South Sudan, the world's youngest country, on Thursday marks the 15th anniversary of its independence, following decades of war with Sudan, a 2005 peace agreement and a 2011 self-determination referendum in which almost 99 percent of voters backed statehood. But the hopes that came with it hav",
+      "links": [
+        "https://allafrica.com/stories/202607100141.html"
+      ]
+    },
+    {
+      "headline": "About 43 million people attended Khamenei's week-long funeral, Iranian state media says",
+      "countries": [
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nAbout 43 million people attended Khamenei's week-long funeral, Iranian state media says\n\n    \n    \n\n        \n    \n                Around 43 million people attended&nbsp;Iran\u2019s slain Supreme Leader Ayatollah Ali Khamenei's nearly&nbsp;week-long funeral , Iranian state media reporte",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/about-43-million-people-attended-khameneis-week-long-funeral-iranian"
+      ]
+    },
+    {
+      "headline": "Graham Platner ends Senate bid. And, why Nolan Wells' death captured national attention",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Democrat Graham Platner ended his bid last night for U.S. Senate. And, prominent civil rights attorney Ben Crump has been enlisted to help get answers in the July Fourth weekend death of Nolan Wells.",
+      "links": [
+        "https://www.npr.org/2026/07/09/g-s1-132694/up-first-newsletter-graham-platner-trump-iran-israel-nolan-wells"
+      ]
+    },
+    {
+      "headline": "\u2018Farcical reality\u2019: Healthcare workers respond to targeting over pro-Palestine symbols",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \n\u2018Farcical reality\u2019: Healthcare workers respond to targeting over pro-Palestine symbols\n\n    \n    \n\n          \n      \n      \n        Submitted by \nFleur Hargreaves\n on \nTue, 07/07/2026 - 11:08\n\n        \n      \n    \n      \n    \n                MPs and NHS workers raise concern about",
+      "links": [
+        "https://www.middleeasteye.net/news/farcical-reality-healthcare-workers-respond-being-targeted-displaying-pro-palestine-symbols"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-09 (extractive mode)\n\n* South Africa: Over 1,000 in Western Cape Initiated on Lenacapavir - South African News Briefs - July 9, 2026 (AllAfrica News: Latest, 2 outlets)\n* International court tells BBC of breakthrough in Sudan war crimes probe (BBC News, 2 outlets)\n* DR Congo: Tensions mount over planned constitutional referendum (World | Deutsche Welle, 2 outlets)\n* Trump says ceasefire with Iran is 'over' as NATO summit wraps (NPR Topics: World, 2 outlets)\n* Late payments and financial penalties squeeze security firms, raising risk of wage delays, say industry players (Latest News, 1 outlets)\n* Nigeria: Govt to Stem Human Trafficking, Irregular Migration As Over 1,000 Nigerians Return From Crisis Routes (AllAfrica News: Latest, 1 outlets)\n* It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked (BBC News, 1 outlets)\n* Nigeria: Reps in Rowdy Session Over Bid to Summon Tinubu to Explain Poor Budget Implementation (AllAfrica News: Latest, 1 outlets)\n* US and Iran trade strikes for second night in a row after Trump declares ceasefire 'over' (BBC News, 1 outlets)\n* Democrat Graham Platner suspends campaign for key US Senate race after assault allegation (BBC News, 1 outlets)\n* 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely (BBC News, 1 outlets)\n* SAP averts EU antitrust fine as regulators accept offer to address competition concerns (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-07-10 (extractive mode)\n\n* South Africa: Spar Recalls Multiple Yoghurts Over Spoilage - South African News Briefs - July 10, 2026 (AllAfrica News: Latest, 2 outlets)\n* South Africa: Embassy Visit, Event-Snooping - South Africa 'Spy' Portia Anyamba's Secret U.S. Reports for Cash (AllAfrica News: Latest, 1 outlets)\n* Uganda: Teacher Killed, Dozens of Students Injured in Train-Bus Collision At Mukono Railway Crossing (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Opposition Coalition Launches Campaign to Overturn Mnangagwa's Constitutional Changes (AllAfrica News: Latest, 1 outlets)\n* Johor state polls: Political heavyweights take centre stage as parties chase undecided voters (Latest News, 1 outlets)\n* Iranian foreign ministry says Nato chief exposed Europe's 'willful complicity' in US attacks (Section Feed, 1 outlets)\n* Democrat Graham Platner suspends campaign for key US Senate race after assault allegation (BBC News, 1 outlets)\n* Changi Airport opens new building with aerobridges for flights parked away from terminals (Latest News, 1 outlets)\n* South Sudan: Fifteen Years of Independence for South Sudan, but Still Little to Celebrate (AllAfrica News: Latest, 1 outlets)\n* About 43 million people attended Khamenei's week-long funeral, Iranian state media says (Section Feed, 1 outlets)\n* Graham Platner ends Senate bid. And, why Nolan Wells' death captured national attention (NPR Topics: World, 1 outlets)\n* \u2018Farcical reality\u2019: Healthcare workers respond to targeting over pro-Palestine symbols (Section Feed, 1 outlets)"
 }
