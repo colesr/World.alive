@@ -1,136 +1,76 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-10T10:13:39.839212+00:00",
-  "digest_words": 232,
+  "generated_at": "2026-07-11T08:41:31.278092+00:00",
+  "digest_words": 236,
   "clusters": [
     {
-      "headline": "South Africa: Spar Recalls Multiple Yoghurts Over Spoilage - South African News Briefs - July 10, 2026",
+      "headline": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
       "countries": [
-        "South Africa"
+        "Nigeria"
       ],
       "regions": [
-        "Africa"
+        "Africa",
+        "Europe"
       ],
       "outlets": 2,
-      "summary": "[allAfrica]",
+      "summary": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
       "links": [
-        "https://allafrica.com/stories/202607100109.html",
-        "https://allafrica.com/stories/202607100111.html"
+        "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "South Africa: Embassy Visit, Event-Snooping - South Africa 'Spy' Portia Anyamba's Secret U.S. Reports for Cash",
+      "headline": "Zulu king expresses regret after video captures tirade against his wife",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "West Africa: BRVM Sees Notable Upward Moves - Ecobank Transnational Inc Leads With +36.17 Percent Gain",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Daba Finance] The Bourse R&#xe9;gionale des Valeurs Mobili&#xe8;res (BRVM) has recently showcased dynamic activity, with four key stocks registering significant upward price movements over the past seven days. These notable shifts provide valuable insights for investors tracking opportunities acros",
+      "links": [
+        "https://allafrica.com/stories/202607100566.html"
+      ]
+    },
+    {
+      "headline": "Nigeria: Special Report - How Soaring Cooking Gas Prices Are Squeezing Nigerian Households, Businesses",
       "countries": [
-        "United States",
-        "South Africa"
+        "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Daily Maverick] Former SA Air Force brigadier general Portia 'Posh' Anyamba, who has been sentenced to jail in the United States for being a foreign agent for South Africa, was apparently paid to go to events and secretly report back to officials from this country. These and other accusations and a",
+      "summary": "[Premium Times] A PREMIUM TIMES nationwide survey shows how global supply disruptions and longstanding domestic bottlenecks combined to drive up the cost of Liquefied Petroleum Gas (LPG), leaving consumers and businesses under severe pressure.",
       "links": [
-        "https://allafrica.com/stories/202607100045.html"
+        "https://allafrica.com/stories/202607100246.html"
       ]
     },
     {
-      "headline": "Uganda: Teacher Killed, Dozens of Students Injured in Train-Bus Collision At Mukono Railway Crossing",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Nile Post] MUKONO: One teacher was killed and several students injured on Friday morning after a passenger train collided with a bus carrying Mwebaza High School students on a study trip to Jinja at the Namumira railway crossing in Mukono Municipality.",
-      "links": [
-        "https://allafrica.com/stories/202607100187.html"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: Opposition Coalition Launches Campaign to Overturn Mnangagwa's Constitutional Changes",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] A broad coalition of churches, labour unions, civic groups, students, war veterans and opposition political actors has launched a nationwide campaign to challenge Zimbabwe's newly enacted constitutional amendments in court and mobilise peaceful mass action, escalating resistance to le",
-      "links": [
-        "https://allafrica.com/stories/202607090520.html"
-      ]
-    },
-    {
-      "headline": "Johor state polls: Political heavyweights take centre stage as parties chase undecided voters",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Prime Minister Anwar Ibrahim, Deputy Prime Minister Ahmad Zahid Hamidi and Parti Islam Se-Malaysia (PAS) president Abdul Hadi Awang have all been campaigning for their respective coalitions in a final push for votes.\n&nbsp;",
-      "links": [
-        "https://www.channelnewsasia.com/asia/johor-state-election-political-bigwigs-anwar-ibrahim-ahmad-zahid-hamidi-abdul-hadi-awang-6245551"
-      ]
-    },
-    {
-      "headline": "Iranian foreign ministry says Nato chief exposed Europe's 'willful complicity' in US attacks",
+      "headline": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
       "countries": [
-        "Iran"
+        "Canada"
       ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIranian foreign ministry says Nato chief exposed Europe's 'willful complicity' in US attacks \n\n    \n    \n\n        \n    \n                Iranian foreign ministry spokesperson Esmaeil Baghaei&nbsp;has accused Europe of backing the&nbsp;US-Israeli war on Tehran.\n\n\"[Secretary General ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-ministry-says-nato-chief-exposed-europes-willful"
-      ]
-    },
-    {
-      "headline": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-      "countries": [],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+      "summary": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Changi Airport opens new building with aerobridges for flights parked away from terminals",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The air-conditioned facility, complete with solar panels and a wheelchair-friendly ramp, will be tested on selected flights from August.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/changi-airport-new-building-remote-flights-aerobridges-ramp-6246036"
-      ]
-    },
-    {
-      "headline": "South Sudan: Fifteen Years of Independence for South Sudan, but Still Little to Celebrate",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[RFI] South Sudan, the world's youngest country, on Thursday marks the 15th anniversary of its independence, following decades of war with Sudan, a 2005 peace agreement and a 2011 self-determination referendum in which almost 99 percent of voters backed statehood. But the hopes that came with it hav",
-      "links": [
-        "https://allafrica.com/stories/202607100141.html"
-      ]
-    },
-    {
-      "headline": "About 43 million people attended Khamenei's week-long funeral, Iranian state media says",
-      "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nAbout 43 million people attended Khamenei's week-long funeral, Iranian state media says\n\n    \n    \n\n        \n    \n                Around 43 million people attended&nbsp;Iran\u2019s slain Supreme Leader Ayatollah Ali Khamenei's nearly&nbsp;week-long funeral , Iranian state media reporte",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/about-43-million-people-attended-khameneis-week-long-funeral-iranian"
+        "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -146,17 +86,91 @@
       ]
     },
     {
-      "headline": "\u2018Farcical reality\u2019: Healthcare workers respond to targeting over pro-Palestine symbols",
-      "countries": [],
+      "headline": "Several flights from Singapore cancelled as Typhoon Bavi takes aim at Taiwan and China",
+      "countries": [
+        "China",
+        "Singapore"
+      ],
       "regions": [
-        "Middle East"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \n\u2018Farcical reality\u2019: Healthcare workers respond to targeting over pro-Palestine symbols\n\n    \n    \n\n          \n      \n      \n        Submitted by \nFleur Hargreaves\n on \nTue, 07/07/2026 - 11:08\n\n        \n      \n    \n      \n    \n                MPs and NHS workers raise concern about",
+      "summary": "Typhoon Bavi, described as one of the largest storms to hit Taiwan in more than 30 years, has already caused significant damage in parts of Asia.",
       "links": [
-        "https://www.middleeasteye.net/news/farcical-reality-healthcare-workers-respond-being-targeted-displaying-pro-palestine-symbols"
+        "https://www.channelnewsasia.com/singapore/typhoon-bavi-singapore-flights-cancelled-taiwan-china-6247776"
+      ]
+    },
+    {
+      "headline": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
+      "countries": [
+        "United States",
+        "Iran"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
+      "links": [
+        "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran"
+      ]
+    },
+    {
+      "headline": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
+      "countries": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
+      "links": [
+        "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas"
+      ]
+    },
+    {
+      "headline": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
+      "countries": [
+        "United Kingdom"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Meet Count Binface: the challenger from another planet taking on Nigel Farage as questions over the Reform UK leader's finances overshadow his election comeback.",
+      "links": [
+        "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election"
+      ]
+    },
+    {
+      "headline": "Congo-Kinshasa: Delayed Containment of Ebola Could Cost DR Congo and Uganda Billions",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[ISS] Over US$700 million in additional health financing is needed to rapidly contain and prevent a wider regional crisis.",
+      "links": [
+        "https://allafrica.com/stories/202607100402.html"
+      ]
+    },
+    {
+      "headline": "Kenya: Ombudsman Orders Release of NHIF, SHA Hospital Payment Records Within 21 Days",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Capital FM] Nairobi -- The Commission on Administrative Justice (CAJ) has ordered the release of detailed records of payments made to hospitals under the defunct National Hospital Insurance Fund (NHIF) and the Social Health Authority (SHA), citing the constitutional right of access to information.",
+      "links": [
+        "https://allafrica.com/stories/202607100478.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-10 (extractive mode)\n\n* South Africa: Spar Recalls Multiple Yoghurts Over Spoilage - South African News Briefs - July 10, 2026 (AllAfrica News: Latest, 2 outlets)\n* South Africa: Embassy Visit, Event-Snooping - South Africa 'Spy' Portia Anyamba's Secret U.S. Reports for Cash (AllAfrica News: Latest, 1 outlets)\n* Uganda: Teacher Killed, Dozens of Students Injured in Train-Bus Collision At Mukono Railway Crossing (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Opposition Coalition Launches Campaign to Overturn Mnangagwa's Constitutional Changes (AllAfrica News: Latest, 1 outlets)\n* Johor state polls: Political heavyweights take centre stage as parties chase undecided voters (Latest News, 1 outlets)\n* Iranian foreign ministry says Nato chief exposed Europe's 'willful complicity' in US attacks (Section Feed, 1 outlets)\n* Democrat Graham Platner suspends campaign for key US Senate race after assault allegation (BBC News, 1 outlets)\n* Changi Airport opens new building with aerobridges for flights parked away from terminals (Latest News, 1 outlets)\n* South Sudan: Fifteen Years of Independence for South Sudan, but Still Little to Celebrate (AllAfrica News: Latest, 1 outlets)\n* About 43 million people attended Khamenei's week-long funeral, Iranian state media says (Section Feed, 1 outlets)\n* Graham Platner ends Senate bid. And, why Nolan Wells' death captured national attention (NPR Topics: World, 1 outlets)\n* \u2018Farcical reality\u2019: Healthcare workers respond to targeting over pro-Palestine symbols (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-07-11 (extractive mode)\n\n* How a fake presidential council ended up with a budget of almost $1m in Nigeria (BBC News, 2 outlets)\n* Zulu king expresses regret after video captures tirade against his wife (BBC News, 2 outlets)\n* West Africa: BRVM Sees Notable Upward Moves - Ecobank Transnational Inc Leads With +36.17 Percent Gain (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Special Report - How Soaring Cooking Gas Prices Are Squeezing Nigerian Households, Businesses (AllAfrica News: Latest, 1 outlets)\n* At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation (BBC News, 1 outlets)\n* Graham Platner ends Senate bid. And, why Nolan Wells' death captured national attention (NPR Topics: World, 1 outlets)\n* Several flights from Singapore cancelled as Typhoon Bavi takes aim at Taiwan and China (Latest News, 1 outlets)\n* Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing (NPR Topics: World, 1 outlets)\n* U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza (NPR Topics: World, 1 outlets)\n* Count Binface: The intergalactic warrior who could upend Britain's strangest election (NPR Topics: World, 1 outlets)\n* Congo-Kinshasa: Delayed Containment of Ebola Could Cost DR Congo and Uganda Billions (AllAfrica News: Latest, 1 outlets)\n* Kenya: Ombudsman Orders Release of NHIF, SHA Hospital Payment Records Within 21 Days (AllAfrica News: Latest, 1 outlets)"
 }
