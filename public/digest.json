@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-11T08:41:31.278092+00:00",
-  "digest_words": 236,
+  "generated_at": "2026-07-12T08:57:32.220625+00:00",
+  "digest_words": 257,
   "clusters": [
     {
-      "headline": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
+      "headline": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
       "countries": [
         "Nigeria"
       ],
@@ -13,24 +13,51 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
+      "summary": "\"I feel happy and elated\u2026 I feel joy,\" the head of the local teachers' union tells the BBC.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Zulu king expresses regret after video captures tirade against his wife",
+      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
       "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "Sheikh Hamad, who ruled Qatar from 1995 to 2013, was a key architect of the energy-rich Gulf country&#039;s development.",
+      "links": [
+        "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss",
+        "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "South Africa World Cup midfielder Adams dies aged 25",
+      "countries": [
+        "South Africa"
+      ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Africa: The African Union's Corruption Wake-Up Call - Is This the Beginning of Renewal or Just Another Speech?",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica] Every so often, a statement emerges from the African Union that makes one pause and wonder whether the institution has finally found its voice.",
+      "links": [
+        "https://allafrica.com/stories/202607110076.html"
       ]
     },
     {
@@ -46,119 +73,62 @@
       ]
     },
     {
-      "headline": "Nigeria: Special Report - How Soaring Cooking Gas Prices Are Squeezing Nigerian Households, Businesses",
+      "headline": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
       "countries": [
-        "Nigeria"
+        "Iran"
       ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Premium Times] A PREMIUM TIMES nationwide survey shows how global supply disruptions and longstanding domestic bottlenecks combined to drive up the cost of Liquefied Petroleum Gas (LPG), leaving consumers and businesses under severe pressure.",
-      "links": [
-        "https://allafrica.com/stories/202607100246.html"
-      ]
-    },
-    {
-      "headline": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
-      "countries": [
-        "Canada"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Graham Platner ends Senate bid. And, why Nolan Wells' death captured national attention",
-      "countries": [],
       "regions": [
         "Americas"
       ],
       "outlets": 1,
-      "summary": "Democrat Graham Platner ended his bid last night for U.S. Senate. And, prominent civil rights attorney Ben Crump has been enlisted to help get answers in the July Fourth weekend death of Nolan Wells.",
+      "summary": "The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates.",
       "links": [
-        "https://www.npr.org/2026/07/09/g-s1-132694/up-first-newsletter-graham-platner-trump-iran-israel-nolan-wells"
+        "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf"
       ]
     },
     {
-      "headline": "Several flights from Singapore cancelled as Typhoon Bavi takes aim at Taiwan and China",
+      "headline": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
       "countries": [
-        "China",
-        "Singapore"
+        "Argentina",
+        "Switzerland"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Julian Alvarez sent defending champion Argentina into the World Cup semifinals with a long-range strike in the 112th minute against Switzerland.",
+      "links": [
+        "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals"
+      ]
+    },
+    {
+      "headline": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+      "countries": [
+        "India"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Typhoon Bavi, described as one of the largest storms to hit Taiwan in more than 30 years, has already caused significant damage in parts of Asia.",
+      "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/singapore/typhoon-bavi-singapore-flights-cancelled-taiwan-china-6247776"
+        "https://www.channelnewsasia.com/business/indias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-acquisitions-6249086"
       ]
     },
     {
-      "headline": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
-      "countries": [
-        "United States",
-        "Iran"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
-      "links": [
-        "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran"
-      ]
-    },
-    {
-      "headline": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
-      "countries": [
-        "United States",
-        "Israel",
-        "Iran"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
-      "links": [
-        "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas"
-      ]
-    },
-    {
-      "headline": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
-      "countries": [
-        "United Kingdom"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Meet Count Binface: the challenger from another planet taking on Nigel Farage as questions over the Reform UK leader's finances overshadow his election comeback.",
-      "links": [
-        "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election"
-      ]
-    },
-    {
-      "headline": "Congo-Kinshasa: Delayed Containment of Ebola Could Cost DR Congo and Uganda Billions",
+      "headline": "What does BN\u2019s landslide victory in Johor polls mean for PM Anwar, Malaysia\u2019s political landscape?",
       "countries": [],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[ISS] Over US$700 million in additional health financing is needed to rapidly contain and prevent a wider regional crisis.",
+      "summary": "Barisan Nasional\u2019s sweeping victory in the Johor state election has strengthened its hand within Malaysia\u2019s unity government, while exposing cracks in Pakatan Harapan\u2019s traditional support base, say analysts.",
       "links": [
-        "https://allafrica.com/stories/202607100402.html"
+        "https://www.channelnewsasia.com/asia/malaysia-johor-election-results-bn-ph-anwar-6248941"
       ]
     },
     {
-      "headline": "Kenya: Ombudsman Orders Release of NHIF, SHA Hospital Payment Records Within 21 Days",
+      "headline": "Kenya: World Population Day - Renewing Our Promise to Every Woman and Every Newborn Everywhere",
       "countries": [
         "Kenya"
       ],
@@ -166,11 +136,37 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- The Commission on Administrative Justice (CAJ) has ordered the release of detailed records of payments made to hospitals under the defunct National Hospital Insurance Fund (NHIF) and the Social Health Authority (SHA), citing the constitutional right of access to information.",
+      "summary": "[allAfrica] On World Population Day, we are often asked to look at numbers such as how many people we are, how fast we are growing, and what our population will need in the years ahead. They should help us understand the conditions into which people are born, the systems that shape their health and ",
       "links": [
-        "https://allafrica.com/stories/202607100478.html"
+        "https://allafrica.com/stories/202607100563.html"
+      ]
+    },
+    {
+      "headline": "Snap Insight: Barisan Nasional won big in Johor state polls - it has Pakatan Harapan to thank",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The morning after Johor, Malaysian Prime Minister Anwar Ibrahim\u2019s coalition faces some grim electoral calculations, says CNA\u2019s Leslie Lopez.",
+      "links": [
+        "https://www.channelnewsasia.com/commentary/malaysia-johor-election-anwar-ibrahim-bn-umno-ph-ge16-snap-insight-6248971"
+      ]
+    },
+    {
+      "headline": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-11 (extractive mode)\n\n* How a fake presidential council ended up with a budget of almost $1m in Nigeria (BBC News, 2 outlets)\n* Zulu king expresses regret after video captures tirade against his wife (BBC News, 2 outlets)\n* West Africa: BRVM Sees Notable Upward Moves - Ecobank Transnational Inc Leads With +36.17 Percent Gain (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Special Report - How Soaring Cooking Gas Prices Are Squeezing Nigerian Households, Businesses (AllAfrica News: Latest, 1 outlets)\n* At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation (BBC News, 1 outlets)\n* Graham Platner ends Senate bid. And, why Nolan Wells' death captured national attention (NPR Topics: World, 1 outlets)\n* Several flights from Singapore cancelled as Typhoon Bavi takes aim at Taiwan and China (Latest News, 1 outlets)\n* Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing (NPR Topics: World, 1 outlets)\n* U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza (NPR Topics: World, 1 outlets)\n* Count Binface: The intergalactic warrior who could upend Britain's strangest election (NPR Topics: World, 1 outlets)\n* Congo-Kinshasa: Delayed Containment of Ebola Could Cost DR Congo and Uganda Billions (AllAfrica News: Latest, 1 outlets)\n* Kenya: Ombudsman Orders Release of NHIF, SHA Hospital Payment Records Within 21 Days (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-07-12 (extractive mode)\n\n* More than 40 kidnapped children and teachers freed after Nigerian army operation (BBC News, 2 outlets)\n* Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74 (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* South Africa World Cup midfielder Adams dies aged 25 (BBC News, 2 outlets)\n* Africa: The African Union's Corruption Wake-Up Call - Is This the Beginning of Renewal or Just Another Speech? (AllAfrica News: Latest, 1 outlets)\n* West Africa: BRVM Sees Notable Upward Moves - Ecobank Transnational Inc Leads With +36.17 Percent Gain (AllAfrica News: Latest, 1 outlets)\n* US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states (NPR Topics: World, 1 outlets)\n* Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals (NPR Topics: World, 1 outlets)\n* India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions (Latest News, 1 outlets)\n* What does BN\u2019s landslide victory in Johor polls mean for PM Anwar, Malaysia\u2019s political landscape? (Latest News, 1 outlets)\n* Kenya: World Population Day - Renewing Our Promise to Every Woman and Every Newborn Everywhere (AllAfrica News: Latest, 1 outlets)\n* Snap Insight: Barisan Nasional won big in Johor state polls - it has Pakatan Harapan to thank (Latest News, 1 outlets)\n* Trump administration subpoenas New York Times journalists over Air Force One reporting (BBC News, 1 outlets)"
 }
