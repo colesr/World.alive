@@ -1,39 +1,25 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-12T08:57:32.220625+00:00",
-  "digest_words": 257,
+  "generated_at": "2026-07-13T10:14:55.719638+00:00",
+  "digest_words": 247,
   "clusters": [
     {
-      "headline": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+      "headline": "South Africa: Villagers Build Own Bridge to Reach Clinic - South African News Briefs - July 13, 2026",
       "countries": [
-        "Nigeria"
+        "South Africa"
       ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Africa"
       ],
       "outlets": 2,
-      "summary": "\"I feel happy and elated\u2026 I feel joy,\" the head of the local teachers' union tells the BBC.",
+      "summary": "[allAfrica]",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202607130120.html",
+        "https://allafrica.com/stories/202607130138.html"
       ]
     },
     {
-      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "Sheikh Hamad, who ruled Qatar from 1995 to 2013, was a key architect of the energy-rich Gulf country&#039;s development.",
-      "links": [
-        "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss",
-        "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "South Africa World Cup midfielder Adams dies aged 25",
+      "headline": "South Africa says more than 53,000 foreigners deported in migration campaign",
       "countries": [
         "South Africa"
       ],
@@ -42,48 +28,110 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
+      "summary": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
       "links": [
-        "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Africa: The African Union's Corruption Wake-Up Call - Is This the Beginning of Renewal or Just Another Speech?",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica] Every so often, a statement emerges from the African Union that makes one pause and wonder whether the institution has finally found its voice.",
-      "links": [
-        "https://allafrica.com/stories/202607110076.html"
-      ]
-    },
-    {
-      "headline": "West Africa: BRVM Sees Notable Upward Moves - Ecobank Transnational Inc Leads With +36.17 Percent Gain",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Daba Finance] The Bourse R&#xe9;gionale des Valeurs Mobili&#xe8;res (BRVM) has recently showcased dynamic activity, with four key stocks registering significant upward price movements over the past seven days. These notable shifts provide valuable insights for investors tracking opportunities acros",
-      "links": [
-        "https://allafrica.com/stories/202607100566.html"
-      ]
-    },
-    {
-      "headline": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
+      "headline": "U.S. launches new strikes on Iran and Tehran attacks U.S. allies in the Gulf",
       "countries": [
+        "United States",
         "Iran"
       ],
       "regions": [
-        "Americas"
+        "Americas",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "The U.S. and Iran exchanged fire for the third weekend in a row, with strikes stretching into Monday as Iran responded to U.S. attacks by targeting U.S. allies in the region.",
+      "links": [
+        "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
+        "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "How former Emir Sheikh Hamad bin Khalifa Al Thani built Qatar\u2019s economy",
+      "countries": [],
+      "regions": [
+        "Europe",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "Sheikh Hamad, who passed away aged 74 on Sunday, reshaped Qatar&#039;s economy by building lasting wealth and growth.",
+      "links": [
+        "https://www.aljazeera.com/news/2026/7/13/how-former-emir-sheikh-hamad-bin-khalifa-al-thani-built-qatar-economy?traffic_source=rss",
+        "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "World Cup 2026: Muslim footballers challenge Europe's identity debate",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nWorld Cup 2026: Muslim footballers challenge Europe's identity debate\n\n    \n    \n\n        \n    \n                For decades, Islam has been a political lightning rod in Europe.&nbsp;\n\nBut on football's biggest stage, a new generation of footballers are demonstrating that the faith",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/world-cup-2026-muslim-footballers-challenge-europes-identity-debate",
+        "https://www.middleeasteye.net/news/world-cup-2026-muslim-footballers-challenge-europe-identity-debate"
+      ]
+    },
+    {
+      "headline": "Sam Neill, Jurassic Park actor, dies 'unexpectedly' at 78",
+      "countries": [],
+      "regions": [
+        "Europe",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "New Zealand actor Sam Neill achieved international fame playing Dr. Alan Grant in the 1993 film Jurassic Park. But his career included many other notable TV and film appearances.",
+      "links": [
+        "https://www.dw.com/en/sam-neill-jurassic-park-actor-dies-unexpectedly-at-78/a-77927271?maca=en-rss-en-world-4025-rdf",
+        "https://www.aljazeera.com/news/2026/7/13/jurassic-park-actor-sam-neill-dies-aged-78?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "East Africa: Somalia, Egypt FMs Discuss Bilateral Ties, Horn of Africa, Reject Recognition of Somaliland",
+      "countries": [
+        "Egypt"
+      ],
+      "regions": [
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates.",
+      "summary": "[Shabelle] Mogadishu -- Somalia's Foreign Minister Abdisalam Ali Dhaay held a telephone conversation with his Egyptian counterpart, Badr Abdelatty, to discuss bilateral relations and regional developments, with a particular focus on the Horn of Africa, Somalia's foreign ministry said on Sunday.",
       "links": [
-        "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf"
+        "https://allafrica.com/stories/202607130071.html"
+      ]
+    },
+    {
+      "headline": "Nigeria: Court Restricts Lawyers in Police Force but Not Appointed As Legal Officers to Only Prosecution",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Premium Times] The judge also ordered the police force, Police Service Commission (PSC) and the Inspector-General of the Federation to deploy \"police officers who are legal practitioners to every Police Division in Nigeria to assist with the enforcement of human rights in policing at the Divisions.",
+      "links": [
+        "https://allafrica.com/stories/202607130116.html"
+      ]
+    },
+    {
+      "headline": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -102,71 +150,33 @@
       ]
     },
     {
-      "headline": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+      "headline": "Nigeria: Nigeria Designed the Cure for Its Electricity Crisis. It Stopped Administering It Halfway.",
       "countries": [
-        "India"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/indias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-acquisitions-6249086"
-      ]
-    },
-    {
-      "headline": "What does BN\u2019s landslide victory in Johor polls mean for PM Anwar, Malaysia\u2019s political landscape?",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Barisan Nasional\u2019s sweeping victory in the Johor state election has strengthened its hand within Malaysia\u2019s unity government, while exposing cracks in Pakatan Harapan\u2019s traditional support base, say analysts.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/malaysia-johor-election-results-bn-ph-anwar-6248941"
-      ]
-    },
-    {
-      "headline": "Kenya: World Population Day - Renewing Our Promise to Every Woman and Every Newborn Everywhere",
-      "countries": [
-        "Kenya"
+        "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica] On World Population Day, we are often asked to look at numbers such as how many people we are, how fast we are growing, and what our population will need in the years ahead. They should help us understand the conditions into which people are born, the systems that shape their health and ",
+      "summary": "[African Arguments] Ask anyone who has lived in Nigeria what NEPA stands for, and they will tell you it stands for Never Expect Power Always. The National Electric Power Authority (NEPA) was the state monopoly that, for decades, generated the country's electricity, carried it across the country, and",
       "links": [
-        "https://allafrica.com/stories/202607100563.html"
+        "https://allafrica.com/stories/202607130007.html"
       ]
     },
     {
-      "headline": "Snap Insight: Barisan Nasional won big in Johor state polls - it has Pakatan Harapan to thank",
-      "countries": [],
+      "headline": "\u2018Extraordinary confluence\u2019: What China\u2019s latest military moves reveal about its broader strategy",
+      "countries": [
+        "China"
+      ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The morning after Johor, Malaysian Prime Minister Anwar Ibrahim\u2019s coalition faces some grim electoral calculations, says CNA\u2019s Leslie Lopez.",
+      "summary": "From joint air patrols with Russia and coast guard activity east of Taiwan to a rare missile test in the Pacific, China\u2019s recent moves - although not necessarily coordinated - reflect a push to make a wider range of operations increasingly routine, analysts say.",
       "links": [
-        "https://www.channelnewsasia.com/commentary/malaysia-johor-election-anwar-ibrahim-bn-umno-ph-ge16-snap-insight-6248971"
-      ]
-    },
-    {
-      "headline": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/east-asia/china-military-maritime-drills-patrols-pacific-strategy-6250291"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-12 (extractive mode)\n\n* More than 40 kidnapped children and teachers freed after Nigerian army operation (BBC News, 2 outlets)\n* Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74 (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* South Africa World Cup midfielder Adams dies aged 25 (BBC News, 2 outlets)\n* Africa: The African Union's Corruption Wake-Up Call - Is This the Beginning of Renewal or Just Another Speech? (AllAfrica News: Latest, 1 outlets)\n* West Africa: BRVM Sees Notable Upward Moves - Ecobank Transnational Inc Leads With +36.17 Percent Gain (AllAfrica News: Latest, 1 outlets)\n* US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states (NPR Topics: World, 1 outlets)\n* Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals (NPR Topics: World, 1 outlets)\n* India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions (Latest News, 1 outlets)\n* What does BN\u2019s landslide victory in Johor polls mean for PM Anwar, Malaysia\u2019s political landscape? (Latest News, 1 outlets)\n* Kenya: World Population Day - Renewing Our Promise to Every Woman and Every Newborn Everywhere (AllAfrica News: Latest, 1 outlets)\n* Snap Insight: Barisan Nasional won big in Johor state polls - it has Pakatan Harapan to thank (Latest News, 1 outlets)\n* Trump administration subpoenas New York Times journalists over Air Force One reporting (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-07-13 (extractive mode)\n\n* South Africa: Villagers Build Own Bridge to Reach Clinic - South African News Briefs - July 13, 2026 (AllAfrica News: Latest, 2 outlets)\n* South Africa says more than 53,000 foreigners deported in migration campaign (BBC News, 2 outlets)\n* U.S. launches new strikes on Iran and Tehran attacks U.S. allies in the Gulf (NPR Topics: World, 2 outlets)\n* How former Emir Sheikh Hamad bin Khalifa Al Thani built Qatar\u2019s economy (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* World Cup 2026: Muslim footballers challenge Europe's identity debate (Section Feed, 2 outlets)\n* Sam Neill, Jurassic Park actor, dies 'unexpectedly' at 78 (World | Deutsche Welle, 2 outlets)\n* East Africa: Somalia, Egypt FMs Discuss Bilateral Ties, Horn of Africa, Reject Recognition of Somaliland (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Court Restricts Lawyers in Police Force but Not Appointed As Legal Officers to Only Prosecution (AllAfrica News: Latest, 1 outlets)\n* Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era (BBC News, 1 outlets)\n* Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals (NPR Topics: World, 1 outlets)\n* Nigeria: Nigeria Designed the Cure for Its Electricity Crisis. It Stopped Administering It Halfway. (AllAfrica News: Latest, 1 outlets)\n* \u2018Extraordinary confluence\u2019: What China\u2019s latest military moves reveal about its broader strategy (Latest News, 1 outlets)"
 }
