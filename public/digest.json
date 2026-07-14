@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-13T10:14:55.719638+00:00",
-  "digest_words": 247,
+  "generated_at": "2026-07-14T08:57:48.698396+00:00",
+  "digest_words": 261,
   "clusters": [
     {
-      "headline": "South Africa: Villagers Build Own Bridge to Reach Clinic - South African News Briefs - July 13, 2026",
+      "headline": "South Africa: Illegal Initiation Schools Under Fire - South African News Briefs - July 14, 2026",
       "countries": [
         "South Africa"
       ],
@@ -14,124 +14,46 @@
       "outlets": 2,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202607130120.html",
-        "https://allafrica.com/stories/202607130138.html"
+        "https://allafrica.com/stories/202607140051.html",
+        "https://allafrica.com/stories/202607140076.html"
       ]
     },
     {
-      "headline": "South Africa says more than 53,000 foreigners deported in migration campaign",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "U.S. launches new strikes on Iran and Tehran attacks U.S. allies in the Gulf",
-      "countries": [
-        "United States",
-        "Iran"
-      ],
-      "regions": [
-        "Americas",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "The U.S. and Iran exchanged fire for the third weekend in a row, with strikes stretching into Monday as Iran responded to U.S. attacks by targeting U.S. allies in the region.",
-      "links": [
-        "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
-        "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "How former Emir Sheikh Hamad bin Khalifa Al Thani built Qatar\u2019s economy",
+      "headline": "Bloomberg, reporter ordered to pay Shanmugam, Tan See Leng S$230,000 each in damages over defamatory article",
       "countries": [],
       "regions": [
-        "Europe",
-        "Middle East"
+        "Asia"
       ],
-      "outlets": 2,
-      "summary": "Sheikh Hamad, who passed away aged 74 on Sunday, reshaped Qatar&#039;s economy by building lasting wealth and growth.",
+      "outlets": 1,
+      "summary": "The judge found that the December 2024 article about secretive Good Class Bungalow transactions had defamed the ministers.",
       "links": [
-        "https://www.aljazeera.com/news/2026/7/13/how-former-emir-sheikh-hamad-bin-khalifa-al-thani-built-qatar-economy?traffic_source=rss",
-        "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/singapore/bloomberg-shanmugam-tan-see-leng-defamation-230000-damages-6252946"
       ]
     },
     {
-      "headline": "World Cup 2026: Muslim footballers challenge Europe's identity debate",
+      "headline": "Johor government calls for probe into startup community based in Forest City over alleged Israeli links",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The Network School brands itself as a physical co-living and co-learning community for tech founders, remote workers, and content creators located \u201con a Malaysian island off the coast of Singapore\u201d.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/johor-israel-network-school-forest-city-onn-hafiz-6252686"
+      ]
+    },
+    {
+      "headline": "Mediacorp Tamil drama Must Date The Playboy! surpasses 100 million views, fans can meet cast on Jul 18",
       "countries": [],
       "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nWorld Cup 2026: Muslim footballers challenge Europe's identity debate\n\n    \n    \n\n        \n    \n                For decades, Islam has been a political lightning rod in Europe.&nbsp;\n\nBut on football's biggest stage, a new generation of footballers are demonstrating that the faith",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/world-cup-2026-muslim-footballers-challenge-europes-identity-debate",
-        "https://www.middleeasteye.net/news/world-cup-2026-muslim-footballers-challenge-europe-identity-debate"
-      ]
-    },
-    {
-      "headline": "Sam Neill, Jurassic Park actor, dies 'unexpectedly' at 78",
-      "countries": [],
-      "regions": [
-        "Europe",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "New Zealand actor Sam Neill achieved international fame playing Dr. Alan Grant in the 1993 film Jurassic Park. But his career included many other notable TV and film appearances.",
-      "links": [
-        "https://www.dw.com/en/sam-neill-jurassic-park-actor-dies-unexpectedly-at-78/a-77927271?maca=en-rss-en-world-4025-rdf",
-        "https://www.aljazeera.com/news/2026/7/13/jurassic-park-actor-sam-neill-dies-aged-78?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "East Africa: Somalia, Egypt FMs Discuss Bilateral Ties, Horn of Africa, Reject Recognition of Somaliland",
-      "countries": [
-        "Egypt"
-      ],
-      "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[Shabelle] Mogadishu -- Somalia's Foreign Minister Abdisalam Ali Dhaay held a telephone conversation with his Egyptian counterpart, Badr Abdelatty, to discuss bilateral relations and regional developments, with a particular focus on the Horn of Africa, Somalia's foreign ministry said on Sunday.",
+      "summary": "Adapted from Imma Delos Santos' Wattpad novel, the drama follows a&nbsp;university student who enters a fake relationship with the notorious campus \"playboy\" to protect her best friend Kaushi from heartbreak.",
       "links": [
-        "https://allafrica.com/stories/202607130071.html"
-      ]
-    },
-    {
-      "headline": "Nigeria: Court Restricts Lawyers in Police Force but Not Appointed As Legal Officers to Only Prosecution",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Premium Times] The judge also ordered the police force, Police Service Commission (PSC) and the Inspector-General of the Federation to deploy \"police officers who are legal practitioners to every Police Division in Nigeria to assist with the enforcement of human rights in policing at the Divisions.",
-      "links": [
-        "https://allafrica.com/stories/202607130116.html"
-      ]
-    },
-    {
-      "headline": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/entertainment/must-date-playboy-cast-meet-greet-jul-18-6252806"
       ]
     },
     {
@@ -150,7 +72,19 @@
       ]
     },
     {
-      "headline": "Nigeria: Nigeria Designed the Cure for Its Electricity Crisis. It Stopped Administering It Halfway.",
+      "headline": "Sudan: UN Raises Alarm Over a Sharp Rise in Human Rights Abuses and Cholera-Related Deaths in Sudan",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[IPS] United Nations -- Throughout 2026, the humanitarian crisis in Sudan has deteriorated significantly, prompting the United Nations (UN) to raise alarm over the escalation of human rights violations. Persistent clashes between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF) con",
+      "links": [
+        "https://allafrica.com/stories/202607140004.html"
+      ]
+    },
+    {
+      "headline": "Nigeria: 6,009 Called to the Nigerian Bar, Body of Benchers Cautions Against Misuse of 'Barrister'",
       "countries": [
         "Nigeria"
       ],
@@ -158,25 +92,79 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[African Arguments] Ask anyone who has lived in Nigeria what NEPA stands for, and they will tell you it stands for Never Expect Power Always. The National Electric Power Authority (NEPA) was the state monopoly that, for decades, generated the country's electricity, carried it across the country, and",
+      "summary": "[Premium Times] The chairperson of the Body of Benchers, Albert Akpomudje, cautioned against the improper use of 'Barrister' as a prefix before names, noting that it is not a professional title to be used in that manner.",
       "links": [
-        "https://allafrica.com/stories/202607130007.html"
+        "https://allafrica.com/stories/202607140071.html"
       ]
     },
     {
-      "headline": "\u2018Extraordinary confluence\u2019: What China\u2019s latest military moves reveal about its broader strategy",
+      "headline": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
       "countries": [
-        "China"
+        "Spain"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "India's AI training boom draws professionals seeking an edge, but questions remain over quality",
+      "countries": [
+        "India"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "From joint air patrols with Russia and coast guard activity east of Taiwan to a rare missile test in the Pacific, China\u2019s recent moves - although not necessarily coordinated - reflect a push to make a wider range of operations increasingly routine, analysts say.",
+      "summary": "In the first of a two-part series on how India is preparing for an AI-powered future, CNA examines the growing business of artificial intelligence upskilling and the questions surrounding the value of these programmes.",
       "links": [
-        "https://www.channelnewsasia.com/east-asia/china-military-maritime-drills-patrols-pacific-strategy-6250291"
+        "https://www.channelnewsasia.com/asia/india-artificial-intelligence-upskilling-boom-working-professionals-6252671"
+      ]
+    },
+    {
+      "headline": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
+      "countries": [
+        "Thailand"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-13 (extractive mode)\n\n* South Africa: Villagers Build Own Bridge to Reach Clinic - South African News Briefs - July 13, 2026 (AllAfrica News: Latest, 2 outlets)\n* South Africa says more than 53,000 foreigners deported in migration campaign (BBC News, 2 outlets)\n* U.S. launches new strikes on Iran and Tehran attacks U.S. allies in the Gulf (NPR Topics: World, 2 outlets)\n* How former Emir Sheikh Hamad bin Khalifa Al Thani built Qatar\u2019s economy (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* World Cup 2026: Muslim footballers challenge Europe's identity debate (Section Feed, 2 outlets)\n* Sam Neill, Jurassic Park actor, dies 'unexpectedly' at 78 (World | Deutsche Welle, 2 outlets)\n* East Africa: Somalia, Egypt FMs Discuss Bilateral Ties, Horn of Africa, Reject Recognition of Somaliland (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Court Restricts Lawyers in Police Force but Not Appointed As Legal Officers to Only Prosecution (AllAfrica News: Latest, 1 outlets)\n* Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era (BBC News, 1 outlets)\n* Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals (NPR Topics: World, 1 outlets)\n* Nigeria: Nigeria Designed the Cure for Its Electricity Crisis. It Stopped Administering It Halfway. (AllAfrica News: Latest, 1 outlets)\n* \u2018Extraordinary confluence\u2019: What China\u2019s latest military moves reveal about its broader strategy (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-07-14 (extractive mode)\n\n* South Africa: Illegal Initiation Schools Under Fire - South African News Briefs - July 14, 2026 (AllAfrica News: Latest, 2 outlets)\n* Bloomberg, reporter ordered to pay Shanmugam, Tan See Leng S$230,000 each in damages over defamatory article (Latest News, 1 outlets)\n* Johor government calls for probe into startup community based in Forest City over alleged Israeli links (Latest News, 1 outlets)\n* Mediacorp Tamil drama Must Date The Playboy! surpasses 100 million views, fans can meet cast on Jul 18 (Latest News, 1 outlets)\n* Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals (NPR Topics: World, 1 outlets)\n* Sudan: UN Raises Alarm Over a Sharp Rise in Human Rights Abuses and Cholera-Related Deaths in Sudan (AllAfrica News: Latest, 1 outlets)\n* Nigeria: 6,009 Called to the Nigerian Bar, Body of Benchers Cautions Against Misuse of 'Barrister' (AllAfrica News: Latest, 1 outlets)\n* Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety (BBC News, 1 outlets)\n* US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits (BBC News, 1 outlets)\n* India's AI training boom draws professionals seeking an edge, but questions remain over quality (Latest News, 1 outlets)\n* 'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78 (BBC News, 1 outlets)\n* Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30 (BBC News, 1 outlets)"
 }
