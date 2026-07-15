@@ -1,170 +1,177 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-14T08:57:48.698396+00:00",
-  "digest_words": 261,
+  "generated_at": "2026-07-15T09:04:13.139251+00:00",
+  "digest_words": 236,
   "clusters": [
     {
-      "headline": "South Africa: Illegal Initiation Schools Under Fire - South African News Briefs - July 14, 2026",
+      "headline": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Production will stop for two years at the mine which employs more than 4,000 people.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Photos: France fireworks fade as Spain march into World Cup final",
+      "countries": [
+        "France",
+        "Spain"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "France\u2019s free-scoring World Cup run ends in 2-0 loss to Spain, denting Mbappe\u2019s hopes of a third final.",
+      "links": [
+        "https://www.aljazeera.com/gallery/2026/7/15/photos-france-fireworks-fade-as-spain-march-into-world-cup-final?traffic_source=rss",
+        "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-knock-out-france-prepare-for-world-cup-final?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "Body of Indian sailor missing after vessel attack near Oman found",
+      "countries": [
+        "India"
+      ],
+      "regions": [
+        "Asia",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nBody of Indian sailor missing after vessel attack near Oman found\n\n    \n    \n\n        \n    \n                The body of an Indian sailor who went missing after his ship was attacked off the coast of Oman has been recovered, a seafarers' union official has said.\n\nHeramb Karmarkar, ",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/body-indian-sailor-missing-after-vessel-attack-near-oman-found",
+        "https://www.channelnewsasia.com/asia/india-sailor-found-oman-ship-strait-hormuz-6255526"
+      ]
+    },
+    {
+      "headline": "EU bans gold imports from Sudan to curb money financing the war",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 2,
+      "summary": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
+        "https://allafrica.com/stories/202607150025.html"
+      ]
+    },
+    {
+      "headline": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Nigeria: Nigeria Offers Clues to New US Africa Strategy",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "[DW] The withdrawal of US troops from Nigeria after the killing of an \"Islamic State\" leader may be less about leaving Africa than redefining how Washington fights terrorism on the continent.",
+      "links": [
+        "https://allafrica.com/stories/202607150112.html",
+        "https://www.dw.com/en/nigeria-offers-clues-to-new-us-africa-strategy/a-77950547?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "People with disabilities, caregivers call for better healthcare and job support as task force weighs recommendations",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Better employment opportunities, more affordable healthcare and stronger financial support were among the key priorities raised during consultations by a government task force, which will announce its recommendations later this year.&nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/people-disabilities-pwds-caregivers-hopes-inter-agency-task-force-recommendations-6253001"
+      ]
+    },
+    {
+      "headline": "Africa: Global Childhood Immunization Coverage Inches Forward Despite Conflict and Hesitancy - Unicef, WHO",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[WHO] In 2025, 90% of infants globally - or nearly 116 million - received at least one dose of a diphtheria, tetanus and pertussis (DTP) vaccine, and 85% - or 110 million - completed the full three-dose series, according to the annual WHO-UNICEF Estimates of National Immunization Coverage (WUENIC) r",
+      "links": [
+        "https://allafrica.com/stories/202607150069.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Health Department Ramps Up Ebola Readiness - South African News Briefs - July 15, 2026",
       "countries": [
         "South Africa"
       ],
       "regions": [
         "Africa"
       ],
-      "outlets": 2,
+      "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202607140051.html",
-        "https://allafrica.com/stories/202607140076.html"
+        "https://allafrica.com/stories/202607150090.html"
       ]
     },
     {
-      "headline": "Bloomberg, reporter ordered to pay Shanmugam, Tan See Leng S$230,000 each in damages over defamatory article",
+      "headline": "IRGC warns energy exports would be 'for everyone or for no one' if US interferes in maritime routes",
       "countries": [],
       "regions": [
-        "Asia"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "The judge found that the December 2024 article about secretive Good Class Bungalow transactions had defamed the ministers.",
+      "summary": "\n\n  \n      \n      \nIRGC warns energy exports would be 'for everyone or for no one' if US interferes in maritime routes\n\n    \n    \n\n        \n    \n                The IRGC warned that if Washington sought to block the region's energy exports by controlling maritime routes, other routes serving US and ",
       "links": [
-        "https://www.channelnewsasia.com/singapore/bloomberg-shanmugam-tan-see-leng-defamation-230000-damages-6252946"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-warns-energy-exports-would-be-everyone-or-no-one-if-us-interferes"
       ]
     },
     {
-      "headline": "Johor government calls for probe into startup community based in Forest City over alleged Israeli links",
+      "headline": "Centcom officials protest against Israeli transport minister's restrictions on refueling aircrafts",
       "countries": [
         "Israel"
       ],
       "regions": [
-        "Asia"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "The Network School brands itself as a physical co-living and co-learning community for tech founders, remote workers, and content creators located \u201con a Malaysian island off the coast of Singapore\u201d.",
+      "summary": "\n\n  \n      \n      \nCentcom officials protest against Israeli transport minister's restrictions on refueling aircrafts\n\n    \n    \n\n        \n    \n                Senior US Central Command (Centcom) officials have protested the to the Israeli military after&nbsp;Transport Minister Miri Regev ordered th",
       "links": [
-        "https://www.channelnewsasia.com/asia/johor-israel-network-school-forest-city-onn-hafiz-6252686"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-officials-protest-against-israeli-transport-ministers"
       ]
     },
     {
-      "headline": "Mediacorp Tamil drama Must Date The Playboy! surpasses 100 million views, fans can meet cast on Jul 18",
+      "headline": "Ineligible applicants allocated HDB flats, housing grants due to weaknesses in checks: AGO report",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Adapted from Imma Delos Santos' Wattpad novel, the drama follows a&nbsp;university student who enters a fake relationship with the notorious campus \"playboy\" to protect her best friend Kaushi from heartbreak.",
+      "summary": "HDB may also have overpaid about S$9.7 million to a contractor for car park patrol and enforcement services not performed.",
       "links": [
-        "https://www.channelnewsasia.com/entertainment/must-date-playboy-cast-meet-greet-jul-18-6252806"
-      ]
-    },
-    {
-      "headline": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
-      "countries": [
-        "Argentina",
-        "Switzerland"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Julian Alvarez sent defending champion Argentina into the World Cup semifinals with a long-range strike in the 112th minute against Switzerland.",
-      "links": [
-        "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals"
-      ]
-    },
-    {
-      "headline": "Sudan: UN Raises Alarm Over a Sharp Rise in Human Rights Abuses and Cholera-Related Deaths in Sudan",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[IPS] United Nations -- Throughout 2026, the humanitarian crisis in Sudan has deteriorated significantly, prompting the United Nations (UN) to raise alarm over the escalation of human rights violations. Persistent clashes between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF) con",
-      "links": [
-        "https://allafrica.com/stories/202607140004.html"
-      ]
-    },
-    {
-      "headline": "Nigeria: 6,009 Called to the Nigerian Bar, Body of Benchers Cautions Against Misuse of 'Barrister'",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Premium Times] The chairperson of the Body of Benchers, Albert Akpomudje, cautioned against the improper use of 'Barrister' as a prefix before names, noting that it is not a professional title to be used in that manner.",
-      "links": [
-        "https://allafrica.com/stories/202607140071.html"
-      ]
-    },
-    {
-      "headline": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-      "countries": [
-        "Spain"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "India's AI training boom draws professionals seeking an edge, but questions remain over quality",
-      "countries": [
-        "India"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "In the first of a two-part series on how India is preparing for an AI-powered future, CNA examines the growing business of artificial intelligence upskilling and the questions surrounding the value of these programmes.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/india-artificial-intelligence-upskilling-boom-working-professionals-6252671"
-      ]
-    },
-    {
-      "headline": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-      "countries": [],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
-      "countries": [
-        "Thailand"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/singapore/hdb-ago-lapses-season-parking-housing-grant-car-park-6255066"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-14 (extractive mode)\n\n* South Africa: Illegal Initiation Schools Under Fire - South African News Briefs - July 14, 2026 (AllAfrica News: Latest, 2 outlets)\n* Bloomberg, reporter ordered to pay Shanmugam, Tan See Leng S$230,000 each in damages over defamatory article (Latest News, 1 outlets)\n* Johor government calls for probe into startup community based in Forest City over alleged Israeli links (Latest News, 1 outlets)\n* Mediacorp Tamil drama Must Date The Playboy! surpasses 100 million views, fans can meet cast on Jul 18 (Latest News, 1 outlets)\n* Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals (NPR Topics: World, 1 outlets)\n* Sudan: UN Raises Alarm Over a Sharp Rise in Human Rights Abuses and Cholera-Related Deaths in Sudan (AllAfrica News: Latest, 1 outlets)\n* Nigeria: 6,009 Called to the Nigerian Bar, Body of Benchers Cautions Against Misuse of 'Barrister' (AllAfrica News: Latest, 1 outlets)\n* Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety (BBC News, 1 outlets)\n* US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits (BBC News, 1 outlets)\n* India's AI training boom draws professionals seeking an edge, but questions remain over quality (Latest News, 1 outlets)\n* 'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78 (BBC News, 1 outlets)\n* Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30 (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-07-15 (extractive mode)\n\n* Diamond giant De Beers halts work at flagship South African mine as demand plummets (BBC News, 2 outlets)\n* Photos: France fireworks fade as Spain march into World Cup final (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Body of Indian sailor missing after vessel attack near Oman found (Section Feed, 2 outlets)\n* EU bans gold imports from Sudan to curb money financing the war (BBC News, 2 outlets)\n* Kenyan court dismisses Rastafarians' bid to legalise cannabis (BBC News, 2 outlets)\n* Nigeria: Nigeria Offers Clues to New US Africa Strategy (AllAfrica News: Latest, 2 outlets)\n* People with disabilities, caregivers call for better healthcare and job support as task force weighs recommendations (Latest News, 1 outlets)\n* Africa: Global Childhood Immunization Coverage Inches Forward Despite Conflict and Hesitancy - Unicef, WHO (AllAfrica News: Latest, 1 outlets)\n* South Africa: Health Department Ramps Up Ebola Readiness - South African News Briefs - July 15, 2026 (AllAfrica News: Latest, 1 outlets)\n* IRGC warns energy exports would be 'for everyone or for no one' if US interferes in maritime routes (Section Feed, 1 outlets)\n* Centcom officials protest against Israeli transport minister's restrictions on refueling aircrafts (Section Feed, 1 outlets)\n* Ineligible applicants allocated HDB flats, housing grants due to weaknesses in checks: AGO report (Latest News, 1 outlets)"
 }
