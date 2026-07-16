@@ -1,10 +1,25 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-15T09:04:13.139251+00:00",
-  "digest_words": 236,
+  "generated_at": "2026-07-16T09:07:56.600808+00:00",
+  "digest_words": 249,
   "clusters": [
     {
-      "headline": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
+      "headline": "South Africa: NGO Demands Fast Sentencing for Child Abuser - South African News Briefs - July 16, 2026",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 2,
+      "summary": "[allAfrica]",
+      "links": [
+        "https://allafrica.com/stories/202607160148.html",
+        "https://allafrica.com/stories/202607160151.html"
+      ]
+    },
+    {
+      "headline": "Special police team to investigate killing of an anti-migrant leader in South Africa",
       "countries": [
         "South Africa"
       ],
@@ -13,59 +28,14 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Production will stop for two years at the mine which employs more than 4,000 people.",
+      "summary": "The March and March provincial leader died of his injuries in hospital several days after being shot.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Photos: France fireworks fade as Spain march into World Cup final",
-      "countries": [
-        "France",
-        "Spain"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "France\u2019s free-scoring World Cup run ends in 2-0 loss to Spain, denting Mbappe\u2019s hopes of a third final.",
-      "links": [
-        "https://www.aljazeera.com/gallery/2026/7/15/photos-france-fireworks-fade-as-spain-march-into-world-cup-final?traffic_source=rss",
-        "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-knock-out-france-prepare-for-world-cup-final?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "Body of Indian sailor missing after vessel attack near Oman found",
-      "countries": [
-        "India"
-      ],
-      "regions": [
-        "Asia",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nBody of Indian sailor missing after vessel attack near Oman found\n\n    \n    \n\n        \n    \n                The body of an Indian sailor who went missing after his ship was attacked off the coast of Oman has been recovered, a seafarers' union official has said.\n\nHeramb Karmarkar, ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/body-indian-sailor-missing-after-vessel-attack-near-oman-found",
-        "https://www.channelnewsasia.com/asia/india-sailor-found-oman-ship-strait-hormuz-6255526"
-      ]
-    },
-    {
-      "headline": "EU bans gold imports from Sudan to curb money financing the war",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 2,
-      "summary": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
-        "https://allafrica.com/stories/202607150025.html"
-      ]
-    },
-    {
-      "headline": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "headline": "Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes",
       "countries": [
         "Kenya"
       ],
@@ -81,97 +51,131 @@
       ]
     },
     {
-      "headline": "Nigeria: Nigeria Offers Clues to New US Africa Strategy",
+      "headline": "Kenya: Court rejects Rastafari bid for religious freedom marijuana exemption",
       "countries": [
-        "Nigeria"
+        "Kenya"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "[DW] The withdrawal of US troops from Nigeria after the killing of an \"Islamic State\" leader may be less about leaving Africa than redefining how Washington fights terrorism on the continent.",
+      "summary": "Kenya's small Rastafarian community was seeking permission to smoke marijuana under the constitutional right to freedom of religion. The judge found that they did not show it to be a necessary part of their worship.",
       "links": [
-        "https://allafrica.com/stories/202607150112.html",
-        "https://www.dw.com/en/nigeria-offers-clues-to-new-us-africa-strategy/a-77950547?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/kenya-court-rejects-rastafari-bid-for-religious-freedom-marijuana-exemption/a-77971666?maca=en-rss-en-world-4025-rdf",
+        "https://allafrica.com/stories/202607160149.html"
       ]
     },
     {
-      "headline": "People with disabilities, caregivers call for better healthcare and job support as task force weighs recommendations",
+      "headline": "Pete Hegseth says US military to start testosterone screening for over 30s",
       "countries": [],
       "regions": [
-        "Asia"
+        "Europe",
+        "Middle East"
       ],
-      "outlets": 1,
-      "summary": "Better employment opportunities, more affordable healthcare and stronger financial support were among the key priorities raised during consultations by a government task force, which will announce its recommendations later this year.&nbsp;",
+      "outlets": 2,
+      "summary": "US Defense Secretary says plan is &#039;about restoring and optimising ... natural capabilities&#039; of troops.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/people-disabilities-pwds-caregivers-hopes-inter-agency-task-force-recommendations-6253001"
+        "https://www.aljazeera.com/news/2026/7/16/pete-hegseth-says-us-military-to-start-testosterone-screening-for-over-30s?traffic_source=rss",
+        "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Africa: Global Childhood Immunization Coverage Inches Forward Despite Conflict and Hesitancy - Unicef, WHO",
+      "headline": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Eleven people die in fire at Algerian foster care home",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Along with the fatalities, 19 people suffered injuries, the authorities say.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Kenya: Kenya's 'Political Gangs' Fuel Election Fears",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "[DW] Violent disruptions of political and civic events are raising concerns about the use of hired gangs as Kenya heads toward elections in 2027.",
+      "links": [
+        "https://allafrica.com/stories/202607160150.html",
+        "https://www.dw.com/en/kenya-s-political-gangs-fuel-election-fears/a-77970615?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Ten years ago, parts of the Turkish military tried to overthrow the Erdogan government. The consequences are still shaping Turkey today",
+      "countries": [
+        "Turkey"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Ten years ago, parts of the Turkish military attempted to overthrow the government of President Recep Tayyip Erdogan. The consequences of the failed coup continue to shape Turkey to this day. DW looks back.",
+      "links": [
+        "https://www.dw.com/en/ten-years-ago-parts-of-the-turkish-military-tried-to-overthrow-the-erdogan-government-the-consequences-are-still-shaping-turkey-today/a-77955154?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Congo-Kinshasa: 'In the DR Congo, Containing Ebola Requires Stronger Collective Action and a Faster Response'",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[WHO] In 2025, 90% of infants globally - or nearly 116 million - received at least one dose of a diphtheria, tetanus and pertussis (DTP) vaccine, and 85% - or 110 million - completed the full three-dose series, according to the annual WHO-UNICEF Estimates of National Immunization Coverage (WUENIC) r",
+      "summary": "[Unicef] Dakar -- Statement by UNICEF Regional Director for West and Central Africa, Gilles Fagninou, following visit to Ituri",
       "links": [
-        "https://allafrica.com/stories/202607150069.html"
+        "https://allafrica.com/stories/202607160051.html"
       ]
     },
     {
-      "headline": "South Africa: Health Department Ramps Up Ebola Readiness - South African News Briefs - July 15, 2026",
+      "headline": "Singaporean traveller stranded at Malaysia rest stop at 4.15am after coach to KL drove off without him",
       "countries": [
-        "South Africa"
+        "Singapore"
       ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica]",
-      "links": [
-        "https://allafrica.com/stories/202607150090.html"
-      ]
-    },
-    {
-      "headline": "IRGC warns energy exports would be 'for everyone or for no one' if US interferes in maritime routes",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIRGC warns energy exports would be 'for everyone or for no one' if US interferes in maritime routes\n\n    \n    \n\n        \n    \n                The IRGC warned that if Washington sought to block the region's energy exports by controlling maritime routes, other routes serving US and ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-warns-energy-exports-would-be-everyone-or-no-one-if-us-interferes"
-      ]
-    },
-    {
-      "headline": "Centcom officials protest against Israeli transport minister's restrictions on refueling aircrafts",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nCentcom officials protest against Israeli transport minister's restrictions on refueling aircrafts\n\n    \n    \n\n        \n    \n                Senior US Central Command (Centcom) officials have protested the to the Israeli military after&nbsp;Transport Minister Miri Regev ordered th",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-officials-protest-against-israeli-transport-ministers"
-      ]
-    },
-    {
-      "headline": "Ineligible applicants allocated HDB flats, housing grants due to weaknesses in checks: AGO report",
-      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "HDB may also have overpaid about S$9.7 million to a contractor for car park patrol and enforcement services not performed.",
+      "summary": "Even before the incident, the trip had already been marred by a last-minute schedule change and delay.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/hdb-ago-lapses-season-parking-housing-grant-car-park-6255066"
+        "https://www.channelnewsasia.com/travel/coach-bus-kl-leaves-singaporean-during-toilet-break-6257446"
+      ]
+    },
+    {
+      "headline": "Malawi: Alarm As Over 100 Underage Girls Trapped in Sex Work in Rumphi, Campaigners War",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Nyasa Times] More than 100 girls under the age of 18 are believed to be involved in sex work in Rumphi, according to warnings issued by campaigners at a stakeholders' meeting this week.",
+      "links": [
+        "https://allafrica.com/stories/202607160053.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-15 (extractive mode)\n\n* Diamond giant De Beers halts work at flagship South African mine as demand plummets (BBC News, 2 outlets)\n* Photos: France fireworks fade as Spain march into World Cup final (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Body of Indian sailor missing after vessel attack near Oman found (Section Feed, 2 outlets)\n* EU bans gold imports from Sudan to curb money financing the war (BBC News, 2 outlets)\n* Kenyan court dismisses Rastafarians' bid to legalise cannabis (BBC News, 2 outlets)\n* Nigeria: Nigeria Offers Clues to New US Africa Strategy (AllAfrica News: Latest, 2 outlets)\n* People with disabilities, caregivers call for better healthcare and job support as task force weighs recommendations (Latest News, 1 outlets)\n* Africa: Global Childhood Immunization Coverage Inches Forward Despite Conflict and Hesitancy - Unicef, WHO (AllAfrica News: Latest, 1 outlets)\n* South Africa: Health Department Ramps Up Ebola Readiness - South African News Briefs - July 15, 2026 (AllAfrica News: Latest, 1 outlets)\n* IRGC warns energy exports would be 'for everyone or for no one' if US interferes in maritime routes (Section Feed, 1 outlets)\n* Centcom officials protest against Israeli transport minister's restrictions on refueling aircrafts (Section Feed, 1 outlets)\n* Ineligible applicants allocated HDB flats, housing grants due to weaknesses in checks: AGO report (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-07-16 (extractive mode)\n\n* South Africa: NGO Demands Fast Sentencing for Child Abuser - South African News Briefs - July 16, 2026 (AllAfrica News: Latest, 2 outlets)\n* Special police team to investigate killing of an anti-migrant leader in South Africa (BBC News, 2 outlets)\n* Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes (BBC News, 2 outlets)\n* Kenya: Court rejects Rastafari bid for religious freedom marijuana exemption (World | Deutsche Welle, 2 outlets)\n* Pete Hegseth says US military to start testosterone screening for over 30s (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* New monkey species with orange lips found 'hiding' in DR Congo forest (BBC News, 2 outlets)\n* Eleven people die in fire at Algerian foster care home (BBC News, 2 outlets)\n* Kenya: Kenya's 'Political Gangs' Fuel Election Fears (AllAfrica News: Latest, 2 outlets)\n* Ten years ago, parts of the Turkish military tried to overthrow the Erdogan government. The consequences are still shaping Turkey today (World | Deutsche Welle, 1 outlets)\n* Congo-Kinshasa: 'In the DR Congo, Containing Ebola Requires Stronger Collective Action and a Faster Response' (AllAfrica News: Latest, 1 outlets)\n* Singaporean traveller stranded at Malaysia rest stop at 4.15am after coach to KL drove off without him (Latest News, 1 outlets)\n* Malawi: Alarm As Over 100 Underage Girls Trapped in Sex Work in Rumphi, Campaigners War (AllAfrica News: Latest, 1 outlets)"
 }
