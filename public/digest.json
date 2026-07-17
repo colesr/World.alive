@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-16T09:07:56.600808+00:00",
-  "digest_words": 249,
+  "generated_at": "2026-07-17T09:02:27.016266+00:00",
+  "digest_words": 251,
   "clusters": [
     {
-      "headline": "South Africa: NGO Demands Fast Sentencing for Child Abuser - South African News Briefs - July 16, 2026",
+      "headline": "South Africa: Cape Flats Residents Fight Extortionists - South African News Briefs - July 17, 2026",
       "countries": [
         "South Africa"
       ],
@@ -14,168 +14,159 @@
       "outlets": 2,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202607160148.html",
-        "https://allafrica.com/stories/202607160151.html"
+        "https://allafrica.com/stories/202607170061.html",
+        "https://allafrica.com/stories/202607170079.html"
       ]
     },
     {
-      "headline": "Special police team to investigate killing of an anti-migrant leader in South Africa",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The March and March provincial leader died of his injuries in hospital several days after being shot.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Kenya: Court rejects Rastafari bid for religious freedom marijuana exemption",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Kenya's small Rastafarian community was seeking permission to smoke marijuana under the constitutional right to freedom of religion. The judge found that they did not show it to be a necessary part of their worship.",
-      "links": [
-        "https://www.dw.com/en/kenya-court-rejects-rastafari-bid-for-religious-freedom-marijuana-exemption/a-77971666?maca=en-rss-en-world-4025-rdf",
-        "https://allafrica.com/stories/202607160149.html"
-      ]
-    },
-    {
-      "headline": "Pete Hegseth says US military to start testosterone screening for over 30s",
+      "headline": "Algeria: Fire at orphanage kills 11, including children",
       "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "A fire at an orphanage in the province of Algiers has killed 11 people and injured 19 more, authorities said. President Abdelmadjid Tebboune expressed his condolences amid his trip to Berlin.",
+      "links": [
+        "https://www.dw.com/en/algeria-fire-at-orphanage-kills-11-including-children/a-77991351?maca=en-rss-en-world-4025-rdf",
+        "https://allafrica.com/stories/202607170062.html"
+      ]
+    },
+    {
+      "headline": "China rebukes UK over nationalisation of British Steel",
+      "countries": [
+        "China",
+        "United Kingdom"
+      ],
       "regions": [
         "Europe",
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "US Defense Secretary says plan is &#039;about restoring and optimising ... natural capabilities&#039; of troops.",
+      "summary": "The UK has appropriated its last working steelworks following fears its former Chinese owners would shut it down.",
       "links": [
-        "https://www.aljazeera.com/news/2026/7/16/pete-hegseth-says-us-military-to-start-testosterone-screening-for-over-30s?traffic_source=rss",
-        "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss"
+        "https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss",
+        "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+      "headline": "School bus crash kills at least 20 pupils in Uganda",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+      "summary": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Eleven people die in fire at Algerian foster care home",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Along with the fatalities, 19 people suffered injuries, the authorities say.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Kenya: Kenya's 'Political Gangs' Fuel Election Fears",
+      "headline": "Forest City\u2019s Network School says US$122m investment plan on hold amid Malaysia\u2019s probe into alleged Israeli link",
       "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "[DW] Violent disruptions of political and civic events are raising concerns about the use of hired gangs as Kenya heads toward elections in 2027.",
-      "links": [
-        "https://allafrica.com/stories/202607160150.html",
-        "https://www.dw.com/en/kenya-s-political-gangs-fuel-election-fears/a-77970615?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Ten years ago, parts of the Turkish military tried to overthrow the Erdogan government. The consequences are still shaping Turkey today",
-      "countries": [
-        "Turkey"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Ten years ago, parts of the Turkish military attempted to overthrow the government of President Recep Tayyip Erdogan. The consequences of the failed coup continue to shape Turkey to this day. DW looks back.",
-      "links": [
-        "https://www.dw.com/en/ten-years-ago-parts-of-the-turkish-military-tried-to-overthrow-the-erdogan-government-the-consequences-are-still-shaping-turkey-today/a-77955154?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Congo-Kinshasa: 'In the DR Congo, Containing Ebola Requires Stronger Collective Action and a Faster Response'",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Unicef] Dakar -- Statement by UNICEF Regional Director for West and Central Africa, Gilles Fagninou, following visit to Ituri",
-      "links": [
-        "https://allafrica.com/stories/202607160051.html"
-      ]
-    },
-    {
-      "headline": "Singaporean traveller stranded at Malaysia rest stop at 4.15am after coach to KL drove off without him",
-      "countries": [
-        "Singapore"
+        "Israel"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Even before the incident, the trip had already been marred by a last-minute schedule change and delay.",
+      "summary": "Locals in Johor\u2019s Forest City tell CNA the startup community has boosted businesses but add that anyone found breaching Malaysia's immigration laws should face action.",
       "links": [
-        "https://www.channelnewsasia.com/travel/coach-bus-kl-leaves-singaporean-during-toilet-break-6257446"
+        "https://www.channelnewsasia.com/asia/malaysia-johor-forest-city-network-school-israeli-citizens-balaji-srinivasan-6260626"
       ]
     },
     {
-      "headline": "Malawi: Alarm As Over 100 Underage Girls Trapped in Sex Work in Rumphi, Campaigners War",
+      "headline": "Actress Fann Wong no longer owns a weighing scale: 'Having strength and energy is much more important'",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The 55-year-old, who&nbsp;used to feel \"upset\" when her weight went above 49kg,&nbsp;shared in a recent interview how her outlook on health and weight has changed over the years.",
+      "links": [
+        "https://www.channelnewsasia.com/entertainment/fann-wong-weight-health-6260386"
+      ]
+    },
+    {
+      "headline": "South Africa: Ramaphosa Pleads 'Humiliation' in Bid to Stop Impeachment Inquiry in Its Tracks",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Daily Maverick] Cyril Ramaphosa claims ongoing impeachment proceedings will lead to significant humiliation, as the High Court weighs his urgent application to halt the inquiry into the Phala Phala allegations.",
+      "links": [
+        "https://allafrica.com/stories/202607170023.html"
+      ]
+    },
+    {
+      "headline": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies.",
+      "links": [
+        "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access"
+      ]
+    },
+    {
+      "headline": "Chief Justice Sundaresh Menon to retire after 14 years, Justice Sushil Nair named successor",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Court of Appeal judge Sushil Sukumaran Nair will become Singapore's fifth Chief Justice on Feb 26, 2027.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/chief-justice-sundaresh-menon-retire-replaced-sushil-nair-6260611"
+      ]
+    },
+    {
+      "headline": "Uganda: WHO Warns DR Congo Ebola Outbreak Is Outpacing Response As Uganda Reaches Milestone",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Nyasa Times] More than 100 girls under the age of 18 are believed to be involved in sex work in Rumphi, according to warnings issued by campaigners at a stakeholders' meeting this week.",
+      "summary": "[UN News] The Ebola outbreak in the Democratic Republic of the Congo (DRC) has become the third largest on record and is spreading faster than any previous one during the first month of exposure, the head of the World Health Organization (WHO) warned on Thursday.",
       "links": [
-        "https://allafrica.com/stories/202607160053.html"
+        "https://allafrica.com/stories/202607170010.html"
+      ]
+    },
+    {
+      "headline": "Uganda: Kapchorwa Bus Tragedy - 23 Ndejje Pupils Feared Dead After School Tour Turns Fatal",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Light] Kapchorwa: At least 23 pupils of King David Junior School Ndejje are feared dead following a road accident in Kapchorwa District on Thursday evening, as the pupils travelled for a field trip whose exact destination remained unclear at the time of the crash.",
+      "links": [
+        "https://allafrica.com/stories/202607170042.html"
+      ]
+    },
+    {
+      "headline": "Explosions heard in Qatar, sirens sound off in Bahrain as Iran claims attacks in Kuwait",
+      "countries": [
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nExplosions heard in Qatar, sirens sound off in Bahrain as Iran claims attacks in Kuwait\n\n    \n    \n\n        \n    \n                Qatar's&nbsp;defence ministry indicated that it is intercepting a number of aerial attacks, after several reports of blasts heard in the capital of Doh",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-qatar-sirens-sound-bahrain-iran-claims-attacks-kuwait"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-16 (extractive mode)\n\n* South Africa: NGO Demands Fast Sentencing for Child Abuser - South African News Briefs - July 16, 2026 (AllAfrica News: Latest, 2 outlets)\n* Special police team to investigate killing of an anti-migrant leader in South Africa (BBC News, 2 outlets)\n* Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes (BBC News, 2 outlets)\n* Kenya: Court rejects Rastafari bid for religious freedom marijuana exemption (World | Deutsche Welle, 2 outlets)\n* Pete Hegseth says US military to start testosterone screening for over 30s (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* New monkey species with orange lips found 'hiding' in DR Congo forest (BBC News, 2 outlets)\n* Eleven people die in fire at Algerian foster care home (BBC News, 2 outlets)\n* Kenya: Kenya's 'Political Gangs' Fuel Election Fears (AllAfrica News: Latest, 2 outlets)\n* Ten years ago, parts of the Turkish military tried to overthrow the Erdogan government. The consequences are still shaping Turkey today (World | Deutsche Welle, 1 outlets)\n* Congo-Kinshasa: 'In the DR Congo, Containing Ebola Requires Stronger Collective Action and a Faster Response' (AllAfrica News: Latest, 1 outlets)\n* Singaporean traveller stranded at Malaysia rest stop at 4.15am after coach to KL drove off without him (Latest News, 1 outlets)\n* Malawi: Alarm As Over 100 Underage Girls Trapped in Sex Work in Rumphi, Campaigners War (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-07-17 (extractive mode)\n\n* South Africa: Cape Flats Residents Fight Extortionists - South African News Briefs - July 17, 2026 (AllAfrica News: Latest, 2 outlets)\n* Algeria: Fire at orphanage kills 11, including children (World | Deutsche Welle, 2 outlets)\n* China rebukes UK over nationalisation of British Steel (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* School bus crash kills at least 20 pupils in Uganda (BBC News, 2 outlets)\n* Forest City\u2019s Network School says US$122m investment plan on hold amid Malaysia\u2019s probe into alleged Israeli link (Latest News, 1 outlets)\n* Actress Fann Wong no longer owns a weighing scale: 'Having strength and energy is much more important' (Latest News, 1 outlets)\n* South Africa: Ramaphosa Pleads 'Humiliation' in Bid to Stop Impeachment Inquiry in Its Tracks (AllAfrica News: Latest, 1 outlets)\n* China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access (NPR Topics: World, 1 outlets)\n* Chief Justice Sundaresh Menon to retire after 14 years, Justice Sushil Nair named successor (Latest News, 1 outlets)\n* Uganda: WHO Warns DR Congo Ebola Outbreak Is Outpacing Response As Uganda Reaches Milestone (AllAfrica News: Latest, 1 outlets)\n* Uganda: Kapchorwa Bus Tragedy - 23 Ndejje Pupils Feared Dead After School Tour Turns Fatal (AllAfrica News: Latest, 1 outlets)\n* Explosions heard in Qatar, sirens sound off in Bahrain as Iran claims attacks in Kuwait (Section Feed, 1 outlets)"
 }
