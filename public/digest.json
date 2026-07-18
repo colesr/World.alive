@@ -1,106 +1,151 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-17T09:02:27.016266+00:00",
-  "digest_words": 251,
+  "generated_at": "2026-07-18T08:30:24.551217+00:00",
+  "digest_words": 244,
   "clusters": [
     {
-      "headline": "South Africa: Cape Flats Residents Fight Extortionists - South African News Briefs - July 17, 2026",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 2,
-      "summary": "[allAfrica]",
-      "links": [
-        "https://allafrica.com/stories/202607170061.html",
-        "https://allafrica.com/stories/202607170079.html"
-      ]
-    },
-    {
-      "headline": "Algeria: Fire at orphanage kills 11, including children",
+      "headline": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "A fire at an orphanage in the province of Algiers has killed 11 people and injured 19 more, authorities said. President Abdelmadjid Tebboune expressed his condolences amid his trip to Berlin.",
+      "summary": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
       "links": [
-        "https://www.dw.com/en/algeria-fire-at-orphanage-kills-11-including-children/a-77991351?maca=en-rss-en-world-4025-rdf",
-        "https://allafrica.com/stories/202607170062.html"
+        "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "China rebukes UK over nationalisation of British Steel",
-      "countries": [
-        "China",
-        "United Kingdom"
-      ],
-      "regions": [
-        "Europe",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "The UK has appropriated its last working steelworks following fears its former Chinese owners would shut it down.",
-      "links": [
-        "https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss",
-        "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "School bus crash kills at least 20 pupils in Uganda",
+      "headline": "Air conditioner sparked deadly blaze at children's orphanage - police",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
+      "summary": "Eleven people, including children, died in the fire that also injured 19 others.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Uganda suspends school trips after 20 pupils die in bus crash",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Thousands are killed on Uganda's roads each year but this is one of its deadliest accidents involving children.",
       "links": [
         "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
         "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Forest City\u2019s Network School says US$122m investment plan on hold amid Malaysia\u2019s probe into alleged Israeli link",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Locals in Johor\u2019s Forest City tell CNA the startup community has boosted businesses but add that anyone found breaching Malaysia's immigration laws should face action.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/malaysia-johor-forest-city-network-school-israeli-citizens-balaji-srinivasan-6260626"
-      ]
-    },
-    {
-      "headline": "Actress Fann Wong no longer owns a weighing scale: 'Having strength and energy is much more important'",
+      "headline": "Network School ordered to cease operations at Forest City site over licensing breach; founder says operations continue",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The 55-year-old, who&nbsp;used to feel \"upset\" when her weight went above 49kg,&nbsp;shared in a recent interview how her outlook on health and weight has changed over the years.",
+      "summary": "Johor Chief Minister Onn Hafiz Ghazi said the Iskandar Puteri City Council has issued a cessation notice to one of the startup community's premises as well as an advertising licence notice for displaying non-compliant signboards.",
       "links": [
-        "https://www.channelnewsasia.com/entertainment/fann-wong-weight-health-6260386"
+        "https://www.channelnewsasia.com/asia/johor-network-school-forest-city-israel-links-6262326"
       ]
     },
     {
-      "headline": "South Africa: Ramaphosa Pleads 'Humiliation' in Bid to Stop Impeachment Inquiry in Its Tracks",
+      "headline": "Liberia: Civil Society Council Challenges Suspension of H/Rights Commission Chair, Cites Constitutional Violations",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[FrontPageAfrica] Monrovia -- The National Civil Society Council of Liberia (NCSCL), along with its membership-based Human Rights Coalitions, has gravely criticized President Joseph Nyuma Boakai's decision to suspend the Chairperson of the Independent National Commission on Human Rights (INCHR), Cll",
+      "links": [
+        "https://allafrica.com/stories/202607170599.html"
+      ]
+    },
+    {
+      "headline": "Negeri Sembilan election campaign begins after 103 candidates confirmed; BN, PN to campaign for each other",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The 36 constituencies will see 11 straight fights, 21 three-cornered contests, two four-cornered contests and two five-cornered contests.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/negeri-sembilan-state-election-nomination-day-6262536"
+      ]
+    },
+    {
+      "headline": "Nigeria: Ododo Reaffirms No-Ransom Policy As Security Forces Rescue Abducted Neco Candidates in Kogi",
       "countries": [
-        "South Africa"
+        "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Daily Maverick] Cyril Ramaphosa claims ongoing impeachment proceedings will lead to significant humiliation, as the High Court weighs his urgent application to halt the inquiry into the Phala Phala allegations.",
+      "summary": "[Leadership] Kogi State governor, Alhaji Ahmed Usman Ododo, has reiterated his administration's policy of not negotiating with kidnappers or paying ransom, following the successful rescue of four persons abducted from a NECO examination centre in Dekina Local Government Area of the state.",
       "links": [
-        "https://allafrica.com/stories/202607170023.html"
+        "https://allafrica.com/stories/202607170601.html"
+      ]
+    },
+    {
+      "headline": "Approved fosterers may keep up to 6 cats in HDB flats, 10 in private homes under new pilot scheme",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The two-year pilot scheme will run from Aug 3, 2026 to Jul 31, 2028.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/cat-fostering-hdb-flats-private-homes-pilot-scheme-avs-6262516"
+      ]
+    },
+    {
+      "headline": "Congo-Kinshasa: In Eastern DR Congo, Journalists Face Death, Arson Threats for Reporting On War",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[CPJ] Government allied Wazalendo militiamen have threatened to kill or capture one reporter and to burn down another's radio station because of unfavorable coverage, as frontlines shift under diplomatic pressure for peace in eastern Democratic Republic of the Congo.",
+      "links": [
+        "https://allafrica.com/stories/202607170354.html"
+      ]
+    },
+    {
+      "headline": "Indian activist moved to hospital after 20-day hunger strike to protest country\u2019s exam system",
+      "countries": [
+        "India"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/asia/india-sonam-wangchuk-hunger-strike-medicine-exam-protest-6262421"
+      ]
+    },
+    {
+      "headline": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "countries": [
+        "United States",
+        "China"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -116,57 +161,7 @@
       "links": [
         "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access"
       ]
-    },
-    {
-      "headline": "Chief Justice Sundaresh Menon to retire after 14 years, Justice Sushil Nair named successor",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Court of Appeal judge Sushil Sukumaran Nair will become Singapore's fifth Chief Justice on Feb 26, 2027.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/chief-justice-sundaresh-menon-retire-replaced-sushil-nair-6260611"
-      ]
-    },
-    {
-      "headline": "Uganda: WHO Warns DR Congo Ebola Outbreak Is Outpacing Response As Uganda Reaches Milestone",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[UN News] The Ebola outbreak in the Democratic Republic of the Congo (DRC) has become the third largest on record and is spreading faster than any previous one during the first month of exposure, the head of the World Health Organization (WHO) warned on Thursday.",
-      "links": [
-        "https://allafrica.com/stories/202607170010.html"
-      ]
-    },
-    {
-      "headline": "Uganda: Kapchorwa Bus Tragedy - 23 Ndejje Pupils Feared Dead After School Tour Turns Fatal",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Light] Kapchorwa: At least 23 pupils of King David Junior School Ndejje are feared dead following a road accident in Kapchorwa District on Thursday evening, as the pupils travelled for a field trip whose exact destination remained unclear at the time of the crash.",
-      "links": [
-        "https://allafrica.com/stories/202607170042.html"
-      ]
-    },
-    {
-      "headline": "Explosions heard in Qatar, sirens sound off in Bahrain as Iran claims attacks in Kuwait",
-      "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nExplosions heard in Qatar, sirens sound off in Bahrain as Iran claims attacks in Kuwait\n\n    \n    \n\n        \n    \n                Qatar's&nbsp;defence ministry indicated that it is intercepting a number of aerial attacks, after several reports of blasts heard in the capital of Doh",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-qatar-sirens-sound-bahrain-iran-claims-attacks-kuwait"
-      ]
     }
   ],
-  "narrative": "State of the World - 2026-07-17 (extractive mode)\n\n* South Africa: Cape Flats Residents Fight Extortionists - South African News Briefs - July 17, 2026 (AllAfrica News: Latest, 2 outlets)\n* Algeria: Fire at orphanage kills 11, including children (World | Deutsche Welle, 2 outlets)\n* China rebukes UK over nationalisation of British Steel (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* School bus crash kills at least 20 pupils in Uganda (BBC News, 2 outlets)\n* Forest City\u2019s Network School says US$122m investment plan on hold amid Malaysia\u2019s probe into alleged Israeli link (Latest News, 1 outlets)\n* Actress Fann Wong no longer owns a weighing scale: 'Having strength and energy is much more important' (Latest News, 1 outlets)\n* South Africa: Ramaphosa Pleads 'Humiliation' in Bid to Stop Impeachment Inquiry in Its Tracks (AllAfrica News: Latest, 1 outlets)\n* China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access (NPR Topics: World, 1 outlets)\n* Chief Justice Sundaresh Menon to retire after 14 years, Justice Sushil Nair named successor (Latest News, 1 outlets)\n* Uganda: WHO Warns DR Congo Ebola Outbreak Is Outpacing Response As Uganda Reaches Milestone (AllAfrica News: Latest, 1 outlets)\n* Uganda: Kapchorwa Bus Tragedy - 23 Ndejje Pupils Feared Dead After School Tour Turns Fatal (AllAfrica News: Latest, 1 outlets)\n* Explosions heard in Qatar, sirens sound off in Bahrain as Iran claims attacks in Kuwait (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-07-18 (extractive mode)\n\n* Second tanker in three months hijacked off Yemen by suspected Somali pirates (BBC News, 2 outlets)\n* Air conditioner sparked deadly blaze at children's orphanage - police (BBC News, 2 outlets)\n* Uganda suspends school trips after 20 pupils die in bus crash (BBC News, 2 outlets)\n* Network School ordered to cease operations at Forest City site over licensing breach; founder says operations continue (Latest News, 1 outlets)\n* Liberia: Civil Society Council Challenges Suspension of H/Rights Commission Chair, Cites Constitutional Violations (AllAfrica News: Latest, 1 outlets)\n* Negeri Sembilan election campaign begins after 103 candidates confirmed; BN, PN to campaign for each other (Latest News, 1 outlets)\n* Nigeria: Ododo Reaffirms No-Ransom Policy As Security Forces Rescue Abducted Neco Candidates in Kogi (AllAfrica News: Latest, 1 outlets)\n* Approved fosterers may keep up to 6 cats in HDB flats, 10 in private homes under new pilot scheme (Latest News, 1 outlets)\n* Congo-Kinshasa: In Eastern DR Congo, Journalists Face Death, Arson Threats for Reporting On War (AllAfrica News: Latest, 1 outlets)\n* Indian activist moved to hospital after 20-day hunger strike to protest country\u2019s exam system (Latest News, 1 outlets)\n* Trump alleges China meddled in 2020 election and questions voting security ahead of midterms (BBC News, 1 outlets)\n* China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access (NPR Topics: World, 1 outlets)"
 }
