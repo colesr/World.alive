@@ -1,84 +1,48 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-18T08:30:24.551217+00:00",
-  "digest_words": 244,
+  "generated_at": "2026-07-19T09:00:34.679358+00:00",
+  "digest_words": 263,
   "clusters": [
     {
-      "headline": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
-      "countries": [],
+      "headline": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups",
+      "countries": [
+        "Spain",
+        "Argentina"
+      ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Middle East"
       ],
       "outlets": 2,
-      "summary": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
+      "summary": "Stars Lionel Messi and Lamine Yamal clash at the biggest match of the biggest World Cup in history.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss"
+        "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news?traffic_source=rss",
+        "https://www.aljazeera.com/video/2026/7/19/video-world-cup-2026-highlights?traffic_source=rss"
       ]
     },
     {
-      "headline": "Air conditioner sparked deadly blaze at children's orphanage - police",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Eleven people, including children, died in the fire that also injured 19 others.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Uganda suspends school trips after 20 pupils die in bus crash",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Thousands are killed on Uganda's roads each year but this is one of its deadliest accidents involving children.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Network School ordered to cease operations at Forest City site over licensing breach; founder says operations continue",
+      "headline": "Annual leave for outsourced Progressive Wage Model workers to increase from 7 to 10 days progressively from 2029",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Johor Chief Minister Onn Hafiz Ghazi said the Iskandar Puteri City Council has issued a cessation notice to one of the startup community's premises as well as an advertising licence notice for displaying non-compliant signboards.",
+      "summary": "About 60 per cent of outsourced workers in sectors such as cleaning, security&nbsp;and landscape are expected to benefit from the increase, says the Ministry of Manpower.",
       "links": [
-        "https://www.channelnewsasia.com/asia/johor-network-school-forest-city-israel-links-6262326"
+        "https://www.channelnewsasia.com/singapore/annual-leave-increase-10-days-pwm-workers-outsourced-mom-6262866"
       ]
     },
     {
-      "headline": "Liberia: Civil Society Council Challenges Suspension of H/Rights Commission Chair, Cites Constitutional Violations",
-      "countries": [],
-      "regions": [
-        "Africa"
+      "headline": "Which Singapore celebrities own cafes? 35 stars who have gone into F&B, from Ben Yeo to JJ Lin and Rebecca Lim",
+      "countries": [
+        "Singapore"
       ],
-      "outlets": 1,
-      "summary": "[FrontPageAfrica] Monrovia -- The National Civil Society Council of Liberia (NCSCL), along with its membership-based Human Rights Coalitions, has gravely criticized President Joseph Nyuma Boakai's decision to suspend the Chairperson of the Independent National Commission on Human Rights (INCHR), Cll",
-      "links": [
-        "https://allafrica.com/stories/202607170599.html"
-      ]
-    },
-    {
-      "headline": "Negeri Sembilan election campaign begins after 103 candidates confirmed; BN, PN to campaign for each other",
-      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The 36 constituencies will see 11 straight fights, 21 three-cornered contests, two four-cornered contests and two five-cornered contests.",
+      "summary": "Running a restaurant isn't easy, even if you're famous. From Ben Yeo's&nbsp;ever-evolving restaurant empire&nbsp;to Taufik Batisah, The Muttons and Jeanette Aw, here's a roundup of the local celebrities who've opened everything from hawker stalls to cafes, steak restaurants and online food businesse",
       "links": [
-        "https://www.channelnewsasia.com/asia/negeri-sembilan-state-election-nomination-day-6262536"
+        "https://www.channelnewsasia.com/entertainment/which-singapore-celebrities-own-cafes-35-stars-who-have-gone-fb-ben-yeo-jj-lin-and-rebecca-lim-6262801"
       ]
     },
     {
@@ -96,18 +60,6 @@
       ]
     },
     {
-      "headline": "Approved fosterers may keep up to 6 cats in HDB flats, 10 in private homes under new pilot scheme",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The two-year pilot scheme will run from Aug 3, 2026 to Jul 31, 2028.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/cat-fostering-hdb-flats-private-homes-pilot-scheme-avs-6262516"
-      ]
-    },
-    {
       "headline": "Congo-Kinshasa: In Eastern DR Congo, Journalists Face Death, Arson Threats for Reporting On War",
       "countries": [],
       "regions": [
@@ -120,9 +72,35 @@
       ]
     },
     {
-      "headline": "Indian activist moved to hospital after 20-day hunger strike to protest country\u2019s exam system",
+      "headline": "Rescuers find five survivors and are still looking for 20 others after boat sinks in Indonesia",
       "countries": [
-        "India"
+        "Indonesia"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The five,&nbsp;including a 7-year-old girl,&nbsp;were found clinging to a fish trap belonging to a local fisherman, Makassar&nbsp;search and rescue officials said.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/indonesia-boat-sinking-selayar-islands-south-sulawesi-makassar-6263516"
+      ]
+    },
+    {
+      "headline": "Central Africa: Gabon's Public Debt Rises 23 Percent As Government Turns to Regional Markets",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Daba Finance] Gabon's outstanding public debt rose 23% year-on-year to 8,780.3 billion FCFA at the end of December 2025, driven by a sharp increase in domestic borrowing as the government shifted away from traditional external financing.",
+      "links": [
+        "https://allafrica.com/stories/202607170715.html"
+      ]
+    },
+    {
+      "headline": "Deschamps takes responsibility for unacceptable first half in last game in charge of France",
+      "countries": [
+        "France"
       ],
       "regions": [
         "Asia"
@@ -130,38 +108,59 @@
       "outlets": 1,
       "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/asia/india-sonam-wangchuk-hunger-strike-medicine-exam-protest-6262421"
+        "https://www.channelnewsasia.com/sport/deschamps-takes-responsibility-unacceptable-first-half-in-last-game-in-charge-france-6263386"
       ]
     },
     {
-      "headline": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-      "countries": [
-        "United States",
-        "China"
-      ],
+      "headline": "Uganda: Kapchorwa Bus Tragedy - 23 Ndejje Pupils Feared Dead After School Tour Turns Fatal",
+      "countries": [],
       "regions": [
-        "Europe"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+      "summary": "[New Light] Kapchorwa: At least 23 pupils of King David Junior School Ndejje are feared dead following a road accident in Kapchorwa District on Thursday evening, as the pupils travelled for a field trip whose exact destination remained unclear at the time of the crash.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202607170042.html"
       ]
     },
     {
-      "headline": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
-      "countries": [
-        "China"
-      ],
+      "headline": "Uganda: Anthony Natif Notes From Court - Uganda Vs Molly Katanga and Others July 16/2026 B",
+      "countries": [],
       "regions": [
-        "Americas"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies.",
+      "summary": "[Independent (Kampala)] The last few weeks in the Katanga case have been about getting to the bottom of DNA evidence and its implications on understanding whether Mrs Molly Katanga and/or her deceased husband pulled the trigger that ended Mr Katanga's life on the morning of 2 November 2023.",
       "links": [
-        "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access"
+        "https://allafrica.com/stories/202607170606.html"
+      ]
+    },
+    {
+      "headline": "Nigeria: Nigerians Want Cheaper Petrol, but Renewed Hormuz Battle Won't Make That Happen",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Premium Times] Many Nigerians clamoured that petrol prices should return to the pre-war level.",
+      "links": [
+        "https://allafrica.com/stories/202607170070.html"
+      ]
+    },
+    {
+      "headline": "'Manosphere' influencer Andrew Tate and brother arrested in Miami, UK seeks extradition",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Andrew Tate is one of the most prominent proponents of the so-called \"manosphere\" network of communities, many of them online, that focus on traditional masculinity, anti-feminism, and self-improvement.",
+      "links": [
+        "https://www.channelnewsasia.com/world/manosphere-influencer-andrew-tate-and-brother-arrested-in-miami-uk-seeks-extradition-6263361"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-18 (extractive mode)\n\n* Second tanker in three months hijacked off Yemen by suspected Somali pirates (BBC News, 2 outlets)\n* Air conditioner sparked deadly blaze at children's orphanage - police (BBC News, 2 outlets)\n* Uganda suspends school trips after 20 pupils die in bus crash (BBC News, 2 outlets)\n* Network School ordered to cease operations at Forest City site over licensing breach; founder says operations continue (Latest News, 1 outlets)\n* Liberia: Civil Society Council Challenges Suspension of H/Rights Commission Chair, Cites Constitutional Violations (AllAfrica News: Latest, 1 outlets)\n* Negeri Sembilan election campaign begins after 103 candidates confirmed; BN, PN to campaign for each other (Latest News, 1 outlets)\n* Nigeria: Ododo Reaffirms No-Ransom Policy As Security Forces Rescue Abducted Neco Candidates in Kogi (AllAfrica News: Latest, 1 outlets)\n* Approved fosterers may keep up to 6 cats in HDB flats, 10 in private homes under new pilot scheme (Latest News, 1 outlets)\n* Congo-Kinshasa: In Eastern DR Congo, Journalists Face Death, Arson Threats for Reporting On War (AllAfrica News: Latest, 1 outlets)\n* Indian activist moved to hospital after 20-day hunger strike to protest country\u2019s exam system (Latest News, 1 outlets)\n* Trump alleges China meddled in 2020 election and questions voting security ahead of midterms (BBC News, 1 outlets)\n* China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access (NPR Topics: World, 1 outlets)"
+  "narrative": "State of the World - 2026-07-19 (extractive mode)\n\n* Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Annual leave for outsourced Progressive Wage Model workers to increase from 7 to 10 days progressively from 2029 (Latest News, 1 outlets)\n* Which Singapore celebrities own cafes? 35 stars who have gone into F&B, from Ben Yeo to JJ Lin and Rebecca Lim (Latest News, 1 outlets)\n* Nigeria: Ododo Reaffirms No-Ransom Policy As Security Forces Rescue Abducted Neco Candidates in Kogi (AllAfrica News: Latest, 1 outlets)\n* Congo-Kinshasa: In Eastern DR Congo, Journalists Face Death, Arson Threats for Reporting On War (AllAfrica News: Latest, 1 outlets)\n* Rescuers find five survivors and are still looking for 20 others after boat sinks in Indonesia (Latest News, 1 outlets)\n* Central Africa: Gabon's Public Debt Rises 23 Percent As Government Turns to Regional Markets (AllAfrica News: Latest, 1 outlets)\n* Deschamps takes responsibility for unacceptable first half in last game in charge of France (Latest News, 1 outlets)\n* Uganda: Kapchorwa Bus Tragedy - 23 Ndejje Pupils Feared Dead After School Tour Turns Fatal (AllAfrica News: Latest, 1 outlets)\n* Uganda: Anthony Natif Notes From Court - Uganda Vs Molly Katanga and Others July 16/2026 B (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Nigerians Want Cheaper Petrol, but Renewed Hormuz Battle Won't Make That Happen (AllAfrica News: Latest, 1 outlets)\n* 'Manosphere' influencer Andrew Tate and brother arrested in Miami, UK seeks extradition (Latest News, 1 outlets)"
 }
