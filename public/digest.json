@@ -1,10 +1,25 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-19T09:00:34.679358+00:00",
-  "digest_words": 263,
+  "generated_at": "2026-07-20T09:48:56.506867+00:00",
+  "digest_words": 240,
   "clusters": [
     {
-      "headline": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups",
+      "headline": "South Africa: Matlala Assassination Trial Begins - South African News Briefs - July 20, 2026",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 2,
+      "summary": "[allAfrica]",
+      "links": [
+        "https://allafrica.com/stories/202607200092.html",
+        "https://allafrica.com/stories/202607200097.html"
+      ]
+    },
+    {
+      "headline": "Key takeaways from the World Cup 2026 final as Spain beat Argentina",
       "countries": [
         "Spain",
         "Argentina"
@@ -13,154 +28,142 @@
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "Stars Lionel Messi and Lamine Yamal clash at the biggest match of the biggest World Cup in history.",
+      "summary": "Midfield dominance, stifling Lionel Messi and gifted wingers - Spain outclassed Argentina to lift the World Cup.",
       "links": [
-        "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news?traffic_source=rss",
-        "https://www.aljazeera.com/video/2026/7/19/video-world-cup-2026-highlights?traffic_source=rss"
+        "https://www.aljazeera.com/sports/2026/7/20/key-takeaways-from-the-world-cup-2026-final-as-spain-beat-argentina?traffic_source=rss",
+        "https://www.aljazeera.com/gallery/2026/7/20/photos-spain-beat-argentina-to-win-second-world-cup-title?traffic_source=rss"
       ]
     },
     {
-      "headline": "Annual leave for outsourced Progressive Wage Model workers to increase from 7 to 10 days progressively from 2029",
+      "headline": "Algeria: Algeria Seeks Larger EU Energy Role Amid Regional Tensions",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "[DW] Algeria and Germany agreed to deepen energy ties during President Abdelmadjid Tebboune's recent visit to Berlin. But Algiers is still grappling with tensions at home, over Western Sahara and instability in the Sahel.",
+      "links": [
+        "https://allafrica.com/stories/202607200103.html",
+        "https://www.dw.com/en/algeria-seeks-larger-eu-energy-role-amid-regional-tensions/a-78007849?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Diplomacy and war are instruments for achieving national interest, Iran's foreign ministry spokesperson says",
+      "countries": [
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nDiplomacy and war are instruments for achieving national interest, Iran's foreign ministry spokesperson says \n\n    \n    \n\n        \n    \n                Iran's foreign ministry spokesperson Esmaeil Baqaei said that Iran pursues war and diplomacy based on its national interests, Reu",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/diplomacy-and-war-are-instruments-achieving-national-interest-irans"
+      ]
+    },
+    {
+      "headline": "Many in Muslim community 'disappointed and saddened' after Faishal Ibrahim\u2019s resignation: Zaqy Mohamad",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "About 60 per cent of outsourced workers in sectors such as cleaning, security&nbsp;and landscape are expected to benefit from the increase, says the Ministry of Manpower.",
+      "summary": "Mr Zaqy Mohamad has replaced Associate Professor Faishal Ibrahim as acting minister-in-charge of Muslim affairs.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/annual-leave-increase-10-days-pwm-workers-outsourced-mom-6262866"
+        "https://www.channelnewsasia.com/singapore/faishal-ibrahim-resigns-muslim-community-new-minister-zaqy-6265101"
       ]
     },
     {
-      "headline": "Which Singapore celebrities own cafes? 35 stars who have gone into F&B, from Ben Yeo to JJ Lin and Rebecca Lim",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Running a restaurant isn't easy, even if you're famous. From Ben Yeo's&nbsp;ever-evolving restaurant empire&nbsp;to Taufik Batisah, The Muttons and Jeanette Aw, here's a roundup of the local celebrities who've opened everything from hawker stalls to cafes, steak restaurants and online food businesse",
-      "links": [
-        "https://www.channelnewsasia.com/entertainment/which-singapore-celebrities-own-cafes-35-stars-who-have-gone-fb-ben-yeo-jj-lin-and-rebecca-lim-6262801"
-      ]
-    },
-    {
-      "headline": "Nigeria: Ododo Reaffirms No-Ransom Policy As Security Forces Rescue Abducted Neco Candidates in Kogi",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Leadership] Kogi State governor, Alhaji Ahmed Usman Ododo, has reiterated his administration's policy of not negotiating with kidnappers or paying ransom, following the successful rescue of four persons abducted from a NECO examination centre in Dekina Local Government Area of the state.",
-      "links": [
-        "https://allafrica.com/stories/202607170601.html"
-      ]
-    },
-    {
-      "headline": "Congo-Kinshasa: In Eastern DR Congo, Journalists Face Death, Arson Threats for Reporting On War",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[CPJ] Government allied Wazalendo militiamen have threatened to kill or capture one reporter and to burn down another's radio station because of unfavorable coverage, as frontlines shift under diplomatic pressure for peace in eastern Democratic Republic of the Congo.",
-      "links": [
-        "https://allafrica.com/stories/202607170354.html"
-      ]
-    },
-    {
-      "headline": "Rescuers find five survivors and are still looking for 20 others after boat sinks in Indonesia",
-      "countries": [
-        "Indonesia"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The five,&nbsp;including a 7-year-old girl,&nbsp;were found clinging to a fish trap belonging to a local fisherman, Makassar&nbsp;search and rescue officials said.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/indonesia-boat-sinking-selayar-islands-south-sulawesi-makassar-6263516"
-      ]
-    },
-    {
-      "headline": "Central Africa: Gabon's Public Debt Rises 23 Percent As Government Turns to Regional Markets",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Daba Finance] Gabon's outstanding public debt rose 23% year-on-year to 8,780.3 billion FCFA at the end of December 2025, driven by a sharp increase in domestic borrowing as the government shifted away from traditional external financing.",
-      "links": [
-        "https://allafrica.com/stories/202607170715.html"
-      ]
-    },
-    {
-      "headline": "Deschamps takes responsibility for unacceptable first half in last game in charge of France",
-      "countries": [
-        "France"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/sport/deschamps-takes-responsibility-unacceptable-first-half-in-last-game-in-charge-france-6263386"
-      ]
-    },
-    {
-      "headline": "Uganda: Kapchorwa Bus Tragedy - 23 Ndejje Pupils Feared Dead After School Tour Turns Fatal",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Light] Kapchorwa: At least 23 pupils of King David Junior School Ndejje are feared dead following a road accident in Kapchorwa District on Thursday evening, as the pupils travelled for a field trip whose exact destination remained unclear at the time of the crash.",
-      "links": [
-        "https://allafrica.com/stories/202607170042.html"
-      ]
-    },
-    {
-      "headline": "Uganda: Anthony Natif Notes From Court - Uganda Vs Molly Katanga and Others July 16/2026 B",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Independent (Kampala)] The last few weeks in the Katanga case have been about getting to the bottom of DNA evidence and its implications on understanding whether Mrs Molly Katanga and/or her deceased husband pulled the trigger that ended Mr Katanga's life on the morning of 2 November 2023.",
-      "links": [
-        "https://allafrica.com/stories/202607170606.html"
-      ]
-    },
-    {
-      "headline": "Nigeria: Nigerians Want Cheaper Petrol, but Renewed Hormuz Battle Won't Make That Happen",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Premium Times] Many Nigerians clamoured that petrol prices should return to the pre-war level.",
-      "links": [
-        "https://allafrica.com/stories/202607170070.html"
-      ]
-    },
-    {
-      "headline": "'Manosphere' influencer Andrew Tate and brother arrested in Miami, UK seeks extradition",
+      "headline": "Smaller dialysis operators warn out-of-pocket fees may rise as Middle East conflict drives up costs",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Andrew Tate is one of the most prominent proponents of the so-called \"manosphere\" network of communities, many of them online, that focus on traditional masculinity, anti-feminism, and self-improvement.",
+      "summary": "But they assured that no one will be denied life-saving treatment because they cannot afford to pay.",
       "links": [
-        "https://www.channelnewsasia.com/world/manosphere-influencer-andrew-tate-and-brother-arrested-in-miami-uk-seeks-extradition-6263361"
+        "https://www.channelnewsasia.com/singapore/kidney-dialysis-operators-fees-costs-subsidies-middle-east-energy-supply-chain-6265111"
+      ]
+    },
+    {
+      "headline": "Test that found source of US explosive diarrhoea outbreak was false positive, health officials say",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The latest update from the US Food and Drug Administration means the exact source of the parasite is still not known.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Centcom claims attacks on Iranian command centres, air defence facilities, coastal surveillance",
+      "countries": [
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nCentcom claims attacks on Iranian command centres, air defence facilities, coastal surveillance \n\n    \n    \n\n        \n    \n                &nbsp;The&nbsp;US Central Command said it&nbsp;completed its ninth consecutive night of strikes against Iran, claiming attacks on Iranian mili",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-claims-attacks-iranian-command-centres-air-defence-facilities"
+      ]
+    },
+    {
+      "headline": "Kenya: Kenya's Rift Valley Residents Reach Breaking Point - 'The Lake Moved Into My House'",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[RFI] With Kenya's Lake Baringo and Lake Bogoria rising for months now, following above-average rainfall across the Rift Valley over recent years, this summer has seen them - and the communities around them - reach tipping point.",
+      "links": [
+        "https://allafrica.com/stories/202607200008.html"
+      ]
+    },
+    {
+      "headline": "Crowding, inconsiderate behaviour, air-con issues among top commuter concerns: PTC survey",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The survey found that overall 87 per cent of commuters expressed satisfaction with Singapore\u2019s public transport system.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/train-bus-crowding-air-con-inconsiderate-behaviour-public-transport-6264926"
+      ]
+    },
+    {
+      "headline": "Kenya: Police Investigate Murder After Shallow Grave With Human Remains Found in Machakos",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Capital FM] Machakos -- Police have launched a murder investigation after the partially decomposed body of a man was discovered in a shallow grave near Mukengesya River in Kithyoko, Machakos County.",
+      "links": [
+        "https://allafrica.com/stories/202607200094.html"
+      ]
+    },
+    {
+      "headline": "Zimbabwe: Zanu-PF Holds Countrywide 'Thank You Rallies' to Appreciate Support for CAB3",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Zimbabwe] ZANU PF at the weekend held \"CAB3 Thank You Rallies\" in all the country's 10 provinces to recognise and appreciate its supporters who rallied behind the recently assented Constitutional Amendment Bill Number 3 into law.",
+      "links": [
+        "https://allafrica.com/stories/202607200013.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-19 (extractive mode)\n\n* Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Annual leave for outsourced Progressive Wage Model workers to increase from 7 to 10 days progressively from 2029 (Latest News, 1 outlets)\n* Which Singapore celebrities own cafes? 35 stars who have gone into F&B, from Ben Yeo to JJ Lin and Rebecca Lim (Latest News, 1 outlets)\n* Nigeria: Ododo Reaffirms No-Ransom Policy As Security Forces Rescue Abducted Neco Candidates in Kogi (AllAfrica News: Latest, 1 outlets)\n* Congo-Kinshasa: In Eastern DR Congo, Journalists Face Death, Arson Threats for Reporting On War (AllAfrica News: Latest, 1 outlets)\n* Rescuers find five survivors and are still looking for 20 others after boat sinks in Indonesia (Latest News, 1 outlets)\n* Central Africa: Gabon's Public Debt Rises 23 Percent As Government Turns to Regional Markets (AllAfrica News: Latest, 1 outlets)\n* Deschamps takes responsibility for unacceptable first half in last game in charge of France (Latest News, 1 outlets)\n* Uganda: Kapchorwa Bus Tragedy - 23 Ndejje Pupils Feared Dead After School Tour Turns Fatal (AllAfrica News: Latest, 1 outlets)\n* Uganda: Anthony Natif Notes From Court - Uganda Vs Molly Katanga and Others July 16/2026 B (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Nigerians Want Cheaper Petrol, but Renewed Hormuz Battle Won't Make That Happen (AllAfrica News: Latest, 1 outlets)\n* 'Manosphere' influencer Andrew Tate and brother arrested in Miami, UK seeks extradition (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-07-20 (extractive mode)\n\n* South Africa: Matlala Assassination Trial Begins - South African News Briefs - July 20, 2026 (AllAfrica News: Latest, 2 outlets)\n* Key takeaways from the World Cup 2026 final as Spain beat Argentina (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Algeria: Algeria Seeks Larger EU Energy Role Amid Regional Tensions (AllAfrica News: Latest, 2 outlets)\n* Diplomacy and war are instruments for achieving national interest, Iran's foreign ministry spokesperson says (Section Feed, 1 outlets)\n* Many in Muslim community 'disappointed and saddened' after Faishal Ibrahim\u2019s resignation: Zaqy Mohamad (Latest News, 1 outlets)\n* Smaller dialysis operators warn out-of-pocket fees may rise as Middle East conflict drives up costs (Latest News, 1 outlets)\n* Test that found source of US explosive diarrhoea outbreak was false positive, health officials say (BBC News, 1 outlets)\n* Centcom claims attacks on Iranian command centres, air defence facilities, coastal surveillance (Section Feed, 1 outlets)\n* Kenya: Kenya's Rift Valley Residents Reach Breaking Point - 'The Lake Moved Into My House' (AllAfrica News: Latest, 1 outlets)\n* Crowding, inconsiderate behaviour, air-con issues among top commuter concerns: PTC survey (Latest News, 1 outlets)\n* Kenya: Police Investigate Murder After Shallow Grave With Human Remains Found in Machakos (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Zanu-PF Holds Countrywide 'Thank You Rallies' to Appreciate Support for CAB3 (AllAfrica News: Latest, 1 outlets)"
 }
