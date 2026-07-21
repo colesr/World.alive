@@ -1,169 +1,174 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-20T09:48:56.506867+00:00",
+  "generated_at": "2026-07-21T09:21:52.220707+00:00",
   "digest_words": 240,
   "clusters": [
     {
-      "headline": "South Africa: Matlala Assassination Trial Begins - South African News Briefs - July 20, 2026",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 2,
-      "summary": "[allAfrica]",
-      "links": [
-        "https://allafrica.com/stories/202607200092.html",
-        "https://allafrica.com/stories/202607200097.html"
-      ]
-    },
-    {
-      "headline": "Key takeaways from the World Cup 2026 final as Spain beat Argentina",
-      "countries": [
-        "Spain",
-        "Argentina"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "Midfield dominance, stifling Lionel Messi and gifted wingers - Spain outclassed Argentina to lift the World Cup.",
-      "links": [
-        "https://www.aljazeera.com/sports/2026/7/20/key-takeaways-from-the-world-cup-2026-final-as-spain-beat-argentina?traffic_source=rss",
-        "https://www.aljazeera.com/gallery/2026/7/20/photos-spain-beat-argentina-to-win-second-world-cup-title?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "Algeria: Algeria Seeks Larger EU Energy Role Amid Regional Tensions",
+      "headline": "Congo-Kinshasa: DR Congo's Neighbors Boost Preparedness as Ebola Cases Surge",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "[DW] Algeria and Germany agreed to deepen energy ties during President Abdelmadjid Tebboune's recent visit to Berlin. But Algiers is still grappling with tensions at home, over Western Sahara and instability in the Sahel.",
+      "summary": "[DW] Uganda, Rwanda and Zambia are strengthening border screening, disease surveillance and emergency response measures. The growing Ebola outbreak in the DRC is raising concerns about cross-border spread.",
       "links": [
-        "https://allafrica.com/stories/202607200103.html",
-        "https://www.dw.com/en/algeria-seeks-larger-eu-energy-role-amid-regional-tensions/a-78007849?maca=en-rss-en-world-4025-rdf"
+        "https://allafrica.com/stories/202607210124.html",
+        "https://www.dw.com/en/drc-s-neighbors-boost-preparedness-as-ebola-cases-surge/a-78033880?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Diplomacy and war are instruments for achieving national interest, Iran's foreign ministry spokesperson says",
+      "headline": "Meet Andy Burnham, Britain's prime minister",
       "countries": [
+        "United Kingdom"
+      ],
+      "regions": [
+        "Americas",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Andy Burnham has been sworn in as the successor to British Prime Minister Keir Starmer. The former Manchester mayor has become a leading figure in the Labour Party and one of the UK's most popular politicians.",
+      "links": [
+        "https://www.dw.com/en/meet-andy-burnham-britain-s-prime-minister/a-77664543?maca=en-rss-en-world-4025-rdf",
+        "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer"
+      ]
+    },
+    {
+      "headline": "Uganda: New Bundibugyo Ebola Virus Variant Discovered, Offering Critical Insights for Future Outbreak Response",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Nile Post] Researchers from the Interdisciplinary Consortium for Epidemic Research and Response (ICER) and collaborating institutions have identified a previously unreported variant (novel clade) of the Bundibugyo Ebola virus (BDBV) linked to the ongoing 2026 outbreak in Uganda and the Democratic R",
+      "links": [
+        "https://allafrica.com/stories/202607210070.html"
+      ]
+    },
+    {
+      "headline": "Africa: A Senegalese Factory Proves Africa Can Spin Its Own Cotton - Can It Find the Money to Keep Going?",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica] Domitexka's mill in Kaolack has the markets, the know-how and the partnerships to compete globally. What it still needs -- like nearly every manufacturer on the continent -- is patient capital.",
+      "links": [
+        "https://allafrica.com/stories/202607200484.html"
+      ]
+    },
+    {
+      "headline": "Africa: Explainer - International Migrants, Jobs and Crime in South Africa: What Do the Numbers Show?",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Africa Check] EXPLAINER: International migrants, jobs and crime in South Africa: What do the numbers show?",
+      "links": [
+        "https://allafrica.com/stories/202607200507.html"
+      ]
+    },
+    {
+      "headline": "Some Singapore retailers turn to China for ideas on live commerce and AI as competition intensifies",
+      "countries": [
+        "China",
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "After a recent study trip to Hangzhou, some retailers are restructuring teams, investing in technology and redesigning physical stores as they look for new ways to attract shoppers.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/retailers-china-live-commerce-artificial-intelligence-6267606"
+      ]
+    },
+    {
+      "headline": "Metro Singapore's history: From Hollywood-inspired name to Orchard Road heyday and final closures",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Metro is set to close its last two remaining department stores in Paragon and Causeway Point malls as part of a retail overhaul, marking a significant shift in the retail giant's history.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/metro-department-store-close-history-paragon-causeway-point-6267161"
+      ]
+    },
+    {
+      "headline": "Nigeria: Breaking - Captured 'Ansaru Leaders' Make U-Turn, Plead Guilty to 32 Terrorism Charges",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Premium Times] National Security Adviser Nuhu Ribadu announced the arrest of the defendants in August 2025.",
+      "links": [
+        "https://allafrica.com/stories/202607200508.html"
+      ]
+    },
+    {
+      "headline": "Gabon: France Welcomes Gabon's Oligui As Mineral and Military Ties Defy Wider Rift in Africa",
+      "countries": [
+        "France"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[RFI] Gabon's President Brice Clotaire Oligui Nguema begins a three-day official visit to France on Monday, underlining the close relationship between Paris and one of its few remaining key allies in Francophone Africa.",
+      "links": [
+        "https://allafrica.com/stories/202607210028.html"
+      ]
+    },
+    {
+      "headline": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "countries": [
+        "United States",
         "Iran"
       ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nDiplomacy and war are instruments for achieving national interest, Iran's foreign ministry spokesperson says \n\n    \n    \n\n        \n    \n                Iran's foreign ministry spokesperson Esmaeil Baqaei said that Iran pursues war and diplomacy based on its national interests, Reu",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/diplomacy-and-war-are-instruments-achieving-national-interest-irans"
-      ]
-    },
-    {
-      "headline": "Many in Muslim community 'disappointed and saddened' after Faishal Ibrahim\u2019s resignation: Zaqy Mohamad",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Mr Zaqy Mohamad has replaced Associate Professor Faishal Ibrahim as acting minister-in-charge of Muslim affairs.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/faishal-ibrahim-resigns-muslim-community-new-minister-zaqy-6265101"
-      ]
-    },
-    {
-      "headline": "Smaller dialysis operators warn out-of-pocket fees may rise as Middle East conflict drives up costs",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "But they assured that no one will be denied life-saving treatment because they cannot afford to pay.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/kidney-dialysis-operators-fees-costs-subsidies-middle-east-energy-supply-chain-6265111"
-      ]
-    },
-    {
-      "headline": "Test that found source of US explosive diarrhoea outbreak was false positive, health officials say",
-      "countries": [],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "The latest update from the US Food and Drug Administration means the exact source of the parasite is still not known.",
+      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Centcom claims attacks on Iranian command centres, air defence facilities, coastal surveillance",
-      "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nCentcom claims attacks on Iranian command centres, air defence facilities, coastal surveillance \n\n    \n    \n\n        \n    \n                &nbsp;The&nbsp;US Central Command said it&nbsp;completed its ninth consecutive night of strikes against Iran, claiming attacks on Iranian mili",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-claims-attacks-iranian-command-centres-air-defence-facilities"
-      ]
-    },
-    {
-      "headline": "Kenya: Kenya's Rift Valley Residents Reach Breaking Point - 'The Lake Moved Into My House'",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[RFI] With Kenya's Lake Baringo and Lake Bogoria rising for months now, following above-average rainfall across the Rift Valley over recent years, this summer has seen them - and the communities around them - reach tipping point.",
-      "links": [
-        "https://allafrica.com/stories/202607200008.html"
-      ]
-    },
-    {
-      "headline": "Crowding, inconsiderate behaviour, air-con issues among top commuter concerns: PTC survey",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The survey found that overall 87 per cent of commuters expressed satisfaction with Singapore\u2019s public transport system.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/train-bus-crowding-air-con-inconsiderate-behaviour-public-transport-6264926"
-      ]
-    },
-    {
-      "headline": "Kenya: Police Investigate Murder After Shallow Grave With Human Remains Found in Machakos",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Capital FM] Machakos -- Police have launched a murder investigation after the partially decomposed body of a man was discovered in a shallow grave near Mukengesya River in Kithyoko, Machakos County.",
-      "links": [
-        "https://allafrica.com/stories/202607200094.html"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: Zanu-PF Holds Countrywide 'Thank You Rallies' to Appreciate Support for CAB3",
+      "headline": "Madagascar: Madagascar's Wave of Disappearances Exposes 'Deeper Institutional Failings'",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[New Zimbabwe] ZANU PF at the weekend held \"CAB3 Thank You Rallies\" in all the country's 10 provinces to recognise and appreciate its supporters who rallied behind the recently assented Constitutional Amendment Bill Number 3 into law.",
+      "summary": "[RFI] A recent surge in disappearances and violent killings on the Indian Ocean island of Madagascar has fuelled fears across the country and prompted the government to deploy hundreds of security personnel. Anti-corruption campaigner Ketakandriana Rafitoson, of Transparency International Initiative",
       "links": [
-        "https://allafrica.com/stories/202607200013.html"
+        "https://allafrica.com/stories/202607200409.html"
+      ]
+    },
+    {
+      "headline": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change",
+      "countries": [
+        "India"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "They call themselves the \"cockroaches\" and they're on the march \u2014 demanding action against corruption, amid a shortage of opportunities for young people in India.",
+      "links": [
+        "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-20 (extractive mode)\n\n* South Africa: Matlala Assassination Trial Begins - South African News Briefs - July 20, 2026 (AllAfrica News: Latest, 2 outlets)\n* Key takeaways from the World Cup 2026 final as Spain beat Argentina (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Algeria: Algeria Seeks Larger EU Energy Role Amid Regional Tensions (AllAfrica News: Latest, 2 outlets)\n* Diplomacy and war are instruments for achieving national interest, Iran's foreign ministry spokesperson says (Section Feed, 1 outlets)\n* Many in Muslim community 'disappointed and saddened' after Faishal Ibrahim\u2019s resignation: Zaqy Mohamad (Latest News, 1 outlets)\n* Smaller dialysis operators warn out-of-pocket fees may rise as Middle East conflict drives up costs (Latest News, 1 outlets)\n* Test that found source of US explosive diarrhoea outbreak was false positive, health officials say (BBC News, 1 outlets)\n* Centcom claims attacks on Iranian command centres, air defence facilities, coastal surveillance (Section Feed, 1 outlets)\n* Kenya: Kenya's Rift Valley Residents Reach Breaking Point - 'The Lake Moved Into My House' (AllAfrica News: Latest, 1 outlets)\n* Crowding, inconsiderate behaviour, air-con issues among top commuter concerns: PTC survey (Latest News, 1 outlets)\n* Kenya: Police Investigate Murder After Shallow Grave With Human Remains Found in Machakos (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Zanu-PF Holds Countrywide 'Thank You Rallies' to Appreciate Support for CAB3 (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-07-21 (extractive mode)\n\n* Congo-Kinshasa: DR Congo's Neighbors Boost Preparedness as Ebola Cases Surge (AllAfrica News: Latest, 2 outlets)\n* Meet Andy Burnham, Britain's prime minister (World | Deutsche Welle, 2 outlets)\n* Uganda: New Bundibugyo Ebola Virus Variant Discovered, Offering Critical Insights for Future Outbreak Response (AllAfrica News: Latest, 1 outlets)\n* Africa: A Senegalese Factory Proves Africa Can Spin Its Own Cotton - Can It Find the Money to Keep Going? (AllAfrica News: Latest, 1 outlets)\n* Africa: Explainer - International Migrants, Jobs and Crime in South Africa: What Do the Numbers Show? (AllAfrica News: Latest, 1 outlets)\n* Some Singapore retailers turn to China for ideas on live commerce and AI as competition intensifies (Latest News, 1 outlets)\n* Metro Singapore's history: From Hollywood-inspired name to Orchard Road heyday and final closures (Latest News, 1 outlets)\n* Nigeria: Breaking - Captured 'Ansaru Leaders' Make U-Turn, Plead Guilty to 32 Terrorism Charges (AllAfrica News: Latest, 1 outlets)\n* Gabon: France Welcomes Gabon's Oligui As Mineral and Military Ties Defy Wider Rift in Africa (AllAfrica News: Latest, 1 outlets)\n* US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers (BBC News, 1 outlets)\n* Madagascar: Madagascar's Wave of Disappearances Exposes 'Deeper Institutional Failings' (AllAfrica News: Latest, 1 outlets)\n* India's Gen Z 'Cockroach People's Party' started as satire but is serious about change (NPR Topics: World, 1 outlets)"
 }
