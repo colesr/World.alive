@@ -1,64 +1,92 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-21T09:21:52.220707+00:00",
-  "digest_words": 240,
+  "generated_at": "2026-07-22T09:21:00.091677+00:00",
+  "digest_words": 245,
   "clusters": [
     {
-      "headline": "Congo-Kinshasa: DR Congo's Neighbors Boost Preparedness as Ebola Cases Surge",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "[DW] Uganda, Rwanda and Zambia are strengthening border screening, disease surveillance and emergency response measures. The growing Ebola outbreak in the DRC is raising concerns about cross-border spread.",
-      "links": [
-        "https://allafrica.com/stories/202607210124.html",
-        "https://www.dw.com/en/drc-s-neighbors-boost-preparedness-as-ebola-cases-surge/a-78033880?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Meet Andy Burnham, Britain's prime minister",
+      "headline": "South Africa: Power Utility Eskom Says Koeberg Remains Safe - South African News Briefs - July 22, 2026",
       "countries": [
-        "United Kingdom"
+        "South Africa"
       ],
       "regions": [
-        "Americas",
-        "Europe"
+        "Africa"
       ],
       "outlets": 2,
-      "summary": "Andy Burnham has been sworn in as the successor to British Prime Minister Keir Starmer. The former Manchester mayor has become a leading figure in the Labour Party and one of the UK's most popular politicians.",
+      "summary": "[allAfrica]",
       "links": [
-        "https://www.dw.com/en/meet-andy-burnham-britain-s-prime-minister/a-77664543?maca=en-rss-en-world-4025-rdf",
-        "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer"
+        "https://allafrica.com/stories/202607220141.html",
+        "https://allafrica.com/stories/202607220143.html"
       ]
     },
     {
-      "headline": "Uganda: New Bundibugyo Ebola Virus Variant Discovered, Offering Critical Insights for Future Outbreak Response",
+      "headline": "Rubio says US open to talks on Middle East conflict, but Iran not serious",
+      "countries": [
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nRubio says US open to talks on Middle East conflict, but Iran not serious\n\n    \n    \n\n        \n    \n                US State Secretary Marco Rubio said that Washington is willing to engage, negotiate and settle differences with Iran regarding the ongoing conflict in the region.&nb",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-open-talks-middle-east-conflict-iran-not-serious",
+        "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "Faishal's online replies 'objectively inappropriate and questionable'; he was given fair hearing: Shanmugam",
       "countries": [],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[Nile Post] Researchers from the Interdisciplinary Consortium for Epidemic Research and Response (ICER) and collaborating institutions have identified a previously unreported variant (novel clade) of the Bundibugyo Ebola virus (BDBV) linked to the ongoing 2026 outbreak in Uganda and the Democratic R",
+      "summary": "Minister for Home Affairs K Shanmugam&nbsp;acknowledged that \"many are wondering what happened; what were the standards of conduct that were applied; why Faishal decided to resign\".",
       "links": [
-        "https://allafrica.com/stories/202607210070.html"
+        "https://www.channelnewsasia.com/singapore/faishal-ibrahim-resignation-shanmugam-6270381"
       ]
     },
     {
-      "headline": "Africa: A Senegalese Factory Proves Africa Can Spin Its Own Cotton - Can It Find the Money to Keep Going?",
+      "headline": "Can India\u2019s national space agency keep its top scientists on board as the private spacetech sector booms?",
+      "countries": [
+        "India"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "As India\u2019s private spacetech sector takes off, competition for its most experienced scientists is raising questions about how the country can build a thriving commercial space industry without hollowing out the institution that helped make it possible.&nbsp;\n&nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/asia/can-indias-national-space-agency-keep-its-top-scientists-board-private-spacetech-sector-booms-6270366"
+      ]
+    },
+    {
+      "headline": "\u2018Hopes are dashed\u2019: Network School members express frustration after Forest City campus ordered to close",
       "countries": [],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[allAfrica] Domitexka's mill in Kaolack has the markets, the know-how and the partnerships to compete globally. What it still needs -- like nearly every manufacturer on the continent -- is patient capital.",
+      "summary": "Some members of the tech startup community told CNA they are cutting short their stay in Johor and returning home after authorities ordered the Network School to cease operations immediately.\n&nbsp;",
       "links": [
-        "https://allafrica.com/stories/202607200484.html"
+        "https://www.channelnewsasia.com/asia/network-school-johor-forest-school-closure-6270371"
       ]
     },
     {
-      "headline": "Africa: Explainer - International Migrants, Jobs and Crime in South Africa: What Do the Numbers Show?",
+      "headline": "Singapore to expand air traffic control workforce by 40%, with S$20,000 sign-on bonus for new recruits",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Licensed air traffic control officers can earn about S$120,000 a year after five years of experience.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/air-traffic-controllers-bonus-changi-airport-jobs-6270071"
+      ]
+    },
+    {
+      "headline": "Zimbabwe: Govt Says 15,000 of 108,000 Returnees From South Africa Already Registered for Employment",
       "countries": [
         "South Africa"
       ],
@@ -66,42 +94,13 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Africa Check] EXPLAINER: International migrants, jobs and crime in South Africa: What do the numbers show?",
+      "summary": "[New Zimbabwe] Government says more than 15,000 Zimbabweans who have returned from South Africa have already been registered for employment, as the number of returnees under the ongoing repatriation programme surpassed 108,000.",
       "links": [
-        "https://allafrica.com/stories/202607200507.html"
+        "https://allafrica.com/stories/202607220142.html"
       ]
     },
     {
-      "headline": "Some Singapore retailers turn to China for ideas on live commerce and AI as competition intensifies",
-      "countries": [
-        "China",
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "After a recent study trip to Hangzhou, some retailers are restructuring teams, investing in technology and redesigning physical stores as they look for new ways to attract shoppers.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/retailers-china-live-commerce-artificial-intelligence-6267606"
-      ]
-    },
-    {
-      "headline": "Metro Singapore's history: From Hollywood-inspired name to Orchard Road heyday and final closures",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Metro is set to close its last two remaining department stores in Paragon and Causeway Point malls as part of a retail overhaul, marking a significant shift in the retail giant's history.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/metro-department-store-close-history-paragon-causeway-point-6267161"
-      ]
-    },
-    {
-      "headline": "Nigeria: Breaking - Captured 'Ansaru Leaders' Make U-Turn, Plead Guilty to 32 Terrorism Charges",
+      "headline": "Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
       "countries": [
         "Nigeria"
       ],
@@ -109,66 +108,61 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Premium Times] National Security Adviser Nuhu Ribadu announced the arrest of the defendants in August 2025.",
+      "summary": "They are accused of stopping Musa Aliyu at a fake roadblock and telling him to drive to a cash machine.",
       "links": [
-        "https://allafrica.com/stories/202607200508.html"
+        "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Gabon: France Welcomes Gabon's Oligui As Mineral and Military Ties Defy Wider Rift in Africa",
+      "headline": "Fresh South China Sea tensions add urgency to ASEAN-China code of conduct talks: Analysts",
       "countries": [
-        "France"
+        "China"
       ],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[RFI] Gabon's President Brice Clotaire Oligui Nguema begins a three-day official visit to France on Monday, underlining the close relationship between Paris and one of its few remaining key allies in Francophone Africa.",
+      "summary": "The latest flashpoint has cast a shadow over this week\u2019s ASEAN Foreign Ministers' Meeting in Manila, which is also being attended by United States Secretary of State Marco Rubio and Chinese Foreign Minister Wang Yi.",
       "links": [
-        "https://allafrica.com/stories/202607210028.html"
+        "https://www.channelnewsasia.com/asia/south-china-sea-tensions-asean-china-code-conduct-philippines-6270441"
       ]
     },
     {
-      "headline": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "countries": [
-        "United States",
-        "Iran"
-      ],
+      "headline": "Changi Control Tower to undergo upgrading as part of S$4 billion air navigation overhaul",
+      "countries": [],
       "regions": [
-        "Europe"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+      "summary": "Changi Airport is also progressing towards three-runway operations by the end of the decade.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/singapore/changi-airport-control-tower-upgrading-4-billion-6270166"
       ]
     },
     {
-      "headline": "Madagascar: Madagascar's Wave of Disappearances Exposes 'Deeper Institutional Failings'",
+      "headline": "Mauritania: UN Refugee Agency Reports 144 Migrants Dead or Missing Off Mauritanian Coast",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[RFI] A recent surge in disappearances and violent killings on the Indian Ocean island of Madagascar has fuelled fears across the country and prompted the government to deploy hundreds of security personnel. Anti-corruption campaigner Ketakandriana Rafitoson, of Transparency International Initiative",
+      "summary": "[UN News] The UN's refugee agency (UNHCR) reports that 144 migrants attempting to reach Europe are dead or missing due to a series of \"tragic maritime incidents\" off the coast of Mauritania last week.",
       "links": [
-        "https://allafrica.com/stories/202607200409.html"
+        "https://allafrica.com/stories/202607220015.html"
       ]
     },
     {
-      "headline": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change",
-      "countries": [
-        "India"
-      ],
+      "headline": "Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining",
+      "countries": [],
       "regions": [
-        "Americas"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "They call themselves the \"cockroaches\" and they're on the march \u2014 demanding action against corruption, amid a shortage of opportunities for young people in India.",
+      "summary": "Bernard Antwi Boasiako, known as \"Chairman Wontumi\", was also fined more than $10,000 (\u00a37,450).",
       "links": [
-        "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests"
+        "https://www.bbc.co.uk/news/articles/cpvwnjllwvwo?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-21 (extractive mode)\n\n* Congo-Kinshasa: DR Congo's Neighbors Boost Preparedness as Ebola Cases Surge (AllAfrica News: Latest, 2 outlets)\n* Meet Andy Burnham, Britain's prime minister (World | Deutsche Welle, 2 outlets)\n* Uganda: New Bundibugyo Ebola Virus Variant Discovered, Offering Critical Insights for Future Outbreak Response (AllAfrica News: Latest, 1 outlets)\n* Africa: A Senegalese Factory Proves Africa Can Spin Its Own Cotton - Can It Find the Money to Keep Going? (AllAfrica News: Latest, 1 outlets)\n* Africa: Explainer - International Migrants, Jobs and Crime in South Africa: What Do the Numbers Show? (AllAfrica News: Latest, 1 outlets)\n* Some Singapore retailers turn to China for ideas on live commerce and AI as competition intensifies (Latest News, 1 outlets)\n* Metro Singapore's history: From Hollywood-inspired name to Orchard Road heyday and final closures (Latest News, 1 outlets)\n* Nigeria: Breaking - Captured 'Ansaru Leaders' Make U-Turn, Plead Guilty to 32 Terrorism Charges (AllAfrica News: Latest, 1 outlets)\n* Gabon: France Welcomes Gabon's Oligui As Mineral and Military Ties Defy Wider Rift in Africa (AllAfrica News: Latest, 1 outlets)\n* US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers (BBC News, 1 outlets)\n* Madagascar: Madagascar's Wave of Disappearances Exposes 'Deeper Institutional Failings' (AllAfrica News: Latest, 1 outlets)\n* India's Gen Z 'Cockroach People's Party' started as satire but is serious about change (NPR Topics: World, 1 outlets)"
+  "narrative": "State of the World - 2026-07-22 (extractive mode)\n\n* South Africa: Power Utility Eskom Says Koeberg Remains Safe - South African News Briefs - July 22, 2026 (AllAfrica News: Latest, 2 outlets)\n* Rubio says US open to talks on Middle East conflict, but Iran not serious (Section Feed, 2 outlets)\n* Faishal's online replies 'objectively inappropriate and questionable'; he was given fair hearing: Shanmugam (Latest News, 1 outlets)\n* Can India\u2019s national space agency keep its top scientists on board as the private spacetech sector booms? (Latest News, 1 outlets)\n* \u2018Hopes are dashed\u2019: Network School members express frustration after Forest City campus ordered to close (Latest News, 1 outlets)\n* Singapore to expand air traffic control workforce by 40%, with S$20,000 sign-on bonus for new recruits (Latest News, 1 outlets)\n* Zimbabwe: Govt Says 15,000 of 108,000 Returnees From South Africa Already Registered for Employment (AllAfrica News: Latest, 1 outlets)\n* Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss (BBC News, 1 outlets)\n* Fresh South China Sea tensions add urgency to ASEAN-China code of conduct talks: Analysts (Latest News, 1 outlets)\n* Changi Control Tower to undergo upgrading as part of S$4 billion air navigation overhaul (Latest News, 1 outlets)\n* Mauritania: UN Refugee Agency Reports 144 Migrants Dead or Missing Off Mauritanian Coast (AllAfrica News: Latest, 1 outlets)\n* Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining (BBC News, 1 outlets)"
 }
