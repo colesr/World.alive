@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-23T09:17:08.388710+00:00",
-  "digest_words": 244,
+  "generated_at": "2026-07-24T09:14:05.667495+00:00",
+  "digest_words": 240,
   "clusters": [
     {
-      "headline": "South Africa: Parties Split Over Ramaphosa Impeachment Process - South African News Briefs - July 23, 2026",
+      "headline": "South Africa: Gauteng Taxi Strike Averted After Talks - South African News Briefs - July 24, 2026",
       "countries": [
         "South Africa"
       ],
@@ -14,167 +14,172 @@
       "outlets": 2,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202607230185.html",
-        "https://allafrica.com/stories/202607230188.html"
+        "https://allafrica.com/stories/202607240100.html",
+        "https://allafrica.com/stories/202607240110.html"
       ]
     },
     {
-      "headline": "India\u2019s Modi promises fast-track courts for exam fraud fuelling protests",
+      "headline": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
       "countries": [
         "India"
       ],
       "regions": [
-        "Asia",
+        "Americas",
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "Cockroach Janta Party protesters are occupying streets in New Delhi, demanding Education Minister Pradhan resign.",
+      "summary": "Indian activist Sonam Wangchuk ended a 26-day hunger strike on Friday that helped galvanize a youth movement that's become one of India's largest protests in recent years, but demonstrators vowed to continue until the education minister resigns.",
       "links": [
-        "https://www.aljazeera.com/news/2026/7/23/indias-modi-promises-fast-track-courts-for-exam-fraud-fuelling-protests?traffic_source=rss",
-        "https://www.channelnewsasia.com/asia/modi-vows-punishment-exam-fraud-india-protests-6272831"
+        "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
+        "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss"
       ]
     },
     {
-      "headline": "Two Russians handed down jail terms for terrorism and spying in Angola",
-      "countries": [
-        "Russia"
-      ],
+      "headline": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
+      "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The two, a political consultant and a translator, denied allegations of fomenting protests last year.",
+      "summary": "Mamadou Djouma Bah, 17, was arrested and sentenced to prison for exam fraud earlier this month.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Trump administration signs commercial nuclear deal with Saudi Arabia",
+      "headline": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
       "countries": [
         "United States",
         "Saudi Arabia"
       ],
       "regions": [
-        "Americas",
-        "Europe"
+        "Americas"
       ],
       "outlets": 2,
-      "summary": "The agreement gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It's expected to last decades and be worth billions of dollars.",
+      "summary": "The U.S. has signed a nuclear cooperation agreement with Saudi Arabia. And, the independent autopsy results of Nolan Wells fuel more questions surrounding his cause of death.",
       "links": [
-        "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
-        "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+        "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells",
+        "https://www.npr.org/2026/07/23/nx-s1-5903125/u-s-signs-commercial-nuclear-deal-with-saudi-arabia"
       ]
     },
     {
-      "headline": "Africa: Germany's Growing Interest in Africa - A Win for Both Sides?",
+      "headline": "South Africa: South Africa Dismisses Ghanaian Petition to ICC Over Migrant Violence",
       "countries": [
-        "Germany"
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 2,
+      "summary": "[allAfrica] South Africa has dismissed as \"opportunistic\" a petition filed at the International Criminal Court by two Ghanaian nationals seeking an investigation into attacks on foreign migrants, arguing the country's legal system is capable of addressing such cases.",
+      "links": [
+        "https://allafrica.com/stories/202607240113.html",
+        "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "South Africa: Trump's Refugee Policy - Only White South Africans Welcome?",
+      "countries": [
+        "United States",
+        "South Africa"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "[DW] Germany is deepening its footprint across Africa, as Foreign Minister Johann Wadephul embarks on his third trip to the continent in 2026. His top-level talks will focus on security, skills development and investment.",
+      "summary": "[DW] Trump is spending more money on refugees, but it's mostly white South Africans who benefit. People from crisis-stricken countries are being denied entry. Experts say the credibility of US refugee aid has been damaged.",
       "links": [
-        "https://allafrica.com/stories/202607230187.html",
-        "https://www.dw.com/en/germany-s-growing-interest-in-africa-a-win-for-both-sides/a-78068049?maca=en-rss-en-world-4025-rdf"
+        "https://allafrica.com/stories/202607240108.html",
+        "https://www.dw.com/en/trump-s-refugee-policy-only-white-south-africans-welcome/a-78075039?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "IRGC claims several attacks on US army facilities in Kuwait",
+      "headline": "Ex-governor convicted of murdering a pregnant student in Kenya",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Okoth Obado was found guilty of killing Sharon Otieno with whom he had had an affair.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Nigeria: Three Suspected Terrorists Linked to Oyo School Abduction Plead Guilty to Terrorism Charges",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Premium Times] The defendants pleaded guilty to eights counts in total out of the 10 charges brought against them.",
+      "links": [
+        "https://allafrica.com/stories/202607240030.html"
+      ]
+    },
+    {
+      "headline": "Pride with a dash of prejudice: How the Spectator succumbed to the narrative of anti-Muslim bigotry",
       "countries": [],
       "regions": [
         "Middle East"
       ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIRGC claims several attacks on US army facilities in Kuwait\n\n    \n    \n\n        \n    \n                The&nbsp;Islamic Revolutionary Guard Corps (IRGC) announced attacks targeting US military infrastructure in Kuwait.&nbsp;\n\nIn a statement, the IRGC said it targeted a large wareho",
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nPride with a dash of prejudice: How the Spectator succumbed to the narrative of anti-Muslim bigotry\n\n    \n    \n\n          \n      \n      \n        Submitted by \nFaisal Hanif\n on \nThu, 07/23/2026 - 12:43\n\n        \n      \n    \n      \n    \n                Britain's oldest and most vene",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-several-attacks-us-army-facilities-kuwait",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-attacks-us-army-facilities-jordan"
+        "https://www.middleeasteye.net/opinion/pride-and-prejudice-how-spectator-succumbed-narrative-anti-muslim-bigotry"
       ]
     },
     {
-      "headline": "Fire kills 10 members of same family in Peru, police say",
-      "countries": [],
-      "regions": [
-        "Europe"
+      "headline": "Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why",
+      "countries": [
+        "South Africa"
       ],
-      "outlets": 2,
-      "summary": "Authorities are investigating the cause of the blaze in Lima as local media report\n it may have been arson.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Congo-Kinshasa: From Lithium to Nickel - How the UN Is Helping Countries Make the Most of Critical Minerals",
-      "countries": [],
       "regions": [
-        "Africa"
+        "Americas"
       ],
       "outlets": 1,
-      "summary": "[UN News] The world's shift to clean energy is driving huge demand for critical minerals such as lithium, nickel, cobalt and copper.",
+      "summary": "Why is a Zulu-language drama taking the world by storm? The Polygamist mixes sex and scandal with a sharp portrait of modern South Africa.",
       "links": [
-        "https://allafrica.com/stories/202607230059.html"
+        "https://www.npr.org/2026/07/24/nx-s1-5901949/netflix-south-african-series-the-polygamist"
       ]
     },
     {
-      "headline": "Commentary: PM Wong\u2019s Cabinet reshuffle shows his focus on building Singapore\u2019s next generation of leaders",
+      "headline": "Malaysia foreign minister says envoy summoned by US over Israel policy amid Network School saga",
       "countries": [
-        "Singapore"
+        "Israel"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The prime minister\u2019s challenge will be to battle-test the rookies before the veterans eventually step back, says former Nominated Member of Parliament Nicholas Fang.",
+      "summary": "Network School, the \"digital nomad\" community founded in Malaysia by US investor Balaji Srinivasan, came under scrutiny after social media users alleged that it included participants from Israel.&nbsp;",
       "links": [
-        "https://www.channelnewsasia.com/commentary/singapore-pm-lawrence-wong-cabinet-4g-5g-leaders-future-6272666"
+        "https://www.channelnewsasia.com/asia/malaysia-ambassador-summoned-united-states-network-school-6275281"
       ]
     },
     {
-      "headline": "Madagascar: Alarm in Madagascar Over Wave of Unresolved Child and Adolescent Disappearances and Killings",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Agenzia Fides] Antananarivo -- Alarm is growing in Madagascar over a wave of unresolved disappearances and killings that, since the beginning of the year, has particularly affected children and adolescents, especially in and around the capital, Antananarivo.",
-      "links": [
-        "https://allafrica.com/stories/202607230116.html"
-      ]
-    },
-    {
-      "headline": "Japanese firm transferred S$6 million in email impersonation scam; director of recipient company jailed",
+      "headline": "South Korean court orders SK chairman Chey to pay US$644 million to ex-wife in divorce ruling",
       "countries": [
-        "Japan"
+        "South Korea"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Rian Rahim agreed to help set up a company that would purportedly sell toys imported from China, but its bank account was later used to receive scam proceeds.",
+      "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/singapore/japanese-firm-6-million-scam-director-jail-6272886"
-      ]
-    },
-    {
-      "headline": "Xi Jinping warns of \u2018new historical injustice\u2019 in AI. What does he mean - and can it be prevented?",
-      "countries": [
-        "China"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The warning by China\u2019s president draws on a long-standing domestic narrative about the costs of falling behind in previous technological revolutions, say analysts.",
-      "links": [
-        "https://www.channelnewsasia.com/east-asia/xi-jinping-ai-historical-injustice-china-global-south-waic-6272671"
+        "https://www.channelnewsasia.com/east-asia/south-korea-sk-hynix-chairman-pay-ex-wife-divorce-ruling-6275696"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-23 (extractive mode)\n\n* South Africa: Parties Split Over Ramaphosa Impeachment Process - South African News Briefs - July 23, 2026 (AllAfrica News: Latest, 2 outlets)\n* India\u2019s Modi promises fast-track courts for exam fraud fuelling protests (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Two Russians handed down jail terms for terrorism and spying in Angola (BBC News, 2 outlets)\n* Trump administration signs commercial nuclear deal with Saudi Arabia (NPR Topics: World, 2 outlets)\n* Africa: Germany's Growing Interest in Africa - A Win for Both Sides? (AllAfrica News: Latest, 2 outlets)\n* IRGC claims several attacks on US army facilities in Kuwait (Section Feed, 2 outlets)\n* Fire kills 10 members of same family in Peru, police say (BBC News, 2 outlets)\n* Congo-Kinshasa: From Lithium to Nickel - How the UN Is Helping Countries Make the Most of Critical Minerals (AllAfrica News: Latest, 1 outlets)\n* Commentary: PM Wong\u2019s Cabinet reshuffle shows his focus on building Singapore\u2019s next generation of leaders (Latest News, 1 outlets)\n* Madagascar: Alarm in Madagascar Over Wave of Unresolved Child and Adolescent Disappearances and Killings (AllAfrica News: Latest, 1 outlets)\n* Japanese firm transferred S$6 million in email impersonation scam; director of recipient company jailed (Latest News, 1 outlets)\n* Xi Jinping warns of \u2018new historical injustice\u2019 in AI. What does he mean - and can it be prevented? (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-07-24 (extractive mode)\n\n* South Africa: Gauteng Taxi Strike Averted After Talks - South African News Briefs - July 24, 2026 (AllAfrica News: Latest, 2 outlets)\n* Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on (NPR Topics: World, 2 outlets)\n* Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says (BBC News, 2 outlets)\n* U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results (NPR Topics: World, 2 outlets)\n* South Africa: South Africa Dismisses Ghanaian Petition to ICC Over Migrant Violence (AllAfrica News: Latest, 2 outlets)\n* South Africa: Trump's Refugee Policy - Only White South Africans Welcome? (AllAfrica News: Latest, 2 outlets)\n* Ex-governor convicted of murdering a pregnant student in Kenya (BBC News, 2 outlets)\n* Nigeria: Three Suspected Terrorists Linked to Oyo School Abduction Plead Guilty to Terrorism Charges (AllAfrica News: Latest, 1 outlets)\n* Pride with a dash of prejudice: How the Spectator succumbed to the narrative of anti-Muslim bigotry (Section Feed, 1 outlets)\n* Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why (NPR Topics: World, 1 outlets)\n* Malaysia foreign minister says envoy summoned by US over Israel policy amid Network School saga (Latest News, 1 outlets)\n* South Korean court orders SK chairman Chey to pay US$644 million to ex-wife in divorce ruling (Latest News, 1 outlets)"
 }
