@@ -1,141 +1,119 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-24T09:14:05.667495+00:00",
-  "digest_words": 240,
+  "generated_at": "2026-07-25T08:53:50.072948+00:00",
+  "digest_words": 244,
   "clusters": [
     {
-      "headline": "South Africa: Gauteng Taxi Strike Averted After Talks - South African News Briefs - July 24, 2026",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 2,
-      "summary": "[allAfrica]",
-      "links": [
-        "https://allafrica.com/stories/202607240100.html",
-        "https://allafrica.com/stories/202607240110.html"
-      ]
-    },
-    {
-      "headline": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
-      "countries": [
-        "India"
-      ],
-      "regions": [
-        "Americas",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "Indian activist Sonam Wangchuk ended a 26-day hunger strike on Friday that helped galvanize a youth movement that's become one of India's largest protests in recent years, but demonstrators vowed to continue until the education minister resigns.",
-      "links": [
-        "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
-        "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Mamadou Djouma Bah, 17, was arrested and sentenced to prison for exam fraud earlier this month.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
-      "countries": [
-        "United States",
-        "Saudi Arabia"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 2,
-      "summary": "The U.S. has signed a nuclear cooperation agreement with Saudi Arabia. And, the independent autopsy results of Nolan Wells fuel more questions surrounding his cause of death.",
-      "links": [
-        "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells",
-        "https://www.npr.org/2026/07/23/nx-s1-5903125/u-s-signs-commercial-nuclear-deal-with-saudi-arabia"
-      ]
-    },
-    {
-      "headline": "South Africa: South Africa Dismisses Ghanaian Petition to ICC Over Migrant Violence",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 2,
-      "summary": "[allAfrica] South Africa has dismissed as \"opportunistic\" a petition filed at the International Criminal Court by two Ghanaian nationals seeking an investigation into attacks on foreign migrants, arguing the country's legal system is capable of addressing such cases.",
-      "links": [
-        "https://allafrica.com/stories/202607240113.html",
-        "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "South Africa: Trump's Refugee Policy - Only White South Africans Welcome?",
-      "countries": [
-        "United States",
-        "South Africa"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "[DW] Trump is spending more money on refugees, but it's mostly white South Africans who benefit. People from crisis-stricken countries are being denied entry. Experts say the credibility of US refugee aid has been damaged.",
-      "links": [
-        "https://allafrica.com/stories/202607240108.html",
-        "https://www.dw.com/en/trump-s-refugee-policy-only-white-south-africans-welcome/a-78075039?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Ex-governor convicted of murdering a pregnant student in Kenya",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Okoth Obado was found guilty of killing Sharon Otieno with whom he had had an affair.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Nigeria: Three Suspected Terrorists Linked to Oyo School Abduction Plead Guilty to Terrorism Charges",
+      "headline": "Nigeria's president approves largest military expansion in recent times",
       "countries": [
         "Nigeria"
       ],
       "regions": [
-        "Africa"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "[Premium Times] The defendants pleaded guilty to eights counts in total out of the 10 charges brought against them.",
+      "outlets": 2,
+      "summary": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
       "links": [
-        "https://allafrica.com/stories/202607240030.html"
+        "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Pride with a dash of prejudice: How the Spectator succumbed to the narrative of anti-Muslim bigotry",
+      "headline": "Funerals held for four Palestinians killed in deadly West Bank shooting",
       "countries": [],
       "regions": [
+        "Europe",
         "Middle East"
       ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nPride with a dash of prejudice: How the Spectator succumbed to the narrative of anti-Muslim bigotry\n\n    \n    \n\n          \n      \n      \n        Submitted by \nFaisal Hanif\n on \nThu, 07/23/2026 - 12:43\n\n        \n      \n    \n      \n    \n                Britain's oldest and most vene",
+      "outlets": 2,
+      "summary": "Overnight funerals were held for four Palestinians killed near Nablus.",
       "links": [
-        "https://www.middleeasteye.net/opinion/pride-and-prejudice-how-spectator-succumbed-narrative-anti-muslim-bigotry"
+        "https://www.aljazeera.com/video/newsfeed/2026/7/25/funerals-held-for-four-palestinians-killed-in-deadly-west-bank-shooting?traffic_source=rss",
+        "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "ICC member states vote to remove chief prosecutor Karim Khan",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 2,
+      "summary": "The International Criminal Court voted to remove the global tribunal's chief prosecutor on Friday, nearly two years after sexual misconduct allegations against him first emerged, the court's oversight body announced.",
+      "links": [
+        "https://www.npr.org/2026/07/24/g-s1-135498/icc-court-prosecutor-karim-khan-vote",
+        "https://www.npr.org/2026/07/24/nx-s1-5901054/icc-member-nations-vote-to-remove-chief-prosecutor"
+      ]
+    },
+    {
+      "headline": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "countries": [
+        "Saudi Arabia",
+        "Iran"
+      ],
+      "regions": [
+        "Europe",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-missile-attack-southern-saudi-arabia"
+      ]
+    },
+    {
+      "headline": "Congo-Kinshasa: Neutralizing the FDLR Remains the Key Obstacle to Peace in the East - Kinshasa Focuses On Diplomacy",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Agenzia Fides] Kinshasa -- As the national dialogue launched by President F&#xe9;lix Tshisekedi continues (see Fides, 23/7/2026), one of the central issues remains the persistent insecurity in the eastern Democratic Republic of the Congo, particularly in the provinces of North and South Kivu, where",
+      "links": [
+        "https://allafrica.com/stories/202607240528.html"
+      ]
+    },
+    {
+      "headline": "More job tasters, credits to explore hobbies: SG Youth Plan aims to reach over half a million youths in 5 years",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The national plan for youth development is a \u201cliving plan\u201d that will constantly evolve to respond to changing needs and anxieties of youths in the coming years, said Acting Minister for Culture, Community and Youth David Neo.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/youth-plan-job-tasters-curiosity-credits-david-neo-mccy-6275276"
+      ]
+    },
+    {
+      "headline": "Ethiopia: U.S.-Ethiopia Public Private Dialogue to Benefit U.S. and Ethiopian Businesses and Economic Growth",
+      "countries": [
+        "United States",
+        "Ethiopia"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[U.S. Embassy Addis Ababa] Addis Ababa -- U.S. Ambassador to Ethiopia Ervin J. Massinga co-chaired a Public-Private Dialogue (PPD) with Ethiopian Investment Commission (EIC) Commissioner Dr. Zeleke Temesgen and Chief Macroeconomic Advisor to the Prime Minister Ambassador Girma Biru at the Skylight H",
+      "links": [
+        "https://allafrica.com/stories/202607240548.html"
+      ]
+    },
+    {
+      "headline": "Indonesian authorities arrest former anti-corruption prosecutor after seizing US$19 million and gold",
+      "countries": [
+        "Indonesia"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Former anti-graft prosecutor Febrie Adriansyah has been accused of money laundering while serving as Indonesia\u2019s top anti-corruption prosecutor. He denied wrongdoing after being questioned on Friday (Jul 24), saying he was a victim of \u201ccriminalisation\u201d.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/indonesian-authorities-arrest-former-anti-corruption-prosecutor-after-seizing-us19-million-and-gold-6277786"
       ]
     },
     {
@@ -153,33 +131,45 @@
       ]
     },
     {
-      "headline": "Malaysia foreign minister says envoy summoned by US over Israel policy amid Network School saga",
+      "headline": "Liberia: How a Police Intelligence Chief Almost Compromised Biggest Drug Case With U.S.$10k Bribe",
       "countries": [
-        "Israel"
+        "United States"
       ],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "Network School, the \"digital nomad\" community founded in Malaysia by US investor Balaji Srinivasan, came under scrutiny after social media users alleged that it included participants from Israel.&nbsp;",
+      "summary": "[FrontPageAfrica] Monrovia -- This one hit close to home. Johnny Bolar Dean was in the circle of the Inspector General of Police, Gregory Coleman. His arrest and dismissal Thursday came as a shock, not just to investigators, but to Coleman himself.",
       "links": [
-        "https://www.channelnewsasia.com/asia/malaysia-ambassador-summoned-united-states-network-school-6275281"
+        "https://allafrica.com/stories/202607240300.html"
       ]
     },
     {
-      "headline": "South Korean court orders SK chairman Chey to pay US$644 million to ex-wife in divorce ruling",
+      "headline": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
       "countries": [
-        "South Korea"
+        "India"
       ],
       "regions": [
-        "Asia"
+        "Americas"
       ],
       "outlets": 1,
-      "summary": "",
+      "summary": "Indian activist Sonam Wangchuk ended a 26-day hunger strike on Friday that helped galvanize a youth movement that's become one of India's largest protests in recent years, but demonstrators vowed to continue until the education minister resigns.",
       "links": [
-        "https://www.channelnewsasia.com/east-asia/south-korea-sk-hynix-chairman-pay-ex-wife-divorce-ruling-6275696"
+        "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters"
+      ]
+    },
+    {
+      "headline": "Mozambique: Government Has Rejected Proposals Aimed At Increasing the Cost of Living - Chapo",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[AIM] Maputo -- Mozambican President Daniel Chapo claims that his government has rejected proposals from international partners that aimed at increasing the cost of living in the country.",
+      "links": [
+        "https://allafrica.com/stories/202607240197.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-24 (extractive mode)\n\n* South Africa: Gauteng Taxi Strike Averted After Talks - South African News Briefs - July 24, 2026 (AllAfrica News: Latest, 2 outlets)\n* Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on (NPR Topics: World, 2 outlets)\n* Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says (BBC News, 2 outlets)\n* U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results (NPR Topics: World, 2 outlets)\n* South Africa: South Africa Dismisses Ghanaian Petition to ICC Over Migrant Violence (AllAfrica News: Latest, 2 outlets)\n* South Africa: Trump's Refugee Policy - Only White South Africans Welcome? (AllAfrica News: Latest, 2 outlets)\n* Ex-governor convicted of murdering a pregnant student in Kenya (BBC News, 2 outlets)\n* Nigeria: Three Suspected Terrorists Linked to Oyo School Abduction Plead Guilty to Terrorism Charges (AllAfrica News: Latest, 1 outlets)\n* Pride with a dash of prejudice: How the Spectator succumbed to the narrative of anti-Muslim bigotry (Section Feed, 1 outlets)\n* Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why (NPR Topics: World, 1 outlets)\n* Malaysia foreign minister says envoy summoned by US over Israel policy amid Network School saga (Latest News, 1 outlets)\n* South Korean court orders SK chairman Chey to pay US$644 million to ex-wife in divorce ruling (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-07-25 (extractive mode)\n\n* Nigeria's president approves largest military expansion in recent times (BBC News, 2 outlets)\n* Funerals held for four Palestinians killed in deadly West Bank shooting (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* ICC member states vote to remove chief prosecutor Karim Khan (NPR Topics: World, 2 outlets)\n* Iran-backed Houthis claim missile attack on Saudi Arabia (BBC News, 2 outlets)\n* Congo-Kinshasa: Neutralizing the FDLR Remains the Key Obstacle to Peace in the East - Kinshasa Focuses On Diplomacy (AllAfrica News: Latest, 1 outlets)\n* More job tasters, credits to explore hobbies: SG Youth Plan aims to reach over half a million youths in 5 years (Latest News, 1 outlets)\n* Ethiopia: U.S.-Ethiopia Public Private Dialogue to Benefit U.S. and Ethiopian Businesses and Economic Growth (AllAfrica News: Latest, 1 outlets)\n* Indonesian authorities arrest former anti-corruption prosecutor after seizing US$19 million and gold (Latest News, 1 outlets)\n* Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why (NPR Topics: World, 1 outlets)\n* Liberia: How a Police Intelligence Chief Almost Compromised Biggest Drug Case With U.S.$10k Bribe (AllAfrica News: Latest, 1 outlets)\n* Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on (NPR Topics: World, 1 outlets)\n* Mozambique: Government Has Rejected Proposals Aimed At Increasing the Cost of Living - Chapo (AllAfrica News: Latest, 1 outlets)"
 }
