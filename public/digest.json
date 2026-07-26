@@ -1,8 +1,55 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-25T08:53:50.072948+00:00",
-  "digest_words": 244,
+  "generated_at": "2026-07-26T09:06:59.586228+00:00",
+  "digest_words": 247,
   "clusters": [
+    {
+      "headline": "South Africa: Gauteng Taxi Strike Averted After Talks - South African News Briefs - July 24, 2026",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 2,
+      "summary": "[allAfrica]",
+      "links": [
+        "https://allafrica.com/stories/202607240100.html",
+        "https://allafrica.com/stories/202607240110.html"
+      ]
+    },
+    {
+      "headline": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated",
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Asia",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "Noul hit southern Guangdong province and neighbouring Hong Kong, bringing strong winds and heavy rain to the region.",
+      "links": [
+        "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated?traffic_source=rss",
+        "https://www.channelnewsasia.com/east-asia/southern-china-drenched-typhoon-noul-makes-landfall-6278561"
+      ]
+    },
+    {
+      "headline": "Tour de France final stage shortened as emergency teams tackle wildfires",
+      "countries": [
+        "France"
+      ],
+      "regions": [
+        "Europe",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "Sunday\u2019s traditional stage in Paris has been shortened to reduce pressure on emergency services tackling wildfires.",
+      "links": [
+        "https://www.aljazeera.com/sports/2026/7/26/tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfires?traffic_source=rss",
+        "https://www.dw.com/en/tour-de-france-final-stage-shortened-due-to-wildfires/a-78114336?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
     {
       "headline": "Nigeria's president approves largest military expansion in recent times",
       "countries": [
@@ -20,17 +67,18 @@
       ]
     },
     {
-      "headline": "Funerals held for four Palestinians killed in deadly West Bank shooting",
-      "countries": [],
+      "headline": "Report: Israeli settlers set fire to Al-Rahma Mosque in West Bank",
+      "countries": [
+        "Israel"
+      ],
       "regions": [
-        "Europe",
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "Overnight funerals were held for four Palestinians killed near Nablus.",
+      "summary": "\n\n  \n      \n      \nReport: Israeli settlers set fire to Al-Rahma Mosque in West Bank\n\n    \n    \n\n        \n    \n                Israeli settlers have set fire to Al-Rahma Mosque in Qusra town in the occupied West Bank, Al Jazeera reported after verifying videos of the fire consuming the mosque.\n\nThe ",
       "links": [
-        "https://www.aljazeera.com/video/newsfeed/2026/7/25/funerals-held-for-four-palestinians-killed-in-deadly-west-bank-shooting?traffic_source=rss",
-        "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-settlers-set-fire-al-rahma-mosque-west-bank",
+        "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss"
       ]
     },
     {
@@ -47,44 +95,17 @@
       ]
     },
     {
-      "headline": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "headline": "Israeli forces conduct 'major raid' in West Bank's Rafidia, settlers set light to mosques in Tulkarem and Nablus",
       "countries": [
-        "Saudi Arabia",
-        "Iran"
+        "Israel"
       ],
       "regions": [
-        "Europe",
         "Middle East"
       ],
-      "outlets": 2,
-      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-missile-attack-southern-saudi-arabia"
-      ]
-    },
-    {
-      "headline": "Congo-Kinshasa: Neutralizing the FDLR Remains the Key Obstacle to Peace in the East - Kinshasa Focuses On Diplomacy",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
       "outlets": 1,
-      "summary": "[Agenzia Fides] Kinshasa -- As the national dialogue launched by President F&#xe9;lix Tshisekedi continues (see Fides, 23/7/2026), one of the central issues remains the persistent insecurity in the eastern Democratic Republic of the Congo, particularly in the provinces of North and South Kivu, where",
+      "summary": "\n\n  \n      \n      \nIsraeli forces conduct 'major raid' in West Bank's Rafidia, settlers set light to mosques in Tulkarem and Nablus\n\n    \n    \n\n        \n    \n                Israeli forces have launched a \"major raid\" in Rafidia near Nablus, Al Jazeera is reporting.\n\nAccording to the report, troops ",
       "links": [
-        "https://allafrica.com/stories/202607240528.html"
-      ]
-    },
-    {
-      "headline": "More job tasters, credits to explore hobbies: SG Youth Plan aims to reach over half a million youths in 5 years",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The national plan for youth development is a \u201cliving plan\u201d that will constantly evolve to respond to changing needs and anxieties of youths in the coming years, said Acting Minister for Culture, Community and Youth David Neo.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/youth-plan-job-tasters-curiosity-credits-david-neo-mccy-6275276"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-conduct-major-raid-west-banks-rafidia-settlers-set-light"
       ]
     },
     {
@@ -103,73 +124,55 @@
       ]
     },
     {
-      "headline": "Indonesian authorities arrest former anti-corruption prosecutor after seizing US$19 million and gold",
-      "countries": [
-        "Indonesia"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Former anti-graft prosecutor Febrie Adriansyah has been accused of money laundering while serving as Indonesia\u2019s top anti-corruption prosecutor. He denied wrongdoing after being questioned on Friday (Jul 24), saying he was a victim of \u201ccriminalisation\u201d.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/indonesian-authorities-arrest-former-anti-corruption-prosecutor-after-seizing-us19-million-and-gold-6277786"
-      ]
-    },
-    {
-      "headline": "Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Why is a Zulu-language drama taking the world by storm? The Polygamist mixes sex and scandal with a sharp portrait of modern South Africa.",
-      "links": [
-        "https://www.npr.org/2026/07/24/nx-s1-5901949/netflix-south-african-series-the-polygamist"
-      ]
-    },
-    {
-      "headline": "Liberia: How a Police Intelligence Chief Almost Compromised Biggest Drug Case With U.S.$10k Bribe",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[FrontPageAfrica] Monrovia -- This one hit close to home. Johnny Bolar Dean was in the circle of the Inspector General of Police, Gregory Coleman. His arrest and dismissal Thursday came as a shock, not just to investigators, but to Coleman himself.",
-      "links": [
-        "https://allafrica.com/stories/202607240300.html"
-      ]
-    },
-    {
-      "headline": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
-      "countries": [
-        "India"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Indian activist Sonam Wangchuk ended a 26-day hunger strike on Friday that helped galvanize a youth movement that's become one of India's largest protests in recent years, but demonstrators vowed to continue until the education minister resigns.",
-      "links": [
-        "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters"
-      ]
-    },
-    {
-      "headline": "Mozambique: Government Has Rejected Proposals Aimed At Increasing the Cost of Living - Chapo",
+      "headline": "Sierra Leone: How Sierra Leone's Traditional Textiles Are Weaving a Modern Fashion Economy",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[AIM] Maputo -- Mozambican President Daniel Chapo claims that his government has rejected proposals from international partners that aimed at increasing the cost of living in the country.",
+      "summary": "[Bird Story Agency] Sierra Leone's traditional textiles are being reimagined into a modern fashion economy, as designers like Frederica Williams preserve heritage while building a thriving local industry ready for global markets.",
       "links": [
-        "https://allafrica.com/stories/202607240197.html"
+        "https://allafrica.com/stories/202607240423.html"
+      ]
+    },
+    {
+      "headline": "Ryan Gosling joins Marvel Cinematic Universe as Ghost Rider, film set for release in 2028",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The actor will make his Marvel Cinematic Universe debut as Ghost Rider in a standalone film directed by Shawn Levy, as Marvel Studios also unveiled new details about Black Panther 3 and Avengers at Comic-Con.",
+      "links": [
+        "https://www.channelnewsasia.com/entertainment/ryan-gosling-ghost-rider-marvel-2028-6278626"
+      ]
+    },
+    {
+      "headline": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "Mamadou Djouma Bah, 17, was arrested and sentenced to prison for exam fraud earlier this month.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-25 (extractive mode)\n\n* Nigeria's president approves largest military expansion in recent times (BBC News, 2 outlets)\n* Funerals held for four Palestinians killed in deadly West Bank shooting (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* ICC member states vote to remove chief prosecutor Karim Khan (NPR Topics: World, 2 outlets)\n* Iran-backed Houthis claim missile attack on Saudi Arabia (BBC News, 2 outlets)\n* Congo-Kinshasa: Neutralizing the FDLR Remains the Key Obstacle to Peace in the East - Kinshasa Focuses On Diplomacy (AllAfrica News: Latest, 1 outlets)\n* More job tasters, credits to explore hobbies: SG Youth Plan aims to reach over half a million youths in 5 years (Latest News, 1 outlets)\n* Ethiopia: U.S.-Ethiopia Public Private Dialogue to Benefit U.S. and Ethiopian Businesses and Economic Growth (AllAfrica News: Latest, 1 outlets)\n* Indonesian authorities arrest former anti-corruption prosecutor after seizing US$19 million and gold (Latest News, 1 outlets)\n* Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why (NPR Topics: World, 1 outlets)\n* Liberia: How a Police Intelligence Chief Almost Compromised Biggest Drug Case With U.S.$10k Bribe (AllAfrica News: Latest, 1 outlets)\n* Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on (NPR Topics: World, 1 outlets)\n* Mozambique: Government Has Rejected Proposals Aimed At Increasing the Cost of Living - Chapo (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-07-26 (extractive mode)\n\n* South Africa: Gauteng Taxi Strike Averted After Talks - South African News Briefs - July 24, 2026 (AllAfrica News: Latest, 2 outlets)\n* Typhoon Noul makes landfall in China, with hundreds of thousands evacuated (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Tour de France final stage shortened as emergency teams tackle wildfires (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Nigeria's president approves largest military expansion in recent times (BBC News, 2 outlets)\n* Report: Israeli settlers set fire to Al-Rahma Mosque in West Bank (Section Feed, 2 outlets)\n* ICC member states vote to remove chief prosecutor Karim Khan (NPR Topics: World, 2 outlets)\n* Israeli forces conduct 'major raid' in West Bank's Rafidia, settlers set light to mosques in Tulkarem and Nablus (Section Feed, 1 outlets)\n* Ethiopia: U.S.-Ethiopia Public Private Dialogue to Benefit U.S. and Ethiopian Businesses and Economic Growth (AllAfrica News: Latest, 1 outlets)\n* Sierra Leone: How Sierra Leone's Traditional Textiles Are Weaving a Modern Fashion Economy (AllAfrica News: Latest, 1 outlets)\n* Ryan Gosling joins Marvel Cinematic Universe as Ghost Rider, film set for release in 2028 (Latest News, 1 outlets)\n* South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate' (BBC News, 1 outlets)\n* Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says (BBC News, 1 outlets)"
 }
