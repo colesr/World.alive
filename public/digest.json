@@ -1,99 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-27T10:31:11.903964+00:00",
-  "digest_words": 249,
+  "generated_at": "2026-07-28T09:29:57.382407+00:00",
+  "digest_words": 241,
   "clusters": [
     {
-      "headline": "What we know so far about the Berlin Pride ramming attack",
-      "countries": [
-        "Germany"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-        "https://www.dw.com/en/berlin-pride-attack-what-we-know-so-far/a-78122611?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "'Can\u2019t turn every school into a garrison': SM Shanmugam on balancing security, free movement after school attack plots",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The coordinating minister for national security also said that the government is studying the best way to protect youths on social media amid the recent detentions under the Internal Security Act.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/school-attack-terror-plots-teens-detained-isa-shanmugam-6280281"
-      ]
-    },
-    {
-      "headline": "South Sudan: South Sudan's First Elections Won't Be Perfect - but Another Delay Could Be Even Riskier",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] South Sudan is expected to hold an election on 22 December 2026, the first in the country's history. It's already been postponed twice, in 2022 and 2024.",
-      "links": [
-        "https://allafrica.com/stories/202607270019.html"
-      ]
-    },
-    {
-      "headline": "Nigeria: Nigeria's Federal Police Force Has Failed, but What Does History Say About Local Forces?",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] The Nigerian Senate passed a bill on 24 June 2026 establishing state police in the 36 states of the country. The passage of the executive bill, sent to the National Assembly by President Bola Tinubu, officially opens the way to dismantle the decades-old structure of the Nig",
-      "links": [
-        "https://allafrica.com/stories/202607270018.html"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: 'L Have Never Accepted a Cent From Zanu-PF'- - Says Chamisa, Denies Bribery Allegations",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] FORMER Citizens Coalition for Change (CCC) leader Nelson Chamisa has dismissed claims that he received money from Zanu PF to silence him on the controversial Constitutional Amendment Bill (CAB3), which was recently signed into law.",
-      "links": [
-        "https://allafrica.com/stories/202607270026.html"
-      ]
-    },
-    {
-      "headline": "Burundi: 'A Doctor Told Me to Buy My Coffin' - How Eric Turned an HIV Diagnosis Into Activism",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica] When Eric was diagnosed with HIV at 26, a doctor told him to plan for his funeral and give up on the idea of children.",
-      "links": [
-        "https://allafrica.com/stories/202607260070.html"
-      ]
-    },
-    {
-      "headline": "Tunisia: Ghannouchi\u2019s daughter says family denied information after his collapse in prison",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nTunisia: Ghannouchi\u2019s daughter says family denied information after his collapse in prison\n\n    \n    \n\n        \n    \n                The daughter of jailed Tunisian Ennahda leader Rached Ghannouchi said his family had been denied all contact with him and information about his cond",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/tunisia-ghannouchis-daughter-says-family-denied-information-after-his"
-      ]
-    },
-    {
-      "headline": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+      "headline": "South Africa: Study Finds HIV-Specific Immune Activity in Central Nervous System Despite Viral Suppression in Blood",
       "countries": [
         "South Africa"
       ],
@@ -101,9 +12,111 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
+      "summary": "[allAfrica] Rio de Janeiro, Brazil -- For sixteen years, a group of South African adolescents has been part of one of the world's longest-running HIV studies.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202607280028.html"
+      ]
+    },
+    {
+      "headline": "Johor and Melaka could get up to 40% less rainfall during Northeast Monsoon due to El Nino: MetMalaysia",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The Northeast Monsoon season in Malaysia typically begins in late October or early November and ends in late March.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/malaysia-johor-melaka-lower-rainfall-el-nino-extreme-weather-monsoon-6282491"
+      ]
+    },
+    {
+      "headline": "Beyond flying taxis: China\u2019s low-altitude economy targets practical uses, including emergency response",
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Despite the technological advances, industry players say regulation remains one of the biggest obstacles to wider adoption.",
+      "links": [
+        "https://www.channelnewsasia.com/east-asia/china-low-altitude-economy-aviation-aircraft-drone-6280266"
+      ]
+    },
+    {
+      "headline": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Africa: 'Science is Not the Problem' - UNAIDS Says Political Choices Now Threaten HIV Response",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica] Rio de Janeiro, Brazil -- The global HIV response stands at a defining moment, with health leaders warning that decades of progress are at risk as international funding declines and prevention programmes are scaled back across some of the world's hardest-hit countries.",
+      "links": [
+        "https://allafrica.com/stories/202607280027.html"
+      ]
+    },
+    {
+      "headline": "McEvoy sees 'red-hot runway' to Brisbane Olympics for Australia after Commonwealth domination",
+      "countries": [
+        "Australia"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/sport/mcevoy-sees-red-hot-runway-brisbane-olympics-australia-after-commonwealth-domination-6282581"
+      ]
+    },
+    {
+      "headline": "West Africa: Fragmented Security Allows Terrorists' Cross-Mobility Across Lake Chad and Sahel",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[ISS] As Islamic State affiliates extend their reach, states must find ways to share intelligence and cooperate, despite political fractures.",
+      "links": [
+        "https://allafrica.com/stories/202607280062.html"
+      ]
+    },
+    {
+      "headline": "Magnitude 7.1 earthquake hits Japan's Kyushu region; injuries, collapsed buildings reported",
+      "countries": [
+        "Japan"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Japanese Prime Minister Sanae Takaichi said that several injuries, collapsed buildings and fires had been reported after the earthquake.",
+      "links": [
+        "https://www.channelnewsasia.com/east-asia/japan-kyushu-earthquake-71-tsunami-6282661"
+      ]
+    },
+    {
+      "headline": "Sudan: SAF Claims Gains On Omdurman-El Obeid Road As Fighting Continues in North Kordofan",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Dabanga] El Obeid / Omdurman / Umm Garfa / Bara / Jabra El -- The Sudanese Armed Forces (SAF) say they have tightened their grip on the strategic Omdurman-El Obeid Export Road after capturing the area of Umm Garfa, but local sources have disputed reports that the route has reopened, saying fighting",
+      "links": [
+        "https://allafrica.com/stories/202607280064.html"
       ]
     },
     {
@@ -119,45 +132,31 @@
       ]
     },
     {
-      "headline": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+      "headline": "Dancing with Shakira at World Cup was 'very, very, very, very, very good' - Ghetto Kids",
       "countries": [],
       "regions": [
-        "Europe"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "Several others, including a two-year-old boy, were also injured. Seattle Mayor Katie Wilson says a suspect is in custody.",
+      "summary": "The child stars tell the BBC of their excitement entertaining their biggest crowd yet at the World Cup final.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cly5j2gq587o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "headline": "Palestinians in the West Bank face increasing Israeli military raids, settler violence",
       "countries": [
         "Israel"
       ],
       "regions": [
-        "Europe"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+      "summary": "\n\n  \n      \n      \nPalestinians in the West Bank face increasing Israeli military raids, settler violence\n\n    \n    \n\n        \n    \n                Palestinians in the occupied West Bank say that the ongoing Israeli settler violence and military raids are bringing them to a breaking point.\n\nFollowin",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
-      "countries": [
-        "India"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The education minister's resignation, a rare setback for the Modi government, brings hope to many young protesters that their voices will be heard.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-west-bank-face-increasing-israeli-military-raids-settler"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-27 (extractive mode)\n\n* What we know so far about the Berlin Pride ramming attack (BBC News, 2 outlets)\n* 'Can\u2019t turn every school into a garrison': SM Shanmugam on balancing security, free movement after school attack plots (Latest News, 1 outlets)\n* South Sudan: South Sudan's First Elections Won't Be Perfect - but Another Delay Could Be Even Riskier (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Nigeria's Federal Police Force Has Failed, but What Does History Say About Local Forces? (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: 'L Have Never Accepted a Cent From Zanu-PF'- - Says Chamisa, Denies Bribery Allegations (AllAfrica News: Latest, 1 outlets)\n* Burundi: 'A Doctor Told Me to Buy My Coffin' - How Eric Turned an HIV Diagnosis Into Activism (AllAfrica News: Latest, 1 outlets)\n* Tunisia: Ghannouchi\u2019s daughter says family denied information after his collapse in prison (Section Feed, 1 outlets)\n* South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate' (BBC News, 1 outlets)\n* Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says (BBC News, 1 outlets)\n* Three dead and several injured in shooting at food festival near Seattle's Space Needle (BBC News, 1 outlets)\n* Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say (BBC News, 1 outlets)\n* 'This is just the start': India's Gen Z protesters force out a minister, but what next? (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-07-28 (extractive mode)\n\n* South Africa: Study Finds HIV-Specific Immune Activity in Central Nervous System Despite Viral Suppression in Blood (AllAfrica News: Latest, 1 outlets)\n* Johor and Melaka could get up to 40% less rainfall during Northeast Monsoon due to El Nino: MetMalaysia (Latest News, 1 outlets)\n* Beyond flying taxis: China\u2019s low-altitude economy targets practical uses, including emergency response (Latest News, 1 outlets)\n* The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback (BBC News, 1 outlets)\n* Africa: 'Science is Not the Problem' - UNAIDS Says Political Choices Now Threaten HIV Response (AllAfrica News: Latest, 1 outlets)\n* McEvoy sees 'red-hot runway' to Brisbane Olympics for Australia after Commonwealth domination (Latest News, 1 outlets)\n* West Africa: Fragmented Security Allows Terrorists' Cross-Mobility Across Lake Chad and Sahel (AllAfrica News: Latest, 1 outlets)\n* Magnitude 7.1 earthquake hits Japan's Kyushu region; injuries, collapsed buildings reported (Latest News, 1 outlets)\n* Sudan: SAF Claims Gains On Omdurman-El Obeid Road As Fighting Continues in North Kordofan (AllAfrica News: Latest, 1 outlets)\n* Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says (BBC News, 1 outlets)\n* Dancing with Shakira at World Cup was 'very, very, very, very, very good' - Ghetto Kids (BBC News, 1 outlets)\n* Palestinians in the West Bank face increasing Israeli military raids, settler violence (Section Feed, 1 outlets)"
 }
