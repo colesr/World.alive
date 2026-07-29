@@ -1,162 +1,173 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-28T09:29:57.382407+00:00",
-  "digest_words": 241,
+  "generated_at": "2026-07-29T09:31:41.580712+00:00",
+  "digest_words": 245,
   "clusters": [
     {
-      "headline": "South Africa: Study Finds HIV-Specific Immune Activity in Central Nervous System Despite Viral Suppression in Blood",
+      "headline": "GCC condemns attacks on Saudi Arabia by Iran-aligned Iraqi groups",
       "countries": [
-        "South Africa"
+        "Saudi Arabia",
+        "Iran"
       ],
       "regions": [
-        "Africa"
+        "Middle East"
       ],
-      "outlets": 1,
-      "summary": "[allAfrica] Rio de Janeiro, Brazil -- For sixteen years, a group of South African adolescents has been part of one of the world's longest-running HIV studies.",
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nGCC condemns attacks on Saudi Arabia by Iran-aligned Iraqi groups\n\n    \n    \n\n        \n    \n                Gulf Cooperation Council (GCC) Secretary-General Jasem Mohamed AlBudaiwi has condemned the \u201ccontinued terrorist attacks\u201d against Saudi Arabia by Iran-aligned armed groups in",
       "links": [
-        "https://allafrica.com/stories/202607280028.html"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/gcc-condemns-attacks-saudi-arabia-iran-aligned-iraqi-groups",
+        "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss"
       ]
     },
     {
-      "headline": "Johor and Melaka could get up to 40% less rainfall during Northeast Monsoon due to El Nino: MetMalaysia",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The Northeast Monsoon season in Malaysia typically begins in late October or early November and ends in late March.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/malaysia-johor-melaka-lower-rainfall-el-nino-extreme-weather-monsoon-6282491"
-      ]
-    },
-    {
-      "headline": "Beyond flying taxis: China\u2019s low-altitude economy targets practical uses, including emergency response",
+      "headline": "How Mexican drug cartels have outsourced meth labs to Nigeria",
       "countries": [
-        "China"
+        "Mexico",
+        "Nigeria"
       ],
       "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Despite the technological advances, industry players say regulation remains one of the biggest obstacles to wider adoption.",
-      "links": [
-        "https://www.channelnewsasia.com/east-asia/china-low-altitude-economy-aviation-aircraft-drone-6280266"
-      ]
-    },
-    {
-      "headline": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
-      "countries": [],
-      "regions": [
+        "Africa",
         "Europe"
       ],
-      "outlets": 1,
-      "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+      "outlets": 2,
+      "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Africa: 'Science is Not the Problem' - UNAIDS Says Political Choices Now Threaten HIV Response",
+      "headline": "Ghana mourns its tallest man - a 'generous and popular giant'",
       "countries": [],
       "regions": [
-        "Africa"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "[allAfrica] Rio de Janeiro, Brazil -- The global HIV response stands at a defining moment, with health leaders warning that decades of progress are at risk as international funding declines and prevention programmes are scaled back across some of the world's hardest-hit countries.",
+      "outlets": 2,
+      "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
       "links": [
-        "https://allafrica.com/stories/202607280027.html"
+        "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "McEvoy sees 'red-hot runway' to Brisbane Olympics for Australia after Commonwealth domination",
+      "headline": "Kenya: Nairobi's Largest Informal Settlement Is Getting an Upgrade. but Who Will Actually Benefit From New Apartments?",
       "countries": [
-        "Australia"
+        "Kenya"
       ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/sport/mcevoy-sees-red-hot-runway-brisbane-olympics-australia-after-commonwealth-domination-6282581"
-      ]
-    },
-    {
-      "headline": "West Africa: Fragmented Security Allows Terrorists' Cross-Mobility Across Lake Chad and Sahel",
-      "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[ISS] As Islamic State affiliates extend their reach, states must find ways to share intelligence and cooperate, despite political fractures.",
+      "summary": "[The Conversation Africa] Bulldozers and construction crews are reshaping parts of Nairobi's best-known informal settlement, Kibera. In a video shared by President William Ruto, new apartment blocks rise alongside existing corrugated-iron structures, while new roads cut through the settlement. The m",
       "links": [
-        "https://allafrica.com/stories/202607280062.html"
+        "https://allafrica.com/stories/202607290009.html"
       ]
     },
     {
-      "headline": "Magnitude 7.1 earthquake hits Japan's Kyushu region; injuries, collapsed buildings reported",
+      "headline": "Senior Iranian official says Tehran ruled out Oman's proposal for regional joint management of Hormuz Strait",
       "countries": [
-        "Japan"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Japanese Prime Minister Sanae Takaichi said that several injuries, collapsed buildings and fires had been reported after the earthquake.",
-      "links": [
-        "https://www.channelnewsasia.com/east-asia/japan-kyushu-earthquake-71-tsunami-6282661"
-      ]
-    },
-    {
-      "headline": "Sudan: SAF Claims Gains On Omdurman-El Obeid Road As Fighting Continues in North Kordofan",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Dabanga] El Obeid / Omdurman / Umm Garfa / Bara / Jabra El -- The Sudanese Armed Forces (SAF) say they have tightened their grip on the strategic Omdurman-El Obeid Export Road after capturing the area of Umm Garfa, but local sources have disputed reports that the route has reopened, saying fighting",
-      "links": [
-        "https://allafrica.com/stories/202607280064.html"
-      ]
-    },
-    {
-      "headline": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "Mamadou Djouma Bah, 17, was arrested and sentenced to prison for exam fraud earlier this month.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Dancing with Shakira at World Cup was 'very, very, very, very, very good' - Ghetto Kids",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "The child stars tell the BBC of their excitement entertaining their biggest crowd yet at the World Cup final.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cly5j2gq587o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Palestinians in the West Bank face increasing Israeli military raids, settler violence",
-      "countries": [
-        "Israel"
+        "Iran"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nPalestinians in the West Bank face increasing Israeli military raids, settler violence\n\n    \n    \n\n        \n    \n                Palestinians in the occupied West Bank say that the ongoing Israeli settler violence and military raids are bringing them to a breaking point.\n\nFollowin",
+      "summary": "\n\n  \n      \n      \nSenior Iranian official says Tehran ruled out Oman's proposal for regional joint management of Hormuz Strait \n\n    \n    \n\n        \n    \n                Tehran has ruled out Oman's proposal for regional joint management of the Strait of Hormuz, a senior Iranian official told Reuter",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-west-bank-face-increasing-israeli-military-raids-settler"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/senior-iranian-official-says-tehran-ruled-out-omans-proposal-regional"
+      ]
+    },
+    {
+      "headline": "Dan's Steaks by former radio DJ Daniel Ong to shut down: 'Running a small business is incredibly tough'",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Daniel Ong, who used to operate the now-defunct&nbsp;Twelve Cupcakes, announced on Tuesday (Jul 28) that he will be shutting down his last remaining&nbsp;Dan's Steaks outlet, citing rising costs.",
+      "links": [
+        "https://www.channelnewsasia.com/dining/dans-steaks-daniel-ong-shut-down-6285316"
+      ]
+    },
+    {
+      "headline": "Cash grants, enhanced loan scheme part of new S$900m package to help firms manage cashflow pressures",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Small- and medium-size enterprises with local employees can receive a grant of up to S$2,500.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/sme-cash-grant-loan-cashflow-companies-6285366"
+      ]
+    },
+    {
+      "headline": "Uganda: U=U Gave Me My Future Back - Ugandan Activist William Matovu on Replacing HIV Fear With Hope",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica] Rio de Janeiro, Brazil -- As a child growing up in Uganda, William Matovu believed HIV had already written the story of his life.",
+      "links": [
+        "https://allafrica.com/stories/202607290005.html"
+      ]
+    },
+    {
+      "headline": "Additional S$300 CDC vouchers, U-Save rebates for Singaporean households amid Middle East crisis",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The government will also raise the monthly payouts for lower-income families receiving urgent and temporary financial relief under ComCare.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/cdc-voucher-300-usave-rebate-support-package-6285241"
+      ]
+    },
+    {
+      "headline": "Kenya: Kenya Trapped in Borrowing Cycle As Debt Hits Billions of Dollars - Controller of Budget",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Capital FM] Nairobi -- Kenya's public debt has climbed to Sh12.82 trillion, with loan repayments now consuming 71 per cent of all government revenue, leaving just 29 per cent to fund salaries, public services and development projects, Controller of Budget Margaret Nyakang'o has told Parliament.",
+      "links": [
+        "https://allafrica.com/stories/202607290030.html"
+      ]
+    },
+    {
+      "headline": "Cote d'Ivoire: Over 400 Liberians Left Homeless After Demolition of Communities Outside Abidjan",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[FrontPageAfrica] Abidjan -- More than 400 Liberian nationals have been left homeless and stranded after a large-scale demolition exercise carried out by Ivorian authorities destroyed hundreds of homes in the Vridi Canal community on the outskirts of Abidjan, according to leaders of the Liberian dia",
+      "links": [
+        "https://allafrica.com/stories/202607280180.html"
+      ]
+    },
+    {
+      "headline": "'I thought I would die': Survivors describe the shock and horror of powerful Japan earthquake",
+      "countries": [
+        "Japan"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Rescue operations are ongoing following the 6.8-magnitude quake, as survivors wrestle with the shock.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-28 (extractive mode)\n\n* South Africa: Study Finds HIV-Specific Immune Activity in Central Nervous System Despite Viral Suppression in Blood (AllAfrica News: Latest, 1 outlets)\n* Johor and Melaka could get up to 40% less rainfall during Northeast Monsoon due to El Nino: MetMalaysia (Latest News, 1 outlets)\n* Beyond flying taxis: China\u2019s low-altitude economy targets practical uses, including emergency response (Latest News, 1 outlets)\n* The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback (BBC News, 1 outlets)\n* Africa: 'Science is Not the Problem' - UNAIDS Says Political Choices Now Threaten HIV Response (AllAfrica News: Latest, 1 outlets)\n* McEvoy sees 'red-hot runway' to Brisbane Olympics for Australia after Commonwealth domination (Latest News, 1 outlets)\n* West Africa: Fragmented Security Allows Terrorists' Cross-Mobility Across Lake Chad and Sahel (AllAfrica News: Latest, 1 outlets)\n* Magnitude 7.1 earthquake hits Japan's Kyushu region; injuries, collapsed buildings reported (Latest News, 1 outlets)\n* Sudan: SAF Claims Gains On Omdurman-El Obeid Road As Fighting Continues in North Kordofan (AllAfrica News: Latest, 1 outlets)\n* Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says (BBC News, 1 outlets)\n* Dancing with Shakira at World Cup was 'very, very, very, very, very good' - Ghetto Kids (BBC News, 1 outlets)\n* Palestinians in the West Bank face increasing Israeli military raids, settler violence (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-07-29 (extractive mode)\n\n* GCC condemns attacks on Saudi Arabia by Iran-aligned Iraqi groups (Section Feed, 2 outlets)\n* How Mexican drug cartels have outsourced meth labs to Nigeria (BBC News, 2 outlets)\n* Ghana mourns its tallest man - a 'generous and popular giant' (BBC News, 2 outlets)\n* Kenya: Nairobi's Largest Informal Settlement Is Getting an Upgrade. but Who Will Actually Benefit From New Apartments? (AllAfrica News: Latest, 1 outlets)\n* Senior Iranian official says Tehran ruled out Oman's proposal for regional joint management of Hormuz Strait (Section Feed, 1 outlets)\n* Dan's Steaks by former radio DJ Daniel Ong to shut down: 'Running a small business is incredibly tough' (Latest News, 1 outlets)\n* Cash grants, enhanced loan scheme part of new S$900m package to help firms manage cashflow pressures (Latest News, 1 outlets)\n* Uganda: U=U Gave Me My Future Back - Ugandan Activist William Matovu on Replacing HIV Fear With Hope (AllAfrica News: Latest, 1 outlets)\n* Additional S$300 CDC vouchers, U-Save rebates for Singaporean households amid Middle East crisis (Latest News, 1 outlets)\n* Kenya: Kenya Trapped in Borrowing Cycle As Debt Hits Billions of Dollars - Controller of Budget (AllAfrica News: Latest, 1 outlets)\n* Cote d'Ivoire: Over 400 Liberians Left Homeless After Demolition of Communities Outside Abidjan (AllAfrica News: Latest, 1 outlets)\n* 'I thought I would die': Survivors describe the shock and horror of powerful Japan earthquake (BBC News, 1 outlets)"
 }
