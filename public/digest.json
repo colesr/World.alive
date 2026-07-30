@@ -1,121 +1,38 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-29T09:31:41.580712+00:00",
-  "digest_words": 245,
+  "generated_at": "2026-07-30T09:24:32.690244+00:00",
+  "digest_words": 248,
   "clusters": [
     {
-      "headline": "GCC condemns attacks on Saudi Arabia by Iran-aligned Iraqi groups",
-      "countries": [
-        "Saudi Arabia",
-        "Iran"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nGCC condemns attacks on Saudi Arabia by Iran-aligned Iraqi groups\n\n    \n    \n\n        \n    \n                Gulf Cooperation Council (GCC) Secretary-General Jasem Mohamed AlBudaiwi has condemned the \u201ccontinued terrorist attacks\u201d against Saudi Arabia by Iran-aligned armed groups in",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/gcc-condemns-attacks-saudi-arabia-iran-aligned-iraqi-groups",
-        "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-      "countries": [
-        "Mexico",
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Ghana mourns its tallest man - a 'generous and popular giant'",
+      "headline": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
+      "summary": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Kenya: Nairobi's Largest Informal Settlement Is Getting an Upgrade. but Who Will Actually Benefit From New Apartments?",
+      "headline": "China's top leaders set to hold October meeting on internal governance, pledge measures to support economy",
       "countries": [
-        "Kenya"
+        "China"
       ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] Bulldozers and construction crews are reshaping parts of Nairobi's best-known informal settlement, Kibera. In a video shared by President William Ruto, new apartment blocks rise alongside existing corrugated-iron structures, while new roads cut through the settlement. The m",
-      "links": [
-        "https://allafrica.com/stories/202607290009.html"
-      ]
-    },
-    {
-      "headline": "Senior Iranian official says Tehran ruled out Oman's proposal for regional joint management of Hormuz Strait",
-      "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nSenior Iranian official says Tehran ruled out Oman's proposal for regional joint management of Hormuz Strait \n\n    \n    \n\n        \n    \n                Tehran has ruled out Oman's proposal for regional joint management of the Strait of Hormuz, a senior Iranian official told Reuter",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/senior-iranian-official-says-tehran-ruled-out-omans-proposal-regional"
-      ]
-    },
-    {
-      "headline": "Dan's Steaks by former radio DJ Daniel Ong to shut down: 'Running a small business is incredibly tough'",
-      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Daniel Ong, who used to operate the now-defunct&nbsp;Twelve Cupcakes, announced on Tuesday (Jul 28) that he will be shutting down his last remaining&nbsp;Dan's Steaks outlet, citing rising costs.",
+      "summary": "The top decision-making body of the ruling Communist party, the Politburo, acknowledged \"difficulties and challenges facing the economy\" at its meeting.",
       "links": [
-        "https://www.channelnewsasia.com/dining/dans-steaks-daniel-ong-shut-down-6285316"
+        "https://www.channelnewsasia.com/east-asia/china-october-plenum-internal-governance-economy-measures-6288006"
       ]
     },
     {
-      "headline": "Cash grants, enhanced loan scheme part of new S$900m package to help firms manage cashflow pressures",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Small- and medium-size enterprises with local employees can receive a grant of up to S$2,500.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/sme-cash-grant-loan-cashflow-companies-6285366"
-      ]
-    },
-    {
-      "headline": "Uganda: U=U Gave Me My Future Back - Ugandan Activist William Matovu on Replacing HIV Fear With Hope",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica] Rio de Janeiro, Brazil -- As a child growing up in Uganda, William Matovu believed HIV had already written the story of his life.",
-      "links": [
-        "https://allafrica.com/stories/202607290005.html"
-      ]
-    },
-    {
-      "headline": "Additional S$300 CDC vouchers, U-Save rebates for Singaporean households amid Middle East crisis",
+      "headline": "Singapore must strengthen talent pipeline of business events industry to stay competitive: Gan Siow Huang",
       "countries": [
         "Singapore"
       ],
@@ -123,51 +40,127 @@
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The government will also raise the monthly payouts for lower-income families receiving urgent and temporary financial relief under ComCare.",
+      "summary": "At the same event, former Speaker of Parliament Tan Chuan-Jin gave practical advice on how leaders in the business events industry can inspire the people they lead.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/cdc-voucher-300-usave-rebate-support-package-6285241"
+        "https://www.channelnewsasia.com/singapore/tourism-conferences-exhibitions-talent-6287786"
       ]
     },
     {
-      "headline": "Kenya: Kenya Trapped in Borrowing Cycle As Debt Hits Billions of Dollars - Controller of Budget",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- Kenya's public debt has climbed to Sh12.82 trillion, with loan repayments now consuming 71 per cent of all government revenue, leaving just 29 per cent to fund salaries, public services and development projects, Controller of Budget Margaret Nyakang'o has told Parliament.",
-      "links": [
-        "https://allafrica.com/stories/202607290030.html"
-      ]
-    },
-    {
-      "headline": "Cote d'Ivoire: Over 400 Liberians Left Homeless After Demolition of Communities Outside Abidjan",
+      "headline": "Malawi: Inside Malawi's Public Sector Shake-Up - Minister Demands Results As Agencies Sign Reform Deals",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[FrontPageAfrica] Abidjan -- More than 400 Liberian nationals have been left homeless and stranded after a large-scale demolition exercise carried out by Ivorian authorities destroyed hundreds of homes in the Vridi Canal community on the outskirts of Abidjan, according to leaders of the Liberian dia",
+      "summary": "[Nyasa Times] Malawi's Minister of Justice and Constitutional Affairs has put his foot down, demanding that heads of the country's key legal and governance bodies sign up to sweeping public sector reforms -- or explain why not.",
       "links": [
-        "https://allafrica.com/stories/202607280180.html"
+        "https://allafrica.com/stories/202607300036.html"
       ]
     },
     {
-      "headline": "'I thought I would die': Survivors describe the shock and horror of powerful Japan earthquake",
+      "headline": "Singapore expert panel recommends targeting harmful social media features instead of imposing age bans",
       "countries": [
-        "Japan"
+        "Singapore"
       ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The government-appointed panel also called for a precautionary approach to regulating social media, stronger age checks, and greater support for parents and young users.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/moh-social-media-use-youth-6287801"
+      ]
+    },
+    {
+      "headline": "Ghana: How Do Teens Living With Disabilities in Ghana View Their Future? We Asked Them to Show Us",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[The Conversation Africa] About 8% of Ghana's population is disabled. A high percentage are adolescents, which could be linked to the country's dominant population of young people (15 to 35 years).",
+      "links": [
+        "https://allafrica.com/stories/202607300026.html"
+      ]
+    },
+    {
+      "headline": "Nigeria: Investigation - Gas Flares, Poisoned Lives, Regulatory Failures in Nigeria's Oil Fields",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Premium Times] From disappearing fish in Akwa Ibom to polluted rainwater in Bayelsa, communities living beside Nigeria's oil facilities are confronting the human consequences of methane, a potent but largely invisible greenhouse gas.",
+      "links": [
+        "https://allafrica.com/stories/202607300037.html"
+      ]
+    },
+    {
+      "headline": "Zimbabwe: Police Ramp Up Security Ahead of Planned July 31 Shutdown Over Constitutional Changes",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Zimbabwe] THE Zimbabwe Republic Police (ZRP) says it has deployed officers across the country to maintain law and order ahead of a planned nationwide shutdown on Friday, as political tensions mount following the enactment of Constitutional Amendment Act No. 3 (CAA3).",
+      "links": [
+        "https://allafrica.com/stories/202607300050.html"
+      ]
+    },
+    {
+      "headline": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+      "countries": [],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Rescue operations are ongoing following the 6.8-magnitude quake, as survivors wrestle with the shock.",
+      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "No more Marmite in Singapore? What this means for your favourite dishes at local restaurants",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Some restaurants are relying on existing stock, while others are searching for alternative ingredients and suppliers or preparing to remove Marmite dishes from their menus altogether.",
+      "links": [
+        "https://www.channelnewsasia.com/dining/marmite-singapore-restaurants-shortage-alternatives-6287856"
+      ]
+    },
+    {
+      "headline": "Are some soldiers colluding with Nigeria's criminal gangs? A recent arrest prompts questions",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "A private's detention reignites concerns that troops are contributing to the country's security challenges.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cr7k8y5272eo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Africa: 'Am I Safe Here?' - The Question Standing Between Transgender Africans and HIV Care",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica] Rio de Janeiro, Brazil -- The greatest barrier to ending AIDS among transgender people in Africa is not a lack of medicine, but laws, stigma and exclusion.",
+      "links": [
+        "https://allafrica.com/stories/202607300022.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-29 (extractive mode)\n\n* GCC condemns attacks on Saudi Arabia by Iran-aligned Iraqi groups (Section Feed, 2 outlets)\n* How Mexican drug cartels have outsourced meth labs to Nigeria (BBC News, 2 outlets)\n* Ghana mourns its tallest man - a 'generous and popular giant' (BBC News, 2 outlets)\n* Kenya: Nairobi's Largest Informal Settlement Is Getting an Upgrade. but Who Will Actually Benefit From New Apartments? (AllAfrica News: Latest, 1 outlets)\n* Senior Iranian official says Tehran ruled out Oman's proposal for regional joint management of Hormuz Strait (Section Feed, 1 outlets)\n* Dan's Steaks by former radio DJ Daniel Ong to shut down: 'Running a small business is incredibly tough' (Latest News, 1 outlets)\n* Cash grants, enhanced loan scheme part of new S$900m package to help firms manage cashflow pressures (Latest News, 1 outlets)\n* Uganda: U=U Gave Me My Future Back - Ugandan Activist William Matovu on Replacing HIV Fear With Hope (AllAfrica News: Latest, 1 outlets)\n* Additional S$300 CDC vouchers, U-Save rebates for Singaporean households amid Middle East crisis (Latest News, 1 outlets)\n* Kenya: Kenya Trapped in Borrowing Cycle As Debt Hits Billions of Dollars - Controller of Budget (AllAfrica News: Latest, 1 outlets)\n* Cote d'Ivoire: Over 400 Liberians Left Homeless After Demolition of Communities Outside Abidjan (AllAfrica News: Latest, 1 outlets)\n* 'I thought I would die': Survivors describe the shock and horror of powerful Japan earthquake (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-07-30 (extractive mode)\n\n* Veteran Ugandan opposition leader collapses in court and in ICU, his wife says (BBC News, 2 outlets)\n* China's top leaders set to hold October meeting on internal governance, pledge measures to support economy (Latest News, 1 outlets)\n* Singapore must strengthen talent pipeline of business events industry to stay competitive: Gan Siow Huang (Latest News, 1 outlets)\n* Malawi: Inside Malawi's Public Sector Shake-Up - Minister Demands Results As Agencies Sign Reform Deals (AllAfrica News: Latest, 1 outlets)\n* Singapore expert panel recommends targeting harmful social media features instead of imposing age bans (Latest News, 1 outlets)\n* Ghana: How Do Teens Living With Disabilities in Ghana View Their Future? We Asked Them to Show Us (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Investigation - Gas Flares, Poisoned Lives, Regulatory Failures in Nigeria's Oil Fields (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Police Ramp Up Security Ahead of Planned July 31 Shutdown Over Constitutional Changes (AllAfrica News: Latest, 1 outlets)\n* Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins (BBC News, 1 outlets)\n* No more Marmite in Singapore? What this means for your favourite dishes at local restaurants (Latest News, 1 outlets)\n* Are some soldiers colluding with Nigeria's criminal gangs? A recent arrest prompts questions (BBC News, 1 outlets)\n* Africa: 'Am I Safe Here?' - The Question Standing Between Transgender Africans and HIV Care (AllAfrica News: Latest, 1 outlets)"
 }
