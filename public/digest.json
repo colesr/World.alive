@@ -1,138 +1,107 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-30T09:24:32.690244+00:00",
-  "digest_words": 248,
+  "generated_at": "2026-07-31T09:36:04.342009+00:00",
+  "digest_words": 237,
   "clusters": [
     {
-      "headline": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
-      "countries": [],
+      "headline": "Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 25",
+      "countries": [
+        "Japan"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 2,
+      "summary": "Time was running out to find survivors, as rescuers continued to work in the Kumamoto area on Japan 's southern main island of Kyushu, where the magnitude 7.1 earthquake hit Tuesday.",
+      "links": [
+        "https://www.npr.org/2026/07/30/nx-s1-5913050/japan-earthquake-updates",
+        "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll"
+      ]
+    },
+    {
+      "headline": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+      "countries": [
+        "Kenya"
+      ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
+      "summary": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "China's top leaders set to hold October meeting on internal governance, pledge measures to support economy",
+      "headline": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
       "countries": [
-        "China"
+        "Spain"
       ],
       "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The top decision-making body of the ruling Communist party, the Politburo, acknowledged \"difficulties and challenges facing the economy\" at its meeting.",
-      "links": [
-        "https://www.channelnewsasia.com/east-asia/china-october-plenum-internal-governance-economy-measures-6288006"
-      ]
-    },
-    {
-      "headline": "Singapore must strengthen talent pipeline of business events industry to stay competitive: Gan Siow Huang",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "At the same event, former Speaker of Parliament Tan Chuan-Jin gave practical advice on how leaders in the business events industry can inspire the people they lead.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/tourism-conferences-exhibitions-talent-6287786"
-      ]
-    },
-    {
-      "headline": "Malawi: Inside Malawi's Public Sector Shake-Up - Minister Demands Results As Agencies Sign Reform Deals",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Nyasa Times] Malawi's Minister of Justice and Constitutional Affairs has put his foot down, demanding that heads of the country's key legal and governance bodies sign up to sweeping public sector reforms -- or explain why not.",
-      "links": [
-        "https://allafrica.com/stories/202607300036.html"
-      ]
-    },
-    {
-      "headline": "Singapore expert panel recommends targeting harmful social media features instead of imposing age bans",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The government-appointed panel also called for a precautionary approach to regulating social media, stronger age checks, and greater support for parents and young users.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/moh-social-media-use-youth-6287801"
-      ]
-    },
-    {
-      "headline": "Ghana: How Do Teens Living With Disabilities in Ghana View Their Future? We Asked Them to Show Us",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] About 8% of Ghana's population is disabled. A high percentage are adolescents, which could be linked to the country's dominant population of young people (15 to 35 years).",
-      "links": [
-        "https://allafrica.com/stories/202607300026.html"
-      ]
-    },
-    {
-      "headline": "Nigeria: Investigation - Gas Flares, Poisoned Lives, Regulatory Failures in Nigeria's Oil Fields",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Premium Times] From disappearing fish in Akwa Ibom to polluted rainwater in Bayelsa, communities living beside Nigeria's oil facilities are confronting the human consequences of methane, a potent but largely invisible greenhouse gas.",
-      "links": [
-        "https://allafrica.com/stories/202607300037.html"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: Police Ramp Up Security Ahead of Planned July 31 Shutdown Over Constitutional Changes",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] THE Zimbabwe Republic Police (ZRP) says it has deployed officers across the country to maintain law and order ahead of a planned nationwide shutdown on Friday, as political tensions mount following the enactment of Constitutional Amendment Act No. 3 (CAA3).",
-      "links": [
-        "https://allafrica.com/stories/202607300050.html"
-      ]
-    },
-    {
-      "headline": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-      "countries": [],
-      "regions": [
+        "Africa",
         "Europe"
       ],
-      "outlets": 1,
-      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "outlets": 2,
+      "summary": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "No more Marmite in Singapore? What this means for your favourite dishes at local restaurants",
+      "headline": "South Africa: Did Cape Town's Gunshot Detection System Work? Why Jury Is Still Out On What Shotspotter Achieved",
       "countries": [
-        "Singapore"
+        "South Africa"
       ],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "Some restaurants are relying on existing stock, while others are searching for alternative ingredients and suppliers or preparing to remove Marmite dishes from their menus altogether.",
+      "summary": "[The Conversation Africa] In mid-2026 Cape Town's city council ended the use of ShotSpotter, a US-developed gunshot detection system and a form of dragnet surveillance. The system was first piloted in 2016. The council said it was reviewing a renewal of the contract. The acoustic system was marketed",
       "links": [
-        "https://www.channelnewsasia.com/dining/marmite-singapore-restaurants-shortage-alternatives-6287856"
+        "https://allafrica.com/stories/202607310048.html"
+      ]
+    },
+    {
+      "headline": "Kenya: Kenya's Running Stars Attract Suspicion and Awe - Our Research Gives a More Human Picture",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[The Conversation Africa] In April 2026, Kenyan runner Sabastian Sawe became the first person to officially run the marathon in under two hours. This milestone was anxiously awaited by the running world.",
+      "links": [
+        "https://allafrica.com/stories/202607310047.html"
+      ]
+    },
+    {
+      "headline": "East Africa: American Analyst Warns Eritrea's Proxy Strategy Risks Destabilizing Horn of Africa",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[ENA] Addis Ababa -- American geopolitical analyst Andrew Korybko has warned that the Eritrean regime's proxy strategy could further destabilize the Horn of Africa, fuel insecurity and threaten regional stability.",
+      "links": [
+        "https://allafrica.com/stories/202607300482.html"
+      ]
+    },
+    {
+      "headline": "Sudan: Air Strike Kills At Least 24 Civilians in North Kordofan, RSF Attack Leaves Nine Dead",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Dabanga] Bara / El Jamama -- At least 24 civilians, most of them women and children, were killed in an air strike on the village of Sharshar west of Bara in North Kordofan on Wednesday, according to local witnesses and rights groups. Hours later, a separate paramilitary Rapid Support Forces (RSF) a",
+      "links": [
+        "https://allafrica.com/stories/202607310049.html"
       ]
     },
     {
@@ -150,17 +119,53 @@
       ]
     },
     {
-      "headline": "Africa: 'Am I Safe Here?' - The Question Standing Between Transgender Africans and HIV Care",
+      "headline": "Palestinian committee will be 'sole entity' managing Hamas' weapons, movement official says",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nPalestinian committee will be 'sole entity' managing Hamas' weapons, movement official says\n\n    \n    \n\n        \n    \n                The&nbsp;Palestinian technocratic committee established by the Board of Peace to govern Gaza will oversee the process of managing and&nbsp;storing ",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-committee-will-be-sole-entity-managing-hamas-weapons"
+      ]
+    },
+    {
+      "headline": "Seven & i agrees strategic partnership, $620 million investment with SoftBank, SMFG units",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/business/seven-i-agrees-strategic-partnership-620-million-investment-softbank-smfg-units-6290646"
+      ]
+    },
+    {
+      "headline": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica] Rio de Janeiro, Brazil -- The greatest barrier to ending AIDS among transgender people in Africa is not a lack of medicine, but laws, stigma and exclusion.",
+      "summary": "Mamadou Djouma Bah, 17, was arrested and sentenced to prison for exam fraud earlier this month.",
       "links": [
-        "https://allafrica.com/stories/202607300022.html"
+        "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Negeri Sembilan polls: Can BN-PN pact to target Malay vote defeat PM Anwar\u2019s coalition?",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Negeri Sembilan heads to the polls on Aug 1, with Prime Minister Anwar Ibrahim\u2019s Pakatan Harapan pact battling to retain power in the face of a Malay-Muslim unity narrative spun by Barisan Nasional and Perikatan Nasional.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/negeri-sembilan-state-election-malay-vote-6288136"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-30 (extractive mode)\n\n* Veteran Ugandan opposition leader collapses in court and in ICU, his wife says (BBC News, 2 outlets)\n* China's top leaders set to hold October meeting on internal governance, pledge measures to support economy (Latest News, 1 outlets)\n* Singapore must strengthen talent pipeline of business events industry to stay competitive: Gan Siow Huang (Latest News, 1 outlets)\n* Malawi: Inside Malawi's Public Sector Shake-Up - Minister Demands Results As Agencies Sign Reform Deals (AllAfrica News: Latest, 1 outlets)\n* Singapore expert panel recommends targeting harmful social media features instead of imposing age bans (Latest News, 1 outlets)\n* Ghana: How Do Teens Living With Disabilities in Ghana View Their Future? We Asked Them to Show Us (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Investigation - Gas Flares, Poisoned Lives, Regulatory Failures in Nigeria's Oil Fields (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Police Ramp Up Security Ahead of Planned July 31 Shutdown Over Constitutional Changes (AllAfrica News: Latest, 1 outlets)\n* Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins (BBC News, 1 outlets)\n* No more Marmite in Singapore? What this means for your favourite dishes at local restaurants (Latest News, 1 outlets)\n* Are some soldiers colluding with Nigeria's criminal gangs? A recent arrest prompts questions (BBC News, 1 outlets)\n* Africa: 'Am I Safe Here?' - The Question Standing Between Transgender Africans and HIV Care (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-07-31 (extractive mode)\n\n* Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 25 (NPR Topics: World, 2 outlets)\n* Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect (BBC News, 2 outlets)\n* Spain sending troops as thousands enter enclave of Ceuta from Morocco (BBC News, 2 outlets)\n* South Africa: Did Cape Town's Gunshot Detection System Work? Why Jury Is Still Out On What Shotspotter Achieved (AllAfrica News: Latest, 1 outlets)\n* Kenya: Kenya's Running Stars Attract Suspicion and Awe - Our Research Gives a More Human Picture (AllAfrica News: Latest, 1 outlets)\n* East Africa: American Analyst Warns Eritrea's Proxy Strategy Risks Destabilizing Horn of Africa (AllAfrica News: Latest, 1 outlets)\n* Sudan: Air Strike Kills At Least 24 Civilians in North Kordofan, RSF Attack Leaves Nine Dead (AllAfrica News: Latest, 1 outlets)\n* Are some soldiers colluding with Nigeria's criminal gangs? A recent arrest prompts questions (BBC News, 1 outlets)\n* Palestinian committee will be 'sole entity' managing Hamas' weapons, movement official says (Section Feed, 1 outlets)\n* Seven & i agrees strategic partnership, $620 million investment with SoftBank, SMFG units (Latest News, 1 outlets)\n* Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says (BBC News, 1 outlets)\n* Negeri Sembilan polls: Can BN-PN pact to target Malay vote defeat PM Anwar\u2019s coalition? (Latest News, 1 outlets)"
 }
