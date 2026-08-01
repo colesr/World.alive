@@ -1,41 +1,25 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-07-31T09:36:04.342009+00:00",
-  "digest_words": 237,
+  "generated_at": "2026-08-01T08:59:40.083166+00:00",
+  "digest_words": 449,
   "clusters": [
     {
-      "headline": "Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 25",
-      "countries": [
-        "Japan"
-      ],
+      "headline": "FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push",
+      "countries": [],
       "regions": [
-        "Americas"
+        "Europe",
+        "Middle East"
       ],
-      "outlets": 2,
-      "summary": "Time was running out to find survivors, as rescuers continued to work in the Kumamoto area on Japan 's southern main island of Kyushu, where the magnitude 7.1 earthquake hit Tuesday.",
+      "outlets": 3,
+      "summary": "Asian Football Confederation says FIFA future must be &#039;shaped through proper consultation&#039; after World Cup plan fallout.",
       "links": [
-        "https://www.npr.org/2026/07/30/nx-s1-5913050/japan-earthquake-updates",
-        "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll"
+        "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss",
+        "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
+        "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "headline": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
       "countries": [
         "Spain"
       ],
@@ -44,128 +28,149 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+      "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "South Africa: Did Cape Town's Gunshot Detection System Work? Why Jury Is Still Out On What Shotspotter Achieved",
+      "headline": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
       "countries": [
-        "South Africa"
+        "Russia",
+        "Ukraine"
       ],
       "regions": [
-        "Africa"
+        "Europe",
+        "Middle East"
       ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] In mid-2026 Cape Town's city council ended the use of ShotSpotter, a US-developed gunshot detection system and a form of dragnet surveillance. The system was first piloted in 2016. The council said it was reviewing a renewal of the contract. The acoustic system was marketed",
+      "outlets": 2,
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
       "links": [
-        "https://allafrica.com/stories/202607310048.html"
+        "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+        "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss"
       ]
     },
     {
-      "headline": "Kenya: Kenya's Running Stars Attract Suspicion and Awe - Our Research Gives a More Human Picture",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] In April 2026, Kenyan runner Sabastian Sawe became the first person to officially run the marathon in under two hours. This milestone was anxiously awaited by the running world.",
-      "links": [
-        "https://allafrica.com/stories/202607310047.html"
-      ]
-    },
-    {
-      "headline": "East Africa: American Analyst Warns Eritrea's Proxy Strategy Risks Destabilizing Horn of Africa",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[ENA] Addis Ababa -- American geopolitical analyst Andrew Korybko has warned that the Eritrean regime's proxy strategy could further destabilize the Horn of Africa, fuel insecurity and threaten regional stability.",
-      "links": [
-        "https://allafrica.com/stories/202607300482.html"
-      ]
-    },
-    {
-      "headline": "Sudan: Air Strike Kills At Least 24 Civilians in North Kordofan, RSF Attack Leaves Nine Dead",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Dabanga] Bara / El Jamama -- At least 24 civilians, most of them women and children, were killed in an air strike on the village of Sharshar west of Bara in North Kordofan on Wednesday, according to local witnesses and rights groups. Hours later, a separate paramilitary Rapid Support Forces (RSF) a",
-      "links": [
-        "https://allafrica.com/stories/202607310049.html"
-      ]
-    },
-    {
-      "headline": "Are some soldiers colluding with Nigeria's criminal gangs? A recent arrest prompts questions",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "A private's detention reignites concerns that troops are contributing to the country's security challenges.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cr7k8y5272eo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Palestinian committee will be 'sole entity' managing Hamas' weapons, movement official says",
+      "headline": "Projectile damages engine room of tanker off Oman, UKMTO says",
       "countries": [],
       "regions": [
         "Middle East"
       ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nPalestinian committee will be 'sole entity' managing Hamas' weapons, movement official says\n\n    \n    \n\n        \n    \n                The&nbsp;Palestinian technocratic committee established by the Board of Peace to govern Gaza will oversee the process of managing and&nbsp;storing ",
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nProjectile damages engine room of tanker off Oman, UKMTO says\n\n    \n    \n\n        \n    \n                A tanker has been struck by an unknown projectile 11 nautical miles northeast of Lima, Oman, according to the UK Maritime Trade Operations (UKMTO).\n\nUKMTO said the vessel's comp",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-committee-will-be-sole-entity-managing-hamas-weapons"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/projectile-damages-engine-room-tanker-oman-ukmto-says",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-explosion-near-tanker-oman-reported"
       ]
     },
     {
-      "headline": "Seven & i agrees strategic partnership, $620 million investment with SoftBank, SMFG units",
+      "headline": "Mamamoo 4ward concert in Singapore: Solar, Moonbyul, Wheein and Hwasa prove why they\u2019re the vocal queens of K-pop",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "K-pop girl group Mamamoo staged their 4ward concert at the Singapore Indoor Stadium on Friday (Jul 31).",
+      "links": [
+        "https://www.channelnewsasia.com/entertainment/mamamoo-singapore-concert-2026-4ward-6292396"
+      ]
+    },
+    {
+      "headline": "Indonesia president says willing to visit North Korea to open dialogue on request of South Korea president",
+      "countries": [
+        "South Korea",
+        "Indonesia"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Indonesia's President Prabowo Subianto said his South Korean counterpart Lee Jae Myung made the request during his last visit to Seoul in April.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/indonesia-president-says-willing-visit-north-korea-open-dialogue-request-south-korea-president-6290781"
+      ]
+    },
+    {
+      "headline": "TikTok CEO Chew Shou Zi urges NTU doctoral graduates to 'actively seek the unknown' at conferment ceremony",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "",
+      "summary": "In a 10-minute speech at the ceremony, the 43-year-old Singaporean spoke about his upbringing in Yio Chu Kang, his early encounters with technology to eventually leading the social media platform.",
       "links": [
-        "https://www.channelnewsasia.com/business/seven-i-agrees-strategic-partnership-620-million-investment-softbank-smfg-units-6290646"
+        "https://www.channelnewsasia.com/singapore/tiktok-ceo-chew-shou-zi-technology-ntu-graduation-ceremony-6292416"
       ]
     },
     {
-      "headline": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
+      "headline": "As tourism surges in Mexico, so does the risk of human trafficking, with women and children most at risk",
+      "countries": [
+        "Mexico"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "By May, a record-breaking 20 million tourists had visited Mexico so far in 2026. But with increased tourism comes a heightened risk of human trafficking and sexual exploitation. Women and children are most vulnerable.",
+      "links": [
+        "https://www.dw.com/en/as-tourism-surges-in-mexico-so-does-the-risk-of-human-trafficking-with-women-and-children-most-at-risk/a-78178890?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Africa: AU Urges Continent to Bolster Preparedness to Mitigate Potential Impacts of 2026 El Ni&#xf1;o",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "Mamadou Djouma Bah, 17, was arrested and sentenced to prison for exam fraud earlier this month.",
+      "summary": "[ENA] Addis Ababa -- The African Union Commission has emphasized today the need for stronger continental preparedness and coordinated action to mitigate the potential impacts of the anticipated 2026 El Ni&#xf1;o phenomenon.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202607310209.html"
       ]
     },
     {
-      "headline": "Negeri Sembilan polls: Can BN-PN pact to target Malay vote defeat PM Anwar\u2019s coalition?",
-      "countries": [],
+      "headline": "For a day, anyone could create and spread fake Singapore satellite images. Then Google backtracked",
+      "countries": [
+        "Singapore"
+      ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Negeri Sembilan heads to the polls on Aug 1, with Prime Minister Anwar Ibrahim\u2019s Pakatan Harapan pact battling to retain power in the face of a Malay-Muslim unity narrative spun by Barisan Nasional and Perikatan Nasional.",
+      "summary": "A new Google Earth AI-generation feature has been pulled after backlash and concerns over disinformation risks.",
       "links": [
-        "https://www.channelnewsasia.com/asia/negeri-sembilan-state-election-malay-vote-6288136"
+        "https://www.channelnewsasia.com/singapore/google-earth-ai-nano-banana-fake-disinformation-satellite-6290916"
+      ]
+    },
+    {
+      "headline": "Wang Leehom releases new English song Hope to support Singapore charity Epworth Community Services",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The Mandopop star collaborated with Singapore producer Goh Kheng Long on the uplifting track dedicated to children, youths and families supported by the social service agency.",
+      "links": [
+        "https://www.channelnewsasia.com/entertainment/wang-leehom-releases-new-english-song-hope-support-singapore-charity-epworth-community-services-6292296"
+      ]
+    },
+    {
+      "headline": "Somalia: Somalia's President Arrives in Uganda Ahead of Aussom Summit, Holds Talks With Museveni",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Shabelle] Kampala -- Somali President Hassan Sheikh Mohamud arrived in Uganda's capital Kampala on Friday, where he held bilateral talks with Ugandan President Yoweri Museveni ahead of a summit expected to shape the future of the African Union Support and Stabilisation Mission in Somalia (AUSSOM).",
+      "links": [
+        "https://allafrica.com/stories/202607310291.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-07-31 (extractive mode)\n\n* Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 25 (NPR Topics: World, 2 outlets)\n* Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect (BBC News, 2 outlets)\n* Spain sending troops as thousands enter enclave of Ceuta from Morocco (BBC News, 2 outlets)\n* South Africa: Did Cape Town's Gunshot Detection System Work? Why Jury Is Still Out On What Shotspotter Achieved (AllAfrica News: Latest, 1 outlets)\n* Kenya: Kenya's Running Stars Attract Suspicion and Awe - Our Research Gives a More Human Picture (AllAfrica News: Latest, 1 outlets)\n* East Africa: American Analyst Warns Eritrea's Proxy Strategy Risks Destabilizing Horn of Africa (AllAfrica News: Latest, 1 outlets)\n* Sudan: Air Strike Kills At Least 24 Civilians in North Kordofan, RSF Attack Leaves Nine Dead (AllAfrica News: Latest, 1 outlets)\n* Are some soldiers colluding with Nigeria's criminal gangs? A recent arrest prompts questions (BBC News, 1 outlets)\n* Palestinian committee will be 'sole entity' managing Hamas' weapons, movement official says (Section Feed, 1 outlets)\n* Seven & i agrees strategic partnership, $620 million investment with SoftBank, SMFG units (Latest News, 1 outlets)\n* Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says (BBC News, 1 outlets)\n* Negeri Sembilan polls: Can BN-PN pact to target Malay vote defeat PM Anwar\u2019s coalition? (Latest News, 1 outlets)"
+  "narrative": "State of the World - Daily Digest\n\n**Global Conflicts and Politics**\n\nThe most significant stories today are centered around global conflicts and politics. Leading with the most negative-tone stories, we see that the situation in Ukraine continues to deteriorate, with Russian strikes on Kyiv killing at least nine people, according to Ukrainian officials (BBC News, Al Jazeera). The tone of these reports is overwhelmingly negative, with an average tone of -0.75. This story is globally significant, with both European and Middle Eastern outlets covering the developments.\n\nIn a related story, a tanker was damaged by an unknown projectile off the coast of Oman, according to the UKMTO (Section Feed). While the tone of this report is not explicitly negative, it contributes to the overall sense of instability in the region.\n\n**Migration and Human Trafficking**\n\nIn Europe, a massive influx of migrants has reached Ceuta from Morocco, with Spain's PM blaming traffickers for the crisis (BBC News). The tone of this report is negative, with an average tone of -0.47. This story is significant, with both African and European outlets covering the developments.\n\nMeanwhile, in Mexico, the surge in tourism has led to an increased risk of human trafficking, with women and children being the most vulnerable (Deutsche Welle). The tone of this report is negative, with an average tone of -0.29.\n\n**Sports and Economics**\n\nIn a significant development, FIFA has scrapped its plans to sell stakes in the World Cup, following widespread opposition from the football community (Al Jazeera, BBC News). While the tone of these reports is not explicitly negative, it highlights the challenges faced by global sports organizations in balancing economic interests with the needs of the sport.\n\n**Regional Developments**\n\nIn Asia, Indonesia's president has expressed willingness to visit North Korea to open dialogue, at the request of South Korea's president (Latest News). The tone of this report is positive, with an average tone of +0.27.\n\nIn Singapore, a new Google Earth AI-generation feature was pulled after backlash and concerns over disinformation risks (Latest News). The tone of this report is negative, with an average tone of -0.90.\n\nIn Africa, the African Union Commission has urged the continent to bolster preparedness to mitigate the potential impacts of the anticipated 2026 El Ni\u00f1o (AllAfrica News). The tone of this report is neutral, but it highlights the importance of regional cooperation in addressing global challenges.\n\nOverall, the tone of today's digest is dominated by negative stories, reflecting the ongoing conflicts, migration crises, and economic challenges faced by the world. However, there are also positive developments, such as the willingness of Indonesia's president to engage in dialogue with North Korea, that offer hope for a more peaceful and cooperative future."
 }
