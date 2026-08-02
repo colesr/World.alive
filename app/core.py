@@ -83,7 +83,7 @@ DEFAULT_CONFIG = {
     "max_items_per_feed": 15,
     "max_clusters_in_digest": 12,
     "digest_word_limit": 800,
-    "similarity_threshold": 0.45,  # Increased threshold to improve deduplication
+    "similarity_threshold": 0.55,  # Increased threshold to improve deduplication
 }
 
 
@@ -157,75 +157,101 @@ def _combined_similarity(item1: dict, item2: dict, title_weight: float = 0.7) ->
 
 
 def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
-    """Enhanced clustering using improved centroid-based similarity with better grouping."""
+    """Enhanced clustering using improved pairwise comparison with better merging strategy."""
     if not items:
         return []
     
-    # Sort items by title length (longer titles first) for better initial centroid selection
+    # Sort items by publication time if available, otherwise by title length
     sorted_items = sorted(items, key=lambda x: len(x["title"]), reverse=True)
     
-    clusters = []  # Each cluster: {"centroid_tokens": {"title": set, "summary": set}, "items": [..]}
+    clusters = []
     
     for item in sorted_items:
-        item_title_tokens = _tokens(item["title"])
-        item_summary_tokens = _tokens(item["summary"])
+        item_added = False
+        item_tokens = {
+            "title": _tokens(item["title"]),
+            "summary": _tokens(item["summary"])
+        }
+        
+        # Compare against existing clusters
         best_cluster_idx = -1
         best_score = 0.0
         
-        # Find the best matching cluster by comparing to centroid
         for i, cluster in enumerate(clusters):
-            # Calculate combined similarity using both title and summary against centroid
-            title_score = _similarity(item_title_tokens, cluster["centroid_tokens"]["title"])
-            summary_score = _similarity(item_summary_tokens, cluster["centroid_tokens"]["summary"])
-            score = 0.7 * title_score + 0.3 * summary_score
+            # Compare against all items in the cluster for better matching
+            cluster_max_score = 0.0
+            for cluster_item in cluster:
+                score = _combined_similarity(item, cluster_item, title_weight=0.7)
+                if score > cluster_max_score:
+                    cluster_max_score = score
             
-            # Boost score if links match (likely the same story)
-            for cluster_item in cluster["items"]:
-                if (item["link"] and cluster_item["link"] and 
-                    item["link"] == cluster_item["link"]):
-                    score = min(1.0, score * 1.5)  # Boost but cap at 1.0
-                    break
-            
-            if score > best_score:
-                best_cluster_idx, best_score = i, score
+            # Also compare against cluster centroid for stability
+            if cluster:
+                centroid_title_tokens = set()
+                centroid_summary_tokens = set()
+                for ci in cluster:
+                    centroid_title_tokens |= _tokens(ci["title"])
+                    centroid_summary_tokens |= _tokens(ci["summary"])
                 
-        # If we found a good match, add to that cluster and update centroid
+                centroid_title_sim = _similarity(item_tokens["title"], centroid_title_tokens)
+                centroid_summary_sim = _similarity(item_tokens["summary"], centroid_summary_tokens)
+                centroid_score = 0.7 * centroid_title_sim + 0.3 * centroid_summary_sim
+                
+                # Use the maximum of individual item scores and centroid score
+                final_score = max(cluster_max_score, centroid_score)
+                
+                # Boost score if links match
+                link_boost = False
+                for cluster_item in cluster:
+                    if (item["link"] and cluster_item["link"] and 
+                        item["link"] == cluster_item["link"]):
+                        final_score = min(1.0, final_score * 1.5)
+                        link_boost = True
+                        break
+                
+                if final_score > best_score:
+                    best_cluster_idx, best_score = i, final_score
+        
+        # Add to existing cluster or create new one
         if best_cluster_idx >= 0 and best_score >= threshold:
-            cluster = clusters[best_cluster_idx]
-            cluster["items"].append(item)
-            # Update centroid by merging tokens (incremental averaging)
-            cluster["centroid_tokens"]["title"] |= item_title_tokens
-            cluster["centroid_tokens"]["summary"] |= item_summary_tokens
+            clusters[best_cluster_idx].append(item)
         else:
-            # Create a new cluster with this item as the seed
-            clusters.append({
-                "centroid_tokens": {
-                    "title": set(item_title_tokens),
-                    "summary": set(item_summary_tokens)
-                },
-                "items": [item]
-            })
+            clusters.append([item])
     
-    # Second pass: Try to merge similar clusters to reduce fragmentation
-    # This helps consolidate borderline cases that didn't get caught in the first pass
+    # Post-processing: Merge similar clusters
     merged = True
-    while merged:
+    while merged and len(clusters) > 1:
         merged = False
         for i in range(len(clusters)):
             if merged:
                 break
             for j in range(i + 1, len(clusters)):
-                # Compare cluster centroids
-                title_sim = _similarity(clusters[i]["centroid_tokens"]["title"], 
-                                      clusters[j]["centroid_tokens"]["title"])
-                summary_sim = _similarity(clusters[i]["centroid_tokens"]["summary"], 
-                                        clusters[j]["centroid_tokens"]["summary"])
+                # Calculate similarity between cluster centroids
+                if not clusters[i] or not clusters[j]:
+                    continue
+                    
+                # Create centroids for both clusters
+                centroid_i_title = set()
+                centroid_i_summary = set()
+                for item in clusters[i]:
+                    centroid_i_title |= _tokens(item["title"])
+                    centroid_i_summary |= _tokens(item["summary"])
+                
+                centroid_j_title = set()
+                centroid_j_summary = set()
+                for item in clusters[j]:
+                    centroid_j_title |= _tokens(item["title"])
+                    centroid_j_summary |= _tokens(item["summary"])
+                
+                # Calculate centroid similarity
+                title_sim = _similarity(centroid_i_title, centroid_j_title)
+                summary_sim = _similarity(centroid_i_summary, centroid_j_summary)
                 centroid_sim = 0.7 * title_sim + 0.3 * summary_sim
                 
-                # Check for link matches between clusters
+                # Check for any link matches between clusters
                 link_match = False
-                for item1 in clusters[i]["items"]:
-                    for item2 in clusters[j]["items"]:
+                for item1 in clusters[i]:
+                    for item2 in clusters[j]:
                         if (item1["link"] and item2["link"] and 
                             item1["link"] == item2["link"]):
                             link_match = True
@@ -233,29 +259,19 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
                     if link_match:
                         break
                 
-                # If clusters are similar enough or have link matches, merge them
+                # Merge if sufficiently similar or have link matches
                 if centroid_sim >= threshold * 0.8 or link_match:
-                    # Merge cluster j into cluster i
-                    clusters[i]["items"].extend(clusters[j]["items"])
-                    # Recalculate centroid
-                    all_title_tokens = set()
-                    all_summary_tokens = set()
-                    for item in clusters[i]["items"]:
-                        all_title_tokens |= _tokens(item["title"])
-                        all_summary_tokens |= _tokens(item["summary"])
-                    clusters[i]["centroid_tokens"]["title"] = all_title_tokens
-                    clusters[i]["centroid_tokens"]["summary"] = all_summary_tokens
-                    # Remove cluster j
+                    clusters[i].extend(clusters[j])
                     clusters.pop(j)
                     merged = True
                     break
     
     # Remove empty clusters
-    clusters = [c for c in clusters if c["items"]]
+    clusters = [c for c in clusters if c]
     
     # Sort by cluster size (bigger clusters first = more widely covered = more important)
-    clusters.sort(key=lambda c: len(c["items"]), reverse=True)
-    return [c["items"] for c in clusters]
+    clusters.sort(key=lambda c: len(c), reverse=True)
+    return clusters
 
 
 # ---------------------------------------------------------------------------
