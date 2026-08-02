@@ -1,162 +1,77 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-01T08:59:40.083166+00:00",
-  "digest_words": 449,
+  "generated_at": "2026-08-02T09:04:33.821023+00:00",
+  "digest_words": 517,
   "clusters": [
     {
-      "headline": "FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push",
+      "headline": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
       "countries": [],
-      "regions": [
-        "Europe",
-        "Middle East"
-      ],
-      "outlets": 3,
-      "summary": "Asian Football Confederation says FIFA future must be &#039;shaped through proper consultation&#039; after World Cup plan fallout.",
-      "links": [
-        "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss",
-        "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
-        "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "countries": [
-        "Spain"
-      ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+      "summary": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "headline": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
       "countries": [
-        "Russia",
-        "Ukraine"
+        "United States",
+        "Iran"
       ],
       "regions": [
-        "Europe",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-        "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "Projectile damages engine room of tanker off Oman, UKMTO says",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nProjectile damages engine room of tanker off Oman, UKMTO says\n\n    \n    \n\n        \n    \n                A tanker has been struck by an unknown projectile 11 nautical miles northeast of Lima, Oman, according to the UK Maritime Trade Operations (UKMTO).\n\nUKMTO said the vessel's comp",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/projectile-damages-engine-room-tanker-oman-ukmto-says",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-explosion-near-tanker-oman-reported"
-      ]
-    },
-    {
-      "headline": "Mamamoo 4ward concert in Singapore: Solar, Moonbyul, Wheein and Hwasa prove why they\u2019re the vocal queens of K-pop",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "K-pop girl group Mamamoo staged their 4ward concert at the Singapore Indoor Stadium on Friday (Jul 31).",
-      "links": [
-        "https://www.channelnewsasia.com/entertainment/mamamoo-singapore-concert-2026-4ward-6292396"
-      ]
-    },
-    {
-      "headline": "Indonesia president says willing to visit North Korea to open dialogue on request of South Korea president",
-      "countries": [
-        "South Korea",
-        "Indonesia"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Indonesia's President Prabowo Subianto said his South Korean counterpart Lee Jae Myung made the request during his last visit to Seoul in April.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/indonesia-president-says-willing-visit-north-korea-open-dialogue-request-south-korea-president-6290781"
-      ]
-    },
-    {
-      "headline": "TikTok CEO Chew Shou Zi urges NTU doctoral graduates to 'actively seek the unknown' at conferment ceremony",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "In a 10-minute speech at the ceremony, the 43-year-old Singaporean spoke about his upbringing in Yio Chu Kang, his early encounters with technology to eventually leading the social media platform.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/tiktok-ceo-chew-shou-zi-technology-ntu-graduation-ceremony-6292416"
-      ]
-    },
-    {
-      "headline": "As tourism surges in Mexico, so does the risk of human trafficking, with women and children most at risk",
-      "countries": [
-        "Mexico"
-      ],
-      "regions": [
+        "Americas",
         "Europe"
       ],
-      "outlets": 1,
-      "summary": "By May, a record-breaking 20 million tourists had visited Mexico so far in 2026. But with increased tourism comes a heightened risk of human trafficking and sexual exploitation. Women and children are most vulnerable.",
+      "outlets": 2,
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
       "links": [
-        "https://www.dw.com/en/as-tourism-surges-in-mexico-so-does-the-risk-of-human-trafficking-with-women-and-children-most-at-risk/a-78178890?maca=en-rss-en-world-4025-rdf"
+        "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+        "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending"
       ]
     },
     {
-      "headline": "Africa: AU Urges Continent to Bolster Preparedness to Mitigate Potential Impacts of 2026 El Ni&#xf1;o",
+      "headline": "Current Ebola outbreak worst ever in DR Congo, WHO says",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Africa: Africa's Energy Crossroads: What Namibia's Rise and South Africa's Debate Mean for the Continent",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica] Africa stands at one of the most consequential moments in its modern economic history.",
+      "links": [
+        "https://allafrica.com/stories/202608010002.html"
+      ]
+    },
+    {
+      "headline": "Africa: AHEFT Prize Launched to Recognise African Universities Leading Higher Education Transformation",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[ENA] Addis Ababa -- The African Union Commission has emphasized today the need for stronger continental preparedness and coordinated action to mitigate the potential impacts of the anticipated 2026 El Ni&#xf1;o phenomenon.",
+      "summary": "[allAfrica] Rio de Janeiro, Brazil -- As Africa grapples with shrinking international development funding and rising pressure to create jobs for its rapidly growing youth population, the Mastercard Foundation is making one of the continent's biggest long-term investments in higher education, committ",
       "links": [
-        "https://allafrica.com/stories/202607310209.html"
-      ]
-    },
-    {
-      "headline": "For a day, anyone could create and spread fake Singapore satellite images. Then Google backtracked",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "A new Google Earth AI-generation feature has been pulled after backlash and concerns over disinformation risks.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/google-earth-ai-nano-banana-fake-disinformation-satellite-6290916"
-      ]
-    },
-    {
-      "headline": "Wang Leehom releases new English song Hope to support Singapore charity Epworth Community Services",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The Mandopop star collaborated with Singapore producer Goh Kheng Long on the uplifting track dedicated to children, youths and families supported by the social service agency.",
-      "links": [
-        "https://www.channelnewsasia.com/entertainment/wang-leehom-releases-new-english-song-hope-support-singapore-charity-epworth-community-services-6292296"
+        "https://allafrica.com/stories/202607300588.html"
       ]
     },
     {
@@ -170,7 +85,91 @@
       "links": [
         "https://allafrica.com/stories/202607310291.html"
       ]
+    },
+    {
+      "headline": "UMNO\u2019s Ismail Lasim appointed new Negeri Sembilan chief minister following supermajority win",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The 67-year-old was sworn in before state ruler Tuanku Muhriz Tuanku Munawir at Istana Besar Seri Menanti on Sunday (Aug 2), Malaysian media reports said.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/ismail-lasim-appointed-negeri-sembilan-new-chief-minister-6293491"
+      ]
+    },
+    {
+      "headline": "Are some soldiers colluding with Nigeria's criminal gangs? A recent arrest prompts questions",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "A private's detention reignites concerns that troops are contributing to the country's security challenges.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cr7k8y5272eo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Japan quake: Elderly woman with apparent heat stroke found dead while taking shelter in car",
+      "countries": [
+        "Japan"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "This latest death was what officials and experts had worried about amid high temperatures.",
+      "links": [
+        "https://www.channelnewsasia.com/east-asia/japan-quake-elderly-woman-heat-stroke-dead-6293536"
+      ]
+    },
+    {
+      "headline": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+      "countries": [
+        "Spain"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier.",
+      "links": [
+        "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco"
+      ]
+    },
+    {
+      "headline": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+      "countries": [
+        "United States",
+        "Russia",
+        "Ukraine"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems.",
+      "links": [
+        "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes"
+      ]
+    },
+    {
+      "headline": "Spain's Pedro S\u00e1nchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
+      "countries": [
+        "Spain"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave.",
+      "links": [
+        "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants"
+      ]
     }
   ],
-  "narrative": "State of the World - Daily Digest\n\n**Global Conflicts and Politics**\n\nThe most significant stories today are centered around global conflicts and politics. Leading with the most negative-tone stories, we see that the situation in Ukraine continues to deteriorate, with Russian strikes on Kyiv killing at least nine people, according to Ukrainian officials (BBC News, Al Jazeera). The tone of these reports is overwhelmingly negative, with an average tone of -0.75. This story is globally significant, with both European and Middle Eastern outlets covering the developments.\n\nIn a related story, a tanker was damaged by an unknown projectile off the coast of Oman, according to the UKMTO (Section Feed). While the tone of this report is not explicitly negative, it contributes to the overall sense of instability in the region.\n\n**Migration and Human Trafficking**\n\nIn Europe, a massive influx of migrants has reached Ceuta from Morocco, with Spain's PM blaming traffickers for the crisis (BBC News). The tone of this report is negative, with an average tone of -0.47. This story is significant, with both African and European outlets covering the developments.\n\nMeanwhile, in Mexico, the surge in tourism has led to an increased risk of human trafficking, with women and children being the most vulnerable (Deutsche Welle). The tone of this report is negative, with an average tone of -0.29.\n\n**Sports and Economics**\n\nIn a significant development, FIFA has scrapped its plans to sell stakes in the World Cup, following widespread opposition from the football community (Al Jazeera, BBC News). While the tone of these reports is not explicitly negative, it highlights the challenges faced by global sports organizations in balancing economic interests with the needs of the sport.\n\n**Regional Developments**\n\nIn Asia, Indonesia's president has expressed willingness to visit North Korea to open dialogue, at the request of South Korea's president (Latest News). The tone of this report is positive, with an average tone of +0.27.\n\nIn Singapore, a new Google Earth AI-generation feature was pulled after backlash and concerns over disinformation risks (Latest News). The tone of this report is negative, with an average tone of -0.90.\n\nIn Africa, the African Union Commission has urged the continent to bolster preparedness to mitigate the potential impacts of the anticipated 2026 El Ni\u00f1o (AllAfrica News). The tone of this report is neutral, but it highlights the importance of regional cooperation in addressing global challenges.\n\nOverall, the tone of today's digest is dominated by negative stories, reflecting the ongoing conflicts, migration crises, and economic challenges faced by the world. However, there are also positive developments, such as the willingness of Indonesia's president to engage in dialogue with North Korea, that offer hope for a more peaceful and cooperative future."
+  "narrative": "**State of the World**\n\n**Global Security and Conflict**\n\nThe most significant stories today are centered around global security and conflict, with a focus on the Middle East and Eastern Europe. STORY 2, covered by BBC News and NPR, reports on the cancellation of US strikes on Iran, with President Trump claiming that a deal is being made \"rapidly\". The tone of this story is negative, with an average sentiment score of -0.52. Both outlets report on the development in a similar tone, with no significant divergence.\n\nIn a related story, STORY 11, covered by NPR, reports on the overnight Russian barrage that killed nine people in Kyiv, Ukraine. The tone of this story is also negative, with an average sentiment score of -0.56. This story highlights the ongoing conflict in Ukraine and the struggles of the country's air defense systems.\n\n**Health and Humanitarian Crises**\n\nThe Ebola outbreak in the Democratic Republic of Congo continues to worsen, with STORY 3, covered by BBC News, reporting that the current outbreak is the worst ever in the country. The story notes that there is currently no approved vaccine or treatment for the virus, which has killed 1,587 people so far. While this story is not directly comparable to others in terms of sentiment, it is clear that the situation is dire and requires immediate attention.\n\nIn contrast, STORY 1, covered by BBC News, reports on Uganda's success in battling the Ebola virus, with the country discharging its last Ebola patient from hospital roughly two weeks ago. This story highlights the effectiveness of Uganda's response to the outbreak and provides a positive counterpoint to the situation in the Democratic Republic of Congo.\n\n**Regional Developments**\n\nIn Africa, STORY 4, covered by AllAfrica News, reports on the continent's energy crossroads, with a focus on Namibia's rise and South Africa's debate on energy policy. The tone of this story is slightly negative, with an average sentiment score of -0.14. STORY 8, covered by BBC News, reports on concerns that some Nigerian soldiers may be colluding with criminal gangs, highlighting the country's security challenges. The tone of this story is negative, with an average sentiment score of -0.28.\n\nIn Asia, STORY 7, covered by Latest News, reports on the appointment of a new chief minister in Malaysia's Negeri Sembilan state. STORY 9, covered by Latest News, reports on the death of an elderly woman in Japan who was taking shelter in a car during a heatwave, highlighting the country's struggles with extreme weather.\n\nIn the Americas, STORY 10, covered by NPR, reports on the death toll in Spain's Ceuta border crisis, which has reached 67. The tone of this story is negative, with an average sentiment score of -0.43. STORY 12, covered by NPR, reports on the challenges faced by Spanish leader Pedro S\u00e1nchez in the aftermath of the crisis, with a similar negative tone.\n\nOverall, the most significant stories today are centered around global security and conflict, with a focus on the Middle East and Eastern Europe. The tone of these stories is predominantly negative, highlighting the ongoing challenges and crises facing the world."
 }
