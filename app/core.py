@@ -83,7 +83,7 @@ DEFAULT_CONFIG = {
     "max_items_per_feed": 15,
     "max_clusters_in_digest": 12,
     "digest_word_limit": 800,
-    "similarity_threshold": 0.55,  # Increased threshold to improve deduplication
+    "similarity_threshold": 0.65,  # Increased threshold to improve deduplication
 }
 
 
@@ -394,7 +394,12 @@ def summarize(clusters: list[list[dict]], config: dict, sentiment: dict | None =
                 print(f"[warn] LLM call failed ({resp.status_code}): {resp.text[:500]}")
             else:
                 # OpenAI-compatible response shape: choices[0].message.content
-                return resp.json()["choices"][0]["message"]["content"]
+                content = resp.json()["choices"][0]["message"]["content"]
+                # Ensure we don't exceed word limit significantly
+                words = content.split()
+                if len(words) > config['digest_word_limit']:
+                    content = ' '.join(words[:config['digest_word_limit']])
+                return content
         except Exception as exc:  # noqa: BLE001 - never let summarization kill the digest
             print(f"[warn] LLM call errored: {exc}")
 
