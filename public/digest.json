@@ -1,55 +1,40 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-02T09:04:33.821023+00:00",
-  "digest_words": 517,
+  "generated_at": "2026-08-03T10:31:43.736136+00:00",
+  "digest_words": 499,
   "clusters": [
     {
-      "headline": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+      "headline": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
       "countries": [
-        "United States",
-        "Iran"
+        "Israel"
       ],
-      "regions": [
-        "Americas",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-        "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending"
-      ]
-    },
-    {
-      "headline": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-      "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
+      "summary": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Africa: Africa's Energy Crossroads: What Namibia's Rise and South Africa's Debate Mean for the Continent",
+      "headline": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "countries": [
+        "Pakistan"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "South Africa: Aircraft Deployed to Battle Table Mountain Fire - South African News Briefs - August 3, 2026",
       "countries": [
         "South Africa"
       ],
@@ -57,45 +42,59 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica] Africa stands at one of the most consequential moments in its modern economic history.",
+      "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202608010002.html"
+        "https://allafrica.com/stories/202608030241.html"
       ]
     },
     {
-      "headline": "Africa: AHEFT Prize Launched to Recognise African Universities Leading Higher Education Transformation",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica] Rio de Janeiro, Brazil -- As Africa grapples with shrinking international development funding and rising pressure to create jobs for its rapidly growing youth population, the Mastercard Foundation is making one of the continent's biggest long-term investments in higher education, committ",
-      "links": [
-        "https://allafrica.com/stories/202607300588.html"
-      ]
-    },
-    {
-      "headline": "Somalia: Somalia's President Arrives in Uganda Ahead of Aussom Summit, Holds Talks With Museveni",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Shabelle] Kampala -- Somali President Hassan Sheikh Mohamud arrived in Uganda's capital Kampala on Friday, where he held bilateral talks with Ugandan President Yoweri Museveni ahead of a summit expected to shape the future of the African Union Support and Stabilisation Mission in Somalia (AUSSOM).",
-      "links": [
-        "https://allafrica.com/stories/202607310291.html"
-      ]
-    },
-    {
-      "headline": "UMNO\u2019s Ismail Lasim appointed new Negeri Sembilan chief minister following supermajority win",
+      "headline": "Man in secret sexual 'relationship' with 13-year-old niece for almost 2 years, gets jail for rape",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The 67-year-old was sworn in before state ruler Tuanku Muhriz Tuanku Munawir at Istana Besar Seri Menanti on Sunday (Aug 2), Malaysian media reports said.",
+      "summary": "The man got jealous when his niece began dating a schoolmate and he threatened to leak her nude photos.",
       "links": [
-        "https://www.channelnewsasia.com/asia/ismail-lasim-appointed-negeri-sembilan-new-chief-minister-6293491"
+        "https://www.channelnewsasia.com/singapore/sex-abuse-uncle-niece-relationship-rape-jail-6294856"
+      ]
+    },
+    {
+      "headline": "BN, PN to begin talks soon on electoral pact for Melaka polls, following Negeri Sembilan victory",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Analysts tell CNA that an early election will be in the interest of the two coalitions, following their recent success in the Johor and Negeri Sembilan polls.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/melaka-state-elections-bn-pn-pact-september-malaysia-6295026"
+      ]
+    },
+    {
+      "headline": "Zimbabwe: Zimbabwe Declares National Disaster After South Africa Bus Tragedy Claims 11 Lives",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Zimbabwe] THE Zimbabwean government has declared the recent bus crash in South Africa a national disaster after 11 Zimbabwean citizens lost their lives while returning home from Cape Town. Authorities are now working to identify the victims and facilitate the repatriation of their remains.",
+      "links": [
+        "https://allafrica.com/stories/202608030469.html"
+      ]
+    },
+    {
+      "headline": "Uganda: Stop the Cows - Museveni Warns High Bride Price Pricing Young People Out of Marriage",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Nile Post] President Museveni has criticised the rising cost of bride price and lavish wedding ceremonies, warning that the growing financial burden is discouraging many young Ugandans from marrying.",
+      "links": [
+        "https://allafrica.com/stories/202608030136.html"
       ]
     },
     {
@@ -113,63 +112,61 @@
       ]
     },
     {
-      "headline": "Japan quake: Elderly woman with apparent heat stroke found dead while taking shelter in car",
+      "headline": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
       "countries": [
-        "Japan"
+        "United Kingdom"
       ],
       "regions": [
-        "Asia"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "This latest death was what officials and experts had worried about amid high temperatures.",
+      "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
       "links": [
-        "https://www.channelnewsasia.com/east-asia/japan-quake-elderly-woman-heat-stroke-dead-6293536"
+        "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+      "headline": "Nigeria: Cjid Awards Ai Advocacy Grants to Strengthen Responsible Ai Governance in Nigeria",
       "countries": [
-        "Spain"
+        "Nigeria"
       ],
       "regions": [
-        "Americas"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier.",
+      "summary": "[CJID] The Centre for Journalism Innovation and Development (CJID) has selected seven civil society organisations for a new round of AI advocacy grants under the Nigeria AI Collective, reaffirming its commitment to building an inclusive, responsible, and citizen-centered AI ecosystem in Nigeria.",
       "links": [
-        "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco"
+        "https://allafrica.com/stories/202608030131.html"
       ]
     },
     {
-      "headline": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+      "headline": "How Israeli presence in Forest City exposes the Zionist-aligned underbelly of Malaysia",
       "countries": [
-        "United States",
-        "Russia",
-        "Ukraine"
+        "Israel"
       ],
       "regions": [
-        "Americas"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems.",
+      "summary": "\n\n  \n      \n      \nHow Israeli presence in Forest City exposes the Zionist-aligned underbelly of Malaysia\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMiriyam Ilavenil\n on \nFri, 07/31/2026 - 09:12\n\n        \n      \n    \n      \n    \n                The controversy has fuelled debate over",
       "links": [
-        "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes"
+        "https://www.middleeasteye.net/news/how-israeli-presence-forest-city-exposes-zionist-aligned-underbelly-malaysia"
       ]
     },
     {
-      "headline": "Spain's Pedro S\u00e1nchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
+      "headline": "Israel forces carry out 'large bombing' operations, burn olive groves in south Lebanon",
       "countries": [
-        "Spain"
+        "Israel"
       ],
       "regions": [
-        "Americas"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave.",
+      "summary": "\n\n  \n      \n      \nIsrael forces carry out 'large bombing' operations, burn olive groves in south Lebanon\n\n    \n    \n\n        \n    \n                Israeli forces carried out&nbsp;what state media described as \"large bombing\" operations&nbsp;in the areas of Mashaa al-Mansouri and Majdal Zoun in sout",
       "links": [
-        "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israel-forces-carry-out-large-bombing-operations-burn-olive-groves-south"
       ]
     }
   ],
-  "narrative": "**State of the World**\n\n**Global Security and Conflict**\n\nThe most significant stories today are centered around global security and conflict, with a focus on the Middle East and Eastern Europe. STORY 2, covered by BBC News and NPR, reports on the cancellation of US strikes on Iran, with President Trump claiming that a deal is being made \"rapidly\". The tone of this story is negative, with an average sentiment score of -0.52. Both outlets report on the development in a similar tone, with no significant divergence.\n\nIn a related story, STORY 11, covered by NPR, reports on the overnight Russian barrage that killed nine people in Kyiv, Ukraine. The tone of this story is also negative, with an average sentiment score of -0.56. This story highlights the ongoing conflict in Ukraine and the struggles of the country's air defense systems.\n\n**Health and Humanitarian Crises**\n\nThe Ebola outbreak in the Democratic Republic of Congo continues to worsen, with STORY 3, covered by BBC News, reporting that the current outbreak is the worst ever in the country. The story notes that there is currently no approved vaccine or treatment for the virus, which has killed 1,587 people so far. While this story is not directly comparable to others in terms of sentiment, it is clear that the situation is dire and requires immediate attention.\n\nIn contrast, STORY 1, covered by BBC News, reports on Uganda's success in battling the Ebola virus, with the country discharging its last Ebola patient from hospital roughly two weeks ago. This story highlights the effectiveness of Uganda's response to the outbreak and provides a positive counterpoint to the situation in the Democratic Republic of Congo.\n\n**Regional Developments**\n\nIn Africa, STORY 4, covered by AllAfrica News, reports on the continent's energy crossroads, with a focus on Namibia's rise and South Africa's debate on energy policy. The tone of this story is slightly negative, with an average sentiment score of -0.14. STORY 8, covered by BBC News, reports on concerns that some Nigerian soldiers may be colluding with criminal gangs, highlighting the country's security challenges. The tone of this story is negative, with an average sentiment score of -0.28.\n\nIn Asia, STORY 7, covered by Latest News, reports on the appointment of a new chief minister in Malaysia's Negeri Sembilan state. STORY 9, covered by Latest News, reports on the death of an elderly woman in Japan who was taking shelter in a car during a heatwave, highlighting the country's struggles with extreme weather.\n\nIn the Americas, STORY 10, covered by NPR, reports on the death toll in Spain's Ceuta border crisis, which has reached 67. The tone of this story is negative, with an average sentiment score of -0.43. STORY 12, covered by NPR, reports on the challenges faced by Spanish leader Pedro S\u00e1nchez in the aftermath of the crisis, with a similar negative tone.\n\nOverall, the most significant stories today are centered around global security and conflict, with a focus on the Middle East and Eastern Europe. The tone of these stories is predominantly negative, highlighting the ongoing challenges and crises facing the world."
+  "narrative": "State of the World - Daily Email Digest\n\n**Global Conflict and Security**\n\nThe most globally significant stories today are marked by negative tones, particularly in the Middle East and Africa. \n- STORY 1: Uganda has unveiled a statue of Yonatan Netanyahu, the brother of Israel's PM who died in the 1976 Entebbe rescue mission, as reported by BBC News. The tone is negative, with an average sentiment of -0.66, reflecting the ongoing complexities of Israel's relations with other nations.\n- STORY 11 and STORY 12 also focus on Israel, with highly negative tones of -0.66, discussing the Israeli presence in Malaysia and military operations in south Lebanon, respectively. These stories highlight the contentious nature of Israeli foreign policy and its impact on regional dynamics.\n\n**Regional Protests and Unrest**\n\nProtests and unrest are reported in various regions, with divergent tones across outlets:\n- STORY 2: BBC News reports on deadly protests in Pakistan-administered Kashmir, with a tone of -0.46, indicating a significant level of unrest and concern.\n- STORY 8: In Nigeria, questions are raised about potential collusion between soldiers and criminal gangs, as reported by BBC News with a tone of -0.29, suggesting ongoing security challenges in the region.\n\n**Natural Disasters and Governance**\n\nNatural disasters and governance issues are also prominent:\n- STORY 3: In South Africa, aircraft have been deployed to battle a fire on Table Mountain, as reported by AllAfrica News, with a relatively neutral tone of -0.16, focusing on the response to the disaster.\n- STORY 6: Zimbabwe has declared a national disaster after a bus crash in South Africa claimed the lives of 11 Zimbabwean citizens, reported by AllAfrica News with a tone of -0.16, reflecting the tragic nature of the event.\n\n**Crime and Social Issues**\n\nCrime and social issues are reported across different regions:\n- STORY 4: A man has been jailed for raping his 13-year-old niece in Asia, as reported by Latest News, highlighting serious social and legal issues.\n- STORY 7: In Uganda, President Museveni has warned that high bride prices are discouraging young people from marrying, reported by AllAfrica News, touching on social and economic challenges.\n\n**Other Developments**\n\nOther notable stories include:\n- STORY 5: In Asia, talks are set to begin on an electoral pact for the Melaka polls, following recent successes in other elections, as reported by Latest News.\n- STORY 9: A firefighting helicopter collision in Greece resulted in two deaths, with a British pilot surviving, reported by BBC News with a tone of -0.40, underscoring the risks faced by emergency responders.\n- STORY 10: In Nigeria, grants have been awarded to strengthen responsible AI governance, as reported by AllAfrica News with a tone of -0.29, indicating efforts to address technological and ethical challenges.\n\nThese stories reflect the complex and often challenging state of global affairs, with a focus on conflict, security, natural disasters, governance, crime, and social issues. The divergence in tones across outlets and regions highlights the need for nuanced understanding and consideration of multiple perspectives."
 }
