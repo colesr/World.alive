@@ -1,40 +1,79 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-03T10:31:43.736136+00:00",
-  "digest_words": 499,
+  "generated_at": "2026-08-04T09:32:19.391674+00:00",
+  "digest_words": 239,
   "clusters": [
     {
-      "headline": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+      "headline": "I left my wife and twins behind - why this Nigerian man fled South Africa",
       "countries": [
-        "Israel"
+        "Nigeria",
+        "South Africa"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
+      "summary": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "countries": [
-        "Pakistan"
-      ],
+      "headline": "EU calls for stronger borders after Ceuta migrant crossings",
+      "countries": [],
       "regions": [
+        "Africa",
         "Europe"
       ],
-      "outlets": 1,
-      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "outlets": 2,
+      "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "South Africa: Aircraft Deployed to Battle Table Mountain Fire - South African News Briefs - August 3, 2026",
+      "headline": "Zimbabwe: ZIMSEC Releases 2026 June Exam Results - O-Level Pass Rate Drops, A-Level Performance Improves",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Zimbabwe] The Zimbabwe School Examinations Council (ZIMSEC) has announced the release of the 2026 June Ordinary and Advanced Level examination results, with candidates able to access them online from 6pm Monday.",
+      "links": [
+        "https://allafrica.com/stories/202608040105.html"
+      ]
+    },
+    {
+      "headline": "Senior Iranian official says US will 'face serious risks and casualties' if naval blockade continues",
+      "countries": [
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nSenior Iranian official says US will 'face serious risks and casualties' if naval blockade continues\n\n    \n    \n\n        \n    \n                Top military adviser to Supreme Leader Mojtaba Khamenei Mohsen Rezaei warned the US over its ongoing naval blockade against Iranian ports,",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/senior-iranian-official-says-us-will-face-serious-risks-and-casualties"
+      ]
+    },
+    {
+      "headline": "Malawi: Community-Led HIV Care Gives Malawi a Blueprint for Ending Mother-to-Child Transmission",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica] Rio de Janeiro, Brazil -- Malawi is making impressive strides towards the elimination of mother-to-child transmission of HIV. New evidence shows a very low HIV positivity rate among HIV-exposed infants enrolled in a community-based care and treatment programme across nine districts.",
+      "links": [
+        "https://allafrica.com/stories/202608030668.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Water Crisis Turns Deadly in Durban - South African News Briefs - August 4, 2026",
       "countries": [
         "South Africa"
       ],
@@ -44,57 +83,7 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202608030241.html"
-      ]
-    },
-    {
-      "headline": "Man in secret sexual 'relationship' with 13-year-old niece for almost 2 years, gets jail for rape",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The man got jealous when his niece began dating a schoolmate and he threatened to leak her nude photos.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/sex-abuse-uncle-niece-relationship-rape-jail-6294856"
-      ]
-    },
-    {
-      "headline": "BN, PN to begin talks soon on electoral pact for Melaka polls, following Negeri Sembilan victory",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Analysts tell CNA that an early election will be in the interest of the two coalitions, following their recent success in the Johor and Negeri Sembilan polls.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/melaka-state-elections-bn-pn-pact-september-malaysia-6295026"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: Zimbabwe Declares National Disaster After South Africa Bus Tragedy Claims 11 Lives",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] THE Zimbabwean government has declared the recent bus crash in South Africa a national disaster after 11 Zimbabwean citizens lost their lives while returning home from Cape Town. Authorities are now working to identify the victims and facilitate the repatriation of their remains.",
-      "links": [
-        "https://allafrica.com/stories/202608030469.html"
-      ]
-    },
-    {
-      "headline": "Uganda: Stop the Cows - Museveni Warns High Bride Price Pricing Young People Out of Marriage",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Nile Post] President Museveni has criticised the rising cost of bride price and lavish wedding ceremonies, warning that the growing financial burden is discouraging many young Ugandans from marrying.",
-      "links": [
-        "https://allafrica.com/stories/202608030136.html"
+        "https://allafrica.com/stories/202608040107.html"
       ]
     },
     {
@@ -112,61 +101,72 @@
       ]
     },
     {
-      "headline": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "headline": "Japan may not have intervened in FX market on Monday despite yen's surge, BOJ data suggests",
       "countries": [
-        "United Kingdom"
+        "Japan"
       ],
       "regions": [
-        "Europe"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+      "summary": "",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/business/japan-may-not-have-intervened-in-fx-market-monday-despite-yens-surge-boj-data-suggests-6297446"
       ]
     },
     {
-      "headline": "Nigeria: Cjid Awards Ai Advocacy Grants to Strengthen Responsible Ai Governance in Nigeria",
+      "headline": "Central African Republic: How Russia Lost the Ability to Leave the Central African Republic",
       "countries": [
-        "Nigeria"
+        "Russia"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[CJID] The Centre for Journalism Innovation and Development (CJID) has selected seven civil society organisations for a new round of AI advocacy grants under the Nigeria AI Collective, reaffirming its commitment to building an inclusive, responsible, and citizen-centered AI ecosystem in Nigeria.",
+      "summary": "[African Arguments] When armed groups attacked the border post of Am-Dafok in northeastern CAR on 30 June 2026, most analysts asked the familiar question: who was behind the attack, and how resilient is Russia's presence? The right question is different. Why can Russia not simply leave the Central A",
       "links": [
-        "https://allafrica.com/stories/202608030131.html"
+        "https://allafrica.com/stories/202608040003.html"
       ]
     },
     {
-      "headline": "How Israeli presence in Forest City exposes the Zionist-aligned underbelly of Malaysia",
-      "countries": [
-        "Israel"
-      ],
+      "headline": "Raymond Ng declared vexatious litigant, court imposes litigation restraints on Iris Koh",
+      "countries": [],
       "regions": [
-        "Middle East"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nHow Israeli presence in Forest City exposes the Zionist-aligned underbelly of Malaysia\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMiriyam Ilavenil\n on \nFri, 07/31/2026 - 09:12\n\n        \n      \n    \n      \n    \n                The controversy has fuelled debate over",
+      "summary": "The court found that Raymond Ng had brought certain proceedings for collateral purposes and likely had the intention to annoy opposing parties.",
       "links": [
-        "https://www.middleeasteye.net/news/how-israeli-presence-forest-city-exposes-zionist-aligned-underbelly-malaysia"
+        "https://www.channelnewsasia.com/singapore/raymond-ng-vexatious-litigant-iris-koh-restraint-court-6297421"
       ]
     },
     {
-      "headline": "Israel forces carry out 'large bombing' operations, burn olive groves in south Lebanon",
-      "countries": [
-        "Israel"
-      ],
+      "headline": "Battle lines drawn as Infantino fights to hold onto power after FIFA stake sale fiasco",
+      "countries": [],
       "regions": [
-        "Middle East"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsrael forces carry out 'large bombing' operations, burn olive groves in south Lebanon\n\n    \n    \n\n        \n    \n                Israeli forces carried out&nbsp;what state media described as \"large bombing\" operations&nbsp;in the areas of Mashaa al-Mansouri and Majdal Zoun in sout",
+      "summary": "According to a report, UEFA, CONCACAF and the AFC are determined to force Infantino out of office by paralysing FIFA and even starting up their own competitions if he refuses to go.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israel-forces-carry-out-large-bombing-operations-burn-olive-groves-south"
+        "https://www.channelnewsasia.com/sport/fifa-gianni-infantino-stake-sale-6297306"
+      ]
+    },
+    {
+      "headline": "Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "countries": [
+        "Saudi Arabia",
+        "Ethiopia"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "Dozens, many from Tigray, are awaiting execution - some called the BBC to tell their stories.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - Daily Email Digest\n\n**Global Conflict and Security**\n\nThe most globally significant stories today are marked by negative tones, particularly in the Middle East and Africa. \n- STORY 1: Uganda has unveiled a statue of Yonatan Netanyahu, the brother of Israel's PM who died in the 1976 Entebbe rescue mission, as reported by BBC News. The tone is negative, with an average sentiment of -0.66, reflecting the ongoing complexities of Israel's relations with other nations.\n- STORY 11 and STORY 12 also focus on Israel, with highly negative tones of -0.66, discussing the Israeli presence in Malaysia and military operations in south Lebanon, respectively. These stories highlight the contentious nature of Israeli foreign policy and its impact on regional dynamics.\n\n**Regional Protests and Unrest**\n\nProtests and unrest are reported in various regions, with divergent tones across outlets:\n- STORY 2: BBC News reports on deadly protests in Pakistan-administered Kashmir, with a tone of -0.46, indicating a significant level of unrest and concern.\n- STORY 8: In Nigeria, questions are raised about potential collusion between soldiers and criminal gangs, as reported by BBC News with a tone of -0.29, suggesting ongoing security challenges in the region.\n\n**Natural Disasters and Governance**\n\nNatural disasters and governance issues are also prominent:\n- STORY 3: In South Africa, aircraft have been deployed to battle a fire on Table Mountain, as reported by AllAfrica News, with a relatively neutral tone of -0.16, focusing on the response to the disaster.\n- STORY 6: Zimbabwe has declared a national disaster after a bus crash in South Africa claimed the lives of 11 Zimbabwean citizens, reported by AllAfrica News with a tone of -0.16, reflecting the tragic nature of the event.\n\n**Crime and Social Issues**\n\nCrime and social issues are reported across different regions:\n- STORY 4: A man has been jailed for raping his 13-year-old niece in Asia, as reported by Latest News, highlighting serious social and legal issues.\n- STORY 7: In Uganda, President Museveni has warned that high bride prices are discouraging young people from marrying, reported by AllAfrica News, touching on social and economic challenges.\n\n**Other Developments**\n\nOther notable stories include:\n- STORY 5: In Asia, talks are set to begin on an electoral pact for the Melaka polls, following recent successes in other elections, as reported by Latest News.\n- STORY 9: A firefighting helicopter collision in Greece resulted in two deaths, with a British pilot surviving, reported by BBC News with a tone of -0.40, underscoring the risks faced by emergency responders.\n- STORY 10: In Nigeria, grants have been awarded to strengthen responsible AI governance, as reported by AllAfrica News with a tone of -0.29, indicating efforts to address technological and ethical challenges.\n\nThese stories reflect the complex and often challenging state of global affairs, with a focus on conflict, security, natural disasters, governance, crime, and social issues. The divergence in tones across outlets and regions highlights the need for nuanced understanding and consideration of multiple perspectives."
+  "narrative": "State of the World - 2026-08-04 (extractive mode)\n\n* I left my wife and twins behind - why this Nigerian man fled South Africa (BBC News, 2 outlets)\n* EU calls for stronger borders after Ceuta migrant crossings (BBC News, 2 outlets)\n* Zimbabwe: ZIMSEC Releases 2026 June Exam Results - O-Level Pass Rate Drops, A-Level Performance Improves (AllAfrica News: Latest, 1 outlets)\n* Senior Iranian official says US will 'face serious risks and casualties' if naval blockade continues (Section Feed, 1 outlets)\n* Malawi: Community-Led HIV Care Gives Malawi a Blueprint for Ending Mother-to-Child Transmission (AllAfrica News: Latest, 1 outlets)\n* South Africa: Water Crisis Turns Deadly in Durban - South African News Briefs - August 4, 2026 (AllAfrica News: Latest, 1 outlets)\n* Are some soldiers colluding with Nigeria's criminal gangs? A recent arrest prompts questions (BBC News, 1 outlets)\n* Japan may not have intervened in FX market on Monday despite yen's surge, BOJ data suggests (Latest News, 1 outlets)\n* Central African Republic: How Russia Lost the Ability to Leave the Central African Republic (AllAfrica News: Latest, 1 outlets)\n* Raymond Ng declared vexatious litigant, court imposes litigation restraints on Iris Koh (Latest News, 1 outlets)\n* Battle lines drawn as Infantino fights to hold onto power after FIFA stake sale fiasco (Latest News, 1 outlets)\n* Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC (BBC News, 1 outlets)"
 }
