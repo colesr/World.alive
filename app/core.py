@@ -83,7 +83,7 @@ DEFAULT_CONFIG = {
     "max_items_per_feed": 15,
     "max_clusters_in_digest": 12,
     "digest_word_limit": 800,
-    "similarity_threshold": 0.65,  # Increased threshold to improve deduplication
+    "similarity_threshold": 0.70,  # Increased threshold to improve deduplication
 }
 
 
@@ -151,7 +151,11 @@ def _combined_similarity(item1: dict, item2: dict, title_weight: float = 0.7) ->
     
     # Boost similarity for items with identical links (definite duplicates)
     if item1["link"] and item2["link"] and item1["link"] == item2["link"]:
-        return min(1.0, title_sim * 1.5)  # Boost but cap at 1.0
+        return min(1.0, (title_sim + summary_sim) * 1.5)  # Boost combined score but cap at 1.0
+    
+    # Additional boost for very similar titles even without exact link match
+    if title_sim > 0.8:
+        return min(1.0, title_weight * title_sim + (1 - title_weight) * summary_sim + 0.15)
     
     return title_weight * title_sim + (1 - title_weight) * summary_sim
 
@@ -161,24 +165,19 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
     if not items:
         return []
     
-    # Sort items by publication time if available, otherwise by title length
+    # Sort items by title length (longer titles first = more descriptive)
     sorted_items = sorted(items, key=lambda x: len(x["title"]), reverse=True)
     
     clusters = []
     
     for item in sorted_items:
         item_added = False
-        item_tokens = {
-            "title": _tokens(item["title"]),
-            "summary": _tokens(item["summary"])
-        }
-        
-        # Compare against existing clusters
         best_cluster_idx = -1
         best_score = 0.0
         
+        # Compare against existing clusters
         for i, cluster in enumerate(clusters):
-            # Compare against all items in the cluster for better matching
+            # Find the maximum similarity between current item and any item in the cluster
             cluster_max_score = 0.0
             for cluster_item in cluster:
                 score = _combined_similarity(item, cluster_item, title_weight=0.7)
@@ -193,20 +192,18 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
                     centroid_title_tokens |= _tokens(ci["title"])
                     centroid_summary_tokens |= _tokens(ci["summary"])
                 
-                centroid_title_sim = _similarity(item_tokens["title"], centroid_title_tokens)
-                centroid_summary_sim = _similarity(item_tokens["summary"], centroid_summary_tokens)
+                centroid_title_sim = _similarity(_tokens(item["title"]), centroid_title_tokens)
+                centroid_summary_sim = _similarity(_tokens(item["summary"]), centroid_summary_tokens)
                 centroid_score = 0.7 * centroid_title_sim + 0.3 * centroid_summary_sim
                 
                 # Use the maximum of individual item scores and centroid score
                 final_score = max(cluster_max_score, centroid_score)
                 
                 # Boost score if links match
-                link_boost = False
                 for cluster_item in cluster:
                     if (item["link"] and cluster_item["link"] and 
                         item["link"] == cluster_item["link"]):
                         final_score = min(1.0, final_score * 1.5)
-                        link_boost = True
                         break
                 
                 if final_score > best_score:
@@ -260,7 +257,7 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
                         break
                 
                 # Merge if sufficiently similar or have link matches
-                if centroid_sim >= threshold * 0.8 or link_match:
+                if centroid_sim >= threshold * 0.7 or link_match:
                     clusters[i].extend(clusters[j])
                     clusters.pop(j)
                     merged = True
