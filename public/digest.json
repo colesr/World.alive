@@ -1,79 +1,52 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-04T09:32:19.391674+00:00",
-  "digest_words": 239,
+  "generated_at": "2026-08-05T09:29:30.236584+00:00",
+  "digest_words": 249,
   "clusters": [
     {
-      "headline": "I left my wife and twins behind - why this Nigerian man fled South Africa",
+      "headline": "Arrests in Egypt after people allegedly impersonate judges",
       "countries": [
-        "Nigeria",
-        "South Africa"
+        "Egypt"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa.",
+      "summary": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "EU calls for stronger borders after Ceuta migrant crossings",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: ZIMSEC Releases 2026 June Exam Results - O-Level Pass Rate Drops, A-Level Performance Improves",
+      "headline": "Africa: African Development Fund Grants $4.3 Million to Strengthen Integration of Natural Capital Into Decision-Making in 13 African Countries",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[New Zimbabwe] The Zimbabwe School Examinations Council (ZIMSEC) has announced the release of the 2026 June Ordinary and Advanced Level examination results, with candidates able to access them online from 6pm Monday.",
+      "summary": "[African Development Bank (AfDB)] The Board of Directors of the African Development Fund, the concessional window of the African Development Bank Group, has approved a grant of $4.23 million to implement the second phase of a project to integrate natural capital into development financing in Africa.",
       "links": [
-        "https://allafrica.com/stories/202608040105.html"
+        "https://allafrica.com/stories/202608040582.html"
       ]
     },
     {
-      "headline": "Senior Iranian official says US will 'face serious risks and casualties' if naval blockade continues",
+      "headline": "Thai footballer killed in lighting strike during match in Narathiwat province; Malaysian among 12 others injured",
       "countries": [
-        "Iran"
+        "Thailand"
       ],
       "regions": [
-        "Middle East"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nSenior Iranian official says US will 'face serious risks and casualties' if naval blockade continues\n\n    \n    \n\n        \n    \n                Top military adviser to Supreme Leader Mojtaba Khamenei Mohsen Rezaei warned the US over its ongoing naval blockade against Iranian ports,",
+      "summary": "The incident took place on Tuesday (Aug 4) evening during the semi-final match of the regional Golok FA Cup football tournament at Santiphap Stadium in Thailand\u2019s Narathiwat province.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/senior-iranian-official-says-us-will-face-serious-risks-and-casualties"
+        "https://www.channelnewsasia.com/asia/malaysia-thai-footballer-died-lightning-strike-sungai-golok-6300346"
       ]
     },
     {
-      "headline": "Malawi: Community-Led HIV Care Gives Malawi a Blueprint for Ending Mother-to-Child Transmission",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica] Rio de Janeiro, Brazil -- Malawi is making impressive strides towards the elimination of mother-to-child transmission of HIV. New evidence shows a very low HIV positivity rate among HIV-exposed infants enrolled in a community-based care and treatment programme across nine districts.",
-      "links": [
-        "https://allafrica.com/stories/202608030668.html"
-      ]
-    },
-    {
-      "headline": "South Africa: Water Crisis Turns Deadly in Durban - South African News Briefs - August 4, 2026",
+      "headline": "South Africa: Govt Vows to Intensify Health Corruption Fight - South African News Briefs - August 5, 2026",
       "countries": [
         "South Africa"
       ],
@@ -83,73 +56,87 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202608040107.html"
+        "https://allafrica.com/stories/202608050138.html"
       ]
     },
     {
-      "headline": "Are some soldiers colluding with Nigeria's criminal gangs? A recent arrest prompts questions",
+      "headline": "Congo-Kinshasa: After Peace Talks Stall, Can a National Dialogue Help DR Congo Find a Way Forward?",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[The New Humanitarian] Goma, Democratic Republic of the Congo -- \"The dialogue must be neither a ploy to cling to power nor a mere marketplace for negotiating political posts.\"",
+      "links": [
+        "https://allafrica.com/stories/202608050021.html"
+      ]
+    },
+    {
+      "headline": "Trump says talks with Tehran 'very good', threatens to strike if Hormuz Strait remains closed",
       "countries": [
-        "Nigeria"
+        "United States",
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nTrump says talks with Tehran 'very good', threatens to strike if Hormuz Strait remains closed\n\n    \n    \n\n        \n    \n                US President Donald Trump told Fox News that Washington is having \"very good discussions\" with Iran, insisting that Tehran is keen on signing the",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-talks-tehran-very-good-threatens-strike-if-hormuz-strait"
+      ]
+    },
+    {
+      "headline": "Abdul El-Sayed defeats Aipac-backed rival in Michigan Democratic Senate primary, NBC reports",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nAbdul El-Sayed defeats Aipac-backed rival in Michigan Democratic Senate primary, NBC reports\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nWed, 08/05/2026 - 08:51\n\n        \n      \n    \n      \n    \n                Progressive advocate overcame more than ",
+      "links": [
+        "https://www.middleeasteye.net/news/abdul-el-sayed-wins-michigan-democratic-senate-primary"
+      ]
+    },
+    {
+      "headline": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum",
+      "countries": [
+        "Kenya"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "A private's detention reignites concerns that troops are contributing to the country's security challenges.",
+      "summary": "[Radio Dalsan] A mounting cohort of senior Somali government ministers is poised to surrender their Kenyan passports and national identity documents within days, heeding President Hassan Sheikh Mohamud's ultimatum that dual citizens holding public office must forswear their foreign nationality or im",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cr7k8y5272eo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202608040400.html"
       ]
     },
     {
-      "headline": "Japan may not have intervened in FX market on Monday despite yen's surge, BOJ data suggests",
-      "countries": [
-        "Japan"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/japan-may-not-have-intervened-in-fx-market-monday-despite-yens-surge-boj-data-suggests-6297446"
-      ]
-    },
-    {
-      "headline": "Central African Republic: How Russia Lost the Ability to Leave the Central African Republic",
-      "countries": [
-        "Russia"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[African Arguments] When armed groups attacked the border post of Am-Dafok in northeastern CAR on 30 June 2026, most analysts asked the familiar question: who was behind the attack, and how resilient is Russia's presence? The right question is different. Why can Russia not simply leave the Central A",
-      "links": [
-        "https://allafrica.com/stories/202608040003.html"
-      ]
-    },
-    {
-      "headline": "Raymond Ng declared vexatious litigant, court imposes litigation restraints on Iris Koh",
+      "headline": "NSF raped deaf and mute 13-year-old girl while pregnant wife was away, gets jail and caning",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The court found that Raymond Ng had brought certain proceedings for collateral purposes and likely had the intention to annoy opposing parties.",
+      "summary": "The teenager secretly texted the man's wife for help and the attack stopped only when the wife returned home and began unlocking the flat's door.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/raymond-ng-vexatious-litigant-iris-koh-restraint-court-6297421"
+        "https://www.channelnewsasia.com/singapore/nsf-rape-sexual-assault-deaf-mute-teenager-awol-6300331"
       ]
     },
     {
-      "headline": "Battle lines drawn as Infantino fights to hold onto power after FIFA stake sale fiasco",
-      "countries": [],
+      "headline": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+      "countries": [
+        "United States",
+        "Iran"
+      ],
       "regions": [
-        "Asia"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "According to a report, UEFA, CONCACAF and the AFC are determined to force Infantino out of office by paralysing FIFA and even starting up their own competitions if he refuses to go.",
+      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
       "links": [
-        "https://www.channelnewsasia.com/sport/fifa-gianni-infantino-stake-sale-6297306"
+        "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -166,7 +153,22 @@
       "links": [
         "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss"
       ]
+    },
+    {
+      "headline": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+      "countries": [
+        "Russia",
+        "Ukraine"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
+      ]
     }
   ],
-  "narrative": "State of the World - 2026-08-04 (extractive mode)\n\n* I left my wife and twins behind - why this Nigerian man fled South Africa (BBC News, 2 outlets)\n* EU calls for stronger borders after Ceuta migrant crossings (BBC News, 2 outlets)\n* Zimbabwe: ZIMSEC Releases 2026 June Exam Results - O-Level Pass Rate Drops, A-Level Performance Improves (AllAfrica News: Latest, 1 outlets)\n* Senior Iranian official says US will 'face serious risks and casualties' if naval blockade continues (Section Feed, 1 outlets)\n* Malawi: Community-Led HIV Care Gives Malawi a Blueprint for Ending Mother-to-Child Transmission (AllAfrica News: Latest, 1 outlets)\n* South Africa: Water Crisis Turns Deadly in Durban - South African News Briefs - August 4, 2026 (AllAfrica News: Latest, 1 outlets)\n* Are some soldiers colluding with Nigeria's criminal gangs? A recent arrest prompts questions (BBC News, 1 outlets)\n* Japan may not have intervened in FX market on Monday despite yen's surge, BOJ data suggests (Latest News, 1 outlets)\n* Central African Republic: How Russia Lost the Ability to Leave the Central African Republic (AllAfrica News: Latest, 1 outlets)\n* Raymond Ng declared vexatious litigant, court imposes litigation restraints on Iris Koh (Latest News, 1 outlets)\n* Battle lines drawn as Infantino fights to hold onto power after FIFA stake sale fiasco (Latest News, 1 outlets)\n* Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-08-05 (extractive mode)\n\n* Arrests in Egypt after people allegedly impersonate judges (BBC News, 2 outlets)\n* Africa: African Development Fund Grants $4.3 Million to Strengthen Integration of Natural Capital Into Decision-Making in 13 African Countries (AllAfrica News: Latest, 1 outlets)\n* Thai footballer killed in lighting strike during match in Narathiwat province; Malaysian among 12 others injured (Latest News, 1 outlets)\n* South Africa: Govt Vows to Intensify Health Corruption Fight - South African News Briefs - August 5, 2026 (AllAfrica News: Latest, 1 outlets)\n* Congo-Kinshasa: After Peace Talks Stall, Can a National Dialogue Help DR Congo Find a Way Forward? (AllAfrica News: Latest, 1 outlets)\n* Trump says talks with Tehran 'very good', threatens to strike if Hormuz Strait remains closed (Section Feed, 1 outlets)\n* Abdul El-Sayed defeats Aipac-backed rival in Michigan Democratic Senate primary, NBC reports (Section Feed, 1 outlets)\n* Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum (AllAfrica News: Latest, 1 outlets)\n* NSF raped deaf and mute 13-year-old girl while pregnant wife was away, gets jail and caning (Latest News, 1 outlets)\n* Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall (BBC News, 1 outlets)\n* Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC (BBC News, 1 outlets)\n* Russian strike kills at least 17 as Zelensky says interceptors could have saved lives (BBC News, 1 outlets)"
 }
