@@ -1,22 +1,49 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-05T09:29:30.236584+00:00",
-  "digest_words": 249,
+  "generated_at": "2026-08-06T09:33:56.481536+00:00",
+  "digest_words": 242,
   "clusters": [
     {
-      "headline": "Arrests in Egypt after people allegedly impersonate judges",
+      "headline": "Nearly 80% of US army's interceptors for a key missile defense system depleted: Report",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nNearly 80% of US army's interceptors for a key missile defense system depleted: Report\n\n    \n    \n\n        \n    \n                The US army has used up nearly 80 percent of its&nbsp;interceptors for a key missile defence system, CNN reported citing several sources familiar with t",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-80-us-armys-interceptors-key-missile-defense-system-depleted-0",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-80-us-armys-interceptors-key-missile-defense-system-depleted"
+      ]
+    },
+    {
+      "headline": "Outrage as Ugandan football captain beaten to death in street gang attack",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Nigerian security forces rescue more than 300 abductees",
       "countries": [
-        "Egypt"
+        "Nigeria"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
+      "summary": "The government says the rescue is the country's largest single-day operation by joint security forces.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -32,21 +59,61 @@
       ]
     },
     {
-      "headline": "Thai footballer killed in lighting strike during match in Narathiwat province; Malaysian among 12 others injured",
+      "headline": "Indonesia\u2019s security minister Djamari says country remains \u2018secure\u2019 amid unrest speculation, misinformation online",
       "countries": [
-        "Thailand"
+        "Indonesia"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The incident took place on Tuesday (Aug 4) evening during the semi-final match of the regional Golok FA Cup football tournament at Santiphap Stadium in Thailand\u2019s Narathiwat province.",
+      "summary": "Coordinating Minister for Political and Security Affairs Djamari Chaniago\u2019s call for calm came on the heels of a study by Monash University Indonesia on a possible disinformation campaign where videos of past demonstrations in the country had been recirculated online.",
       "links": [
-        "https://www.channelnewsasia.com/asia/malaysia-thai-footballer-died-lightning-strike-sungai-golok-6300346"
+        "https://www.channelnewsasia.com/asia/indonesia-security-stable-under-control-protests-independence-day-unrest-6303191"
       ]
     },
     {
-      "headline": "South Africa: Govt Vows to Intensify Health Corruption Fight - South African News Briefs - August 5, 2026",
+      "headline": "300 more beverage container return machines to be deployed at institutes of higher learning, industrial areas",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "BCRS Ltd said it is applying what it learnt during the early days of the scheme to improve the return experience, enhance the refund process and recalibrate the machines' container recognition abilities.&nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/beverage-container-return-scheme-more-machines-ihls-dormitories-tourist-spots-6302951"
+      ]
+    },
+    {
+      "headline": "From giant flag displays to NDP rehearsals: Meet the volunteers behind Singapore's 61st birthday celebrations",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Since 2015, Toa Payoh residents have come together each year to create a National Day flag display, with Singapore flags arranged into a giant number across two HDB blocks to mark the nation's birthday.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/volunteers-behind-singapore-61-birthday-celebrations-6300446"
+      ]
+    },
+    {
+      "headline": "\u2018Overkill\u2019: Chinese travellers push back against \u2018tacky\u2019 aesthetics taking over scenic spots in China",
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Online backlash reflects a growing demand for authentic experiences among travellers rather than destinations designed for virality, experts say. &nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/east-asia/china-tacky-tourist-spots-travellers-6303111"
+      ]
+    },
+    {
+      "headline": "South Africa: Calls to Ban Foreign Teachers Rejected - South African News Briefs - August 6, 2026",
       "countries": [
         "South Africa"
       ],
@@ -56,119 +123,51 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202608050138.html"
+        "https://allafrica.com/stories/202608060131.html"
       ]
     },
     {
-      "headline": "Congo-Kinshasa: After Peace Talks Stall, Can a National Dialogue Help DR Congo Find a Way Forward?",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[The New Humanitarian] Goma, Democratic Republic of the Congo -- \"The dialogue must be neither a ploy to cling to power nor a mere marketplace for negotiating political posts.\"",
-      "links": [
-        "https://allafrica.com/stories/202608050021.html"
-      ]
-    },
-    {
-      "headline": "Trump says talks with Tehran 'very good', threatens to strike if Hormuz Strait remains closed",
+      "headline": "Cox to replace injured Bethell for Pakistan tests as Root begins new England captaincy stint",
       "countries": [
-        "United States",
-        "Iran"
+        "Pakistan"
       ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nTrump says talks with Tehran 'very good', threatens to strike if Hormuz Strait remains closed\n\n    \n    \n\n        \n    \n                US President Donald Trump told Fox News that Washington is having \"very good discussions\" with Iran, insisting that Tehran is keen on signing the",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-talks-tehran-very-good-threatens-strike-if-hormuz-strait"
-      ]
-    },
-    {
-      "headline": "Abdul El-Sayed defeats Aipac-backed rival in Michigan Democratic Senate primary, NBC reports",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nAbdul El-Sayed defeats Aipac-backed rival in Michigan Democratic Senate primary, NBC reports\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nWed, 08/05/2026 - 08:51\n\n        \n      \n    \n      \n    \n                Progressive advocate overcame more than ",
-      "links": [
-        "https://www.middleeasteye.net/news/abdul-el-sayed-wins-michigan-democratic-senate-primary"
-      ]
-    },
-    {
-      "headline": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Radio Dalsan] A mounting cohort of senior Somali government ministers is poised to surrender their Kenyan passports and national identity documents within days, heeding President Hassan Sheikh Mohamud's ultimatum that dual citizens holding public office must forswear their foreign nationality or im",
-      "links": [
-        "https://allafrica.com/stories/202608040400.html"
-      ]
-    },
-    {
-      "headline": "NSF raped deaf and mute 13-year-old girl while pregnant wife was away, gets jail and caning",
-      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The teenager secretly texted the man's wife for help and the attack stopped only when the wife returned home and began unlocking the flat's door.",
+      "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/singapore/nsf-rape-sexual-assault-deaf-mute-teenager-awol-6300331"
+        "https://www.channelnewsasia.com/sport/cox-replace-injured-bethell-pakistan-tests-root-begins-new-england-captaincy-stint-6303271"
       ]
     },
     {
-      "headline": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+      "headline": "Eight wounded in Israeli attack on southern Lebanon's Burj Shemali as talks enter third day",
       "countries": [
-        "United States",
-        "Iran"
+        "Israel"
       ],
       "regions": [
-        "Europe"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "summary": "\n\n  \n      \n      \nEight wounded in Israeli attack on southern Lebanon's Burj Shemali as talks enter third day\n\n    \n    \n\n        \n    \n                Eight people have been wounded in an Israeli strike on the southern Lebanese town of&nbsp;Burj Shemali, the country's health ministry is reporting.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/eight-wounded-israeli-attack-southern-lebanons-burj-shemali-talks-enter"
       ]
     },
     {
-      "headline": "Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "headline": "Israeli violence escalating in the West Bank, several left wounded in settler arson attacks",
       "countries": [
-        "Saudi Arabia",
-        "Ethiopia"
+        "Israel"
       ],
       "regions": [
-        "Africa"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "Dozens, many from Tigray, are awaiting execution - some called the BBC to tell their stories.",
+      "summary": "\n\n  \n      \n      \nIsraeli violence escalating in the West Bank, several left wounded in settler arson attacks\n\n    \n    \n\n        \n    \n                An uptick of Israeli violence against Palestinians in the West Bank has been reported by local media, with overnight raids leaving several injured,",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-      "countries": [
-        "Russia",
-        "Ukraine"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-violence-escalating-west-bank-several-left-wounded-settler-arson"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-05 (extractive mode)\n\n* Arrests in Egypt after people allegedly impersonate judges (BBC News, 2 outlets)\n* Africa: African Development Fund Grants $4.3 Million to Strengthen Integration of Natural Capital Into Decision-Making in 13 African Countries (AllAfrica News: Latest, 1 outlets)\n* Thai footballer killed in lighting strike during match in Narathiwat province; Malaysian among 12 others injured (Latest News, 1 outlets)\n* South Africa: Govt Vows to Intensify Health Corruption Fight - South African News Briefs - August 5, 2026 (AllAfrica News: Latest, 1 outlets)\n* Congo-Kinshasa: After Peace Talks Stall, Can a National Dialogue Help DR Congo Find a Way Forward? (AllAfrica News: Latest, 1 outlets)\n* Trump says talks with Tehran 'very good', threatens to strike if Hormuz Strait remains closed (Section Feed, 1 outlets)\n* Abdul El-Sayed defeats Aipac-backed rival in Michigan Democratic Senate primary, NBC reports (Section Feed, 1 outlets)\n* Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum (AllAfrica News: Latest, 1 outlets)\n* NSF raped deaf and mute 13-year-old girl while pregnant wife was away, gets jail and caning (Latest News, 1 outlets)\n* Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall (BBC News, 1 outlets)\n* Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC (BBC News, 1 outlets)\n* Russian strike kills at least 17 as Zelensky says interceptors could have saved lives (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-08-06 (extractive mode)\n\n* Nearly 80% of US army's interceptors for a key missile defense system depleted: Report (Section Feed, 2 outlets)\n* Outrage as Ugandan football captain beaten to death in street gang attack (BBC News, 2 outlets)\n* Nigerian security forces rescue more than 300 abductees (BBC News, 2 outlets)\n* Africa: African Development Fund Grants $4.3 Million to Strengthen Integration of Natural Capital Into Decision-Making in 13 African Countries (AllAfrica News: Latest, 1 outlets)\n* Indonesia\u2019s security minister Djamari says country remains \u2018secure\u2019 amid unrest speculation, misinformation online (Latest News, 1 outlets)\n* 300 more beverage container return machines to be deployed at institutes of higher learning, industrial areas (Latest News, 1 outlets)\n* From giant flag displays to NDP rehearsals: Meet the volunteers behind Singapore's 61st birthday celebrations (Latest News, 1 outlets)\n* \u2018Overkill\u2019: Chinese travellers push back against \u2018tacky\u2019 aesthetics taking over scenic spots in China (Latest News, 1 outlets)\n* South Africa: Calls to Ban Foreign Teachers Rejected - South African News Briefs - August 6, 2026 (AllAfrica News: Latest, 1 outlets)\n* Cox to replace injured Bethell for Pakistan tests as Root begins new England captaincy stint (Latest News, 1 outlets)\n* Eight wounded in Israeli attack on southern Lebanon's Burj Shemali as talks enter third day (Section Feed, 1 outlets)\n* Israeli violence escalating in the West Bank, several left wounded in settler arson attacks (Section Feed, 1 outlets)"
 }
