@@ -1,119 +1,76 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-06T09:33:56.481536+00:00",
-  "digest_words": 242,
+  "generated_at": "2026-08-07T08:04:24.614093+00:00",
+  "digest_words": 244,
   "clusters": [
     {
-      "headline": "Nearly 80% of US army's interceptors for a key missile defense system depleted: Report",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nNearly 80% of US army's interceptors for a key missile defense system depleted: Report\n\n    \n    \n\n        \n    \n                The US army has used up nearly 80 percent of its&nbsp;interceptors for a key missile defence system, CNN reported citing several sources familiar with t",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-80-us-armys-interceptors-key-missile-defense-system-depleted-0",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-80-us-armys-interceptors-key-missile-defense-system-depleted"
-      ]
-    },
-    {
-      "headline": "Outrage as Ugandan football captain beaten to death in street gang attack",
+      "headline": "Thousands of migrants still in Ceuta after border crisis, local leader says",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.",
+      "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Nigerian security forces rescue more than 300 abductees",
-      "countries": [
-        "Nigeria"
-      ],
+      "headline": "Africa: Why Do Most African Countries Stay with the ICC?",
+      "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The government says the rescue is the country's largest single-day operation by joint security forces.",
+      "summary": "[DW] A new wave of African withdrawals has swept through the International Criminal Court. Chad turned its back on the court after three junta-led states in the Sahel exited. But most African countries still trust The Hague.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202608070089.html",
+        "https://www.dw.com/en/africa-and-the-icc-why-most-countries-are-staying/a-78253463?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Africa: African Development Fund Grants $4.3 Million to Strengthen Integration of Natural Capital Into Decision-Making in 13 African Countries",
+      "headline": "Malaysian court postpones graft proceedings against former PM Ismail Sabri to Aug 27 due to health reasons",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The 66-year-old had reportedly been scheduled to be charged at 9am on Friday (Aug 7) at the Kuala Lumpur Sessions Court under the Malaysian Anti-Corruption Commission (MACC) Act.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/malaysia-ismail-sabri-former-prime-minister-charged-postponed-heart-condition-6305526"
+      ]
+    },
+    {
+      "headline": "Africa: The LSF welcomes the Launch of the First African Government Bond (USD) ETF available in Europe",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[African Development Bank (AfDB)] The Board of Directors of the African Development Fund, the concessional window of the African Development Bank Group, has approved a grant of $4.23 million to implement the second phase of a project to integrate natural capital into development financing in Africa.",
+      "summary": "[The Liquidity and Sustainability Facility] The Liquidity and Sustainability Facility (LSF) is pleased to welcome the launch of the L&#x26;amp;G LSF African Government Bond (USD) UCITS ETF, developed by Legal &#x26;amp; General Asset Management (L&#x26;amp;G), it is the first of its kind available i",
       "links": [
-        "https://allafrica.com/stories/202608040582.html"
+        "https://allafrica.com/stories/202608060724.html"
       ]
     },
     {
-      "headline": "Indonesia\u2019s security minister Djamari says country remains \u2018secure\u2019 amid unrest speculation, misinformation online",
+      "headline": "What is the best way to tackle poverty in Ethiopia? This new study tries cash, therapy, and more.",
       "countries": [
-        "Indonesia"
+        "Ethiopia"
       ],
       "regions": [
-        "Asia"
+        "Americas"
       ],
       "outlets": 1,
-      "summary": "Coordinating Minister for Political and Security Affairs Djamari Chaniago\u2019s call for calm came on the heels of a study by Monash University Indonesia on a possible disinformation campaign where videos of past demonstrations in the country had been recirculated online.",
+      "summary": "A new study is out that looked at various ways to try to tackle poverty in Ethiopia. Turns out, cash helps, but the impact of therapy is less clear.",
       "links": [
-        "https://www.channelnewsasia.com/asia/indonesia-security-stable-under-control-protests-independence-day-unrest-6303191"
+        "https://www.npr.org/2026/08/06/nx-s1-5821120/what-is-the-best-way-to-tackle-poverty-in-ethiopia-this-new-study-tries-cash-therapy-and-more"
       ]
     },
     {
-      "headline": "300 more beverage container return machines to be deployed at institutes of higher learning, industrial areas",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "BCRS Ltd said it is applying what it learnt during the early days of the scheme to improve the return experience, enhance the refund process and recalibrate the machines' container recognition abilities.&nbsp;",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/beverage-container-return-scheme-more-machines-ihls-dormitories-tourist-spots-6302951"
-      ]
-    },
-    {
-      "headline": "From giant flag displays to NDP rehearsals: Meet the volunteers behind Singapore's 61st birthday celebrations",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Since 2015, Toa Payoh residents have come together each year to create a National Day flag display, with Singapore flags arranged into a giant number across two HDB blocks to mark the nation's birthday.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/volunteers-behind-singapore-61-birthday-celebrations-6300446"
-      ]
-    },
-    {
-      "headline": "\u2018Overkill\u2019: Chinese travellers push back against \u2018tacky\u2019 aesthetics taking over scenic spots in China",
-      "countries": [
-        "China"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Online backlash reflects a growing demand for authentic experiences among travellers rather than destinations designed for virality, experts say. &nbsp;",
-      "links": [
-        "https://www.channelnewsasia.com/east-asia/china-tacky-tourist-spots-travellers-6303111"
-      ]
-    },
-    {
-      "headline": "South Africa: Calls to Ban Foreign Teachers Rejected - South African News Briefs - August 6, 2026",
+      "headline": "South Africa: Police Probe Two Nyanga Taxi Shootings - South African News Briefs - August 7, 2026",
       "countries": [
         "South Africa"
       ],
@@ -123,51 +80,92 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202608060131.html"
+        "https://allafrica.com/stories/202608070087.html"
       ]
     },
     {
-      "headline": "Cox to replace injured Bethell for Pakistan tests as Root begins new England captaincy stint",
-      "countries": [
-        "Pakistan"
-      ],
+      "headline": "CATL's Jianxiawo lithium mine remains closed pending environmental approval, state media reports",
+      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
       "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/sport/cox-replace-injured-bethell-pakistan-tests-root-begins-new-england-captaincy-stint-6303271"
+        "https://www.channelnewsasia.com/business/catls-jianxiawo-lithium-mine-remains-closed-pending-environmental-approval-state-media-reports-6305616"
       ]
     },
     {
-      "headline": "Eight wounded in Israeli attack on southern Lebanon's Burj Shemali as talks enter third day",
+      "headline": "Lim Tean arrested in Johor Bahru days after failing to surrender in Singapore to begin jail term",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The Singapore Police Force is working closely with Malaysian police to secure the lawyer's return to Singapore.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/lawyer-lim-tean-arrested-johor-bahru-police-6305556"
+      ]
+    },
+    {
+      "headline": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
       "countries": [
         "Israel"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Israel\u2019s Mossad chief fires two senior officials over failure to topple Iran\u2019s leadership",
+      "countries": [
+        "Israel",
+        "Iran"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nEight wounded in Israeli attack on southern Lebanon's Burj Shemali as talks enter third day\n\n    \n    \n\n        \n    \n                Eight people have been wounded in an Israeli strike on the southern Lebanese town of&nbsp;Burj Shemali, the country's health ministry is reporting.",
+      "summary": "\n\n  \n      \n      \nIsrael\u2019s Mossad chief fires two senior officials over failure to topple Iran\u2019s leadership\n\n    \n    \n\n        \n    \n                Israel\u2019s Mossad chief, Roman Gofman, has sacked two top officials over a failed plan to topple Iran\u2019s government, Israeli media reported.\n\nAccording ",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/eight-wounded-israeli-attack-southern-lebanons-burj-shemali-talks-enter"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israels-mossad-chief-fires-two-senior-officials-over-failure-topple"
       ]
     },
     {
-      "headline": "Israeli violence escalating in the West Bank, several left wounded in settler arson attacks",
+      "headline": "Thai police say gunman killed grandparents before deadly school shooting, 26 rounds fired",
       "countries": [
-        "Israel"
+        "Thailand"
       ],
       "regions": [
-        "Middle East"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsraeli violence escalating in the West Bank, several left wounded in settler arson attacks\n\n    \n    \n\n        \n    \n                An uptick of Israeli violence against Palestinians in the West Bank has been reported by local media, with overnight raids leaving several injured,",
+      "summary": "A Thai teenager killed at least five people and himself at a school outside Bangkok after fatally shooting his grandparents.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-violence-escalating-west-bank-several-left-wounded-settler-arson"
+        "https://www.channelnewsasia.com/asia/thailand-school-shooting-grandparents-killed-deaths-6305321"
+      ]
+    },
+    {
+      "headline": "Kit Chan's original Home gets its first-ever vinyl release as a Singapore-shaped record",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The National Day classic is finally getting its first vinyl release nearly three decades after its debut&nbsp;\u2013 as a Singapore island-shaped vinyl with a ceramic HDB topper, limited to just 61 copies.",
+      "links": [
+        "https://www.channelnewsasia.com/entertainment/kit-chan-home-first-vinyl-singapore-shaped-record-6305406"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-06 (extractive mode)\n\n* Nearly 80% of US army's interceptors for a key missile defense system depleted: Report (Section Feed, 2 outlets)\n* Outrage as Ugandan football captain beaten to death in street gang attack (BBC News, 2 outlets)\n* Nigerian security forces rescue more than 300 abductees (BBC News, 2 outlets)\n* Africa: African Development Fund Grants $4.3 Million to Strengthen Integration of Natural Capital Into Decision-Making in 13 African Countries (AllAfrica News: Latest, 1 outlets)\n* Indonesia\u2019s security minister Djamari says country remains \u2018secure\u2019 amid unrest speculation, misinformation online (Latest News, 1 outlets)\n* 300 more beverage container return machines to be deployed at institutes of higher learning, industrial areas (Latest News, 1 outlets)\n* From giant flag displays to NDP rehearsals: Meet the volunteers behind Singapore's 61st birthday celebrations (Latest News, 1 outlets)\n* \u2018Overkill\u2019: Chinese travellers push back against \u2018tacky\u2019 aesthetics taking over scenic spots in China (Latest News, 1 outlets)\n* South Africa: Calls to Ban Foreign Teachers Rejected - South African News Briefs - August 6, 2026 (AllAfrica News: Latest, 1 outlets)\n* Cox to replace injured Bethell for Pakistan tests as Root begins new England captaincy stint (Latest News, 1 outlets)\n* Eight wounded in Israeli attack on southern Lebanon's Burj Shemali as talks enter third day (Section Feed, 1 outlets)\n* Israeli violence escalating in the West Bank, several left wounded in settler arson attacks (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-08-07 (extractive mode)\n\n* Thousands of migrants still in Ceuta after border crisis, local leader says (BBC News, 2 outlets)\n* Africa: Why Do Most African Countries Stay with the ICC? (AllAfrica News: Latest, 2 outlets)\n* Malaysian court postpones graft proceedings against former PM Ismail Sabri to Aug 27 due to health reasons (Latest News, 1 outlets)\n* Africa: The LSF welcomes the Launch of the First African Government Bond (USD) ETF available in Europe (AllAfrica News: Latest, 1 outlets)\n* What is the best way to tackle poverty in Ethiopia? This new study tries cash, therapy, and more. (NPR Topics: World, 1 outlets)\n* South Africa: Police Probe Two Nyanga Taxi Shootings - South African News Briefs - August 7, 2026 (AllAfrica News: Latest, 1 outlets)\n* CATL's Jianxiawo lithium mine remains closed pending environmental approval, state media reports (Latest News, 1 outlets)\n* Lim Tean arrested in Johor Bahru days after failing to surrender in Singapore to begin jail term (Latest News, 1 outlets)\n* Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film (BBC News, 1 outlets)\n* Israel\u2019s Mossad chief fires two senior officials over failure to topple Iran\u2019s leadership (Section Feed, 1 outlets)\n* Thai police say gunman killed grandparents before deadly school shooting, 26 rounds fired (Latest News, 1 outlets)\n* Kit Chan's original Home gets its first-ever vinyl release as a Singapore-shaped record (Latest News, 1 outlets)"
 }
