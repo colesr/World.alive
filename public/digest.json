@@ -1,58 +1,97 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-07T08:04:24.614093+00:00",
-  "digest_words": 244,
+  "generated_at": "2026-08-08T07:39:32.059795+00:00",
+  "digest_words": 268,
   "clusters": [
     {
-      "headline": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
+      "headline": "South Africa: No, 2 Million Doses of HIV Medication Have Not Gone Uncollected Since Anti-Migrant Protests in South Africa",
+      "countries": [
+        "South Africa"
       ],
-      "outlets": 2,
-      "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Africa Check] IN SHORT: Social media posts and AI-generated search results claim that 2 million doses of HIV medication have gone uncollected in South Africa in July 2026. But these claims are false. They have been shared without any supporting evidence, and promote false, dangerous stereotypes abo",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202608070511.html"
       ]
     },
     {
-      "headline": "Africa: Why Do Most African Countries Stay with the ICC?",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
+      "headline": "Nigeria: Exclusive - How 'Chance' Encounter With Soldier Allegedly Landed Nollywood Actor Coup Propagandist Role",
+      "countries": [
+        "Nigeria"
       ],
-      "outlets": 2,
-      "summary": "[DW] A new wave of African withdrawals has swept through the International Criminal Court. Chad turned its back on the court after three junta-led states in the Sahel exited. But most African countries still trust The Hague.",
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Premium Times] This installment of PREMIUM TIMES 'series of exclusive reporting on last year's failed coup details how a veteran Nollywood actor became involved with suspected coup plotters after developing a friendship with a soldier, before being assigned a propagandist role.",
       "links": [
-        "https://allafrica.com/stories/202608070089.html",
-        "https://www.dw.com/en/africa-and-the-icc-why-most-countries-are-staying/a-78253463?maca=en-rss-en-world-4025-rdf"
+        "https://allafrica.com/stories/202608070415.html"
       ]
     },
     {
-      "headline": "Malaysian court postpones graft proceedings against former PM Ismail Sabri to Aug 27 due to health reasons",
+      "headline": "She quit school twice. Her horror art studio nearly closed. Now, its neon art jams book out most weekends",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The 66-year-old had reportedly been scheduled to be charged at 9am on Friday (Aug 7) at the Kuala Lumpur Sessions Court under the Malaysian Anti-Corruption Commission (MACC) Act.",
+      "summary": "An IP student at an elite school, Merida Lim left with only a PSLE certificate to open a horror-themed art studio at 19. When it nearly closed, she pivoted to neon art jams and the business now generates five figures in monthly revenue. This is the first instalment of CNA Women\u2019s Gen Z series.",
       "links": [
-        "https://www.channelnewsasia.com/asia/malaysia-ismail-sabri-former-prime-minister-charged-postponed-heart-condition-6305526"
+        "https://www.channelnewsasia.com/women/merida-lim-scuro-neon-art-jamming-singapore-6280291"
       ]
     },
     {
-      "headline": "Africa: The LSF welcomes the Launch of the First African Government Bond (USD) ETF available in Europe",
+      "headline": "Africa: A Landmark for African Finance - Europe's First African Sovereign Bond ETF Opens a New Chapter",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[The Liquidity and Sustainability Facility] The Liquidity and Sustainability Facility (LSF) is pleased to welcome the launch of the L&#x26;amp;G LSF African Government Bond (USD) UCITS ETF, developed by Legal &#x26;amp; General Asset Management (L&#x26;amp;G), it is the first of its kind available i",
+      "summary": "[allAfrica] For years, African finance ministers have made the same case at investor conferences and multilateral summits: the continent is not short of bankable projects, it is short of affordable capital. This week, that case took a tangible step forward. Legal &#x26;amp; General Asset Management,",
       "links": [
-        "https://allafrica.com/stories/202608060724.html"
+        "https://allafrica.com/stories/202608070650.html"
+      ]
+    },
+    {
+      "headline": "Where are the HDB blocks in NDP 2000\u2019s Shine On Me music video? Singaporeans think they\u2019ve found them",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Eagle-eyed netizens believe they\u2019ve traced the HDB backdrop behind singer Mavis Hee to Serangoon North \u2013 right down to where she may have been standing.",
+      "links": [
+        "https://www.channelnewsasia.com/entertainment/ndp-2000-shine-me-music-video-hdb-serangoon-north-6307276"
+      ]
+    },
+    {
+      "headline": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/business/nvidia-invest-up-3-billion-in-stargate-data-center-developer-lancium-information-reports-6307196"
+      ]
+    },
+    {
+      "headline": "Singapore\u2019s only sake brewery is in Jurong, making pulut hitam sake and winning recognition in Japan",
+      "countries": [
+        "Japan",
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Reuben Oh and Yumika Yamamoto overcame the challenges of brewing sake in Singapore to create distinctly local expressions now served at Michelin-starred restaurants, recognised in international competitions and supported by a growing community.",
+      "links": [
+        "https://www.channelnewsasia.com/experiences/singapore-only-sake-brewery-orchid-jurong-6301606"
       ]
     },
     {
@@ -70,7 +109,33 @@
       ]
     },
     {
-      "headline": "South Africa: Police Probe Two Nyanga Taxi Shootings - South African News Briefs - August 7, 2026",
+      "headline": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Hundreds of thousands of civilians in el-Obeid are being battered by relentless drone strikes and face critical water shortages and a worsening cholera outbreak, while women and girls are reporting high rates of sexual violence.",
+      "links": [
+        "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war"
+      ]
+    },
+    {
+      "headline": "Ethiopia: Ethiopian Authorities Pursuing 'Campaign to Dismantle' Independent Newsroom - CPJ",
+      "countries": [
+        "Ethiopia"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Addis Standard] Addis Abeba -- The Committee to Protect Journalists (CPJ) has condemned what it described as an escalating campaign by Ethiopian authorities against Addis Standard, calling for an immediate end to actions targeting the publication following the detention and assault of its Editor-in",
+      "links": [
+        "https://allafrica.com/stories/202608070279.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Mar&#xe9; and the Cape Flats - Where Violence Becomes a Public Health Crisis",
       "countries": [
         "South Africa"
       ],
@@ -78,94 +143,25 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "[allAfrica] \"Stay together.\"",
       "links": [
-        "https://allafrica.com/stories/202608070087.html"
+        "https://allafrica.com/stories/202608070226.html"
       ]
     },
     {
-      "headline": "CATL's Jianxiawo lithium mine remains closed pending environmental approval, state media reports",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/catls-jianxiawo-lithium-mine-remains-closed-pending-environmental-approval-state-media-reports-6305616"
-      ]
-    },
-    {
-      "headline": "Lim Tean arrested in Johor Bahru days after failing to surrender in Singapore to begin jail term",
+      "headline": "Kenya: High Court Declares 2027 Election Date Unconstitutional, Says Poll Was Due in 2026",
       "countries": [
-        "Singapore"
+        "Kenya"
       ],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "The Singapore Police Force is working closely with Malaysian police to secure the lawyer's return to Singapore.",
+      "summary": "[Capital FM] Nairobi -- The High Court has declared that Kenya's next presidential election ought to be held on Tuesday, August 11, 2026, ruling that the Constitution requires the poll to be conducted on the second Tuesday of August in the fifth year following the previous General Election, and not ",
       "links": [
-        "https://www.channelnewsasia.com/singapore/lawyer-lim-tean-arrested-johor-bahru-police-6305556"
-      ]
-    },
-    {
-      "headline": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Israel\u2019s Mossad chief fires two senior officials over failure to topple Iran\u2019s leadership",
-      "countries": [
-        "Israel",
-        "Iran"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsrael\u2019s Mossad chief fires two senior officials over failure to topple Iran\u2019s leadership\n\n    \n    \n\n        \n    \n                Israel\u2019s Mossad chief, Roman Gofman, has sacked two top officials over a failed plan to topple Iran\u2019s government, Israeli media reported.\n\nAccording ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israels-mossad-chief-fires-two-senior-officials-over-failure-topple"
-      ]
-    },
-    {
-      "headline": "Thai police say gunman killed grandparents before deadly school shooting, 26 rounds fired",
-      "countries": [
-        "Thailand"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "A Thai teenager killed at least five people and himself at a school outside Bangkok after fatally shooting his grandparents.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/thailand-school-shooting-grandparents-killed-deaths-6305321"
-      ]
-    },
-    {
-      "headline": "Kit Chan's original Home gets its first-ever vinyl release as a Singapore-shaped record",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The National Day classic is finally getting its first vinyl release nearly three decades after its debut&nbsp;\u2013 as a Singapore island-shaped vinyl with a ceramic HDB topper, limited to just 61 copies.",
-      "links": [
-        "https://www.channelnewsasia.com/entertainment/kit-chan-home-first-vinyl-singapore-shaped-record-6305406"
+        "https://allafrica.com/stories/202608070164.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-07 (extractive mode)\n\n* Thousands of migrants still in Ceuta after border crisis, local leader says (BBC News, 2 outlets)\n* Africa: Why Do Most African Countries Stay with the ICC? (AllAfrica News: Latest, 2 outlets)\n* Malaysian court postpones graft proceedings against former PM Ismail Sabri to Aug 27 due to health reasons (Latest News, 1 outlets)\n* Africa: The LSF welcomes the Launch of the First African Government Bond (USD) ETF available in Europe (AllAfrica News: Latest, 1 outlets)\n* What is the best way to tackle poverty in Ethiopia? This new study tries cash, therapy, and more. (NPR Topics: World, 1 outlets)\n* South Africa: Police Probe Two Nyanga Taxi Shootings - South African News Briefs - August 7, 2026 (AllAfrica News: Latest, 1 outlets)\n* CATL's Jianxiawo lithium mine remains closed pending environmental approval, state media reports (Latest News, 1 outlets)\n* Lim Tean arrested in Johor Bahru days after failing to surrender in Singapore to begin jail term (Latest News, 1 outlets)\n* Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film (BBC News, 1 outlets)\n* Israel\u2019s Mossad chief fires two senior officials over failure to topple Iran\u2019s leadership (Section Feed, 1 outlets)\n* Thai police say gunman killed grandparents before deadly school shooting, 26 rounds fired (Latest News, 1 outlets)\n* Kit Chan's original Home gets its first-ever vinyl release as a Singapore-shaped record (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-08-08 (extractive mode)\n\n* South Africa: No, 2 Million Doses of HIV Medication Have Not Gone Uncollected Since Anti-Migrant Protests in South Africa (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Exclusive - How 'Chance' Encounter With Soldier Allegedly Landed Nollywood Actor Coup Propagandist Role (AllAfrica News: Latest, 1 outlets)\n* She quit school twice. Her horror art studio nearly closed. Now, its neon art jams book out most weekends (Latest News, 1 outlets)\n* Africa: A Landmark for African Finance - Europe's First African Sovereign Bond ETF Opens a New Chapter (AllAfrica News: Latest, 1 outlets)\n* Where are the HDB blocks in NDP 2000\u2019s Shine On Me music video? Singaporeans think they\u2019ve found them (Latest News, 1 outlets)\n* Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports (Latest News, 1 outlets)\n* Singapore\u2019s only sake brewery is in Jurong, making pulut hitam sake and winning recognition in Japan (Latest News, 1 outlets)\n* What is the best way to tackle poverty in Ethiopia? This new study tries cash, therapy, and more. (NPR Topics: World, 1 outlets)\n* Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns (NPR Topics: World, 1 outlets)\n* Ethiopia: Ethiopian Authorities Pursuing 'Campaign to Dismantle' Independent Newsroom - CPJ (AllAfrica News: Latest, 1 outlets)\n* South Africa: Mar&#xe9; and the Cape Flats - Where Violence Becomes a Public Health Crisis (AllAfrica News: Latest, 1 outlets)\n* Kenya: High Court Declares 2027 Election Date Unconstitutional, Says Poll Was Due in 2026 (AllAfrica News: Latest, 1 outlets)"
 }
