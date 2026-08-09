@@ -1,7 +1,7 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-08T07:39:32.059795+00:00",
-  "digest_words": 268,
+  "generated_at": "2026-08-09T07:43:21.897661+00:00",
+  "digest_words": 258,
   "clusters": [
     {
       "headline": "South Africa: No, 2 Million Doses of HIV Medication Have Not Gone Uncollected Since Anti-Migrant Protests in South Africa",
@@ -32,15 +32,43 @@
       ]
     },
     {
-      "headline": "She quit school twice. Her horror art studio nearly closed. Now, its neon art jams book out most weekends",
+      "headline": "Singapore designer Faezah Shaharuddin is taking Malay cultural references to the world through furniture",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "From Onde and Agar to Biskut, the Studio Kallang founder draws on childhood memories and Southeast Asian craft traditions to create furniture rooted in her own cultural experience.",
+      "links": [
+        "https://www.channelnewsasia.com/people/singapore-designer-faezah-shaharuddin-studio-kallang-furniture-6300731"
+      ]
+    },
+    {
+      "headline": "Chief Justice Sundaresh Menon, former CPA chairman Eddie Teo receive Singapore's highest civilian honour",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The two are among 7,491 people recognised in this year's National Day Awards, including 6,624 civilian recipients and 867 military personnel.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/national-day-awards-sundaresh-menon-eddie-teo-order-temasek-6300406"
+      ]
+    },
+    {
+      "headline": "Dry conditions expected to continue next week, raising haze risk if hotspots in the region persist: NEA",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "An IP student at an elite school, Merida Lim left with only a PSLE certificate to open a horror-themed art studio at 19. When it nearly closed, she pivoted to neon art jams and the business now generates five figures in monthly revenue. This is the first instalment of CNA Women\u2019s Gen Z series.",
+      "summary": "The 28 public agencies that make up the Haze Task Force are ready to roll out their respective action plans if air quality deteriorates into the unhealthy range, said the National Environment Agency.&nbsp;",
       "links": [
-        "https://www.channelnewsasia.com/women/merida-lim-scuro-neon-art-jamming-singapore-6280291"
+        "https://www.channelnewsasia.com/singapore/haze-psi-dry-conditions-expected-continue-nea-6308236"
       ]
     },
     {
@@ -56,56 +84,15 @@
       ]
     },
     {
-      "headline": "Where are the HDB blocks in NDP 2000\u2019s Shine On Me music video? Singaporeans think they\u2019ve found them",
+      "headline": "Africa: From Capital to Prosperity - Can Africa build the financial engine for its industrialisation?",
       "countries": [],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "Eagle-eyed netizens believe they\u2019ve traced the HDB backdrop behind singer Mavis Hee to Serangoon North \u2013 right down to where she may have been standing.",
+      "summary": "[allAfrica] Executive Summary",
       "links": [
-        "https://www.channelnewsasia.com/entertainment/ndp-2000-shine-me-music-video-hdb-serangoon-north-6307276"
-      ]
-    },
-    {
-      "headline": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/nvidia-invest-up-3-billion-in-stargate-data-center-developer-lancium-information-reports-6307196"
-      ]
-    },
-    {
-      "headline": "Singapore\u2019s only sake brewery is in Jurong, making pulut hitam sake and winning recognition in Japan",
-      "countries": [
-        "Japan",
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Reuben Oh and Yumika Yamamoto overcame the challenges of brewing sake in Singapore to create distinctly local expressions now served at Michelin-starred restaurants, recognised in international competitions and supported by a growing community.",
-      "links": [
-        "https://www.channelnewsasia.com/experiences/singapore-only-sake-brewery-orchid-jurong-6301606"
-      ]
-    },
-    {
-      "headline": "What is the best way to tackle poverty in Ethiopia? This new study tries cash, therapy, and more.",
-      "countries": [
-        "Ethiopia"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "A new study is out that looked at various ways to try to tackle poverty in Ethiopia. Turns out, cash helps, but the impact of therapy is less clear.",
-      "links": [
-        "https://www.npr.org/2026/08/06/nx-s1-5821120/what-is-the-best-way-to-tackle-poverty-in-ethiopia-this-new-study-tries-cash-therapy-and-more"
+        "https://allafrica.com/stories/202608080079.html"
       ]
     },
     {
@@ -132,6 +119,20 @@
       "summary": "[Addis Standard] Addis Abeba -- The Committee to Protect Journalists (CPJ) has condemned what it described as an escalating campaign by Ethiopian authorities against Addis Standard, calling for an immediate end to actions targeting the publication following the detention and assault of its Editor-in",
       "links": [
         "https://allafrica.com/stories/202608070279.html"
+      ]
+    },
+    {
+      "headline": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+      "countries": [
+        "Switzerland"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Instead of scrapping its network of bomb shelters after the Cold War, Switzerland kept building them. The country has more than 370,000 nuclear bomb shelters. Some are now used to house migrants.",
+      "links": [
+        "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers"
       ]
     },
     {
@@ -163,5 +164,5 @@
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-08 (extractive mode)\n\n* South Africa: No, 2 Million Doses of HIV Medication Have Not Gone Uncollected Since Anti-Migrant Protests in South Africa (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Exclusive - How 'Chance' Encounter With Soldier Allegedly Landed Nollywood Actor Coup Propagandist Role (AllAfrica News: Latest, 1 outlets)\n* She quit school twice. Her horror art studio nearly closed. Now, its neon art jams book out most weekends (Latest News, 1 outlets)\n* Africa: A Landmark for African Finance - Europe's First African Sovereign Bond ETF Opens a New Chapter (AllAfrica News: Latest, 1 outlets)\n* Where are the HDB blocks in NDP 2000\u2019s Shine On Me music video? Singaporeans think they\u2019ve found them (Latest News, 1 outlets)\n* Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports (Latest News, 1 outlets)\n* Singapore\u2019s only sake brewery is in Jurong, making pulut hitam sake and winning recognition in Japan (Latest News, 1 outlets)\n* What is the best way to tackle poverty in Ethiopia? This new study tries cash, therapy, and more. (NPR Topics: World, 1 outlets)\n* Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns (NPR Topics: World, 1 outlets)\n* Ethiopia: Ethiopian Authorities Pursuing 'Campaign to Dismantle' Independent Newsroom - CPJ (AllAfrica News: Latest, 1 outlets)\n* South Africa: Mar&#xe9; and the Cape Flats - Where Violence Becomes a Public Health Crisis (AllAfrica News: Latest, 1 outlets)\n* Kenya: High Court Declares 2027 Election Date Unconstitutional, Says Poll Was Due in 2026 (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-08-09 (extractive mode)\n\n* South Africa: No, 2 Million Doses of HIV Medication Have Not Gone Uncollected Since Anti-Migrant Protests in South Africa (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Exclusive - How 'Chance' Encounter With Soldier Allegedly Landed Nollywood Actor Coup Propagandist Role (AllAfrica News: Latest, 1 outlets)\n* Singapore designer Faezah Shaharuddin is taking Malay cultural references to the world through furniture (Latest News, 1 outlets)\n* Chief Justice Sundaresh Menon, former CPA chairman Eddie Teo receive Singapore's highest civilian honour (Latest News, 1 outlets)\n* Dry conditions expected to continue next week, raising haze risk if hotspots in the region persist: NEA (Latest News, 1 outlets)\n* Africa: A Landmark for African Finance - Europe's First African Sovereign Bond ETF Opens a New Chapter (AllAfrica News: Latest, 1 outlets)\n* Africa: From Capital to Prosperity - Can Africa build the financial engine for its industrialisation? (AllAfrica News: Latest, 1 outlets)\n* Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns (NPR Topics: World, 1 outlets)\n* Ethiopia: Ethiopian Authorities Pursuing 'Campaign to Dismantle' Independent Newsroom - CPJ (AllAfrica News: Latest, 1 outlets)\n* Switzerland is a neutral nation but has more nuclear bunkers than any country in the world (NPR Topics: World, 1 outlets)\n* South Africa: Mar&#xe9; and the Cape Flats - Where Violence Becomes a Public Health Crisis (AllAfrica News: Latest, 1 outlets)\n* Kenya: High Court Declares 2027 Election Date Unconstitutional, Says Poll Was Due in 2026 (AllAfrica News: Latest, 1 outlets)"
 }
