@@ -1,89 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-10T08:19:59.073519+00:00",
-  "digest_words": 230,
+  "generated_at": "2026-08-11T08:01:16.877561+00:00",
+  "digest_words": 248,
   "clusters": [
     {
-      "headline": "Watch: Netanyahu says Israel 'rejects' Trump's 15-point plan for Gaza",
-      "countries": [
-        "United States",
-        "Israel"
-      ],
-      "regions": [
-        "Europe",
-        "Middle East"
-      ],
-      "outlets": 3,
-      "summary": "\n\n  \n      \n      \nWatch: Netanyahu says Israel 'rejects' Trump's 15-point plan for Gaza\n\n    \n    \n\n        \n    \n                Israeli Prime Minister Benjamin Netanyahu&nbsp;rejected&nbsp;a Gaza plan hailed by US President Donald Trump, vowing no military withdrawal until Hamas \"genuinely\" disar",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/watch-netanyahu-says-israel-rejects-trumps-15-point-plan-gaza",
-        "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israel-rejects-trumps-15-point-plan-gaza-says-netanyahu-0"
-      ]
-    },
-    {
-      "headline": "Evidence that South African special forces murdered top detective shared with BBC",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Israeli general says Gaza should remain \u2018destroyed for generations\u2019",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIsraeli general says Gaza should remain \u2018destroyed for generations\u2019\n\n    \n    \n\n        \n    \n                A former head of Israel\u2019s National Security Council has called for Gaza to remain devastated for decades, openly presenting Palestinian despair and destruction as desirabl",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-general-says-gaza-should-remain-destroyed-generations",
-        "https://www.middleeasteye.net/news/israeli-general-says-gaza-should-remain-destroyed-generations"
-      ]
-    },
-    {
-      "headline": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-      "countries": [
-        "Saudi Arabia"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons.",
-      "links": [
-        "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
-      ]
-    },
-    {
-      "headline": "South Africa: Ramaphosa Calls on Men to Fight GBV - South African News Briefs - August 10, 2026",
+      "headline": "South Africa: Gauteng Gets 500,000 Grade 1 and 8 Applications - South African News Briefs - August 11, 2026",
       "countries": [
         "South Africa"
       ],
@@ -93,87 +14,159 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202608100102.html"
+        "https://allafrica.com/stories/202608110110.html"
       ]
     },
     {
-      "headline": "Philippines weighs social media ban for minors as school violence, online extremism fuel alarm",
+      "headline": "Man fled Singapore on fishing boat to avoid jail, caught at Changi Airport more than 20 years later",
       "countries": [
-        "Philippines"
+        "Singapore"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "But experts warn that blanket bans could backfire, arguing that stronger platform safeguards, counselling and parental involvement may be more effective.",
+      "summary": "Despite being wanted by the authorities, Tan Khi Wie returned to Singapore several times using Indonesian passports under the false identity \"Ken Srona\".",
       "links": [
-        "https://www.channelnewsasia.com/asia/philippines-social-media-ban-minor-school-violence-online-extremism-6309211"
+        "https://www.channelnewsasia.com/singapore/changi-airport-ica-immigration-offence-false-identity-fake-passport-6311291"
       ]
     },
     {
-      "headline": "Jeongyeon becomes first member of Twice to officially leave longtime agency JYP Entertainment",
+      "headline": "Africa: Africa's 2026 Sustainable Development Report Sets Priorities to Fast-Track Progress to 2030",
       "countries": [],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "Jeongyeon made the announcement on Monday (Aug 10).",
+      "summary": "[African Development Bank (AfDB)] The 2026 Africa Sustainable Development Report (ASDR 2026) is setting the direction for accelerated action on the Sustainable Development Goals (SDGs) and the African Union's Agenda 2063, as countries and partners intensify efforts in the lead-up to 2030.",
       "links": [
-        "https://www.channelnewsasia.com/entertainment/jeongyeon-leaves-jyp-entertainment-6309161"
+        "https://allafrica.com/stories/202608110010.html"
       ]
     },
     {
-      "headline": "Congo-Kinshasa: Investigation Raises Alarm Over Uranium in DR Congo Cobalt Shipments to China",
+      "headline": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
       "countries": [
-        "China"
+        "Canada"
       ],
       "regions": [
-        "Africa"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "[RFI] An investigation by Lighthouse Reports, The Financial Times and Le Monde traces the possible export of uranium from the Democratic Republic of Congo back to a confidential International Atomic Energy Agency memo obtained in 2024. Chinese mining group CMOC, which owns the main site examined in ",
+      "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
       "links": [
-        "https://allafrica.com/stories/202608100014.html"
+        "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Kenya: Ruto, Oburu Lead Broad-Based Parliamentary Retreat in Naivasha Ahead of 2027 Election",
+      "headline": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
       "countries": [
-        "Kenya"
+        "Iran"
       ],
       "regions": [
-        "Africa"
+        "Americas"
       ],
       "outlets": 1,
-      "summary": "[Capital FM] Naivasha -- President William Ruto and Orange Democratic Movement (ODM) Chairman Oburu Oginga are leading a broad-based parliamentary retreat in Naivasha attended by more than 250 National Assembly members and 45 senators, a year ahead of the 2027 General Election.",
+      "summary": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms.",
       "links": [
-        "https://allafrica.com/stories/202608100109.html"
+        "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires"
       ]
     },
     {
-      "headline": "Africa: The World Has Changed. African Countries Must Rethink How They Grow Their Economies",
+      "headline": "Malawi: Bombshell Land Audit to Name Ministers, Judges and MPs Over Illegal Plot Grabs",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[The Conversation Africa] The prolonged disruption of shipping through the Strait of Hormuz has exposed how vulnerable Africa's economies are to geopolitical shocks. Fuel prices have remained elevated, squeezing economies that depend heavily on petroleum imports from the Middle East. These include E",
+      "summary": "[Nyasa Times] Malawi's Ministry of Lands, Housing and Urban Development is set to hold a highly anticipated press briefing this Wednesday to unveil the findings of a pilot land ownership audit conducted in Lilongwe - findings that are set to implicate some of the country's most powerful figures.",
       "links": [
-        "https://allafrica.com/stories/202608100009.html"
+        "https://allafrica.com/stories/202608110102.html"
       ]
     },
     {
-      "headline": "At least 30,000 affected by Myanmar floods as conflict, crop losses threaten food security",
-      "countries": [],
+      "headline": "Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "countries": [
+        "Saudi Arabia",
+        "Ethiopia"
+      ],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "At the centre of the crisis is Lemyethna township, where the Ngawun River embankment was breached on the night of Jul 30, sending floodwaters into villages and farmland.",
+      "summary": "Dozens, many from Tigray, are awaiting execution - some called the BBC to tell their stories.",
       "links": [
-        "https://www.channelnewsasia.com/asia/myanmar-ayeyarwady-flood-conflict-rice-food-security-6309056"
+        "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "A burial row over Zambia's late president has turned its election into a hot contest",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "Hakainde Hichilema was a shoo-in for a second term but the controversy following Edgar Lungu's death has dented his chances.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/clye05m3vd3o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "'No safe options' for thousands sheltering in key Sudan city as RSF fighters advance",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "International leaders have issued warnings the RSF may be preparing to attack the city, raising fears of further atrocities being committed.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
+      "countries": [
+        "Russia",
+        "Ukraine"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public.",
+      "links": [
+        "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia"
+      ]
+    },
+    {
+      "headline": "South Africa: Immigrant Traders See Their Livelihoods Destroyed By March and March",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[GroundUp] Traders with documents and permits chased away, leaving Bellville bus terminus market almost empty",
+      "links": [
+        "https://allafrica.com/stories/202608110118.html"
+      ]
+    },
+    {
+      "headline": "Report: Trump boarded secret flight from Turkey amid Iranian assassination threat",
+      "countries": [
+        "United States",
+        "Turkey",
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nReport: Trump boarded secret flight from Turkey amid Iranian assassination threat \n\n    \n    \n\n        \n    \n                US President Donald Trump secretly left Turkey on a military aircraft last month amid an alleged Iranian assassination threat,&nbsp;The Washington Post repo",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/report-trump-boarded-secret-flight-turkey-amid-iranian-assassination"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-10 (extractive mode)\n\n* Watch: Netanyahu says Israel 'rejects' Trump's 15-point plan for Gaza (Section Feed, 3 outlets)\n* Evidence that South African special forces murdered top detective shared with BBC (BBC News, 2 outlets)\n* Israeli general says Gaza should remain \u2018destroyed for generations\u2019 (Section Feed, 2 outlets)\n* Nigerian army says it safely rescued 33 people kidnapped by gunmen (BBC News, 2 outlets)\n* Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news (NPR Topics: World, 1 outlets)\n* South Africa: Ramaphosa Calls on Men to Fight GBV - South African News Briefs - August 10, 2026 (AllAfrica News: Latest, 1 outlets)\n* Philippines weighs social media ban for minors as school violence, online extremism fuel alarm (Latest News, 1 outlets)\n* Jeongyeon becomes first member of Twice to officially leave longtime agency JYP Entertainment (Latest News, 1 outlets)\n* Congo-Kinshasa: Investigation Raises Alarm Over Uranium in DR Congo Cobalt Shipments to China (AllAfrica News: Latest, 1 outlets)\n* Kenya: Ruto, Oburu Lead Broad-Based Parliamentary Retreat in Naivasha Ahead of 2027 Election (AllAfrica News: Latest, 1 outlets)\n* Africa: The World Has Changed. African Countries Must Rethink How They Grow Their Economies (AllAfrica News: Latest, 1 outlets)\n* At least 30,000 affected by Myanmar floods as conflict, crop losses threaten food security (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-08-11 (extractive mode)\n\n* South Africa: Gauteng Gets 500,000 Grade 1 and 8 Applications - South African News Briefs - August 11, 2026 (AllAfrica News: Latest, 1 outlets)\n* Man fled Singapore on fishing boat to avoid jail, caught at Changi Airport more than 20 years later (Latest News, 1 outlets)\n* Africa: Africa's 2026 Sustainable Development Report Sets Priorities to Fast-Track Progress to 2030 (AllAfrica News: Latest, 1 outlets)\n* 'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes (BBC News, 1 outlets)\n* Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms (NPR Topics: World, 1 outlets)\n* Malawi: Bombshell Land Audit to Name Ministers, Judges and MPs Over Illegal Plot Grabs (AllAfrica News: Latest, 1 outlets)\n* Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC (BBC News, 1 outlets)\n* A burial row over Zambia's late president has turned its election into a hot contest (BBC News, 1 outlets)\n* 'No safe options' for thousands sheltering in key Sudan city as RSF fighters advance (BBC News, 1 outlets)\n* Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say (NPR Topics: World, 1 outlets)\n* South Africa: Immigrant Traders See Their Livelihoods Destroyed By March and March (AllAfrica News: Latest, 1 outlets)\n* Report: Trump boarded secret flight from Turkey amid Iranian assassination threat (Section Feed, 1 outlets)"
 }
