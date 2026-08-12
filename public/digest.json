@@ -1,86 +1,56 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-11T08:01:16.877561+00:00",
-  "digest_words": 248,
+  "generated_at": "2026-08-12T08:08:08.910952+00:00",
+  "digest_words": 240,
   "clusters": [
     {
-      "headline": "South Africa: Gauteng Gets 500,000 Grade 1 and 8 Applications - South African News Briefs - August 11, 2026",
-      "countries": [
-        "South Africa"
-      ],
+      "headline": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
+      "countries": [],
       "regions": [
-        "Africa"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "[allAfrica]",
+      "outlets": 2,
+      "summary": "The vessel is said to have overturned after being hit by strong waves.",
       "links": [
-        "https://allafrica.com/stories/202608110110.html"
+        "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Man fled Singapore on fishing boat to avoid jail, caught at Changi Airport more than 20 years later",
-      "countries": [
-        "Singapore"
-      ],
+      "headline": "Cancer survivor forced to resign from school after tussles over work-from-home arrangements wins S$20,000",
+      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Despite being wanted by the authorities, Tan Khi Wie returned to Singapore several times using Indonesian passports under the false identity \"Ken Srona\".",
+      "summary": "The woman had originally been allowed to work from home two days a week to help her recovery but was suddenly told she had to work at the campus five days a week and that her medical documentation was inadequate.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/changi-airport-ica-immigration-offence-false-identity-fake-passport-6311291"
+        "https://www.channelnewsasia.com/singapore/cancer-survivor-forced-resign-work-home-arrangement-20k-6314021"
       ]
     },
     {
-      "headline": "Africa: Africa's 2026 Sustainable Development Report Sets Priorities to Fast-Track Progress to 2030",
+      "headline": "\u2018Harder to sing\u2019: Music industry veterans Dick Lee and Jeremy Monteiro weigh in on NDP 2026 songs debate",
       "countries": [],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[African Development Bank (AfDB)] The 2026 Africa Sustainable Development Report (ASDR 2026) is setting the direction for accelerated action on the Sustainable Development Goals (SDGs) and the African Union's Agenda 2063, as countries and partners intensify efforts in the lead-up to 2030.",
+      "summary": "Some commenters say this year's NDP tracks don't feel like traditional National Day anthems. Local music industry icons Dick Lee and Jeremy Monteiro weigh in on the debate and the role of younger voices in shaping Singapore's musical identity.",
       "links": [
-        "https://allafrica.com/stories/202608110010.html"
+        "https://www.channelnewsasia.com/entertainment/ndp-2026-songs-debate-dick-lee-jeremy-monteiro-6314056"
       ]
     },
     {
-      "headline": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "countries": [
-        "Canada"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
-      "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms.",
-      "links": [
-        "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires"
-      ]
-    },
-    {
-      "headline": "Malawi: Bombshell Land Audit to Name Ministers, Judges and MPs Over Illegal Plot Grabs",
+      "headline": "Houthi attacks in Yemen's Marib, Mocha left 'dozens killed and injured', military spokesman says",
       "countries": [],
       "regions": [
-        "Africa"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "[Nyasa Times] Malawi's Ministry of Lands, Housing and Urban Development is set to hold a highly anticipated press briefing this Wednesday to unveil the findings of a pilot land ownership audit conducted in Lilongwe - findings that are set to implicate some of the country's most powerful figures.",
+      "summary": "\n\n  \n      \n      \nHouthi attacks in Yemen's Marib, Mocha left 'dozens killed and injured', military spokesman says\n\n    \n    \n\n        \n    \n                Houthi military spokesperson Yahya Saree said&nbsp;that missile and drone strikes targeting military sites in Marib and Mocha killed and injur",
       "links": [
-        "https://allafrica.com/stories/202608110102.html"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attacks-yemens-marib-mocha-left-dozens-killed-and-injured"
       ]
     },
     {
@@ -99,6 +69,32 @@
       ]
     },
     {
+      "headline": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia.",
+      "links": [
+        "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines"
+      ]
+    },
+    {
+      "headline": "Kenya: MPs Put Kenya Law Reform Commission On Spot Over Sh2.1mn Unauthorised Spending",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Capital FM] Nairobi -- Members of Parliament have put the Kenya Law Reform Commission (KLRC) on the spot over millions of shillings in expenditure that was not approved by the commission, with the Auditor-General warning that the institution failed to follow budget reallocation procedures.",
+      "links": [
+        "https://allafrica.com/stories/202608120025.html"
+      ]
+    },
+    {
       "headline": "A burial row over Zambia's late president has turned its election into a hot contest",
       "countries": [],
       "regions": [
@@ -111,62 +107,58 @@
       ]
     },
     {
-      "headline": "'No safe options' for thousands sheltering in key Sudan city as RSF fighters advance",
+      "headline": "Africa: A Century of Agricultural Investment in Sudan - Why Has Development Failed?",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "International leaders have issued warnings the RSF may be preparing to attack the city, raising fears of further atrocities being committed.",
+      "summary": "[African Arguments] This article is translated and adapted from an Arabic article published in Sudanese Online. The ideas reflect arguments presented by the author in his book on agriculture in Sudan.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202608120049.html"
       ]
     },
     {
-      "headline": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-      "countries": [
-        "Russia",
-        "Ukraine"
-      ],
+      "headline": "Two swimmers to receive S$10,000 scholarship each under new Joseph Schooling award",
+      "countries": [],
       "regions": [
-        "Americas"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public.",
+      "summary": "An initial S$200,000 fund has been established for the award.",
       "links": [
-        "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia"
+        "https://www.channelnewsasia.com/singapore/joseph-schooling-scholarship-10000-swimmers-award-6314236"
       ]
     },
     {
-      "headline": "South Africa: Immigrant Traders See Their Livelihoods Destroyed By March and March",
+      "headline": "Nigeria: Nigeria and Mozambique Show How Health Systems Can Withstand Funding Cuts",
       "countries": [
-        "South Africa"
+        "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[GroundUp] Traders with documents and permits chased away, leaving Bellville bus terminus market almost empty",
+      "summary": "[allAfrica] For decades, many health programmes across sub-Saharan Africa have relied on a familiar model: donors fund disease-specific projects, parallel delivery structures are built around them, and services expand or contract with the funding cycle.",
       "links": [
-        "https://allafrica.com/stories/202608110118.html"
+        "https://allafrica.com/stories/202608120001.html"
       ]
     },
     {
-      "headline": "Report: Trump boarded secret flight from Turkey amid Iranian assassination threat",
+      "headline": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
       "countries": [
         "United States",
-        "Turkey",
         "Iran"
       ],
       "regions": [
-        "Middle East"
+        "Americas"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nReport: Trump boarded secret flight from Turkey amid Iranian assassination threat \n\n    \n    \n\n        \n    \n                US President Donald Trump secretly left Turkey on a military aircraft last month amid an alleged Iranian assassination threat,&nbsp;The Washington Post repo",
+      "summary": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/report-trump-boarded-secret-flight-turkey-amid-iranian-assassination"
+        "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-11 (extractive mode)\n\n* South Africa: Gauteng Gets 500,000 Grade 1 and 8 Applications - South African News Briefs - August 11, 2026 (AllAfrica News: Latest, 1 outlets)\n* Man fled Singapore on fishing boat to avoid jail, caught at Changi Airport more than 20 years later (Latest News, 1 outlets)\n* Africa: Africa's 2026 Sustainable Development Report Sets Priorities to Fast-Track Progress to 2030 (AllAfrica News: Latest, 1 outlets)\n* 'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes (BBC News, 1 outlets)\n* Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms (NPR Topics: World, 1 outlets)\n* Malawi: Bombshell Land Audit to Name Ministers, Judges and MPs Over Illegal Plot Grabs (AllAfrica News: Latest, 1 outlets)\n* Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC (BBC News, 1 outlets)\n* A burial row over Zambia's late president has turned its election into a hot contest (BBC News, 1 outlets)\n* 'No safe options' for thousands sheltering in key Sudan city as RSF fighters advance (BBC News, 1 outlets)\n* Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say (NPR Topics: World, 1 outlets)\n* South Africa: Immigrant Traders See Their Livelihoods Destroyed By March and March (AllAfrica News: Latest, 1 outlets)\n* Report: Trump boarded secret flight from Turkey amid Iranian assassination threat (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-08-12 (extractive mode)\n\n* At least 15 die as boat sinks in Zimbabwe's Lake Kariba (BBC News, 2 outlets)\n* Cancer survivor forced to resign from school after tussles over work-from-home arrangements wins S$20,000 (Latest News, 1 outlets)\n* \u2018Harder to sing\u2019: Music industry veterans Dick Lee and Jeremy Monteiro weigh in on NDP 2026 songs debate (Latest News, 1 outlets)\n* Houthi attacks in Yemen's Marib, Mocha left 'dozens killed and injured', military spokesman says (Section Feed, 1 outlets)\n* Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC (BBC News, 1 outlets)\n* 1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia (NPR Topics: World, 1 outlets)\n* Kenya: MPs Put Kenya Law Reform Commission On Spot Over Sh2.1mn Unauthorised Spending (AllAfrica News: Latest, 1 outlets)\n* A burial row over Zambia's late president has turned its election into a hot contest (BBC News, 1 outlets)\n* Africa: A Century of Agricultural Investment in Sudan - Why Has Development Failed? (AllAfrica News: Latest, 1 outlets)\n* Two swimmers to receive S$10,000 scholarship each under new Joseph Schooling award (Latest News, 1 outlets)\n* Nigeria: Nigeria and Mozambique Show How Health Systems Can Withstand Funding Cuts (AllAfrica News: Latest, 1 outlets)\n* Trump pivots back to sanctions for Iran as other strategies to end his war fizzle (NPR Topics: World, 1 outlets)"
 }
