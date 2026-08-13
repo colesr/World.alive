@@ -1,137 +1,86 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-12T08:08:08.910952+00:00",
-  "digest_words": 240,
+  "generated_at": "2026-08-13T08:10:01.390594+00:00",
+  "digest_words": 258,
   "clusters": [
     {
-      "headline": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
+      "headline": "Ebola outbreak on track to be deadliest ever, WHO chief says",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The vessel is said to have overturned after being hit by strong waves.",
+      "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Cancer survivor forced to resign from school after tussles over work-from-home arrangements wins S$20,000",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The woman had originally been allowed to work from home two days a week to help her recovery but was suddenly told she had to work at the campus five days a week and that her medical documentation was inadequate.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/cancer-survivor-forced-resign-work-home-arrangement-20k-6314021"
-      ]
-    },
-    {
-      "headline": "\u2018Harder to sing\u2019: Music industry veterans Dick Lee and Jeremy Monteiro weigh in on NDP 2026 songs debate",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Some commenters say this year's NDP tracks don't feel like traditional National Day anthems. Local music industry icons Dick Lee and Jeremy Monteiro weigh in on the debate and the role of younger voices in shaping Singapore's musical identity.",
-      "links": [
-        "https://www.channelnewsasia.com/entertainment/ndp-2026-songs-debate-dick-lee-jeremy-monteiro-6314056"
-      ]
-    },
-    {
-      "headline": "Houthi attacks in Yemen's Marib, Mocha left 'dozens killed and injured', military spokesman says",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nHouthi attacks in Yemen's Marib, Mocha left 'dozens killed and injured', military spokesman says\n\n    \n    \n\n        \n    \n                Houthi military spokesperson Yahya Saree said&nbsp;that missile and drone strikes targeting military sites in Marib and Mocha killed and injur",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attacks-yemens-marib-mocha-left-dozens-killed-and-injured"
-      ]
-    },
-    {
-      "headline": "Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "headline": "South Africa: This South African River Has a Bacteria Count Off the Charts - a Natural Filter Is Cleaning It for Watering Food Gardens",
       "countries": [
-        "Saudi Arabia",
-        "Ethiopia"
+        "South Africa"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "Dozens, many from Tigray, are awaiting execution - some called the BBC to tell their stories.",
+      "summary": "[The Conversation Africa] Every day, millions of litres of polluted water flow through many South African rivers and disappear into the sea.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202608130025.html"
       ]
     },
     {
-      "headline": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
-      "countries": [],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia.",
-      "links": [
-        "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines"
-      ]
-    },
-    {
-      "headline": "Kenya: MPs Put Kenya Law Reform Commission On Spot Over Sh2.1mn Unauthorised Spending",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- Members of Parliament have put the Kenya Law Reform Commission (KLRC) on the spot over millions of shillings in expenditure that was not approved by the commission, with the Auditor-General warning that the institution failed to follow budget reallocation procedures.",
-      "links": [
-        "https://allafrica.com/stories/202608120025.html"
-      ]
-    },
-    {
-      "headline": "A burial row over Zambia's late president has turned its election into a hot contest",
+      "headline": "Cameroon/Malawi: Wafcon 2026 - Chawinga Sisters Fire Malawi Into Historic Final As Cameroon End Morocco's Dream",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "Hakainde Hichilema was a shoo-in for a second term but the controversy following Edgar Lungu's death has dented his chances.",
+      "summary": "[Premium Times] With Malawi and Cameroon now set for the final, the 2026 WAFCON has produced a fascinating title clash between a debutant nation chasing its first continental crown and a former powerhouse seeking to reclaim its place at the top of African women's football",
       "links": [
-        "https://www.bbc.co.uk/news/articles/clye05m3vd3o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202608130011.html"
       ]
     },
     {
-      "headline": "Africa: A Century of Agricultural Investment in Sudan - Why Has Development Failed?",
+      "headline": "Africa: Africans Migrate for Jobs Mostly Within the Continent - Why Regional Skills Partnerships Are Needed",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[African Arguments] This article is translated and adapted from an Arabic article published in Sudanese Online. The ideas reflect arguments presented by the author in his book on agriculture in Sudan.",
+      "summary": "[The Conversation Africa] In 2024, 25.1 million Africans were living in other countries on the continent. Labour migration has long been a defining feature of Africa's economic landscape.",
       "links": [
-        "https://allafrica.com/stories/202608120049.html"
+        "https://allafrica.com/stories/202608130022.html"
       ]
     },
     {
-      "headline": "Two swimmers to receive S$10,000 scholarship each under new Joseph Schooling award",
+      "headline": "Social media trends to blame? Why Malaysia is tightening hiking rules and what it means for hikers",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "An initial S$200,000 fund has been established for the award.",
+      "summary": "Malaysia is tightening hiking rules after a rise in search-and-rescue cases, and experts have linked these to people underestimating the risks of mountaineering while pursuing aesthetic content for social media.&nbsp;",
       "links": [
-        "https://www.channelnewsasia.com/singapore/joseph-schooling-scholarship-10000-swimmers-award-6314236"
+        "https://www.channelnewsasia.com/asia/malaysia-hiking-new-rules-social-media-influence-6314241"
       ]
     },
     {
-      "headline": "Nigeria: Nigeria and Mozambique Show How Health Systems Can Withstand Funding Cuts",
+      "headline": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[ACSS] Fatalities linked to militant Islamist violence in Africa surpassed 20,000 deaths for the fourth consecutive year, underscoring the resiliency of militant groups across the Sahel, Somalia, the Lake Chad Basin, and Mozambique.",
+      "links": [
+        "https://allafrica.com/stories/202608120420.html"
+      ]
+    },
+    {
+      "headline": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
       "countries": [
         "Nigeria"
       ],
@@ -139,26 +88,80 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica] For decades, many health programmes across sub-Saharan Africa have relied on a familiar model: donors fund disease-specific projects, parallel delivery structures are built around them, and services expand or contract with the funding cycle.",
+      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
       "links": [
-        "https://allafrica.com/stories/202608120001.html"
+        "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+      "headline": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Pakistan says Israel's refusal to withdraw forces from Gaza 'serious setback' to peace plan",
       "countries": [
-        "United States",
-        "Iran"
+        "Israel",
+        "Pakistan"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nPakistan says Israel's refusal to withdraw forces from Gaza 'serious setback' to peace plan\n\n    \n    \n\n        \n    \n                Pakistan has expressed its rejection of Israeli Prime Minister Benjamin Netanyahu's opposition to the establishment of a Palestinian state.\n\nForeig",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-israels-refusal-withdraw-forces-gaza-serious-setback-peace"
+      ]
+    },
+    {
+      "headline": "Central African Republic: French Ambassador to CAR Disciplined Over Misconduct Allegations",
+      "countries": [
+        "France"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[RFI] France's foreign ministry has launched disciplinary proceedings against its ambassador to the Central African Republic, following allegations that he repeatedly brought young women to the official residence in Bangui and had sexual relations with some of them.",
+      "links": [
+        "https://allafrica.com/stories/202608130028.html"
+      ]
+    },
+    {
+      "headline": "Zambia: Leading Democrats in the U.S. Senate Issue Call for Peaceful Elections in Zambia",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[United States Senate] Today, U.S. Senators Jeanne Shaheen (D-NH), Ranking Member of the Senate Foreign Relations Committee,  Cory Booker (D-NJ), Ranking Member of the Subcommittee on Africa &#x26;amp; Global Health Policy, Jeff Merkley (D-OR) and Chris Van Hollen (D-MD) issued the below statement c",
+      "links": [
+        "https://allafrica.com/stories/202608120566.html"
+      ]
+    },
+    {
+      "headline": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
+      "countries": [
+        "Brazil"
       ],
       "regions": [
         "Americas"
       ],
       "outlets": 1,
-      "summary": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough.",
+      "summary": "The pristine white sand dunes of the Len\u00e7\u00f3is Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.",
       "links": [
-        "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war"
+        "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-12 (extractive mode)\n\n* At least 15 die as boat sinks in Zimbabwe's Lake Kariba (BBC News, 2 outlets)\n* Cancer survivor forced to resign from school after tussles over work-from-home arrangements wins S$20,000 (Latest News, 1 outlets)\n* \u2018Harder to sing\u2019: Music industry veterans Dick Lee and Jeremy Monteiro weigh in on NDP 2026 songs debate (Latest News, 1 outlets)\n* Houthi attacks in Yemen's Marib, Mocha left 'dozens killed and injured', military spokesman says (Section Feed, 1 outlets)\n* Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC (BBC News, 1 outlets)\n* 1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia (NPR Topics: World, 1 outlets)\n* Kenya: MPs Put Kenya Law Reform Commission On Spot Over Sh2.1mn Unauthorised Spending (AllAfrica News: Latest, 1 outlets)\n* A burial row over Zambia's late president has turned its election into a hot contest (BBC News, 1 outlets)\n* Africa: A Century of Agricultural Investment in Sudan - Why Has Development Failed? (AllAfrica News: Latest, 1 outlets)\n* Two swimmers to receive S$10,000 scholarship each under new Joseph Schooling award (Latest News, 1 outlets)\n* Nigeria: Nigeria and Mozambique Show How Health Systems Can Withstand Funding Cuts (AllAfrica News: Latest, 1 outlets)\n* Trump pivots back to sanctions for Iran as other strategies to end his war fizzle (NPR Topics: World, 1 outlets)"
+  "narrative": "State of the World - 2026-08-13 (extractive mode)\n\n* Ebola outbreak on track to be deadliest ever, WHO chief says (BBC News, 2 outlets)\n* South Africa: This South African River Has a Bacteria Count Off the Charts - a Natural Filter Is Cleaning It for Watering Food Gardens (AllAfrica News: Latest, 1 outlets)\n* Cameroon/Malawi: Wafcon 2026 - Chawinga Sisters Fire Malawi Into Historic Final As Cameroon End Morocco's Dream (AllAfrica News: Latest, 1 outlets)\n* Africa: Africans Migrate for Jobs Mostly Within the Continent - Why Regional Skills Partnerships Are Needed (AllAfrica News: Latest, 1 outlets)\n* Social media trends to blame? Why Malaysia is tightening hiking rules and what it means for hikers (Latest News, 1 outlets)\n* Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics (AllAfrica News: Latest, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life' (BBC News, 1 outlets)\n* Pakistan says Israel's refusal to withdraw forces from Gaza 'serious setback' to peace plan (Section Feed, 1 outlets)\n* Central African Republic: French Ambassador to CAR Disciplined Over Misconduct Allegations (AllAfrica News: Latest, 1 outlets)\n* Zambia: Leading Democrats in the U.S. Senate Issue Call for Peaceful Elections in Zambia (AllAfrica News: Latest, 1 outlets)\n* Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil (NPR Topics: World, 1 outlets)"
 }
