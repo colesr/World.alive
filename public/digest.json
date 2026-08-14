@@ -1,86 +1,54 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-13T08:10:01.390594+00:00",
-  "digest_words": 258,
+  "generated_at": "2026-08-14T08:05:37.983591+00:00",
+  "digest_words": 264,
   "clusters": [
     {
-      "headline": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "countries": [],
+      "headline": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
+      "countries": [
+        "France"
+      ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+      "summary": "The accusations against Bruno Foucher prompted investigations into a potential security breach.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "South Africa: This South African River Has a Bacteria Count Off the Charts - a Natural Filter Is Cleaning It for Watering Food Gardens",
+      "headline": "Presidential pardon for French alleged spy accused of plotting Mali coup",
       "countries": [
-        "South Africa"
+        "France"
       ],
       "regions": [
-        "Africa"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] Every day, millions of litres of polluted water flow through many South African rivers and disappear into the sea.",
+      "outlets": 2,
+      "summary": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
       "links": [
-        "https://allafrica.com/stories/202608130025.html"
+        "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Cameroon/Malawi: Wafcon 2026 - Chawinga Sisters Fire Malawi Into Historic Final As Cameroon End Morocco's Dream",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Premium Times] With Malawi and Cameroon now set for the final, the 2026 WAFCON has produced a fascinating title clash between a debutant nation chasing its first continental crown and a former powerhouse seeking to reclaim its place at the top of African women's football",
-      "links": [
-        "https://allafrica.com/stories/202608130011.html"
-      ]
-    },
-    {
-      "headline": "Africa: Africans Migrate for Jobs Mostly Within the Continent - Why Regional Skills Partnerships Are Needed",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] In 2024, 25.1 million Africans were living in other countries on the continent. Labour migration has long been a defining feature of Africa's economic landscape.",
-      "links": [
-        "https://allafrica.com/stories/202608130022.html"
-      ]
-    },
-    {
-      "headline": "Social media trends to blame? Why Malaysia is tightening hiking rules and what it means for hikers",
+      "headline": "Authorities warn against cryptocurrency-related scams involving fake job offers after US$11.8 million in losses",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Malaysia is tightening hiking rules after a rise in search-and-rescue cases, and experts have linked these to people underestimating the risks of mountaineering while pursuing aesthetic content for social media.&nbsp;",
+      "summary": "In such cases, scammers pose as recruiters and trick victims into downloading malware through fake technical assessments, allowing them to compromise company systems and steal cryptocurrency.",
       "links": [
-        "https://www.channelnewsasia.com/asia/malaysia-hiking-new-rules-social-media-influence-6314241"
+        "https://www.channelnewsasia.com/singapore/cryptocurrency-scam-us118-million-losses-6319186"
       ]
     },
     {
-      "headline": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[ACSS] Fatalities linked to militant Islamist violence in Africa surpassed 20,000 deaths for the fourth consecutive year, underscoring the resiliency of militant groups across the Sahel, Somalia, the Lake Chad Basin, and Mozambique.",
-      "links": [
-        "https://allafrica.com/stories/202608120420.html"
-      ]
-    },
-    {
-      "headline": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+      "headline": "Nigeria: How Lagos Pioneers Built a Vibrant Yoruba Print Culture in the 1920s - At the Height of Colonialism",
       "countries": [
         "Nigeria"
       ],
@@ -88,80 +56,117 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+      "summary": "[The Conversation Africa] In Lagos in the 1910s and 1920s a new market of readers was emerging who wanted to express themselves in their own languages. Despite the dominance of colonial English print culture, entrepreneurs increasingly started using printing presses for mainstream Yoruba-language ne",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202608140061.html"
       ]
     },
     {
-      "headline": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+      "headline": "Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises",
+      "countries": [
+        "Ethiopia"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Addis Standard] Addis Abeba -- Reports of forced conscription are resurfacing in several parts of Oromia, including the Sheger City area surrounding the capital Addis Abeba, with families alleging that young people have been taken against their will and, in some cases, that money has subsequently b",
+      "links": [
+        "https://allafrica.com/stories/202608140050.html"
+      ]
+    },
+    {
+      "headline": "Marina Bay Sands to host Ferrari race car, luxury pop-up and F1-themed events ahead of Singapore Grand Prix",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Ferrari will take over Marina Bay Sands this F1 season with various events and activities, including a Ferrari SF21 show car going on display from Sep 14 to Oct 12.",
+      "links": [
+        "https://www.channelnewsasia.com/living/ferrari-marina-bay-sands-singapore-f1-2026-6319016"
+      ]
+    },
+    {
+      "headline": "Sudan: 'Unbearable Hardship' in Sudan - - Displaced People in Kordofan Eat Animal Feed to Avert Starvation",
       "countries": [],
       "regions": [
-        "Europe"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+      "summary": "[Dabanga] Ed Daein / El Obeid -- Humanitarian activist Huweida Abdelrahman Saleh has described desperate conditions in Ed Daein locality in West Kordofan, where hunger has driven some families to eat ambaz, amid a sharp rise in grain prices. A malwa of millet now costs SDG 20,000, while sources of i",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202608140059.html"
       ]
     },
     {
-      "headline": "Pakistan says Israel's refusal to withdraw forces from Gaza 'serious setback' to peace plan",
+      "headline": "Africa: The Beijing of It All - Africa's Development Terms Are No Longer Written in Washington or Brussels",
       "countries": [
-        "Israel",
-        "Pakistan"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nPakistan says Israel's refusal to withdraw forces from Gaza 'serious setback' to peace plan\n\n    \n    \n\n        \n    \n                Pakistan has expressed its rejection of Israeli Prime Minister Benjamin Netanyahu's opposition to the establishment of a Palestinian state.\n\nForeig",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-israels-refusal-withdraw-forces-gaza-serious-setback-peace"
-      ]
-    },
-    {
-      "headline": "Central African Republic: French Ambassador to CAR Disciplined Over Misconduct Allegations",
-      "countries": [
-        "France"
+        "China"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[RFI] France's foreign ministry has launched disciplinary proceedings against its ambassador to the Central African Republic, following allegations that he repeatedly brought young women to the official residence in Bangui and had sexual relations with some of them.",
+      "summary": "[African Arguments] In the period that followed decolonisation, Africa's development landscape continued to be shaped by Western partnerships. By the late 1990s and early 2000s, this Western-facing architecture took the form of policy conditionality, governance agendas and institutional reform attac",
       "links": [
-        "https://allafrica.com/stories/202608130028.html"
+        "https://allafrica.com/stories/202608140057.html"
       ]
     },
     {
-      "headline": "Zambia: Leading Democrats in the U.S. Senate Issue Call for Peaceful Elections in Zambia",
+      "headline": "Prabowo touts government\u2019s early wins in state address, says Indonesia could hit 6% growth by this year",
       "countries": [
-        "United States"
+        "Indonesia"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Friday\u2019s State of the Nation address was Indonesian President Prabowo Subianto\u2019s second since taking office in October 2024.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/indonesia-president-prabowo-subianto-state-nation-6317126"
+      ]
+    },
+    {
+      "headline": "Africa: Can You Be Served When You're Not Counted? Disability Advocates Demand a Seat at the SRHR Table",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica] Mombasa, Kenya -- For persons with disabilities, being in the room does not always mean being included.",
+      "links": [
+        "https://allafrica.com/stories/202608140033.html"
+      ]
+    },
+    {
+      "headline": "Actor Tay Ping Hui mourns mother, who died of cancer: 'Life without you will never be the same'",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "On Instagram, the Singaporean actor opened up about his mother's battle with cancer and why he had stepped back from social media in recent months.",
+      "links": [
+        "https://www.channelnewsasia.com/entertainment/tay-ping-hui-mourns-mother-pancreatic-cancer-6319176"
+      ]
+    },
+    {
+      "headline": "South Africa: Criminal Links of South Africa's Private Security Companies Also Require Scrutiny",
+      "countries": [
+        "South Africa"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[United States Senate] Today, U.S. Senators Jeanne Shaheen (D-NH), Ranking Member of the Senate Foreign Relations Committee,  Cory Booker (D-NJ), Ranking Member of the Subcommittee on Africa &#x26;amp; Global Health Policy, Jeff Merkley (D-OR) and Chris Van Hollen (D-MD) issued the below statement c",
+      "summary": "[ISS] Involvement of criminal actors in the private security industry raises questions about industries' management of firearms.",
       "links": [
-        "https://allafrica.com/stories/202608120566.html"
-      ]
-    },
-    {
-      "headline": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
-      "countries": [
-        "Brazil"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "The pristine white sand dunes of the Len\u00e7\u00f3is Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.",
-      "links": [
-        "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park"
+        "https://allafrica.com/stories/202608140053.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-13 (extractive mode)\n\n* Ebola outbreak on track to be deadliest ever, WHO chief says (BBC News, 2 outlets)\n* South Africa: This South African River Has a Bacteria Count Off the Charts - a Natural Filter Is Cleaning It for Watering Food Gardens (AllAfrica News: Latest, 1 outlets)\n* Cameroon/Malawi: Wafcon 2026 - Chawinga Sisters Fire Malawi Into Historic Final As Cameroon End Morocco's Dream (AllAfrica News: Latest, 1 outlets)\n* Africa: Africans Migrate for Jobs Mostly Within the Continent - Why Regional Skills Partnerships Are Needed (AllAfrica News: Latest, 1 outlets)\n* Social media trends to blame? Why Malaysia is tightening hiking rules and what it means for hikers (Latest News, 1 outlets)\n* Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics (AllAfrica News: Latest, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life' (BBC News, 1 outlets)\n* Pakistan says Israel's refusal to withdraw forces from Gaza 'serious setback' to peace plan (Section Feed, 1 outlets)\n* Central African Republic: French Ambassador to CAR Disciplined Over Misconduct Allegations (AllAfrica News: Latest, 1 outlets)\n* Zambia: Leading Democrats in the U.S. Senate Issue Call for Peaceful Elections in Zambia (AllAfrica News: Latest, 1 outlets)\n* Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil (NPR Topics: World, 1 outlets)"
+  "narrative": "State of the World - 2026-08-14 (extractive mode)\n\n* French ambassador to CAR accused of misconduct at official residence faces disciplinary action (BBC News, 2 outlets)\n* Presidential pardon for French alleged spy accused of plotting Mali coup (BBC News, 2 outlets)\n* Authorities warn against cryptocurrency-related scams involving fake job offers after US$11.8 million in losses (Latest News, 1 outlets)\n* Nigeria: How Lagos Pioneers Built a Vibrant Yoruba Print Culture in the 1920s - At the Height of Colonialism (AllAfrica News: Latest, 1 outlets)\n* Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises (AllAfrica News: Latest, 1 outlets)\n* Marina Bay Sands to host Ferrari race car, luxury pop-up and F1-themed events ahead of Singapore Grand Prix (Latest News, 1 outlets)\n* Sudan: 'Unbearable Hardship' in Sudan - - Displaced People in Kordofan Eat Animal Feed to Avert Starvation (AllAfrica News: Latest, 1 outlets)\n* Africa: The Beijing of It All - Africa's Development Terms Are No Longer Written in Washington or Brussels (AllAfrica News: Latest, 1 outlets)\n* Prabowo touts government\u2019s early wins in state address, says Indonesia could hit 6% growth by this year (Latest News, 1 outlets)\n* Africa: Can You Be Served When You're Not Counted? Disability Advocates Demand a Seat at the SRHR Table (AllAfrica News: Latest, 1 outlets)\n* Actor Tay Ping Hui mourns mother, who died of cancer: 'Life without you will never be the same' (Latest News, 1 outlets)\n* South Africa: Criminal Links of South Africa's Private Security Companies Also Require Scrutiny (AllAfrica News: Latest, 1 outlets)"
 }
