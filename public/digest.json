@@ -1,68 +1,40 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-14T08:05:37.983591+00:00",
-  "digest_words": 264,
+  "generated_at": "2026-08-15T07:20:25.499207+00:00",
+  "digest_words": 235,
   "clusters": [
     {
-      "headline": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
-      "countries": [
-        "France"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The accusations against Bruno Foucher prompted investigations into a potential security breach.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-      "countries": [
-        "France"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Authorities warn against cryptocurrency-related scams involving fake job offers after US$11.8 million in losses",
+      "headline": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
       "countries": [],
       "regions": [
-        "Asia"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "In such cases, scammers pose as recruiters and trick victims into downloading malware through fake technical assessments, allowing them to compromise company systems and steal cryptocurrency.",
+      "outlets": 2,
+      "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
       "links": [
-        "https://www.channelnewsasia.com/singapore/cryptocurrency-scam-us118-million-losses-6319186"
+        "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Nigeria: How Lagos Pioneers Built a Vibrant Yoruba Print Culture in the 1920s - At the Height of Colonialism",
+      "headline": "South Korea president proposes talks with North to formally end Korean War",
       "countries": [
-        "Nigeria"
+        "South Korea"
       ],
       "regions": [
-        "Africa"
+        "Asia",
+        "Middle East"
       ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] In Lagos in the 1910s and 1920s a new market of readers was emerging who wanted to express themselves in their own languages. Despite the dominance of colonial English print culture, entrepreneurs increasingly started using printing presses for mainstream Yoruba-language ne",
+      "outlets": 2,
+      "summary": "\"Let us put down our intentions to threaten each other and begin discussions to end the long-running war as the directly involved parties,\" South Korean President Lee Jae Myung said on Saturday (Aug 15).",
       "links": [
-        "https://allafrica.com/stories/202608140061.html"
+        "https://www.channelnewsasia.com/east-asia/south-korea-propose-talks-north-end-korean-war-6321036",
+        "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss"
       ]
     },
     {
-      "headline": "Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises",
+      "headline": "Ethiopia: Five Detained Ethiopian Journalists Pressured to Admit Terrorism Involvement in Exchange for Release, CPJ Says",
       "countries": [
         "Ethiopia"
       ],
@@ -70,13 +42,13 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Addis Standard] Addis Abeba -- Reports of forced conscription are resurfacing in several parts of Oromia, including the Sheger City area surrounding the capital Addis Abeba, with families alleging that young people have been taken against their will and, in some cases, that money has subsequently b",
+      "summary": "[Addis Standard] Addis Abeba -- The Committee to Protect Journalists (CPJ) has called on Ethiopian authorities to release five journalists who have been detained for about three years while awaiting trial, alleging that they are being pressured to admit involvement in an armed insurgency and apologi",
       "links": [
-        "https://allafrica.com/stories/202608140050.html"
+        "https://allafrica.com/stories/202608140178.html"
       ]
     },
     {
-      "headline": "Marina Bay Sands to host Ferrari race car, luxury pop-up and F1-themed events ahead of Singapore Grand Prix",
+      "headline": "Singapore takes trade compliance seriously, will take firm action against businesses that break laws: MTI",
       "countries": [
         "Singapore"
       ],
@@ -84,89 +56,112 @@
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Ferrari will take over Marina Bay Sands this F1 season with various events and activities, including a Ferrari SF21 show car going on display from Sep 14 to Oct 12.",
+      "summary": "The United States flagged Singapore among more than 40 countries at risk of being used to circumvent tariffs on Chinese goods.",
       "links": [
-        "https://www.channelnewsasia.com/living/ferrari-marina-bay-sands-singapore-f1-2026-6319016"
+        "https://www.channelnewsasia.com/singapore/circumvent-us-tariffs-china-singapore-6320951"
       ]
     },
     {
-      "headline": "Sudan: 'Unbearable Hardship' in Sudan - - Displaced People in Kordofan Eat Animal Feed to Avert Starvation",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Dabanga] Ed Daein / El Obeid -- Humanitarian activist Huweida Abdelrahman Saleh has described desperate conditions in Ed Daein locality in West Kordofan, where hunger has driven some families to eat ambaz, amid a sharp rise in grain prices. A malwa of millet now costs SDG 20,000, while sources of i",
-      "links": [
-        "https://allafrica.com/stories/202608140059.html"
-      ]
-    },
-    {
-      "headline": "Africa: The Beijing of It All - Africa's Development Terms Are No Longer Written in Washington or Brussels",
-      "countries": [
-        "China"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[African Arguments] In the period that followed decolonisation, Africa's development landscape continued to be shaped by Western partnerships. By the late 1990s and early 2000s, this Western-facing architecture took the form of policy conditionality, governance agendas and institutional reform attac",
-      "links": [
-        "https://allafrica.com/stories/202608140057.html"
-      ]
-    },
-    {
-      "headline": "Prabowo touts government\u2019s early wins in state address, says Indonesia could hit 6% growth by this year",
-      "countries": [
-        "Indonesia"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Friday\u2019s State of the Nation address was Indonesian President Prabowo Subianto\u2019s second since taking office in October 2024.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/indonesia-president-prabowo-subianto-state-nation-6317126"
-      ]
-    },
-    {
-      "headline": "Africa: Can You Be Served When You're Not Counted? Disability Advocates Demand a Seat at the SRHR Table",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica] Mombasa, Kenya -- For persons with disabilities, being in the room does not always mean being included.",
-      "links": [
-        "https://allafrica.com/stories/202608140033.html"
-      ]
-    },
-    {
-      "headline": "Actor Tay Ping Hui mourns mother, who died of cancer: 'Life without you will never be the same'",
+      "headline": "NEA rebuts accusations of misappropriation, corruption over Beverage Container Return Scheme refunds",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "On Instagram, the Singaporean actor opened up about his mother's battle with cancer and why he had stepped back from social media in recent months.",
+      "summary": "Consumers have used the machines more than one million times to return a total of 5.5 million containers, meaning each transaction involved an average of about 5.5 containers, said NEA.",
       "links": [
-        "https://www.channelnewsasia.com/entertainment/tay-ping-hui-mourns-mother-pancreatic-cancer-6319176"
+        "https://www.channelnewsasia.com/singapore/beverage-container-return-scheme-nea-rebut-accusation-6321081"
       ]
     },
     {
-      "headline": "South Africa: Criminal Links of South Africa's Private Security Companies Also Require Scrutiny",
+      "headline": "Exclusive-Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/business/exclusive-anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-6320831"
+      ]
+    },
+    {
+      "headline": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln.",
+      "links": [
+        "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln"
+      ]
+    },
+    {
+      "headline": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
       "countries": [
-        "South Africa"
+        "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[ISS] Involvement of criminal actors in the private security industry raises questions about industries' management of firearms.",
+      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
       "links": [
-        "https://allafrica.com/stories/202608140053.html"
+        "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR's Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona.",
+      "links": [
+        "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego"
+      ]
+    },
+    {
+      "headline": "Nigeria: U.S. Flags Civilian Deaths, Funding Gaps As Nigeria Pushes for CPC Delisting",
+      "countries": [
+        "United States",
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Vanguard] Despite Nigeria's reported prosecution of hundreds of terror suspects and recruitment of 50,000 police officers, the United States said continuing challenges remained in the fight to remove Nigeria from its Country of Particular Concern, CPC, list.",
+      "links": [
+        "https://allafrica.com/stories/202608140364.html"
+      ]
+    },
+    {
+      "headline": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
+      "links": [
+        "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-14 (extractive mode)\n\n* French ambassador to CAR accused of misconduct at official residence faces disciplinary action (BBC News, 2 outlets)\n* Presidential pardon for French alleged spy accused of plotting Mali coup (BBC News, 2 outlets)\n* Authorities warn against cryptocurrency-related scams involving fake job offers after US$11.8 million in losses (Latest News, 1 outlets)\n* Nigeria: How Lagos Pioneers Built a Vibrant Yoruba Print Culture in the 1920s - At the Height of Colonialism (AllAfrica News: Latest, 1 outlets)\n* Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises (AllAfrica News: Latest, 1 outlets)\n* Marina Bay Sands to host Ferrari race car, luxury pop-up and F1-themed events ahead of Singapore Grand Prix (Latest News, 1 outlets)\n* Sudan: 'Unbearable Hardship' in Sudan - - Displaced People in Kordofan Eat Animal Feed to Avert Starvation (AllAfrica News: Latest, 1 outlets)\n* Africa: The Beijing of It All - Africa's Development Terms Are No Longer Written in Washington or Brussels (AllAfrica News: Latest, 1 outlets)\n* Prabowo touts government\u2019s early wins in state address, says Indonesia could hit 6% growth by this year (Latest News, 1 outlets)\n* Africa: Can You Be Served When You're Not Counted? Disability Advocates Demand a Seat at the SRHR Table (AllAfrica News: Latest, 1 outlets)\n* Actor Tay Ping Hui mourns mother, who died of cancer: 'Life without you will never be the same' (Latest News, 1 outlets)\n* South Africa: Criminal Links of South Africa's Private Security Companies Also Require Scrutiny (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-08-15 (extractive mode)\n\n* Zambia vote counting resumes after pause over alleged attacks on polling staff (BBC News, 2 outlets)\n* South Korea president proposes talks with North to formally end Korean War (Latest News, 2 outlets)\n* Ethiopia: Five Detained Ethiopian Journalists Pressured to Admit Terrorism Involvement in Exchange for Release, CPJ Says (AllAfrica News: Latest, 1 outlets)\n* Singapore takes trade compliance seriously, will take firm action against businesses that break laws: MTI (Latest News, 1 outlets)\n* NEA rebuts accusations of misappropriation, corruption over Beverage Container Return Scheme refunds (Latest News, 1 outlets)\n* Exclusive-Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say (Latest News, 1 outlets)\n* New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln (NPR Topics: World, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule (BBC News, 1 outlets)\n* Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership' (NPR Topics: World, 1 outlets)\n* Nigeria: U.S. Flags Civilian Deaths, Funding Gaps As Nigeria Pushes for CPC Delisting (AllAfrica News: Latest, 1 outlets)\n* Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln (NPR Topics: World, 1 outlets)"
 }
