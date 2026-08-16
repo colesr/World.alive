@@ -1,36 +1,49 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-15T07:20:25.499207+00:00",
-  "digest_words": 235,
+  "generated_at": "2026-08-16T07:22:09.321698+00:00",
+  "digest_words": 254,
   "clusters": [
     {
-      "headline": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+      "headline": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
+      "countries": [],
+      "regions": [
+        "Americas",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row.",
+      "links": [
+        "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-world-4025-rdf",
+        "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead"
+      ]
+    },
+    {
+      "headline": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
+      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "South Korea president proposes talks with North to formally end Korean War",
+      "headline": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
       "countries": [
-        "South Korea"
+        "Egypt"
       ],
       "regions": [
-        "Asia",
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "\"Let us put down our intentions to threaten each other and begin discussions to end the long-running war as the directly involved parties,\" South Korean President Lee Jae Myung said on Saturday (Aug 15).",
+      "summary": "Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
       "links": [
-        "https://www.channelnewsasia.com/east-asia/south-korea-propose-talks-north-end-korean-war-6321036",
-        "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss"
+        "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-chief-heads-cairo-talks-ahead-kushner-visit"
       ]
     },
     {
@@ -48,53 +61,42 @@
       ]
     },
     {
-      "headline": "Singapore takes trade compliance seriously, will take firm action against businesses that break laws: MTI",
+      "headline": "Africa: Can You Be Served When You're Not Counted? Disability Advocates Demand a Seat at the SRHR Table",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica] Mombasa, Kenya -- For persons with disabilities, being in the room does not always mean being included.",
+      "links": [
+        "https://allafrica.com/stories/202608140033.html"
+      ]
+    },
+    {
+      "headline": "The great matcha rivalry: Can Japan\u2019s centuries-old tradition hold its own against China\u2019s scale?",
       "countries": [
-        "Singapore"
+        "China",
+        "Japan"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The United States flagged Singapore among more than 40 countries at risk of being used to circumvent tariffs on Chinese goods.",
+      "summary": "From New York to London, the world cannot seem to get enough matcha. The boom has revived Japan\u2019s tea industry but also exposed the limits of its supply. Now China, already the world\u2019s biggest producer, sees an opportunity to scale up.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/circumvent-us-tariffs-china-singapore-6320951"
+        "https://www.channelnewsasia.com/east-asia/matcha-tea-japan-china-rivalry-6316391"
       ]
     },
     {
-      "headline": "NEA rebuts accusations of misappropriation, corruption over Beverage Container Return Scheme refunds",
+      "headline": "Adam Driver will play Mister Sinister and Inde Navarrette will go Rogue in Marvel\u2019s X-Men reboot",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Consumers have used the machines more than one million times to return a total of 5.5 million containers, meaning each transaction involved an average of about 5.5 containers, said NEA.",
+      "summary": "Disney's D23 event on Saturday (Aug 15), Singapore time, also saw announcements related to the Star Wars franchise.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/beverage-container-return-scheme-nea-rebut-accusation-6321081"
-      ]
-    },
-    {
-      "headline": "Exclusive-Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/exclusive-anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-6320831"
-      ]
-    },
-    {
-      "headline": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-      "countries": [],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln.",
-      "links": [
-        "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln"
+        "https://www.channelnewsasia.com/entertainment/d23-2026-x-men-frozen-3-star-wars-6321896"
       ]
     },
     {
@@ -112,15 +114,15 @@
       ]
     },
     {
-      "headline": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "headline": "Report: Drone strikes kill three Houthi fighters and wound commanders in southwest Yemen",
       "countries": [],
       "regions": [
-        "Europe"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+      "summary": "\n\n  \n      \n      \nReport: Drone strikes kill three Houthi fighters and wound commanders in southwest Yemen\n\n    \n    \n\n        \n    \n                Yemeni government forces said at least three Houthis have been killed during drone strikes west of Taiz governorate, in the southwest of the country, ",
       "links": [
-        "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/report-drone-strikes-kill-three-houthi-fighters-and-wound-commanders"
       ]
     },
     {
@@ -133,6 +135,20 @@
       "summary": "Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR's Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona.",
       "links": [
         "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego"
+      ]
+    },
+    {
+      "headline": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back.",
+      "links": [
+        "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport"
       ]
     },
     {
@@ -149,19 +165,7 @@
       "links": [
         "https://allafrica.com/stories/202608140364.html"
       ]
-    },
-    {
-      "headline": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
-      "countries": [],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
-      "links": [
-        "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center"
-      ]
     }
   ],
-  "narrative": "State of the World - 2026-08-15 (extractive mode)\n\n* Zambia vote counting resumes after pause over alleged attacks on polling staff (BBC News, 2 outlets)\n* South Korea president proposes talks with North to formally end Korean War (Latest News, 2 outlets)\n* Ethiopia: Five Detained Ethiopian Journalists Pressured to Admit Terrorism Involvement in Exchange for Release, CPJ Says (AllAfrica News: Latest, 1 outlets)\n* Singapore takes trade compliance seriously, will take firm action against businesses that break laws: MTI (Latest News, 1 outlets)\n* NEA rebuts accusations of misappropriation, corruption over Beverage Container Return Scheme refunds (Latest News, 1 outlets)\n* Exclusive-Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say (Latest News, 1 outlets)\n* New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln (NPR Topics: World, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule (BBC News, 1 outlets)\n* Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership' (NPR Topics: World, 1 outlets)\n* Nigeria: U.S. Flags Civilian Deaths, Funding Gaps As Nigeria Pushes for CPC Delisting (AllAfrica News: Latest, 1 outlets)\n* Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln (NPR Topics: World, 1 outlets)"
+  "narrative": "State of the World - 2026-08-16 (extractive mode)\n\n* Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead (World | Deutsche Welle, 2 outlets)\n* Morocco detains dozens of migrants trying to cross into Ceuta, reports say (BBC News, 2 outlets)\n* Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Ethiopia: Five Detained Ethiopian Journalists Pressured to Admit Terrorism Involvement in Exchange for Release, CPJ Says (AllAfrica News: Latest, 1 outlets)\n* Africa: Can You Be Served When You're Not Counted? Disability Advocates Demand a Seat at the SRHR Table (AllAfrica News: Latest, 1 outlets)\n* The great matcha rivalry: Can Japan\u2019s centuries-old tradition hold its own against China\u2019s scale? (Latest News, 1 outlets)\n* Adam Driver will play Mister Sinister and Inde Navarrette will go Rogue in Marvel\u2019s X-Men reboot (Latest News, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Report: Drone strikes kill three Houthi fighters and wound commanders in southwest Yemen (Section Feed, 1 outlets)\n* Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership' (NPR Topics: World, 1 outlets)\n* They fought for the U.S. in Afghanistan. Now they worry about losing their green cards (NPR Topics: World, 1 outlets)\n* Nigeria: U.S. Flags Civilian Deaths, Funding Gaps As Nigeria Pushes for CPC Delisting (AllAfrica News: Latest, 1 outlets)"
 }
