@@ -1,8 +1,24 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-16T07:22:09.321698+00:00",
-  "digest_words": 254,
+  "generated_at": "2026-08-17T07:41:58.092771+00:00",
+  "digest_words": 266,
   "clusters": [
+    {
+      "headline": "Ebola outbreak in DR Congo becomes deadliest in country\u2019s history",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe",
+        "Middle East"
+      ],
+      "outlets": 3,
+      "summary": "A top UN official says &#039;speed, scale, and solidarity&#039; needed &#039;before this virus gets even further ahead of us&#039;.",
+      "links": [
+        "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss",
+        "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
     {
       "headline": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
       "countries": [],
@@ -18,154 +34,137 @@
       ]
     },
     {
-      "headline": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+      "headline": "Copy the link Jared Kushner lands in Israel after meeting Hamas officials",
       "countries": [
-        "Egypt"
+        "Israel"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
+      "summary": "\n\n  \n      \n      \n Copy the link Jared Kushner lands in Israel after meeting Hamas officials\n\n    \n    \n\n        \n    \n                \nUS President Donald Trump\u2019s son-in-law and adviser Jared Kushner arrived in Israel after meeting Hamas leaders and Egyptian, Qatari and Turkish officials in Cairo,",
       "links": [
-        "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-chief-heads-cairo-talks-ahead-kushner-visit"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/copy-link-jared-kushner-lands-israel-after-meeting-hamas-officials",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/jared-kushner-lands-israel-after-meeting-hamas-officials"
       ]
     },
     {
-      "headline": "Ethiopia: Five Detained Ethiopian Journalists Pressured to Admit Terrorism Involvement in Exchange for Release, CPJ Says",
-      "countries": [
-        "Ethiopia"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Addis Standard] Addis Abeba -- The Committee to Protect Journalists (CPJ) has called on Ethiopian authorities to release five journalists who have been detained for about three years while awaiting trial, alleging that they are being pressured to admit involvement in an armed insurgency and apologi",
-      "links": [
-        "https://allafrica.com/stories/202608140178.html"
-      ]
-    },
-    {
-      "headline": "Africa: Can You Be Served When You're Not Counted? Disability Advocates Demand a Seat at the SRHR Table",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica] Mombasa, Kenya -- For persons with disabilities, being in the room does not always mean being included.",
-      "links": [
-        "https://allafrica.com/stories/202608140033.html"
-      ]
-    },
-    {
-      "headline": "The great matcha rivalry: Can Japan\u2019s centuries-old tradition hold its own against China\u2019s scale?",
-      "countries": [
-        "China",
-        "Japan"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "From New York to London, the world cannot seem to get enough matcha. The boom has revived Japan\u2019s tea industry but also exposed the limits of its supply. Now China, already the world\u2019s biggest producer, sees an opportunity to scale up.",
-      "links": [
-        "https://www.channelnewsasia.com/east-asia/matcha-tea-japan-china-rivalry-6316391"
-      ]
-    },
-    {
-      "headline": "Adam Driver will play Mister Sinister and Inde Navarrette will go Rogue in Marvel\u2019s X-Men reboot",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Disney's D23 event on Saturday (Aug 15), Singapore time, also saw announcements related to the Star Wars franchise.",
-      "links": [
-        "https://www.channelnewsasia.com/entertainment/d23-2026-x-men-frozen-3-star-wars-6321896"
-      ]
-    },
-    {
-      "headline": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Report: Drone strikes kill three Houthi fighters and wound commanders in southwest Yemen",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nReport: Drone strikes kill three Houthi fighters and wound commanders in southwest Yemen\n\n    \n    \n\n        \n    \n                Yemeni government forces said at least three Houthis have been killed during drone strikes west of Taiz governorate, in the southwest of the country, ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/report-drone-strikes-kill-three-houthi-fighters-and-wound-commanders"
-      ]
-    },
-    {
-      "headline": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
-      "countries": [],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR's Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona.",
-      "links": [
-        "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego"
-      ]
-    },
-    {
-      "headline": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+      "headline": "American actress Hayden Panettiere dies at 36: Report",
       "countries": [
         "United States"
       ],
       "regions": [
-        "Americas"
+        "Asia",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back.",
+      "outlets": 2,
+      "summary": "Panettiere was known for her roles in TV shows such as Nashville and Heroes.",
       "links": [
-        "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport"
+        "https://www.channelnewsasia.com/entertainment/american-actress-hayden-panettiere-dies-36-report-6323061",
+        "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Nigeria: U.S. Flags Civilian Deaths, Funding Gaps As Nigeria Pushes for CPC Delisting",
+      "headline": "Zimbabwe: Kariba Boat Disaster - Rising Death Toll Exposes Rida 'Lies', Passenger Figures Under Scrutiny As Body Count Hits 84",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Zimbabwe] THE number of people aboard the ill-fated Rural Infrastructure Development Agency (RIDA) boat on Lake Kariba appears to have been higher than the 153 passengers previously indicated, with the latest death toll and rescue figures accounting for at least 161 people.",
+      "links": [
+        "https://allafrica.com/stories/202608170137.html"
+      ]
+    },
+    {
+      "headline": "West Africa: Lithium in the Sahel - How Armed Groups Are Exploiting the Global Scramble for the Critical Mineral",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[The Conversation Africa] Every electric vehicle, smartphone and laptop battery begins with one essential ingredient: lithium.",
+      "links": [
+        "https://allafrica.com/stories/202608160006.html"
+      ]
+    },
+    {
+      "headline": "Zimbabwe: 'Stay in That Lane and Know That the More You Give, the More You Receive', Says Mnangagwa to Chivayo",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Zimbabwe] PRESIDENT Emmerson Mnangagwa has showered praise on controversial tycoon Wicknell Chivayo, saluting him for his \"philanthropy.\"",
+      "links": [
+        "https://allafrica.com/stories/202608170078.html"
+      ]
+    },
+    {
+      "headline": "MUIS to strengthen patrols, CCTV monitoring after 'serious sexual offences' involving young victim at mosque",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "A MUIS spokesperson stressed that the offender in the case is not a mosque staff member or volunteer, nor is he an accredited religious teacher.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/muis-mosque-sexual-offences-young-victims-6323276"
+      ]
+    },
+    {
+      "headline": "Sudan: Young Sudanese Call for 'Inclusive Dialogue to Address Roots of War, Put Justice and Peace First'",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Dabanga] Amstertdam -- By Amin Ramadan for Radio Dabanga",
+      "links": [
+        "https://allafrica.com/stories/202608160008.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Marikana Massacre 14 Years On - Victims' Families Still Await Criminal Accountability",
       "countries": [
-        "United States",
-        "Nigeria"
+        "South Africa"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Vanguard] Despite Nigeria's reported prosecution of hundreds of terror suspects and recruitment of 50,000 police officers, the United States said continuing challenges remained in the fight to remove Nigeria from its Country of Particular Concern, CPC, list.",
+      "summary": "[Daily Maverick] More than a decade after 34 mineworkers were gunned down by police, their families are still fighting for justice and trade unions for better working conditions.",
       "links": [
-        "https://allafrica.com/stories/202608140364.html"
+        "https://allafrica.com/stories/202608170144.html"
+      ]
+    },
+    {
+      "headline": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+      "countries": [
+        "Russia",
+        "Ukraine"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
+      "links": [
+        "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia"
+      ]
+    },
+    {
+      "headline": "Founding Prime Minister Lee Kuan Yew's Montblanc pen sold for S$461,500 at auction after 111 bids",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The pen, which is engraved with \"SM Lee Kuan Yew\", carried a pre-sale estimate of S$30,000 to S$50,000.",
+      "links": [
+        "https://www.channelnewsasia.com/living/lee-kuan-yew-montblanc-pen-sells-461500-auction-6323186"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-16 (extractive mode)\n\n* Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead (World | Deutsche Welle, 2 outlets)\n* Morocco detains dozens of migrants trying to cross into Ceuta, reports say (BBC News, 2 outlets)\n* Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Ethiopia: Five Detained Ethiopian Journalists Pressured to Admit Terrorism Involvement in Exchange for Release, CPJ Says (AllAfrica News: Latest, 1 outlets)\n* Africa: Can You Be Served When You're Not Counted? Disability Advocates Demand a Seat at the SRHR Table (AllAfrica News: Latest, 1 outlets)\n* The great matcha rivalry: Can Japan\u2019s centuries-old tradition hold its own against China\u2019s scale? (Latest News, 1 outlets)\n* Adam Driver will play Mister Sinister and Inde Navarrette will go Rogue in Marvel\u2019s X-Men reboot (Latest News, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Report: Drone strikes kill three Houthi fighters and wound commanders in southwest Yemen (Section Feed, 1 outlets)\n* Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership' (NPR Topics: World, 1 outlets)\n* They fought for the U.S. in Afghanistan. Now they worry about losing their green cards (NPR Topics: World, 1 outlets)\n* Nigeria: U.S. Flags Civilian Deaths, Funding Gaps As Nigeria Pushes for CPC Delisting (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-08-17 (extractive mode)\n\n* Ebola outbreak in DR Congo becomes deadliest in country\u2019s history (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 3 outlets)\n* Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead (World | Deutsche Welle, 2 outlets)\n* Copy the link Jared Kushner lands in Israel after meeting Hamas officials (Section Feed, 2 outlets)\n* American actress Hayden Panettiere dies at 36: Report (Latest News, 2 outlets)\n* Zimbabwe: Kariba Boat Disaster - Rising Death Toll Exposes Rida 'Lies', Passenger Figures Under Scrutiny As Body Count Hits 84 (AllAfrica News: Latest, 1 outlets)\n* West Africa: Lithium in the Sahel - How Armed Groups Are Exploiting the Global Scramble for the Critical Mineral (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: 'Stay in That Lane and Know That the More You Give, the More You Receive', Says Mnangagwa to Chivayo (AllAfrica News: Latest, 1 outlets)\n* MUIS to strengthen patrols, CCTV monitoring after 'serious sexual offences' involving young victim at mosque (Latest News, 1 outlets)\n* Sudan: Young Sudanese Call for 'Inclusive Dialogue to Address Roots of War, Put Justice and Peace First' (AllAfrica News: Latest, 1 outlets)\n* South Africa: Marikana Massacre 14 Years On - Victims' Families Still Await Criminal Accountability (AllAfrica News: Latest, 1 outlets)\n* Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia (NPR Topics: World, 1 outlets)\n* Founding Prime Minister Lee Kuan Yew's Montblanc pen sold for S$461,500 at auction after 111 bids (Latest News, 1 outlets)"
 }
