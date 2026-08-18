@@ -1,141 +1,57 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-17T07:41:58.092771+00:00",
-  "digest_words": 266,
+  "generated_at": "2026-08-18T07:27:49.190248+00:00",
+  "digest_words": 254,
   "clusters": [
     {
-      "headline": "Ebola outbreak in DR Congo becomes deadliest in country\u2019s history",
+      "headline": "Congo-Kinshasa: Ebola Outbreak Becomes Deadliest in DR Congo's History",
       "countries": [],
       "regions": [
-        "Africa",
-        "Europe",
-        "Middle East"
+        "Africa"
       ],
-      "outlets": 3,
-      "summary": "A top UN official says &#039;speed, scale, and solidarity&#039; needed &#039;before this virus gets even further ahead of us&#039;.",
+      "outlets": 2,
+      "summary": "[UN News] The Ebola Bundibugyo outbreak in the Democratic Republic of the Congo (DRC) is now the deadliest the country has ever faced, the UN's World Health Organization (WHO) said on Monday.",
       "links": [
-        "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss",
-        "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+        "https://allafrica.com/stories/202608180016.html",
         "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
-      "countries": [],
-      "regions": [
-        "Americas",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row.",
-      "links": [
-        "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-world-4025-rdf",
-        "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead"
-      ]
-    },
-    {
-      "headline": "Copy the link Jared Kushner lands in Israel after meeting Hamas officials",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \n Copy the link Jared Kushner lands in Israel after meeting Hamas officials\n\n    \n    \n\n        \n    \n                \nUS President Donald Trump\u2019s son-in-law and adviser Jared Kushner arrived in Israel after meeting Hamas leaders and Egyptian, Qatari and Turkish officials in Cairo,",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/copy-link-jared-kushner-lands-israel-after-meeting-hamas-officials",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/jared-kushner-lands-israel-after-meeting-hamas-officials"
-      ]
-    },
-    {
-      "headline": "American actress Hayden Panettiere dies at 36: Report",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Asia",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Panettiere was known for her roles in TV shows such as Nashville and Heroes.",
-      "links": [
-        "https://www.channelnewsasia.com/entertainment/american-actress-hayden-panettiere-dies-36-report-6323061",
-        "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: Kariba Boat Disaster - Rising Death Toll Exposes Rida 'Lies', Passenger Figures Under Scrutiny As Body Count Hits 84",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] THE number of people aboard the ill-fated Rural Infrastructure Development Agency (RIDA) boat on Lake Kariba appears to have been higher than the 153 passengers previously indicated, with the latest death toll and rescue figures accounting for at least 161 people.",
-      "links": [
-        "https://allafrica.com/stories/202608170137.html"
-      ]
-    },
-    {
-      "headline": "West Africa: Lithium in the Sahel - How Armed Groups Are Exploiting the Global Scramble for the Critical Mineral",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] Every electric vehicle, smartphone and laptop battery begins with one essential ingredient: lithium.",
-      "links": [
-        "https://allafrica.com/stories/202608160006.html"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: 'Stay in That Lane and Know That the More You Give, the More You Receive', Says Mnangagwa to Chivayo",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] PRESIDENT Emmerson Mnangagwa has showered praise on controversial tycoon Wicknell Chivayo, saluting him for his \"philanthropy.\"",
-      "links": [
-        "https://allafrica.com/stories/202608170078.html"
-      ]
-    },
-    {
-      "headline": "MUIS to strengthen patrols, CCTV monitoring after 'serious sexual offences' involving young victim at mosque",
+      "headline": "Cathay Pacific pilots selected wrong radio frequency before NATO jets intercepted flight, investigation finds",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "A MUIS spokesperson stressed that the offender in the case is not a mosque staff member or volunteer, nor is he an accredited religious teacher.",
+      "summary": "The London-bound Cathay Pacific flight lost contact with air traffic control over Romanian airspace on Jul 4, which triggered the scrambling of two Hungarian fighter jets.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/muis-mosque-sexual-offences-young-victims-6323276"
+        "https://www.channelnewsasia.com/east-asia/cathay-pacific-cx257-wrong-radio-frequency-hungary-fighter-jets-intercept-6325276"
       ]
     },
     {
-      "headline": "Sudan: Young Sudanese Call for 'Inclusive Dialogue to Address Roots of War, Put Justice and Peace First'",
+      "headline": "Park Eun-bin's K-drama Spooky In Love filmed in Singapore, features Lau Pa Sat, Kampong Glam and Charlie Goh",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Recent episodes of the new Korean drama series Spooky In Love are set in Singapore, featuring iconic locations such as Resorts World Sentosa, Clarke Quay and Lau Pa Sat.",
+      "links": [
+        "https://www.channelnewsasia.com/entertainment/singapore-locations-park-eun-bin-spooky-in-love-6325076"
+      ]
+    },
+    {
+      "headline": "Congo-Kinshasa: DR Congo Shutdown of Internet, Mobile Networks in East Extends for Over a Month Amid War",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Dabanga] Amstertdam -- By Amin Ramadan for Radio Dabanga",
+      "summary": "[CPJ] Kinshasa -- The Committee to Protect Journalists calls on authorities in the Democratic Republic of the Congo to restore mobile telecommunications and internet services that have been cut off for more than a month in the Fizi Territory, which includes the city of Baraka, in the eastern provinc",
       "links": [
-        "https://allafrica.com/stories/202608160008.html"
-      ]
-    },
-    {
-      "headline": "South Africa: Marikana Massacre 14 Years On - Victims' Families Still Await Criminal Accountability",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Daily Maverick] More than a decade after 34 mineworkers were gunned down by police, their families are still fighting for justice and trade unions for better working conditions.",
-      "links": [
-        "https://allafrica.com/stories/202608170144.html"
+        "https://allafrica.com/stories/202608180116.html"
       ]
     },
     {
@@ -154,17 +70,97 @@
       ]
     },
     {
-      "headline": "Founding Prime Minister Lee Kuan Yew's Montblanc pen sold for S$461,500 at auction after 111 bids",
+      "headline": "South Africa: Mashaba Eyes Johannesburg Mayor's Seat - South African News Briefs - August 18, 2026",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica]",
+      "links": [
+        "https://allafrica.com/stories/202608180158.html"
+      ]
+    },
+    {
+      "headline": "Malawi/Cameroon: Scorchers' Fairytale Run Ends in 3-0 Final Defeat - - but Brazil World Cup Awaits",
+      "countries": [
+        "Brazil"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Nyasa Times] Debutant Scorchers outclassed by clinical Indomitable Lionesses despite fairytale run -- as nation showers team with pride and Brazil World Cup dream becomes reality",
+      "links": [
+        "https://allafrica.com/stories/202608170412.html"
+      ]
+    },
+    {
+      "headline": "Africa: Too Young to Ask? Young Researchers Challenge How Africa Talks About Sexuality Education",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica] Mombasa -- \"We wanted honest answers, but many adults thought we were too young to ask the questions.\"",
+      "links": [
+        "https://allafrica.com/stories/202608170433.html"
+      ]
+    },
+    {
+      "headline": "Israeli settlers injure two Palestinians, set fire to agricultural lands in occupied West Bank",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nIsraeli settlers injure two Palestinians, set fire to agricultural lands in occupied West Bank\n\n    \n    \n\n        \n    \n                Two young Palestinian men sustained injuries on Monday night after being assaulted by Israeli settlers in the town of Beita, south of Nablus in ",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-two-palestinians-set-fire-agricultural-lands"
+      ]
+    },
+    {
+      "headline": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "S$4.48m community rehab programme aims to help 2,000 Parkinson's patients over five years",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The pen, which is engraved with \"SM Lee Kuan Yew\", carried a pre-sale estimate of S$30,000 to S$50,000.",
+      "summary": "More than 10,000 people in Singapore are estimated to be living with Parkinson's \u2013 the country's second-most common neurodegenerative disease.",
       "links": [
-        "https://www.channelnewsasia.com/living/lee-kuan-yew-montblanc-pen-sells-461500-auction-6323186"
+        "https://www.channelnewsasia.com/singapore/parkinsons-community-rehab-programme-aims-help-2000-patients-6325266"
+      ]
+    },
+    {
+      "headline": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-17 (extractive mode)\n\n* Ebola outbreak in DR Congo becomes deadliest in country\u2019s history (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 3 outlets)\n* Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead (World | Deutsche Welle, 2 outlets)\n* Copy the link Jared Kushner lands in Israel after meeting Hamas officials (Section Feed, 2 outlets)\n* American actress Hayden Panettiere dies at 36: Report (Latest News, 2 outlets)\n* Zimbabwe: Kariba Boat Disaster - Rising Death Toll Exposes Rida 'Lies', Passenger Figures Under Scrutiny As Body Count Hits 84 (AllAfrica News: Latest, 1 outlets)\n* West Africa: Lithium in the Sahel - How Armed Groups Are Exploiting the Global Scramble for the Critical Mineral (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: 'Stay in That Lane and Know That the More You Give, the More You Receive', Says Mnangagwa to Chivayo (AllAfrica News: Latest, 1 outlets)\n* MUIS to strengthen patrols, CCTV monitoring after 'serious sexual offences' involving young victim at mosque (Latest News, 1 outlets)\n* Sudan: Young Sudanese Call for 'Inclusive Dialogue to Address Roots of War, Put Justice and Peace First' (AllAfrica News: Latest, 1 outlets)\n* South Africa: Marikana Massacre 14 Years On - Victims' Families Still Await Criminal Accountability (AllAfrica News: Latest, 1 outlets)\n* Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia (NPR Topics: World, 1 outlets)\n* Founding Prime Minister Lee Kuan Yew's Montblanc pen sold for S$461,500 at auction after 111 bids (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-08-18 (extractive mode)\n\n* Congo-Kinshasa: Ebola Outbreak Becomes Deadliest in DR Congo's History (AllAfrica News: Latest, 2 outlets)\n* Cathay Pacific pilots selected wrong radio frequency before NATO jets intercepted flight, investigation finds (Latest News, 1 outlets)\n* Park Eun-bin's K-drama Spooky In Love filmed in Singapore, features Lau Pa Sat, Kampong Glam and Charlie Goh (Latest News, 1 outlets)\n* Congo-Kinshasa: DR Congo Shutdown of Internet, Mobile Networks in East Extends for Over a Month Amid War (AllAfrica News: Latest, 1 outlets)\n* Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia (NPR Topics: World, 1 outlets)\n* South Africa: Mashaba Eyes Johannesburg Mayor's Seat - South African News Briefs - August 18, 2026 (AllAfrica News: Latest, 1 outlets)\n* Malawi/Cameroon: Scorchers' Fairytale Run Ends in 3-0 Final Defeat - - but Brazil World Cup Awaits (AllAfrica News: Latest, 1 outlets)\n* Africa: Too Young to Ask? Young Researchers Challenge How Africa Talks About Sexuality Education (AllAfrica News: Latest, 1 outlets)\n* Israeli settlers injure two Palestinians, set fire to agricultural lands in occupied West Bank (Section Feed, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* S$4.48m community rehab programme aims to help 2,000 Parkinson's patients over five years (Latest News, 1 outlets)\n* IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus (BBC News, 1 outlets)"
 }
