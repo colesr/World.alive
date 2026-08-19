@@ -1,126 +1,83 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-18T07:27:49.190248+00:00",
-  "digest_words": 254,
+  "generated_at": "2026-08-19T07:29:02.570889+00:00",
+  "digest_words": 252,
   "clusters": [
     {
-      "headline": "Congo-Kinshasa: Ebola Outbreak Becomes Deadliest in DR Congo's History",
-      "countries": [],
+      "headline": "Ethiopia: Tigray Rolls Out New Curriculum After 16 Years, but Funding and Textbook Shortages Threaten Implementation",
+      "countries": [
+        "Ethiopia"
+      ],
       "regions": [
         "Africa"
       ],
-      "outlets": 2,
-      "summary": "[UN News] The Ebola Bundibugyo outbreak in the Democratic Republic of the Congo (DRC) is now the deadliest the country has ever faced, the UN's World Health Organization (WHO) said on Monday.",
+      "outlets": 1,
+      "summary": "[Addis Standard] Addis Abeba -- The Tigray Education Bureau has launched a new general education curriculum framework after 16 years under the previous framework, but officials warned that funding constraints and shortages of textbooks could limit its implementation when the new academic year begins",
       "links": [
-        "https://allafrica.com/stories/202608180016.html",
-        "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202608190107.html"
       ]
     },
     {
-      "headline": "Cathay Pacific pilots selected wrong radio frequency before NATO jets intercepted flight, investigation finds",
+      "headline": "Johor dumping: NEA issues advisory to construction waste facilities, says waste cannot be exported for disposal",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The London-bound Cathay Pacific flight lost contact with air traffic control over Romanian airspace on Jul 4, which triggered the scrambling of two Hungarian fighter jets.",
+      "summary": "The National Environment Agency (NEA) said that it is working with Malaysian authorities to investigate the alleged illegal dumping of construction waste in Johor, adding that it is \u201cnot yet established\u201d whether any Singapore companies were involved.",
       "links": [
-        "https://www.channelnewsasia.com/east-asia/cathay-pacific-cx257-wrong-radio-frequency-hungary-fighter-jets-intercept-6325276"
+        "https://www.channelnewsasia.com/asia/johor-dumping-pontian-construction-waste-nea-swcorp-6327556"
       ]
     },
     {
-      "headline": "Park Eun-bin's K-drama Spooky In Love filmed in Singapore, features Lau Pa Sat, Kampong Glam and Charlie Goh",
-      "countries": [
-        "Singapore"
+      "headline": "Zimbabwe: Ferry Captain Wholly to Blame for Lake Kariba Disaster - Says Govt in Defence of 41-Year-Old Boat",
+      "countries": [],
+      "regions": [
+        "Africa"
       ],
+      "outlets": 1,
+      "summary": "[New Zimbabwe] GOVERNMENT has blamed Mbuya Nehanda ferry captain Sign Patsikadova for the Kariba disaster that has so far resulted in 94 deaths.",
+      "links": [
+        "https://allafrica.com/stories/202608190102.html"
+      ]
+    },
+    {
+      "headline": "Petronas Chemicals reports higher revenue and profit but flags challenging outlook for the year",
+      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Recent episodes of the new Korean drama series Spooky In Love are set in Singapore, featuring iconic locations such as Resorts World Sentosa, Clarke Quay and Lau Pa Sat.",
+      "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/entertainment/singapore-locations-park-eun-bin-spooky-in-love-6325076"
+        "https://www.channelnewsasia.com/business/petronas-chemicals-reports-higher-revenue-and-profit-flags-challenging-outlook-year-6327976"
       ]
     },
     {
-      "headline": "Congo-Kinshasa: DR Congo Shutdown of Internet, Mobile Networks in East Extends for Over a Month Amid War",
+      "headline": "Elderly man accused of being a noisy neighbour on trial for breaching couple's protection order",
       "countries": [],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[CPJ] Kinshasa -- The Committee to Protect Journalists calls on authorities in the Democratic Republic of the Congo to restore mobile telecommunications and internet services that have been cut off for more than a month in the Fizi Territory, which includes the city of Baraka, in the eastern provinc",
+      "summary": "The aggrieved neighbour testified that he and his wife&nbsp;have decided to uproot their lives and move out&nbsp;because they feel \"very unsafe\" in their own home.",
       "links": [
-        "https://allafrica.com/stories/202608180116.html"
+        "https://www.channelnewsasia.com/singapore/elderly-nuisance-neighbour-trial-breach-protection-order-6327681"
       ]
     },
     {
-      "headline": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+      "headline": "Turkey denies Israeli claims of posing a threat, says Netanyahu seeks to justify Syria strikes",
       "countries": [
-        "Russia",
-        "Ukraine"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
-      "links": [
-        "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia"
-      ]
-    },
-    {
-      "headline": "South Africa: Mashaba Eyes Johannesburg Mayor's Seat - South African News Briefs - August 18, 2026",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica]",
-      "links": [
-        "https://allafrica.com/stories/202608180158.html"
-      ]
-    },
-    {
-      "headline": "Malawi/Cameroon: Scorchers' Fairytale Run Ends in 3-0 Final Defeat - - but Brazil World Cup Awaits",
-      "countries": [
-        "Brazil"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Nyasa Times] Debutant Scorchers outclassed by clinical Indomitable Lionesses despite fairytale run -- as nation showers team with pride and Brazil World Cup dream becomes reality",
-      "links": [
-        "https://allafrica.com/stories/202608170412.html"
-      ]
-    },
-    {
-      "headline": "Africa: Too Young to Ask? Young Researchers Challenge How Africa Talks About Sexuality Education",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica] Mombasa -- \"We wanted honest answers, but many adults thought we were too young to ask the questions.\"",
-      "links": [
-        "https://allafrica.com/stories/202608170433.html"
-      ]
-    },
-    {
-      "headline": "Israeli settlers injure two Palestinians, set fire to agricultural lands in occupied West Bank",
-      "countries": [
+        "Turkey",
         "Israel"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsraeli settlers injure two Palestinians, set fire to agricultural lands in occupied West Bank\n\n    \n    \n\n        \n    \n                Two young Palestinian men sustained injuries on Monday night after being assaulted by Israeli settlers in the town of Beita, south of Nablus in ",
+      "summary": "\n\n  \n      \n      \nTurkey denies Israeli claims of posing a threat, says Netanyahu seeks to justify Syria strikes\n\n    \n    \n\n        \n    \n                Turkey has denied Israeli allegations that it posed a threat by preparing to send troops to a base in Syria.\n\n\"The frivolous allegations put for",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-two-palestinians-set-fire-agricultural-lands"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-denies-israeli-claims-posing-threat"
       ]
     },
     {
@@ -138,29 +95,73 @@
       ]
     },
     {
-      "headline": "S$4.48m community rehab programme aims to help 2,000 Parkinson's patients over five years",
+      "headline": "Singapore rolls out new foreign work pass track, tax exemptions for asset management industry",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The central bank will also introduce a new hedge fund investment programme to anchor global and regional players in Singapore.&nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/asset-management-industry-foreign-work-pass-track-tax-exemption-mas-6328001"
+      ]
+    },
+    {
+      "headline": "Grand tribute, sombre farewell: How China remembered Jiang Zemin and Zhu Rongji over two days",
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "China marked late President Jiang Zemin\u2019s birth centenary on Monday (Aug 17) and bid farewell the next day to former Premier Zhu Rongji in two major ceremonies held just 24 hours apart.",
+      "links": [
+        "https://www.channelnewsasia.com/east-asia/china-jiang-zemin-zhu-rongji-remembrance-birth-death-6327736"
+      ]
+    },
+    {
+      "headline": "Analysis:Investors set sights on Swiss franc for popular carry trades after yen intervention",
+      "countries": [
+        "Switzerland"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/business/analysisinvestors-set-sights-swiss-franc-popular-carry-trades-after-yen-intervention-6327721"
+      ]
+    },
+    {
+      "headline": "South Africa: Jayden Meek Murder Trial Resumes - South African News Briefs - August 19, 2026",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica]",
+      "links": [
+        "https://allafrica.com/stories/202608190138.html"
+      ]
+    },
+    {
+      "headline": "Former Cathay cinema operator MM2 Asia ordered to partially settle unpaid CPF contributions",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "More than 10,000 people in Singapore are estimated to be living with Parkinson's \u2013 the country's second-most common neurodegenerative disease.",
+      "summary": "The cinema group and its subsidiary owe more than S$260,000 in outstanding CPF contributions to employees.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/parkinsons-community-rehab-programme-aims-help-2000-patients-6325266"
-      ]
-    },
-    {
-      "headline": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-      "countries": [],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/singapore/cathay-mm2-asia-unpaid-cpf-court-charged-6327711"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-18 (extractive mode)\n\n* Congo-Kinshasa: Ebola Outbreak Becomes Deadliest in DR Congo's History (AllAfrica News: Latest, 2 outlets)\n* Cathay Pacific pilots selected wrong radio frequency before NATO jets intercepted flight, investigation finds (Latest News, 1 outlets)\n* Park Eun-bin's K-drama Spooky In Love filmed in Singapore, features Lau Pa Sat, Kampong Glam and Charlie Goh (Latest News, 1 outlets)\n* Congo-Kinshasa: DR Congo Shutdown of Internet, Mobile Networks in East Extends for Over a Month Amid War (AllAfrica News: Latest, 1 outlets)\n* Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia (NPR Topics: World, 1 outlets)\n* South Africa: Mashaba Eyes Johannesburg Mayor's Seat - South African News Briefs - August 18, 2026 (AllAfrica News: Latest, 1 outlets)\n* Malawi/Cameroon: Scorchers' Fairytale Run Ends in 3-0 Final Defeat - - but Brazil World Cup Awaits (AllAfrica News: Latest, 1 outlets)\n* Africa: Too Young to Ask? Young Researchers Challenge How Africa Talks About Sexuality Education (AllAfrica News: Latest, 1 outlets)\n* Israeli settlers injure two Palestinians, set fire to agricultural lands in occupied West Bank (Section Feed, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* S$4.48m community rehab programme aims to help 2,000 Parkinson's patients over five years (Latest News, 1 outlets)\n* IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-08-19 (extractive mode)\n\n* Ethiopia: Tigray Rolls Out New Curriculum After 16 Years, but Funding and Textbook Shortages Threaten Implementation (AllAfrica News: Latest, 1 outlets)\n* Johor dumping: NEA issues advisory to construction waste facilities, says waste cannot be exported for disposal (Latest News, 1 outlets)\n* Zimbabwe: Ferry Captain Wholly to Blame for Lake Kariba Disaster - Says Govt in Defence of 41-Year-Old Boat (AllAfrica News: Latest, 1 outlets)\n* Petronas Chemicals reports higher revenue and profit but flags challenging outlook for the year (Latest News, 1 outlets)\n* Elderly man accused of being a noisy neighbour on trial for breaching couple's protection order (Latest News, 1 outlets)\n* Turkey denies Israeli claims of posing a threat, says Netanyahu seeks to justify Syria strikes (Section Feed, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Singapore rolls out new foreign work pass track, tax exemptions for asset management industry (Latest News, 1 outlets)\n* Grand tribute, sombre farewell: How China remembered Jiang Zemin and Zhu Rongji over two days (Latest News, 1 outlets)\n* Analysis:Investors set sights on Swiss franc for popular carry trades after yen intervention (Latest News, 1 outlets)\n* South Africa: Jayden Meek Murder Trial Resumes - South African News Briefs - August 19, 2026 (AllAfrica News: Latest, 1 outlets)\n* Former Cathay cinema operator MM2 Asia ordered to partially settle unpaid CPF contributions (Latest News, 1 outlets)"
 }
