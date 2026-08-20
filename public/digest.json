@@ -1,83 +1,124 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-19T07:29:02.570889+00:00",
-  "digest_words": 252,
+  "generated_at": "2026-08-20T07:31:21.014555+00:00",
+  "digest_words": 242,
   "clusters": [
     {
-      "headline": "Ethiopia: Tigray Rolls Out New Curriculum After 16 Years, but Funding and Textbook Shortages Threaten Implementation",
+      "headline": "Kenya: Ecuador Intelligence Chief, Wife Among Seven Killed in Samburu Helicopter Crash",
       "countries": [
-        "Ethiopia"
+        "Kenya",
+        "United States"
       ],
       "regions": [
-        "Africa"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "[Addis Standard] Addis Abeba -- The Tigray Education Bureau has launched a new general education curriculum framework after 16 years under the previous framework, but officials warned that funding constraints and shortages of textbooks could limit its implementation when the new academic year begins",
+      "outlets": 3,
+      "summary": "[Capital FM] Nairobi -- Ecuador's intelligence chief Michele Sensi-Contugi and his wife, Stephany Hollihan Vasconez, were among seven people killed when a helicopter crashed at Mt Ololokwe in Samburu County on Wednesday.",
       "links": [
-        "https://allafrica.com/stories/202608190107.html"
+        "https://allafrica.com/stories/202608200142.html",
+        "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Johor dumping: NEA issues advisory to construction waste facilities, says waste cannot be exported for disposal",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The National Environment Agency (NEA) said that it is working with Malaysian authorities to investigate the alleged illegal dumping of construction waste in Johor, adding that it is \u201cnot yet established\u201d whether any Singapore companies were involved.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/johor-dumping-pontian-construction-waste-nea-swcorp-6327556"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: Ferry Captain Wholly to Blame for Lake Kariba Disaster - Says Govt in Defence of 41-Year-Old Boat",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] GOVERNMENT has blamed Mbuya Nehanda ferry captain Sign Patsikadova for the Kariba disaster that has so far resulted in 94 deaths.",
-      "links": [
-        "https://allafrica.com/stories/202608190102.html"
-      ]
-    },
-    {
-      "headline": "Petronas Chemicals reports higher revenue and profit but flags challenging outlook for the year",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/petronas-chemicals-reports-higher-revenue-and-profit-flags-challenging-outlook-year-6327976"
-      ]
-    },
-    {
-      "headline": "Elderly man accused of being a noisy neighbour on trial for breaching couple's protection order",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The aggrieved neighbour testified that he and his wife&nbsp;have decided to uproot their lives and move out&nbsp;because they feel \"very unsafe\" in their own home.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/elderly-nuisance-neighbour-trial-breach-protection-order-6327681"
-      ]
-    },
-    {
-      "headline": "Turkey denies Israeli claims of posing a threat, says Netanyahu seeks to justify Syria strikes",
+      "headline": "Hind Rajab's grandmother rejects Israeli army probe into killing, calls for independent international investigation: Report",
       "countries": [
-        "Turkey",
         "Israel"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nTurkey denies Israeli claims of posing a threat, says Netanyahu seeks to justify Syria strikes\n\n    \n    \n\n        \n    \n                Turkey has denied Israeli allegations that it posed a threat by preparing to send troops to a base in Syria.\n\n\"The frivolous allegations put for",
+      "summary": "\n\n  \n      \n      \nHind Rajab's grandmother rejects Israeli army probe into killing, calls for independent international investigation: Report\n\n    \n    \n\n        \n    \n                The grandmother of five-year-old Palestinian girl Hind Rajab has rejected an Israeli military probe into her killin",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-denies-israeli-claims-posing-threat"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/hind-rajabs-grandmother-rejects-israeli-army-probe-killing-calls"
+      ]
+    },
+    {
+      "headline": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "countries": [
+        "Australia",
+        "Israel"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Singapore and India discuss bilateral cooperation on semiconductors, food security at ministerial meeting",
+      "countries": [
+        "India",
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The two countries signed Memorandums of Understanding on food safety and maritime heritage at the fourth India-Singapore Ministerial Roundtable held in Singapore.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/singapore-and-india-discuss-bilateral-cooperation-semiconductors-food-security-ministerial-meeting-6330246"
+      ]
+    },
+    {
+      "headline": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Nigeria: Tinubu Orders Preparation of Nigeria's Five-Year Security Threat Assessment, Defence Plan",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Premium Times] The president's Special Adviser on Homeland Security, Adeyinka Famadewa, will coordinate and provide secretariat support for the 11-man committee.",
+      "links": [
+        "https://allafrica.com/stories/202608200183.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Residents Push Back Against N2 Wall - South African News Briefs - August 20, 2026",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica]",
+      "links": [
+        "https://allafrica.com/stories/202608200176.html"
+      ]
+    },
+    {
+      "headline": "Overcrowded units, short stays: Suspected illegal accommodation cases on the rise in Singapore",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "URA investigated more suspected unauthorised dormitories and short-term accommodation cases last year, while property managers say such arrangements are becoming harder to detect.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/suspected-illegal-accommodation-cases-rise-in-singapore-6330186"
       ]
     },
     {
@@ -95,73 +136,48 @@
       ]
     },
     {
-      "headline": "Singapore rolls out new foreign work pass track, tax exemptions for asset management industry",
+      "headline": "Trump says US launching 'economic warfare' against Iran, warns countries not to back Tehran",
       "countries": [
-        "Singapore"
+        "United States",
+        "Iran"
       ],
       "regions": [
-        "Asia"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "The central bank will also introduce a new hedge fund investment programme to anchor global and regional players in Singapore.&nbsp;",
+      "summary": "\n\n  \n      \n      \nTrump says US launching 'economic warfare' against Iran, warns countries not to back Tehran\n\n    \n    \n\n        \n    \n                US President Donald Trump announced that the US is launching the \"MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY\".\n\n\"This will be ",
       "links": [
-        "https://www.channelnewsasia.com/singapore/asset-management-industry-foreign-work-pass-track-tax-exemption-mas-6328001"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-launching-economic-warfare-against-iran-warns-countries"
       ]
     },
     {
-      "headline": "Grand tribute, sombre farewell: How China remembered Jiang Zemin and Zhu Rongji over two days",
+      "headline": "Nigeria: CJID Opens 2026 Awards to Reporters and Editors, Introduces Human Rights Category.",
       "countries": [
-        "China"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "China marked late President Jiang Zemin\u2019s birth centenary on Monday (Aug 17) and bid farewell the next day to former Premier Zhu Rongji in two major ceremonies held just 24 hours apart.",
-      "links": [
-        "https://www.channelnewsasia.com/east-asia/china-jiang-zemin-zhu-rongji-remembrance-birth-death-6327736"
-      ]
-    },
-    {
-      "headline": "Analysis:Investors set sights on Swiss franc for popular carry trades after yen intervention",
-      "countries": [
-        "Switzerland"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/analysisinvestors-set-sights-swiss-franc-popular-carry-trades-after-yen-intervention-6327721"
-      ]
-    },
-    {
-      "headline": "South Africa: Jayden Meek Murder Trial Resumes - South African News Briefs - August 19, 2026",
-      "countries": [
-        "South Africa"
+        "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "[CJID] 18 August, 2026 - Abuja, Nigeria",
       "links": [
-        "https://allafrica.com/stories/202608190138.html"
+        "https://allafrica.com/stories/202608180503.html"
       ]
     },
     {
-      "headline": "Former Cathay cinema operator MM2 Asia ordered to partially settle unpaid CPF contributions",
-      "countries": [],
+      "headline": "Israeli opposition leader and former prime minister criticise Netanyahu over Syria attacks",
+      "countries": [
+        "Israel"
+      ],
       "regions": [
-        "Asia"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "The cinema group and its subsidiary owe more than S$260,000 in outstanding CPF contributions to employees.",
+      "summary": "\n\n  \n      \n      \nIsraeli opposition leader and former prime minister criticise Netanyahu over Syria attacks\n\n    \n    \n\n        \n    \n                Israeli opposition leader Yair Golan said that the attack on a Syrian air base was a \"provocative and dangerous\" move that deepens the rift Tel Aviv",
       "links": [
-        "https://www.channelnewsasia.com/singapore/cathay-mm2-asia-unpaid-cpf-court-charged-6327711"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-leader-and-former-prime-minister-criticise-netanyahu"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-19 (extractive mode)\n\n* Ethiopia: Tigray Rolls Out New Curriculum After 16 Years, but Funding and Textbook Shortages Threaten Implementation (AllAfrica News: Latest, 1 outlets)\n* Johor dumping: NEA issues advisory to construction waste facilities, says waste cannot be exported for disposal (Latest News, 1 outlets)\n* Zimbabwe: Ferry Captain Wholly to Blame for Lake Kariba Disaster - Says Govt in Defence of 41-Year-Old Boat (AllAfrica News: Latest, 1 outlets)\n* Petronas Chemicals reports higher revenue and profit but flags challenging outlook for the year (Latest News, 1 outlets)\n* Elderly man accused of being a noisy neighbour on trial for breaching couple's protection order (Latest News, 1 outlets)\n* Turkey denies Israeli claims of posing a threat, says Netanyahu seeks to justify Syria strikes (Section Feed, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Singapore rolls out new foreign work pass track, tax exemptions for asset management industry (Latest News, 1 outlets)\n* Grand tribute, sombre farewell: How China remembered Jiang Zemin and Zhu Rongji over two days (Latest News, 1 outlets)\n* Analysis:Investors set sights on Swiss franc for popular carry trades after yen intervention (Latest News, 1 outlets)\n* South Africa: Jayden Meek Murder Trial Resumes - South African News Briefs - August 19, 2026 (AllAfrica News: Latest, 1 outlets)\n* Former Cathay cinema operator MM2 Asia ordered to partially settle unpaid CPF contributions (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-08-20 (extractive mode)\n\n* Kenya: Ecuador Intelligence Chief, Wife Among Seven Killed in Samburu Helicopter Crash (AllAfrica News: Latest, 3 outlets)\n* Hind Rajab's grandmother rejects Israeli army probe into killing, calls for independent international investigation: Report (Section Feed, 1 outlets)\n* Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza (BBC News, 1 outlets)\n* Singapore and India discuss bilateral cooperation on semiconductors, food security at ministerial meeting (Latest News, 1 outlets)\n* Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation (BBC News, 1 outlets)\n* Nigeria: Tinubu Orders Preparation of Nigeria's Five-Year Security Threat Assessment, Defence Plan (AllAfrica News: Latest, 1 outlets)\n* South Africa: Residents Push Back Against N2 Wall - South African News Briefs - August 20, 2026 (AllAfrica News: Latest, 1 outlets)\n* Overcrowded units, short stays: Suspected illegal accommodation cases on the rise in Singapore (Latest News, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Trump says US launching 'economic warfare' against Iran, warns countries not to back Tehran (Section Feed, 1 outlets)\n* Nigeria: CJID Opens 2026 Awards to Reporters and Editors, Introduces Human Rights Category. (AllAfrica News: Latest, 1 outlets)\n* Israeli opposition leader and former prime minister criticise Netanyahu over Syria attacks (Section Feed, 1 outlets)"
 }
