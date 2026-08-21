@@ -1,86 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-20T07:31:21.014555+00:00",
-  "digest_words": 242,
+  "generated_at": "2026-08-21T07:33:36.393444+00:00",
+  "digest_words": 261,
   "clusters": [
     {
-      "headline": "Kenya: Ecuador Intelligence Chief, Wife Among Seven Killed in Samburu Helicopter Crash",
-      "countries": [
-        "Kenya",
-        "United States"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 3,
-      "summary": "[Capital FM] Nairobi -- Ecuador's intelligence chief Michele Sensi-Contugi and his wife, Stephany Hollihan Vasconez, were among seven people killed when a helicopter crashed at Mt Ololokwe in Samburu County on Wednesday.",
-      "links": [
-        "https://allafrica.com/stories/202608200142.html",
-        "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Hind Rajab's grandmother rejects Israeli army probe into killing, calls for independent international investigation: Report",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nHind Rajab's grandmother rejects Israeli army probe into killing, calls for independent international investigation: Report\n\n    \n    \n\n        \n    \n                The grandmother of five-year-old Palestinian girl Hind Rajab has rejected an Israeli military probe into her killin",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/hind-rajabs-grandmother-rejects-israeli-army-probe-killing-calls"
-      ]
-    },
-    {
-      "headline": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "countries": [
-        "Australia",
-        "Israel"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Singapore and India discuss bilateral cooperation on semiconductors, food security at ministerial meeting",
-      "countries": [
-        "India",
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The two countries signed Memorandums of Understanding on food safety and maritime heritage at the fourth India-Singapore Ministerial Roundtable held in Singapore.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/singapore-and-india-discuss-bilateral-cooperation-semiconductors-food-security-ministerial-meeting-6330246"
-      ]
-    },
-    {
-      "headline": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Nigeria: Tinubu Orders Preparation of Nigeria's Five-Year Security Threat Assessment, Defence Plan",
+      "headline": "Nigeria: CWPPF Condemns the Violent Assault, Harassment, and Phone Destruction of Pinnacle Daily Editor, Sunday Michael Ogwu, By Police Operatives in Lugbe",
       "countries": [
         "Nigeria"
       ],
@@ -88,13 +12,25 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Premium Times] The president's Special Adviser on Homeland Security, Adeyinka Famadewa, will coordinate and provide secretariat support for the 11-man committee.",
+      "summary": "[CJID] August 20, 2026 -- The Coalition for Whistleblower Protection and Press Freedom (CWPPF) strongly condemns the violent physical assault, harassment, unlawful seizure, and destruction of working tools belonging to Sunday Michael Ogwu, Editor of Pinnacle Daily, by officers of the Nigeria Police ",
       "links": [
-        "https://allafrica.com/stories/202608200183.html"
+        "https://allafrica.com/stories/202608210016.html"
       ]
     },
     {
-      "headline": "South Africa: Residents Push Back Against N2 Wall - South African News Briefs - August 20, 2026",
+      "headline": "Zambia: Authorities Must Investigate Fatal Shooting of Former Minister and End Post-Election Crackdown",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[AI London] Responding to the reported fatal shooting of opposition party member and former cabinet minister Mutotwe Kafwaya during a security operation in Kabulonga, Lusaka on 14 August, and the arrest of at least three other opposition members, Amnesty International's Regional Director for East an",
+      "links": [
+        "https://allafrica.com/stories/202608210050.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Msunduzi Strike Disrupts Service Delivery - South African News Briefs - August 21, 2026",
       "countries": [
         "South Africa"
       ],
@@ -104,21 +40,81 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202608200176.html"
+        "https://allafrica.com/stories/202608210113.html"
       ]
     },
     {
-      "headline": "Overcrowded units, short stays: Suspected illegal accommodation cases on the rise in Singapore",
-      "countries": [
-        "Singapore"
+      "headline": "Central African Republic: Over 100 Labourers Killed in Gold Mine Collapse in Central African Republic",
+      "countries": [],
+      "regions": [
+        "Africa"
       ],
+      "outlets": 1,
+      "summary": "[Premium Times] The toll rose from about 30 labourers to 107 as Rescue officials recovered more bodies trapped under the mine in the past hours.",
+      "links": [
+        "https://allafrica.com/stories/202608210071.html"
+      ]
+    },
+    {
+      "headline": "Central African Republic: Deadly Border Mine Collapse Exposes Risks Behind Central Africa's Gold Rush",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[RFI] A deadly landslide at a gold mine on the Cameroon-Central African Republic border has triggered calls for greater oversight of mining operations, after dozens of people were killed and many more were reported missing.",
+      "links": [
+        "https://allafrica.com/stories/202608210008.html"
+      ]
+    },
+    {
+      "headline": "Over 3,000 lower-income residents to get free warm meals in nearby food lockers under new programme",
+      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "URA investigated more suspected unauthorised dormitories and short-term accommodation cases last year, while property managers say such arrangements are becoming harder to detect.",
+      "summary": "The menu will be rotated regularly to provide variety and will cater to diverse tastes and dietary needs, say North East CDC and OCBC.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/suspected-illegal-accommodation-cases-rise-in-singapore-6330186"
+        "https://www.channelnewsasia.com/singapore/free-warm-meals-food-lockers-lower-income-6331931"
+      ]
+    },
+    {
+      "headline": "Hamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza continue",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nHamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza continue\n\n    \n    \n\n        \n    \n                Senior Hamas official Bassem Naim told CNN that the movement remains committed to a peace roadmap for Gaza.\n\n\"We are still ready to continue t",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-told-be-sensitive-netanyahu-ahead-israeli-elections-amid-ongoing"
+      ]
+    },
+    {
+      "headline": "Four out of every five families in Gaza face 'critical or catastrophic' hunger levels, UN warns",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nFour out of every five families in Gaza face 'critical or catastrophic' hunger levels, UN warns\n\n    \n    \n\n        \n    \n                The spokesman for the UN Secretary-General, Stephane Dujarric, warned that 94 percent of Gaza's over 2.1 million population are in need of&nbsp",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/four-out-every-five-families-gaza-face-critical-or-catastrophic-hunger"
+      ]
+    },
+    {
+      "headline": "Zimbabwe: Govt Losing Millions As Health Workers Steal Drugs for Resale - Deputy Minister Says",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Zimbabwe] THE government is losing millions of dollars through the theft of medication and hospital supplies by employees at public health institutions, Health and Child Care deputy minister Sleiman Kwidini has said.",
+      "links": [
+        "https://allafrica.com/stories/202608210026.html"
       ]
     },
     {
@@ -136,22 +132,19 @@
       ]
     },
     {
-      "headline": "Trump says US launching 'economic warfare' against Iran, warns countries not to back Tehran",
-      "countries": [
-        "United States",
-        "Iran"
-      ],
+      "headline": "Wrestling-Back on the mat in new professional promotion, Burroughs dreams of Olympic return",
+      "countries": [],
       "regions": [
-        "Middle East"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nTrump says US launching 'economic warfare' against Iran, warns countries not to back Tehran\n\n    \n    \n\n        \n    \n                US President Donald Trump announced that the US is launching the \"MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY\".\n\n\"This will be ",
+      "summary": "",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-launching-economic-warfare-against-iran-warns-countries"
+        "https://www.channelnewsasia.com/sport/wrestling-back-mat-in-new-professional-promotion-burroughs-dreams-olympic-return-6332831"
       ]
     },
     {
-      "headline": "Nigeria: CJID Opens 2026 Awards to Reporters and Editors, Introduces Human Rights Category.",
+      "headline": "Nigeria: UK Warns Citizens Against Travel to 28 Nigerian States Over Terrorism, Kidnap Risk",
       "countries": [
         "Nigeria"
       ],
@@ -159,25 +152,11 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[CJID] 18 August, 2026 - Abuja, Nigeria",
+      "summary": "[Vanguard] The United Kingdom government has warned its citizens intending to visit Nigeria against all travel to 11 states and parts of the country, citing rising insecurity, terrorism, kidnapping and intercommunal violence.",
       "links": [
-        "https://allafrica.com/stories/202608180503.html"
-      ]
-    },
-    {
-      "headline": "Israeli opposition leader and former prime minister criticise Netanyahu over Syria attacks",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsraeli opposition leader and former prime minister criticise Netanyahu over Syria attacks\n\n    \n    \n\n        \n    \n                Israeli opposition leader Yair Golan said that the attack on a Syrian air base was a \"provocative and dangerous\" move that deepens the rift Tel Aviv",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-leader-and-former-prime-minister-criticise-netanyahu"
+        "https://allafrica.com/stories/202608210104.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-20 (extractive mode)\n\n* Kenya: Ecuador Intelligence Chief, Wife Among Seven Killed in Samburu Helicopter Crash (AllAfrica News: Latest, 3 outlets)\n* Hind Rajab's grandmother rejects Israeli army probe into killing, calls for independent international investigation: Report (Section Feed, 1 outlets)\n* Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza (BBC News, 1 outlets)\n* Singapore and India discuss bilateral cooperation on semiconductors, food security at ministerial meeting (Latest News, 1 outlets)\n* Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation (BBC News, 1 outlets)\n* Nigeria: Tinubu Orders Preparation of Nigeria's Five-Year Security Threat Assessment, Defence Plan (AllAfrica News: Latest, 1 outlets)\n* South Africa: Residents Push Back Against N2 Wall - South African News Briefs - August 20, 2026 (AllAfrica News: Latest, 1 outlets)\n* Overcrowded units, short stays: Suspected illegal accommodation cases on the rise in Singapore (Latest News, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Trump says US launching 'economic warfare' against Iran, warns countries not to back Tehran (Section Feed, 1 outlets)\n* Nigeria: CJID Opens 2026 Awards to Reporters and Editors, Introduces Human Rights Category. (AllAfrica News: Latest, 1 outlets)\n* Israeli opposition leader and former prime minister criticise Netanyahu over Syria attacks (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-08-21 (extractive mode)\n\n* Nigeria: CWPPF Condemns the Violent Assault, Harassment, and Phone Destruction of Pinnacle Daily Editor, Sunday Michael Ogwu, By Police Operatives in Lugbe (AllAfrica News: Latest, 1 outlets)\n* Zambia: Authorities Must Investigate Fatal Shooting of Former Minister and End Post-Election Crackdown (AllAfrica News: Latest, 1 outlets)\n* South Africa: Msunduzi Strike Disrupts Service Delivery - South African News Briefs - August 21, 2026 (AllAfrica News: Latest, 1 outlets)\n* Central African Republic: Over 100 Labourers Killed in Gold Mine Collapse in Central African Republic (AllAfrica News: Latest, 1 outlets)\n* Central African Republic: Deadly Border Mine Collapse Exposes Risks Behind Central Africa's Gold Rush (AllAfrica News: Latest, 1 outlets)\n* Over 3,000 lower-income residents to get free warm meals in nearby food lockers under new programme (Latest News, 1 outlets)\n* Hamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza continue (Section Feed, 1 outlets)\n* Four out of every five families in Gaza face 'critical or catastrophic' hunger levels, UN warns (Section Feed, 1 outlets)\n* Zimbabwe: Govt Losing Millions As Health Workers Steal Drugs for Resale - Deputy Minister Says (AllAfrica News: Latest, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Wrestling-Back on the mat in new professional promotion, Burroughs dreams of Olympic return (Latest News, 1 outlets)\n* Nigeria: UK Warns Citizens Against Travel to 28 Nigerian States Over Terrorism, Kidnap Risk (AllAfrica News: Latest, 1 outlets)"
 }
