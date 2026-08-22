@@ -1,120 +1,105 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-21T07:33:36.393444+00:00",
-  "digest_words": 261,
+  "generated_at": "2026-08-22T07:22:00.205089+00:00",
+  "digest_words": 268,
   "clusters": [
     {
-      "headline": "Nigeria: CWPPF Condemns the Violent Assault, Harassment, and Phone Destruction of Pinnacle Daily Editor, Sunday Michael Ogwu, By Police Operatives in Lugbe",
+      "headline": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
       "countries": [
-        "Nigeria"
+        "Canada"
       ],
       "regions": [
-        "Africa"
+        "Asia",
+        "Middle East"
       ],
-      "outlets": 1,
-      "summary": "[CJID] August 20, 2026 -- The Coalition for Whistleblower Protection and Press Freedom (CWPPF) strongly condemns the violent physical assault, harassment, unlawful seizure, and destruction of working tools belonging to Sunday Michael Ogwu, Editor of Pinnacle Daily, by officers of the Nigeria Police ",
+      "outlets": 2,
+      "summary": "Canadian prime minister says country will match tariffs &#039;dollar for dollar&#039; after failure to secure US trade agreement.",
       "links": [
-        "https://allafrica.com/stories/202608210016.html"
+        "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
+        "https://www.channelnewsasia.com/world/us-canada-trade-war-failed-tariff-deal-6334641"
       ]
     },
     {
-      "headline": "Zambia: Authorities Must Investigate Fatal Shooting of Former Minister and End Post-Election Crackdown",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[AI London] Responding to the reported fatal shooting of opposition party member and former cabinet minister Mutotwe Kafwaya during a security operation in Kabulonga, Lusaka on 14 August, and the arrest of at least three other opposition members, Amnesty International's Regional Director for East an",
-      "links": [
-        "https://allafrica.com/stories/202608210050.html"
-      ]
-    },
-    {
-      "headline": "South Africa: Msunduzi Strike Disrupts Service Delivery - South African News Briefs - August 21, 2026",
+      "headline": "Sudan: To Permanent Representatives of Member and Observer States of the United Nations (UN) Human Rights Council (Geneva, Switzerland)",
       "countries": [
-        "South Africa"
+        "Switzerland"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "[HRW] Sudan: Extend the Fact-Finding Mission's mandate and ensure adequate resources for investigations and reporting",
       "links": [
-        "https://allafrica.com/stories/202608210113.html"
+        "https://allafrica.com/stories/202608210577.html"
       ]
     },
     {
-      "headline": "Central African Republic: Over 100 Labourers Killed in Gold Mine Collapse in Central African Republic",
+      "headline": "Social media fueled hopes of reaching Ceuta. DW meets Moroccans caught between no future at home and the risks ahead.",
       "countries": [],
       "regions": [
-        "Africa"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "[Premium Times] The toll rose from about 30 labourers to 107 as Rescue officials recovered more bodies trapped under the mine in the past hours.",
+      "summary": "The Moroccan city of Fnideq is next to Spanish-controlled Ceuta. In Fnideq, would-be migrants dream of crossing to a better life, even as locals who witnessed recent mass migration surges say it's way too risky.",
       "links": [
-        "https://allafrica.com/stories/202608210071.html"
+        "https://www.dw.com/en/social-media-fueled-hopes-of-reaching-ceuta-dw-meets-moroccans-caught-between-no-future-at-home-and-the-risks-ahead/a-78443537?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Central African Republic: Deadly Border Mine Collapse Exposes Risks Behind Central Africa's Gold Rush",
-      "countries": [],
+      "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "countries": [
+        "Canada",
+        "Australia",
+        "Israel"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Ethiopia: Ethiopia, U.S. Agree to Establish Comprehensive Strategic Cooperation in Defense, Security",
+      "countries": [
+        "United States",
+        "Ethiopia"
+      ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[RFI] A deadly landslide at a gold mine on the Cameroon-Central African Republic border has triggered calls for greater oversight of mining operations, after dozens of people were killed and many more were reported missing.",
+      "summary": "[ENA] Addis Ababa -- Ethiopia and the United States have agreed to establish comprehensive strategic cooperation in defense and security.",
       "links": [
-        "https://allafrica.com/stories/202608210008.html"
+        "https://allafrica.com/stories/202608210600.html"
       ]
     },
     {
-      "headline": "Over 3,000 lower-income residents to get free warm meals in nearby food lockers under new programme",
+      "headline": "A dinner that's also a play at Michelin-starred Nouri, where chef Ivan Brehm turns actor as you eat",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The menu will be rotated regularly to provide variety and will cater to diverse tastes and dietary needs, say North East CDC and OCBC.",
+      "summary": "Restaurant Nouri and Checkpoint Theatre have joined forces to create what is probably Singapore's first true fusion of fine dining and theatre. The 10-course, three-hour experience pairs each course with a chapter from chef Ivan Brehm's personal journey.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/free-warm-meals-food-lockers-lower-income-6331931"
-      ]
-    },
-    {
-      "headline": "Hamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza continue",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nHamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza continue\n\n    \n    \n\n        \n    \n                Senior Hamas official Bassem Naim told CNN that the movement remains committed to a peace roadmap for Gaza.\n\n\"We are still ready to continue t",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-told-be-sensitive-netanyahu-ahead-israeli-elections-amid-ongoing"
-      ]
-    },
-    {
-      "headline": "Four out of every five families in Gaza face 'critical or catastrophic' hunger levels, UN warns",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nFour out of every five families in Gaza face 'critical or catastrophic' hunger levels, UN warns\n\n    \n    \n\n        \n    \n                The spokesman for the UN Secretary-General, Stephane Dujarric, warned that 94 percent of Gaza's over 2.1 million population are in need of&nbsp",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/four-out-every-five-families-gaza-face-critical-or-catastrophic-hunger"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: Govt Losing Millions As Health Workers Steal Drugs for Resale - Deputy Minister Says",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] THE government is losing millions of dollars through the theft of medication and hospital supplies by employees at public health institutions, Health and Child Care deputy minister Sleiman Kwidini has said.",
-      "links": [
-        "https://allafrica.com/stories/202608210026.html"
+        "https://www.channelnewsasia.com/dining/nouri-ivan-brehm-checkpoint-theatre-6332646"
       ]
     },
     {
@@ -132,31 +117,55 @@
       ]
     },
     {
-      "headline": "Wrestling-Back on the mat in new professional promotion, Burroughs dreams of Olympic return",
+      "headline": "Pre-peak discount issue that affected 210,000 journeys a day on Aug 20 and 21 fixed: SimplyGo",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "",
+      "summary": "The discount was not activated for SimplyGo EZ-Link and bank card transactions on both days because of a configuration error, the company said.",
       "links": [
-        "https://www.channelnewsasia.com/sport/wrestling-back-mat-in-new-professional-promotion-burroughs-dreams-olympic-return-6332831"
+        "https://www.channelnewsasia.com/singapore/simplygo-fixed-pre-peak-discount-issue-6334516"
       ]
     },
     {
-      "headline": "Nigeria: UK Warns Citizens Against Travel to 28 Nigerian States Over Terrorism, Kidnap Risk",
-      "countries": [
-        "Nigeria"
-      ],
+      "headline": "Somalia: Hundreds of Health and Nutrition Facilities Closed As Somalia's Child Crisis Deepens",
+      "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Vanguard] The United Kingdom government has warned its citizens intending to visit Nigeria against all travel to 11 states and parts of the country, citing rising insecurity, terrorism, kidnapping and intercommunal violence.",
+      "summary": "[Unicef] Mogadishu/Nairobi -- This is a summary of what was said by UNICEF Spokesperson, James Elder, to whom quoted text may be attributed - at today's press briefing at the Palais des Nations in Geneva",
       "links": [
-        "https://allafrica.com/stories/202608210104.html"
+        "https://allafrica.com/stories/202608210475.html"
+      ]
+    },
+    {
+      "headline": "South Korea container ship sets sail to test Arctic commercial route amid Western concerns",
+      "countries": [
+        "South Korea"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "President Lee Jae Myung has made Arctic shipping a priority for South Korea, a shipping powerhouse.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/south-korea-ship-arctic-commercial-route-western-russia-6334686"
+      ]
+    },
+    {
+      "headline": "Africa: Inaugural Africa Business Investment Summit Convenes 27-28 August in Washington DC",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Africa Business Investment Summit] Africa's business leaders will convene in Washington D.C., for the inaugural Africa Business Investment Summit (ABIS) 2026, taking place at MGM National Harbor 27-28 August 2026 as the centerpiece of Millennium Excellence Awards America.",
+      "links": [
+        "https://allafrica.com/stories/202608210689.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-21 (extractive mode)\n\n* Nigeria: CWPPF Condemns the Violent Assault, Harassment, and Phone Destruction of Pinnacle Daily Editor, Sunday Michael Ogwu, By Police Operatives in Lugbe (AllAfrica News: Latest, 1 outlets)\n* Zambia: Authorities Must Investigate Fatal Shooting of Former Minister and End Post-Election Crackdown (AllAfrica News: Latest, 1 outlets)\n* South Africa: Msunduzi Strike Disrupts Service Delivery - South African News Briefs - August 21, 2026 (AllAfrica News: Latest, 1 outlets)\n* Central African Republic: Over 100 Labourers Killed in Gold Mine Collapse in Central African Republic (AllAfrica News: Latest, 1 outlets)\n* Central African Republic: Deadly Border Mine Collapse Exposes Risks Behind Central Africa's Gold Rush (AllAfrica News: Latest, 1 outlets)\n* Over 3,000 lower-income residents to get free warm meals in nearby food lockers under new programme (Latest News, 1 outlets)\n* Hamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza continue (Section Feed, 1 outlets)\n* Four out of every five families in Gaza face 'critical or catastrophic' hunger levels, UN warns (Section Feed, 1 outlets)\n* Zimbabwe: Govt Losing Millions As Health Workers Steal Drugs for Resale - Deputy Minister Says (AllAfrica News: Latest, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Wrestling-Back on the mat in new professional promotion, Burroughs dreams of Olympic return (Latest News, 1 outlets)\n* Nigeria: UK Warns Citizens Against Travel to 28 Nigerian States Over Terrorism, Kidnap Risk (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-08-22 (extractive mode)\n\n* Ebola vaccine trial to start in DR Congo as warning issued over speed of infections (BBC News, 2 outlets)\n* US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Sudan: To Permanent Representatives of Member and Observer States of the United Nations (UN) Human Rights Council (Geneva, Switzerland) (AllAfrica News: Latest, 1 outlets)\n* Social media fueled hopes of reaching Ceuta. DW meets Moroccans caught between no future at home and the risks ahead. (World | Deutsche Welle, 1 outlets)\n* UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza (BBC News, 1 outlets)\n* Ethiopia: Ethiopia, U.S. Agree to Establish Comprehensive Strategic Cooperation in Defense, Security (AllAfrica News: Latest, 1 outlets)\n* A dinner that's also a play at Michelin-starred Nouri, where chef Ivan Brehm turns actor as you eat (Latest News, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Pre-peak discount issue that affected 210,000 journeys a day on Aug 20 and 21 fixed: SimplyGo (Latest News, 1 outlets)\n* Somalia: Hundreds of Health and Nutrition Facilities Closed As Somalia's Child Crisis Deepens (AllAfrica News: Latest, 1 outlets)\n* South Korea container ship sets sail to test Arctic commercial route amid Western concerns (Latest News, 1 outlets)\n* Africa: Inaugural Africa Business Investment Summit Convenes 27-28 August in Washington DC (AllAfrica News: Latest, 1 outlets)"
 }
