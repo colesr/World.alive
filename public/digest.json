@@ -1,62 +1,18 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-22T07:22:00.205089+00:00",
-  "digest_words": 268,
+  "generated_at": "2026-08-23T07:24:21.299807+00:00",
+  "digest_words": 245,
   "clusters": [
     {
-      "headline": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "headline": "Congo-Kinshasa: Joint Statement Between DR Congo and the Alliance Fleuve Congo/March 23 Movement (AFC/M23) on the Doha Process",
       "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
-      "countries": [
-        "Canada"
-      ],
-      "regions": [
-        "Asia",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "Canadian prime minister says country will match tariffs &#039;dollar for dollar&#039; after failure to secure US trade agreement.",
-      "links": [
-        "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
-        "https://www.channelnewsasia.com/world/us-canada-trade-war-failed-tariff-deal-6334641"
-      ]
-    },
-    {
-      "headline": "Sudan: To Permanent Representatives of Member and Observer States of the United Nations (UN) Human Rights Council (Geneva, Switzerland)",
-      "countries": [
-        "Switzerland"
-      ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[HRW] Sudan: Extend the Fact-Finding Mission's mandate and ensure adequate resources for investigations and reporting",
+      "summary": "[State Department] The following statement was released by the representatives of the Government of the Democratic Republic of the Congo and the representatives of the Alliance Fleuve Congo/March 23 Movement, as well as the State of Qatar, the United States of America, the Republic of Togo (as the A",
       "links": [
-        "https://allafrica.com/stories/202608210577.html"
-      ]
-    },
-    {
-      "headline": "Social media fueled hopes of reaching Ceuta. DW meets Moroccans caught between no future at home and the risks ahead.",
-      "countries": [],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The Moroccan city of Fnideq is next to Spanish-controlled Ceuta. In Fnideq, would-be migrants dream of crossing to a better life, even as locals who witnessed recent mass migration surges say it's way too risky.",
-      "links": [
-        "https://www.dw.com/en/social-media-fueled-hopes-of-reaching-ceuta-dw-meets-moroccans-caught-between-no-future-at-home-and-the-risks-ahead/a-78443537?maca=en-rss-en-world-4025-rdf"
+        "https://allafrica.com/stories/202608220111.html"
       ]
     },
     {
@@ -76,56 +32,41 @@
       ]
     },
     {
-      "headline": "Ethiopia: Ethiopia, U.S. Agree to Establish Comprehensive Strategic Cooperation in Defense, Security",
+      "headline": "Raised differently, united by food: The couple making Singapore food heritage part of everyday life",
       "countries": [
-        "United States",
-        "Ethiopia"
+        "Singapore"
       ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Anugerah Murni Sabta and Aqid Aiman Azmi run Sendok Rakyat through workshops, walks and gatherings. They encourage participants to experience food heritage through shared stories and everyday cooking.",
+      "links": [
+        "https://www.channelnewsasia.com/living/sendok-rakyat-food-heritage-singapore-6329851"
+      ]
+    },
+    {
+      "headline": "Africa: Population Density - a Missing Factor in Development - - and Why This Is Africa's Moment",
+      "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[ENA] Addis Ababa -- Ethiopia and the United States have agreed to establish comprehensive strategic cooperation in defense and security.",
+      "summary": "[African Arguments] Explanations of why Africa has lagged behind tend to reach for the familiar: weak governance, corruption, ethnic conflict, the legacy of colonial borders.",
       "links": [
-        "https://allafrica.com/stories/202608210600.html"
+        "https://allafrica.com/stories/202608220074.html"
       ]
     },
     {
-      "headline": "A dinner that's also a play at Michelin-starred Nouri, where chef Ivan Brehm turns actor as you eat",
+      "headline": "What actually works for knee pain? Expert advice for wear and tear, overuse and acute injuries",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Restaurant Nouri and Checkpoint Theatre have joined forces to create what is probably Singapore's first true fusion of fine dining and theatre. The 10-course, three-hour experience pairs each course with a chapter from chef Ivan Brehm's personal journey.",
+      "summary": "Here\u2019s how to differentiate between common types of pain and what experts recommend for managing them.",
       "links": [
-        "https://www.channelnewsasia.com/dining/nouri-ivan-brehm-checkpoint-theatre-6332646"
-      ]
-    },
-    {
-      "headline": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Pre-peak discount issue that affected 210,000 journeys a day on Aug 20 and 21 fixed: SimplyGo",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The discount was not activated for SimplyGo EZ-Link and bank card transactions on both days because of a configuration error, the company said.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/simplygo-fixed-pre-peak-discount-issue-6334516"
+        "https://www.channelnewsasia.com/wellness/knee-pain-causes-treatments-6312436"
       ]
     },
     {
@@ -141,17 +82,33 @@
       ]
     },
     {
-      "headline": "South Korea container ship sets sail to test Arctic commercial route amid Western concerns",
+      "headline": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
       "countries": [
-        "South Korea"
+        "Russia",
+        "Ukraine"
       ],
       "regions": [
-        "Asia"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "President Lee Jae Myung has made Arctic shipping a priority for South Korea, a shipping powerhouse.",
+      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
       "links": [
-        "https://www.channelnewsasia.com/asia/south-korea-ship-arctic-commercial-route-western-russia-6334686"
+        "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -165,7 +122,45 @@
       "links": [
         "https://allafrica.com/stories/202608210689.html"
       ]
+    },
+    {
+      "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Cameroon: 'An Invisible Avalanche' - What Happened in Cameroon's 1986 Lake Nyos Disaster?",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[RFI] On 21 August, 1986, 1,746 people died from carbon dioxide poisoning after gas escaped overnight from the bottom of Lake Nyos in Cameroon. RFI examines what happened in the world's deadliest \"limnic eruption\" and how, 40 years later, our understanding of the danger posed by volcanic lakes is st",
+      "links": [
+        "https://allafrica.com/stories/202608220071.html"
+      ]
+    },
+    {
+      "headline": "Somalia: Somalia - Humanitarian Aid Cuts Leave Millions of Children Vulnerable to Hunger",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[UN News] The global funding crisis for humanitarian work is taking a growing toll on the most vulnerable children in Somalia, where some aid programmes and facilities have been forced to shut down.",
+      "links": [
+        "https://allafrica.com/stories/202608220073.html"
+      ]
     }
   ],
-  "narrative": "State of the World - 2026-08-22 (extractive mode)\n\n* Ebola vaccine trial to start in DR Congo as warning issued over speed of infections (BBC News, 2 outlets)\n* US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Sudan: To Permanent Representatives of Member and Observer States of the United Nations (UN) Human Rights Council (Geneva, Switzerland) (AllAfrica News: Latest, 1 outlets)\n* Social media fueled hopes of reaching Ceuta. DW meets Moroccans caught between no future at home and the risks ahead. (World | Deutsche Welle, 1 outlets)\n* UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza (BBC News, 1 outlets)\n* Ethiopia: Ethiopia, U.S. Agree to Establish Comprehensive Strategic Cooperation in Defense, Security (AllAfrica News: Latest, 1 outlets)\n* A dinner that's also a play at Michelin-starred Nouri, where chef Ivan Brehm turns actor as you eat (Latest News, 1 outlets)\n* Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend (BBC News, 1 outlets)\n* Pre-peak discount issue that affected 210,000 journeys a day on Aug 20 and 21 fixed: SimplyGo (Latest News, 1 outlets)\n* Somalia: Hundreds of Health and Nutrition Facilities Closed As Somalia's Child Crisis Deepens (AllAfrica News: Latest, 1 outlets)\n* South Korea container ship sets sail to test Arctic commercial route amid Western concerns (Latest News, 1 outlets)\n* Africa: Inaugural Africa Business Investment Summit Convenes 27-28 August in Washington DC (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-08-23 (extractive mode)\n\n* Congo-Kinshasa: Joint Statement Between DR Congo and the Alliance Fleuve Congo/March 23 Movement (AFC/M23) on the Doha Process (AllAfrica News: Latest, 1 outlets)\n* UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza (BBC News, 1 outlets)\n* Raised differently, united by food: The couple making Singapore food heritage part of everyday life (Latest News, 1 outlets)\n* Africa: Population Density - a Missing Factor in Development - - and Why This Is Africa's Moment (AllAfrica News: Latest, 1 outlets)\n* What actually works for knee pain? Expert advice for wear and tear, overuse and acute injuries (Latest News, 1 outlets)\n* Somalia: Hundreds of Health and Nutrition Facilities Closed As Somalia's Child Crisis Deepens (AllAfrica News: Latest, 1 outlets)\n* Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike (BBC News, 1 outlets)\n* Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war (BBC News, 1 outlets)\n* Africa: Inaugural Africa Business Investment Summit Convenes 27-28 August in Washington DC (AllAfrica News: Latest, 1 outlets)\n* Israel re-establishes closed West Bank settlement, defying growing international protests (BBC News, 1 outlets)\n* Cameroon: 'An Invisible Avalanche' - What Happened in Cameroon's 1986 Lake Nyos Disaster? (AllAfrica News: Latest, 1 outlets)\n* Somalia: Somalia - Humanitarian Aid Cuts Leave Millions of Children Vulnerable to Hunger (AllAfrica News: Latest, 1 outlets)"
 }
