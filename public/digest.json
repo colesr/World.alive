@@ -1,38 +1,38 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-23T07:24:21.299807+00:00",
-  "digest_words": 245,
+  "generated_at": "2026-08-24T07:48:15.304344+00:00",
+  "digest_words": 237,
   "clusters": [
     {
-      "headline": "Congo-Kinshasa: Joint Statement Between DR Congo and the Alliance Fleuve Congo/March 23 Movement (AFC/M23) on the Doha Process",
+      "headline": "DR Congo and M23 rebels agree roadmap for peace talks",
       "countries": [],
       "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[State Department] The following statement was released by the representatives of the Government of the Democratic Republic of the Congo and the representatives of the Alliance Fleuve Congo/March 23 Movement, as well as the State of Qatar, the United States of America, the Republic of Togo (as the A",
-      "links": [
-        "https://allafrica.com/stories/202608220111.html"
-      ]
-    },
-    {
-      "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "countries": [
-        "Canada",
-        "Australia",
-        "Israel"
-      ],
-      "regions": [
+        "Africa",
         "Europe"
       ],
-      "outlets": 1,
-      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+      "outlets": 2,
+      "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Raised differently, united by food: The couple making Singapore food heritage part of everyday life",
+      "headline": "Guinea rubbish landfill collapse kills 30",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Theft cases in homes jump 25% in first half of 2026 even as Singapore's overall crime rate stays stable",
       "countries": [
         "Singapore"
       ],
@@ -40,75 +40,95 @@
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Anugerah Murni Sabta and Aqid Aiman Azmi run Sendok Rakyat through workshops, walks and gatherings. They encourage participants to experience food heritage through shared stories and everyday cooking.",
+      "summary": "There were 459 theft in dwelling cases at residential premises in the first six months of the year, up 25.1 per cent from 367 cases over the same period in 2025.",
       "links": [
-        "https://www.channelnewsasia.com/living/sendok-rakyat-food-heritage-singapore-6329851"
+        "https://www.channelnewsasia.com/singapore/spf-mid-year-crime-brief-2026-theft-molestation-6329966"
       ]
     },
     {
-      "headline": "Africa: Population Density - a Missing Factor in Development - - and Why This Is Africa's Moment",
-      "countries": [],
-      "regions": [
-        "Africa"
+      "headline": "20 bookshops unite for Singapore's first Indie Bookshop Day, with book talks, stamp trails and more",
+      "countries": [
+        "Singapore"
       ],
-      "outlets": 1,
-      "summary": "[African Arguments] Explanations of why Africa has lagged behind tend to reach for the familiar: weak governance, corruption, ethnic conflict, the legacy of colonial borders.",
-      "links": [
-        "https://allafrica.com/stories/202608220074.html"
-      ]
-    },
-    {
-      "headline": "What actually works for knee pain? Expert advice for wear and tear, overuse and acute injuries",
-      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Here\u2019s how to differentiate between common types of pain and what experts recommend for managing them.",
+      "summary": "The inaugural event will take place from Oct 2 to 4 with&nbsp;20 indie bookshops across Singapore hosting various activities celebrating books, readers and the communities around them.",
       "links": [
-        "https://www.channelnewsasia.com/wellness/knee-pain-causes-treatments-6312436"
+        "https://www.channelnewsasia.com/living/singapore-indie-bookshop-day-2026-october-6337101"
       ]
     },
     {
-      "headline": "Somalia: Hundreds of Health and Nutrition Facilities Closed As Somalia's Child Crisis Deepens",
-      "countries": [],
+      "headline": "Singapore's core inflation rises to 2% in July on higher electricity and gas, services, food prices",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Consumers could face higher prices in the months ahead as energy and other global costs remain elevated.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/core-inflation-july-2026-mas-mti-6337041"
+      ]
+    },
+    {
+      "headline": "South Africa: Cape Town Taxi Violence Sparks Talks - South African News Briefs - August 24, 2026",
+      "countries": [
+        "South Africa"
+      ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Unicef] Mogadishu/Nairobi -- This is a summary of what was said by UNICEF Spokesperson, James Elder, to whom quoted text may be attributed - at today's press briefing at the Palais des Nations in Geneva",
+      "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202608210475.html"
+        "https://allafrica.com/stories/202608240160.html"
       ]
     },
     {
-      "headline": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "headline": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
       "countries": [
-        "Russia",
         "Ukraine"
       ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+      "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+      "headline": "Nigeria: Investigation - the Multi-Million Dollar Norwegian Scam and the Role of a Nigerian",
       "countries": [
-        "United States",
-        "Canada"
+        "Nigeria",
+        "Norway"
       ],
       "regions": [
-        "Europe"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "summary": "[Premium Times] This is the story of a sophisticated scam network that cost its victims millions of dollars in different parts of the world.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202608240102.html"
+      ]
+    },
+    {
+      "headline": "Far from home, Ukrainians abroad mark 35 years of independence as war with Russia drags on",
+      "countries": [
+        "Russia",
+        "Ukraine"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "For 70,000 displaced Ukrainians living in Belgium, the hope of returning home remains, even as escalating Russian attacks and air-defence shortages put fresh pressure on Kyiv's European allies.",
+      "links": [
+        "https://www.channelnewsasia.com/world/ukrainains-abroad-35-years-independence-russia-war-6337116"
       ]
     },
     {
@@ -124,43 +144,29 @@
       ]
     },
     {
-      "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "countries": [
-        "Israel"
-      ],
+      "headline": "Ex-employee let go after probation without one month's notice wins claim against law firm",
+      "countries": [],
       "regions": [
-        "Europe"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "summary": "The law firm had argued against having to pay one month's salary in lieu of notice, saying the man had not been terminated but that his probation period had expired.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/singapore/law-firm-employee-probation-terminated-one-month-notice-win-claim-6337241"
       ]
     },
     {
-      "headline": "Cameroon: 'An Invisible Avalanche' - What Happened in Cameroon's 1986 Lake Nyos Disaster?",
+      "headline": "CASE assists Nereos customers seeking refunds after 47 complaints over unfulfilled orders",
       "countries": [],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[RFI] On 21 August, 1986, 1,746 people died from carbon dioxide poisoning after gas escaped overnight from the bottom of Lake Nyos in Cameroon. RFI examines what happened in the world's deadliest \"limnic eruption\" and how, 40 years later, our understanding of the danger posed by volcanic lakes is st",
+      "summary": "The complaints involved products including water dispensers, water purifiers and laundry drying racks.",
       "links": [
-        "https://allafrica.com/stories/202608220071.html"
-      ]
-    },
-    {
-      "headline": "Somalia: Somalia - Humanitarian Aid Cuts Leave Millions of Children Vulnerable to Hunger",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[UN News] The global funding crisis for humanitarian work is taking a growing toll on the most vulnerable children in Somalia, where some aid programmes and facilities have been forced to shut down.",
-      "links": [
-        "https://allafrica.com/stories/202608220073.html"
+        "https://www.channelnewsasia.com/singapore/nereos-case-complaints-unfulfilled-orders-refunds-6337026"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-23 (extractive mode)\n\n* Congo-Kinshasa: Joint Statement Between DR Congo and the Alliance Fleuve Congo/March 23 Movement (AFC/M23) on the Doha Process (AllAfrica News: Latest, 1 outlets)\n* UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza (BBC News, 1 outlets)\n* Raised differently, united by food: The couple making Singapore food heritage part of everyday life (Latest News, 1 outlets)\n* Africa: Population Density - a Missing Factor in Development - - and Why This Is Africa's Moment (AllAfrica News: Latest, 1 outlets)\n* What actually works for knee pain? Expert advice for wear and tear, overuse and acute injuries (Latest News, 1 outlets)\n* Somalia: Hundreds of Health and Nutrition Facilities Closed As Somalia's Child Crisis Deepens (AllAfrica News: Latest, 1 outlets)\n* Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike (BBC News, 1 outlets)\n* Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war (BBC News, 1 outlets)\n* Africa: Inaugural Africa Business Investment Summit Convenes 27-28 August in Washington DC (AllAfrica News: Latest, 1 outlets)\n* Israel re-establishes closed West Bank settlement, defying growing international protests (BBC News, 1 outlets)\n* Cameroon: 'An Invisible Avalanche' - What Happened in Cameroon's 1986 Lake Nyos Disaster? (AllAfrica News: Latest, 1 outlets)\n* Somalia: Somalia - Humanitarian Aid Cuts Leave Millions of Children Vulnerable to Hunger (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-08-24 (extractive mode)\n\n* DR Congo and M23 rebels agree roadmap for peace talks (BBC News, 2 outlets)\n* Guinea rubbish landfill collapse kills 30 (BBC News, 2 outlets)\n* Theft cases in homes jump 25% in first half of 2026 even as Singapore's overall crime rate stays stable (Latest News, 1 outlets)\n* 20 bookshops unite for Singapore's first Indie Bookshop Day, with book talks, stamp trails and more (Latest News, 1 outlets)\n* Singapore's core inflation rises to 2% in July on higher electricity and gas, services, food prices (Latest News, 1 outlets)\n* South Africa: Cape Town Taxi Violence Sparks Talks - South African News Briefs - August 24, 2026 (AllAfrica News: Latest, 1 outlets)\n* Zelensky should be asked what he knew about government corruption, sacked minister tells BBC (BBC News, 1 outlets)\n* Nigeria: Investigation - the Multi-Million Dollar Norwegian Scam and the Role of a Nigerian (AllAfrica News: Latest, 1 outlets)\n* Far from home, Ukrainians abroad mark 35 years of independence as war with Russia drags on (Latest News, 1 outlets)\n* Africa: Inaugural Africa Business Investment Summit Convenes 27-28 August in Washington DC (AllAfrica News: Latest, 1 outlets)\n* Ex-employee let go after probation without one month's notice wins claim against law firm (Latest News, 1 outlets)\n* CASE assists Nereos customers seeking refunds after 47 complaints over unfulfilled orders (Latest News, 1 outlets)"
 }
