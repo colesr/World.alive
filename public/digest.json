@@ -1,80 +1,62 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-24T07:48:15.304344+00:00",
-  "digest_words": 237,
+  "generated_at": "2026-08-25T07:34:42.236957+00:00",
+  "digest_words": 248,
   "clusters": [
     {
-      "headline": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "headline": "Congo-Kinshasa: DR Congo Peace Roadmap - Will the Fighting Finally End?",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
+      "summary": "[DW] A new roadmap sets out the conditions toward peace in the eastern Democratic Republic of Congo (DRC). But disagreements over M23 rebels, Rwanda's role and security concerns remain, and could still derail the process.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202608250153.html",
+        "https://www.dw.com/en/dr-congo-peace-roadmap-will-the-fighting-finally-end/a-78487489?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Guinea rubbish landfill collapse kills 30",
+      "headline": "Nigeria: CWPPF Renews Call for Independent Investigation As FCT Police Command Shifts Focus From Alleged Assault to Journalist's Conduct",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[CJID] Abuja, Nigeria -- 22 August 2026 -- The Coalition for Whistleblowers Protection and Press Freedom (CWPPF) issues this follow-up statement to its release of the 20th of August, 2026, condemning the assault on Sunday Michael Ogwu, Editor of Pinnacle Daily, by police and the Vigilante Group of N",
+      "links": [
+        "https://allafrica.com/stories/202608240050.html"
+      ]
+    },
+    {
+      "headline": "East Africa: Refinery Rivalry - Billion-Dollar Oil Projects Expose East Africa's Long-Running Regional Tensions",
       "countries": [],
       "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Theft cases in homes jump 25% in first half of 2026 even as Singapore's overall crime rate stays stable",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "There were 459 theft in dwelling cases at residential premises in the first six months of the year, up 25.1 per cent from 367 cases over the same period in 2025.",
+      "summary": "[The Conversation Africa] East Africa, a region that has been working to deepen economic integration for more than 25 years, has a history of disagreements about the location of energy infrastructure. Uganda discovered oil in 2006 with the potential to pump an estimated 210,000 to 230,000 barrels of",
       "links": [
-        "https://www.channelnewsasia.com/singapore/spf-mid-year-crime-brief-2026-theft-molestation-6329966"
+        "https://allafrica.com/stories/202608250049.html"
       ]
     },
     {
-      "headline": "20 bookshops unite for Singapore's first Indie Bookshop Day, with book talks, stamp trails and more",
-      "countries": [
-        "Singapore"
-      ],
+      "headline": "Zimbabwe: Mnangagwa Dragged to Constitutional Court, Accused of Packing Senate With Zanu-PF Politicians",
+      "countries": [],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "The inaugural event will take place from Oct 2 to 4 with&nbsp;20 indie bookshops across Singapore hosting various activities celebrating books, readers and the communities around them.",
+      "summary": "[New Zimbabwe] President Emmerson Mnangagwa has been dragged to the Constitutional Court over his appointment of 10 senators, with two applicants accusing him of packing the Upper House with politicians instead of independent professionals as required by the Constitution.",
       "links": [
-        "https://www.channelnewsasia.com/living/singapore-indie-bookshop-day-2026-october-6337101"
+        "https://allafrica.com/stories/202608250155.html"
       ]
     },
     {
-      "headline": "Singapore's core inflation rises to 2% in July on higher electricity and gas, services, food prices",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Consumers could face higher prices in the months ahead as energy and other global costs remain elevated.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/core-inflation-july-2026-mas-mti-6337041"
-      ]
-    },
-    {
-      "headline": "South Africa: Cape Town Taxi Violence Sparks Talks - South African News Briefs - August 24, 2026",
+      "headline": "South Africa: Businessman Seeks Bail in Trafficking Case - South African News Briefs - August 25, 2026",
       "countries": [
         "South Africa"
       ],
@@ -84,89 +66,97 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202608240160.html"
+        "https://allafrica.com/stories/202608250151.html"
       ]
     },
     {
-      "headline": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "countries": [
-        "Ukraine"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Nigeria: Investigation - the Multi-Million Dollar Norwegian Scam and the Role of a Nigerian",
-      "countries": [
-        "Nigeria",
-        "Norway"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Premium Times] This is the story of a sophisticated scam network that cost its victims millions of dollars in different parts of the world.",
-      "links": [
-        "https://allafrica.com/stories/202608240102.html"
-      ]
-    },
-    {
-      "headline": "Far from home, Ukrainians abroad mark 35 years of independence as war with Russia drags on",
-      "countries": [
-        "Russia",
-        "Ukraine"
-      ],
+      "headline": "Man hid behind plants to film pair having sex then threatened woman with video, gets jail and caning",
+      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "For 70,000 displaced Ukrainians living in Belgium, the hope of returning home remains, even as escalating Russian attacks and air-defence shortages put fresh pressure on Kyiv's European allies.",
+      "summary": "The judge told the offender that his actions had been most hurtful to his wife, who broke down in court while holding the couple's one-month-old baby.",
       "links": [
-        "https://www.channelnewsasia.com/world/ukrainains-abroad-35-years-independence-russia-war-6337116"
+        "https://www.channelnewsasia.com/singapore/man-film-couples-sex-extort-jail-caning-6339396"
       ]
     },
     {
-      "headline": "Africa: Inaugural Africa Business Investment Summit Convenes 27-28 August in Washington DC",
+      "headline": "Commentary: NDR 2026 - non-parents shouldn\u2019t be default substitutes for parents on childcare leave",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The new childcare leave scheme can push firms to design work better and accommodate other caregiving needs, says NTU\u2019s Chua Yeow Hwee.",
+      "links": [
+        "https://www.channelnewsasia.com/commentary/ndr-2026-childcare-leave-employer-employee-parent-singles-6339076"
+      ]
+    },
+    {
+      "headline": "Tanzania: Presidential Commission Begins Investigation of Law Violations During the 2025 Elections",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Africa Business Investment Summit] Africa's business leaders will convene in Washington D.C., for the inaugural Africa Business Investment Summit (ABIS) 2026, taking place at MGM National Harbor 27-28 August 2026 as the centerpiece of Millennium Excellence Awards America.",
+      "summary": "[Daily News] Dar es Salaam -- THE Presidential Commission of Inquiry into the Individuals Involved in Violence and Violations of the Law during and after the October 2025 General Election has officially begun preparations to carry out its mandate.",
       "links": [
-        "https://allafrica.com/stories/202608210689.html"
+        "https://allafrica.com/stories/202608250089.html"
       ]
     },
     {
-      "headline": "Ex-employee let go after probation without one month's notice wins claim against law firm",
+      "headline": "Government quality, capability set successful nations apart in a contested world: Chan Chun Sing",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The law firm had argued against having to pay one month's salary in lieu of notice, saying the man had not been terminated but that his probation period had expired.",
+      "summary": "Speaking at the inaugural Singapore-Vietnam Strategic Dialogue, Mr Chan said both countries feel the shifts in the rules-based international order acutely.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/law-firm-employee-probation-terminated-one-month-notice-win-claim-6337241"
+        "https://www.channelnewsasia.com/singapore/government-public-service-rules-based-order-vietnam-chan-chun-sing-6339021"
       ]
     },
     {
-      "headline": "CASE assists Nereos customers seeking refunds after 47 complaints over unfulfilled orders",
+      "headline": "Singapore to put forward bid to host international tribunal for investment disputes: Edwin Tong",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "As countries pull away from multilateralism and ignore the rules-based system, the question to ask is \"what are we doing about it?\", said Law Minister Edwin Tong.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/investor-state-dispute-settlement-international-tribunal-uncitral-rule-law-wto-6339016"
+      ]
+    },
+    {
+      "headline": "Israeli settler attacks rise by 63 percent in first seven months of 2026, says Commission",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nIsraeli settler attacks rise by 63 percent in first seven months of 2026, says Commission\n\n    \n    \n\n        \n    \n                The Colonization and Wall Resistance Commission said that Israeli settler attacks in the occupied West Bank rose sharply during the first seven month",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-attacks-rise-63-percent-first-seven-months-2026-says"
+      ]
+    },
+    {
+      "headline": "Actor Mat Yeung\u2019s Malaysia roast meat restaurant temporarily closed 10 days after opening",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The complaints involved products including water dispensers, water purifiers and laundry drying racks.",
+      "summary": "The Hong Kong actor's newly opened roast meat restaurant Six Hub Roast House has been temporarily closed by local authorities over alleged licensing and premises-related breaches.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/nereos-case-complaints-unfulfilled-orders-refunds-6337026"
+        "https://www.channelnewsasia.com/entertainment/mat-yeung-six-hub-roast-house-restaurant-closed-6339266"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-24 (extractive mode)\n\n* DR Congo and M23 rebels agree roadmap for peace talks (BBC News, 2 outlets)\n* Guinea rubbish landfill collapse kills 30 (BBC News, 2 outlets)\n* Theft cases in homes jump 25% in first half of 2026 even as Singapore's overall crime rate stays stable (Latest News, 1 outlets)\n* 20 bookshops unite for Singapore's first Indie Bookshop Day, with book talks, stamp trails and more (Latest News, 1 outlets)\n* Singapore's core inflation rises to 2% in July on higher electricity and gas, services, food prices (Latest News, 1 outlets)\n* South Africa: Cape Town Taxi Violence Sparks Talks - South African News Briefs - August 24, 2026 (AllAfrica News: Latest, 1 outlets)\n* Zelensky should be asked what he knew about government corruption, sacked minister tells BBC (BBC News, 1 outlets)\n* Nigeria: Investigation - the Multi-Million Dollar Norwegian Scam and the Role of a Nigerian (AllAfrica News: Latest, 1 outlets)\n* Far from home, Ukrainians abroad mark 35 years of independence as war with Russia drags on (Latest News, 1 outlets)\n* Africa: Inaugural Africa Business Investment Summit Convenes 27-28 August in Washington DC (AllAfrica News: Latest, 1 outlets)\n* Ex-employee let go after probation without one month's notice wins claim against law firm (Latest News, 1 outlets)\n* CASE assists Nereos customers seeking refunds after 47 complaints over unfulfilled orders (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-08-25 (extractive mode)\n\n* Congo-Kinshasa: DR Congo Peace Roadmap - Will the Fighting Finally End? (AllAfrica News: Latest, 2 outlets)\n* Nigeria: CWPPF Renews Call for Independent Investigation As FCT Police Command Shifts Focus From Alleged Assault to Journalist's Conduct (AllAfrica News: Latest, 1 outlets)\n* East Africa: Refinery Rivalry - Billion-Dollar Oil Projects Expose East Africa's Long-Running Regional Tensions (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Mnangagwa Dragged to Constitutional Court, Accused of Packing Senate With Zanu-PF Politicians (AllAfrica News: Latest, 1 outlets)\n* South Africa: Businessman Seeks Bail in Trafficking Case - South African News Briefs - August 25, 2026 (AllAfrica News: Latest, 1 outlets)\n* Man hid behind plants to film pair having sex then threatened woman with video, gets jail and caning (Latest News, 1 outlets)\n* Commentary: NDR 2026 - non-parents shouldn\u2019t be default substitutes for parents on childcare leave (Latest News, 1 outlets)\n* Tanzania: Presidential Commission Begins Investigation of Law Violations During the 2025 Elections (AllAfrica News: Latest, 1 outlets)\n* Government quality, capability set successful nations apart in a contested world: Chan Chun Sing (Latest News, 1 outlets)\n* Singapore to put forward bid to host international tribunal for investment disputes: Edwin Tong (Latest News, 1 outlets)\n* Israeli settler attacks rise by 63 percent in first seven months of 2026, says Commission (Section Feed, 1 outlets)\n* Actor Mat Yeung\u2019s Malaysia roast meat restaurant temporarily closed 10 days after opening (Latest News, 1 outlets)"
 }
