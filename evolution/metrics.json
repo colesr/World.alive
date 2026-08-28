@@ -1272,5 +1272,21 @@
     "email_sent": true,
     "sibling_reachable": true,
     "sentiment_enriched": true
+  },
+  {
+    "timestamp": "2026-08-28T19:07:40.280538+00:00",
+    "items_fetched": 111,
+    "clusters": 105,
+    "regions_covered": [
+      "Africa",
+      "Americas",
+      "Asia",
+      "Europe",
+      "Middle East"
+    ],
+    "digest_words": 213,
+    "email_sent": true,
+    "sibling_reachable": false,
+    "sentiment_enriched": false
   }
 ]

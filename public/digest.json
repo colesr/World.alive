@@ -1,162 +1,172 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-25T07:34:42.236957+00:00",
-  "digest_words": 248,
+  "generated_at": "2026-08-28T19:07:40.279961+00:00",
+  "digest_words": 213,
   "clusters": [
     {
-      "headline": "Congo-Kinshasa: DR Congo Peace Roadmap - Will the Fighting Finally End?",
+      "headline": "'A very frightening time': US terror tag endangers UK Palestine Action activists, critics say",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \n'A very frightening time': US terror tag endangers UK Palestine Action activists, critics say\n\n    \n    \n\n        \n    \n                Washington's move to designate&nbsp;Palestine Action&nbsp;as a transnational terrorist organisation could place&nbsp;British&nbsp;activists assoc",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/very-frightening-time-us-terror-tag-endangers-uk-palestine-action",
+        "https://www.middleeasteye.net/news/very-frightening-time-us-terror-tag-endangers-uk-palestine-action-activists-critics-say"
+      ]
+    },
+    {
+      "headline": "US to set limits on Egyptian bank in effort to pressure Iran: official",
+      "countries": [
+        "Egypt",
+        "Iran"
+      ],
+      "regions": [
+        "Asia",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "The move is part of Washington\u2019s wider effort to pressure Iran by cutting it off from the global financial system.",
+      "links": [
+        "https://www.channelnewsasia.com/world/us-iran-egypt-banque-misr-limits-6348541",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/us-set-limits-egyptian-bank-effort-pressure-iran"
+      ]
+    },
+    {
+      "headline": "World's youngest reigning traditional monarch dies aged 34",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "[DW] A new roadmap sets out the conditions toward peace in the eastern Democratic Republic of Congo (DRC). But disagreements over M23 rebels, Rwanda's role and security concerns remain, and could still derail the process.",
+      "summary": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
       "links": [
-        "https://allafrica.com/stories/202608250153.html",
-        "https://www.dw.com/en/dr-congo-peace-roadmap-will-the-fighting-finally-end/a-78487489?maca=en-rss-en-world-4025-rdf"
+        "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Nigeria: CWPPF Renews Call for Independent Investigation As FCT Police Command Shifts Focus From Alleged Assault to Journalist's Conduct",
+      "headline": "Dutch court sentences man to life over Rwanda genocide",
       "countries": [
-        "Nigeria"
+        "Netherlands"
       ],
       "regions": [
-        "Africa"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "[CJID] Abuja, Nigeria -- 22 August 2026 -- The Coalition for Whistleblowers Protection and Press Freedom (CWPPF) issues this follow-up statement to its release of the 20th of August, 2026, condemning the assault on Sunday Michael Ogwu, Editor of Pinnacle Daily, by police and the Vigilante Group of N",
+      "outlets": 2,
+      "summary": "The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide.",
       "links": [
-        "https://allafrica.com/stories/202608240050.html"
+        "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "East Africa: Refinery Rivalry - Billion-Dollar Oil Projects Expose East Africa's Long-Running Regional Tensions",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] East Africa, a region that has been working to deepen economic integration for more than 25 years, has a history of disagreements about the location of energy infrastructure. Uganda discovered oil in 2006 with the potential to pump an estimated 210,000 to 230,000 barrels of",
-      "links": [
-        "https://allafrica.com/stories/202608250049.html"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: Mnangagwa Dragged to Constitutional Court, Accused of Packing Senate With Zanu-PF Politicians",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] President Emmerson Mnangagwa has been dragged to the Constitutional Court over his appointment of 10 senators, with two applicants accusing him of packing the Upper House with politicians instead of independent professionals as required by the Constitution.",
-      "links": [
-        "https://allafrica.com/stories/202608250155.html"
-      ]
-    },
-    {
-      "headline": "South Africa: Businessman Seeks Bail in Trafficking Case - South African News Briefs - August 25, 2026",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica]",
-      "links": [
-        "https://allafrica.com/stories/202608250151.html"
-      ]
-    },
-    {
-      "headline": "Man hid behind plants to film pair having sex then threatened woman with video, gets jail and caning",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The judge told the offender that his actions had been most hurtful to his wife, who broke down in court while holding the couple's one-month-old baby.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/man-film-couples-sex-extort-jail-caning-6339396"
-      ]
-    },
-    {
-      "headline": "Commentary: NDR 2026 - non-parents shouldn\u2019t be default substitutes for parents on childcare leave",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The new childcare leave scheme can push firms to design work better and accommodate other caregiving needs, says NTU\u2019s Chua Yeow Hwee.",
-      "links": [
-        "https://www.channelnewsasia.com/commentary/ndr-2026-childcare-leave-employer-employee-parent-singles-6339076"
-      ]
-    },
-    {
-      "headline": "Tanzania: Presidential Commission Begins Investigation of Law Violations During the 2025 Elections",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Daily News] Dar es Salaam -- THE Presidential Commission of Inquiry into the Individuals Involved in Violence and Violations of the Law during and after the October 2025 General Election has officially begun preparations to carry out its mandate.",
-      "links": [
-        "https://allafrica.com/stories/202608250089.html"
-      ]
-    },
-    {
-      "headline": "Government quality, capability set successful nations apart in a contested world: Chan Chun Sing",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Speaking at the inaugural Singapore-Vietnam Strategic Dialogue, Mr Chan said both countries feel the shifts in the rules-based international order acutely.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/government-public-service-rules-based-order-vietnam-chan-chun-sing-6339021"
-      ]
-    },
-    {
-      "headline": "Singapore to put forward bid to host international tribunal for investment disputes: Edwin Tong",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "As countries pull away from multilateralism and ignore the rules-based system, the question to ask is \"what are we doing about it?\", said Law Minister Edwin Tong.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/investor-state-dispute-settlement-international-tribunal-uncitral-rule-law-wto-6339016"
-      ]
-    },
-    {
-      "headline": "Israeli settler attacks rise by 63 percent in first seven months of 2026, says Commission",
+      "headline": "Transgender former Israeli spy detained by ICE in US",
       "countries": [
         "Israel"
       ],
       "regions": [
         "Middle East"
       ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsraeli settler attacks rise by 63 percent in first seven months of 2026, says Commission\n\n    \n    \n\n        \n    \n                The Colonization and Wall Resistance Commission said that Israeli settler attacks in the occupied West Bank rose sharply during the first seven month",
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nTransgender former Israeli spy detained by ICE in US\n\n    \n    \n\n        \n    \n                A transgender&nbsp;Israeli&nbsp;woman who served in Israel\u2019s military intelligence directorate is facing deportation from the&nbsp;US&nbsp;after being convicted of imprisonment.&nbsp;\n\nU",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-attacks-rise-63-percent-first-seven-months-2026-says"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/transgender-former-israeli-spy-detained-ice-us",
+        "https://www.middleeasteye.net/news/transgender-former-israeli-spy-convicted-detained-ice-us"
       ]
     },
     {
-      "headline": "Actor Mat Yeung\u2019s Malaysia roast meat restaurant temporarily closed 10 days after opening",
+      "headline": "Two-year curfew lifted in Sudan's capital",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The military authorities retook control of the city 18 months ago, but the conflict continues elsewhere.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "GE2025 backup candidate Firdaus Daud to take on grassroots duties in Kembangan, Faishal Ibrahim's former ward",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The Hong Kong actor's newly opened roast meat restaurant Six Hub Roast House has been temporarily closed by local authorities over alleged licensing and premises-related breaches.",
+      "summary": "Mr Ahmad Firdaus Daud, who currently serves as second adviser in Punggol, is not new to grassroots work, says Speaker of Parliament Seah Kian Peng.",
       "links": [
-        "https://www.channelnewsasia.com/entertainment/mat-yeung-six-hub-roast-house-restaurant-closed-6339266"
+        "https://www.channelnewsasia.com/singapore/faishal-ibrahim-kembangan-ward-firdaus-daud-6348226"
+      ]
+    },
+    {
+      "headline": "Cairo accused of \u2018punishment by proxy\u2019 after British-Egyptian woman arrested over sister's activism",
+      "countries": [
+        "United Kingdom",
+        "Egypt"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nCairo accused of \u2018punishment by proxy\u2019 after British-Egyptian woman arrested over sister's activism\n\n    \n    \n\n          \n      \n      \n        Submitted by \nElis Gjevori\n on \nFri, 08/28/2026 - 14:47\n\n        \n      \n    \n      \n    \n                Lawyers say Egypt detained Ema",
+      "links": [
+        "https://www.middleeasteye.net/news/cairo-accused-punishment-proxy-against-british-egyptian-family"
+      ]
+    },
+    {
+      "headline": "Exclusive: Cambridge colleagues argued a Google search would have prevented Nathan Cofnas hiring",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nExclusive: Cambridge colleagues argued a Google search would have prevented Nathan Cofnas hiring\n\n    \n    \n\n          \n      \n      \n        Submitted by \nFleur Hargreaves\n on \nFri, 08/28/2026 - 11:13\n\n        \n      \n    \n      \n    \n                Cofnas, a self-described race",
+      "links": [
+        "https://www.middleeasteye.net/news/nathan-cofnas-cambridge-colleagues-said-he-shouldnt-have-been-hired"
+      ]
+    },
+    {
+      "headline": "East Africa: Red Sea States Seek Stronger Maritime Security Cooperation As Threats Rise",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Shabelle] Nairobi -- Countries bordering the Red Sea and Gulf of Aden are seeking to strengthen maritime security cooperation as threats including piracy, human trafficking and disruptions to commercial shipping continue to grow.",
+      "links": [
+        "https://allafrica.com/stories/202608280557.html"
+      ]
+    },
+    {
+      "headline": "Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "US Federal Reserve Chair Kevin Warsh\u2019s comments reassured investors that fighting inflation remains the Fed\u2019s main priority.",
+      "links": [
+        "https://www.channelnewsasia.com/world/fed-chair-warsh-signals-rate-hikes-may-be-needed-us-inflation-stubbornly-elevated-6348521"
+      ]
+    },
+    {
+      "headline": "A melting glacier contributed to the deadly Nepal floods. We can expect more like this",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "As the climate continues to warm, scientists warn that the frequency of disasters like the floods in Nepal will increase.",
+      "links": [
+        "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-25 (extractive mode)\n\n* Congo-Kinshasa: DR Congo Peace Roadmap - Will the Fighting Finally End? (AllAfrica News: Latest, 2 outlets)\n* Nigeria: CWPPF Renews Call for Independent Investigation As FCT Police Command Shifts Focus From Alleged Assault to Journalist's Conduct (AllAfrica News: Latest, 1 outlets)\n* East Africa: Refinery Rivalry - Billion-Dollar Oil Projects Expose East Africa's Long-Running Regional Tensions (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Mnangagwa Dragged to Constitutional Court, Accused of Packing Senate With Zanu-PF Politicians (AllAfrica News: Latest, 1 outlets)\n* South Africa: Businessman Seeks Bail in Trafficking Case - South African News Briefs - August 25, 2026 (AllAfrica News: Latest, 1 outlets)\n* Man hid behind plants to film pair having sex then threatened woman with video, gets jail and caning (Latest News, 1 outlets)\n* Commentary: NDR 2026 - non-parents shouldn\u2019t be default substitutes for parents on childcare leave (Latest News, 1 outlets)\n* Tanzania: Presidential Commission Begins Investigation of Law Violations During the 2025 Elections (AllAfrica News: Latest, 1 outlets)\n* Government quality, capability set successful nations apart in a contested world: Chan Chun Sing (Latest News, 1 outlets)\n* Singapore to put forward bid to host international tribunal for investment disputes: Edwin Tong (Latest News, 1 outlets)\n* Israeli settler attacks rise by 63 percent in first seven months of 2026, says Commission (Section Feed, 1 outlets)\n* Actor Mat Yeung\u2019s Malaysia roast meat restaurant temporarily closed 10 days after opening (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-08-28 (extractive mode)\n\n* 'A very frightening time': US terror tag endangers UK Palestine Action activists, critics say (Section Feed, 2 outlets)\n* US to set limits on Egyptian bank in effort to pressure Iran: official (Latest News, 2 outlets)\n* World's youngest reigning traditional monarch dies aged 34 (BBC News, 2 outlets)\n* Dutch court sentences man to life over Rwanda genocide (BBC News, 2 outlets)\n* Transgender former Israeli spy detained by ICE in US (Section Feed, 2 outlets)\n* Two-year curfew lifted in Sudan's capital (BBC News, 2 outlets)\n* GE2025 backup candidate Firdaus Daud to take on grassroots duties in Kembangan, Faishal Ibrahim's former ward (Latest News, 1 outlets)\n* Cairo accused of \u2018punishment by proxy\u2019 after British-Egyptian woman arrested over sister's activism (Section Feed, 1 outlets)\n* Exclusive: Cambridge colleagues argued a Google search would have prevented Nathan Cofnas hiring (Section Feed, 1 outlets)\n* East Africa: Red Sea States Seek Stronger Maritime Security Cooperation As Threats Rise (AllAfrica News: Latest, 1 outlets)\n* Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated (Latest News, 1 outlets)\n* A melting glacier contributed to the deadly Nepal floods. We can expect more like this (NPR Topics: World, 1 outlets)"
 }
