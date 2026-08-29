@@ -1,134 +1,138 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-28T19:07:40.279961+00:00",
-  "digest_words": 213,
+  "generated_at": "2026-08-29T12:52:13.061808+00:00",
+  "digest_words": 237,
   "clusters": [
     {
-      "headline": "'A very frightening time': US terror tag endangers UK Palestine Action activists, critics say",
+      "headline": "Right-wing commentator Milo Yiannopoulos detained by ICE",
       "countries": [],
       "regions": [
+        "Europe",
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \n'A very frightening time': US terror tag endangers UK Palestine Action activists, critics say\n\n    \n    \n\n        \n    \n                Washington's move to designate&nbsp;Palestine Action&nbsp;as a transnational terrorist organisation could place&nbsp;British&nbsp;activists assoc",
+      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/very-frightening-time-us-terror-tag-endangers-uk-palestine-action",
-        "https://www.middleeasteye.net/news/very-frightening-time-us-terror-tag-endangers-uk-palestine-action-activists-critics-say"
+        "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+        "https://www.aljazeera.com/video/newsfeed/2026/8/29/far-right-commentator-milo-yiannopoulos-detained-by-ice?traffic_source=rss"
       ]
     },
     {
-      "headline": "US to set limits on Egyptian bank in effort to pressure Iran: official",
+      "headline": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
       "countries": [
-        "Egypt",
-        "Iran"
+        "United States"
       ],
       "regions": [
-        "Asia",
-        "Middle East"
+        "Americas"
       ],
-      "outlets": 2,
-      "summary": "The move is part of Washington\u2019s wider effort to pressure Iran by cutting it off from the global financial system.",
+      "outlets": 1,
+      "summary": "President Trump says his administration has entered a sweeping agreement with Venezuela that could give the U.S. access to vast amounts of the South American country's untapped oil reserves, at cost.",
       "links": [
-        "https://www.channelnewsasia.com/world/us-iran-egypt-banque-misr-limits-6348541",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/us-set-limits-egyptian-bank-effort-pressure-iran"
+        "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves"
       ]
     },
     {
-      "headline": "World's youngest reigning traditional monarch dies aged 34",
+      "headline": "Africa: Heresy Press Acquires Misadventures on K Street by KRL International CEO K. Riva Levinson",
       "countries": [],
       "regions": [
-        "Africa",
-        "Europe"
+        "Africa"
       ],
-      "outlets": 2,
-      "summary": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
+      "outlets": 1,
+      "summary": "[KRL International] Washington, DC -- KRL International is pleased to announce that Heresy Press, an imprint of Skyhorse Publishing, has acquired Misadventures on K Street: My Decade with the Architects of Modern Political Scandal, the highly anticipated second memoir by its CEO K. Riva Levinson. Sc",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202608250672.html"
       ]
     },
     {
-      "headline": "Dutch court sentences man to life over Rwanda genocide",
+      "headline": "Liverpool finalise agreement to sign PSG's Barcola in deal worth up to \u00a3123 million, reports say",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/sport/liverpool-finalise-agreement-sign-psgs-barcola-in-deal-worth-up-ps123-million-reports-say-6349326"
+      ]
+    },
+    {
+      "headline": "MUIS to strengthen safeguards for children and youth through common framework across mosques",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The new measures come after a sexual assault case committed against young children at a mosque.&nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/muis-safeguard-framework-mosques-children-youth-6349296"
+      ]
+    },
+    {
+      "headline": "Tanzania: Tanzania Parliament Unanimously Approves Deogratius Ndejembi As New Vice President",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Capital FM] Tanzania's Parliament has unanimously approved Deogratius John Ndejembi as the country's new Vice President, clearing a key constitutional hurdle in the transition triggered by the resignation of Emmanuel Nchimbi.",
+      "links": [
+        "https://allafrica.com/stories/202608280550.html"
+      ]
+    },
+    {
+      "headline": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
       "countries": [
-        "Netherlands"
+        "China"
       ],
       "regions": [
-        "Africa",
         "Europe"
       ],
-      "outlets": 2,
-      "summary": "The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide.",
+      "outlets": 1,
+      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Transgender former Israeli spy detained by ICE in US",
+      "headline": "Israeli settlers surround another Palestinian home in Qusra, attack journalists in Jalud",
       "countries": [
         "Israel"
       ],
       "regions": [
         "Middle East"
       ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nTransgender former Israeli spy detained by ICE in US\n\n    \n    \n\n        \n    \n                A transgender&nbsp;Israeli&nbsp;woman who served in Israel\u2019s military intelligence directorate is facing deportation from the&nbsp;US&nbsp;after being convicted of imprisonment.&nbsp;\n\nU",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/transgender-former-israeli-spy-detained-ice-us",
-        "https://www.middleeasteye.net/news/transgender-former-israeli-spy-convicted-detained-ice-us"
-      ]
-    },
-    {
-      "headline": "Two-year curfew lifted in Sudan's capital",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The military authorities retook control of the city 18 months ago, but the conflict continues elsewhere.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "GE2025 backup candidate Firdaus Daud to take on grassroots duties in Kembangan, Faishal Ibrahim's former ward",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
       "outlets": 1,
-      "summary": "Mr Ahmad Firdaus Daud, who currently serves as second adviser in Punggol, is not new to grassroots work, says Speaker of Parliament Seah Kian Peng.",
+      "summary": "\n\n  \n      \n      \nIsraeli settlers surround another Palestinian home in Qusra, attack journalists in Jalud\n\n    \n    \n\n        \n    \n                Israeli settlers, backed by their military, have surrounded another Palestinian home in Qusra, south of Nablus, with at least four people trapped insi",
       "links": [
-        "https://www.channelnewsasia.com/singapore/faishal-ibrahim-kembangan-ward-firdaus-daud-6348226"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-surround-another-palestinian-home-qusra-attack"
       ]
     },
     {
-      "headline": "Cairo accused of \u2018punishment by proxy\u2019 after British-Egyptian woman arrested over sister's activism",
+      "headline": "Israeli settlers continue Qusra siege for 21st day as forces prevent medical evacuations",
       "countries": [
-        "United Kingdom",
-        "Egypt"
+        "Israel"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nCairo accused of \u2018punishment by proxy\u2019 after British-Egyptian woman arrested over sister's activism\n\n    \n    \n\n          \n      \n      \n        Submitted by \nElis Gjevori\n on \nFri, 08/28/2026 - 14:47\n\n        \n      \n    \n      \n    \n                Lawyers say Egypt detained Ema",
+      "summary": "\n\n  \n      \n      \nIsraeli settlers continue Qusra siege for 21st day as forces prevent medical evacuations\n\n    \n    \n\n        \n    \n                Mayor Abdul Azim Wadi said Israeli settlers continue to besiege homes in the occupied West Bank village of Qusra for the 21st day, Al Jazeera Arabic r",
       "links": [
-        "https://www.middleeasteye.net/news/cairo-accused-punishment-proxy-against-british-egyptian-family"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-continue-qusra-siege-21st-day-forces-prevent-medical"
       ]
     },
     {
-      "headline": "Exclusive: Cambridge colleagues argued a Google search would have prevented Nathan Cofnas hiring",
-      "countries": [],
+      "headline": "France's nuclear tests in Algeria: A colonial legacy that still radiates 60 years later",
+      "countries": [
+        "France"
+      ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nExclusive: Cambridge colleagues argued a Google search would have prevented Nathan Cofnas hiring\n\n    \n    \n\n          \n      \n      \n        Submitted by \nFleur Hargreaves\n on \nFri, 08/28/2026 - 11:13\n\n        \n      \n    \n      \n    \n                Cofnas, a self-described race",
+      "summary": "\n\n  \n      \n      \nFrance's nuclear tests in Algeria: A colonial legacy that still radiates 60 years later\n\n    \n    \n\n          \n      \n      \n        Submitted by \nTassa Adidi\n on \nWed, 08/26/2026 - 09:02\n\n        \n      \n    \n      \n    \n                As France withholds maps and refuses to hel",
       "links": [
-        "https://www.middleeasteye.net/news/nathan-cofnas-cambridge-colleagues-said-he-shouldnt-have-been-hired"
+        "https://www.middleeasteye.net/news/frances-nuclear-tests-algeria-colonial-legacy-still-radiates-60-years-later"
       ]
     },
     {
@@ -144,18 +148,6 @@
       ]
     },
     {
-      "headline": "Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "US Federal Reserve Chair Kevin Warsh\u2019s comments reassured investors that fighting inflation remains the Fed\u2019s main priority.",
-      "links": [
-        "https://www.channelnewsasia.com/world/fed-chair-warsh-signals-rate-hikes-may-be-needed-us-inflation-stubbornly-elevated-6348521"
-      ]
-    },
-    {
       "headline": "A melting glacier contributed to the deadly Nepal floods. We can expect more like this",
       "countries": [],
       "regions": [
@@ -168,5 +160,5 @@
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-28 (extractive mode)\n\n* 'A very frightening time': US terror tag endangers UK Palestine Action activists, critics say (Section Feed, 2 outlets)\n* US to set limits on Egyptian bank in effort to pressure Iran: official (Latest News, 2 outlets)\n* World's youngest reigning traditional monarch dies aged 34 (BBC News, 2 outlets)\n* Dutch court sentences man to life over Rwanda genocide (BBC News, 2 outlets)\n* Transgender former Israeli spy detained by ICE in US (Section Feed, 2 outlets)\n* Two-year curfew lifted in Sudan's capital (BBC News, 2 outlets)\n* GE2025 backup candidate Firdaus Daud to take on grassroots duties in Kembangan, Faishal Ibrahim's former ward (Latest News, 1 outlets)\n* Cairo accused of \u2018punishment by proxy\u2019 after British-Egyptian woman arrested over sister's activism (Section Feed, 1 outlets)\n* Exclusive: Cambridge colleagues argued a Google search would have prevented Nathan Cofnas hiring (Section Feed, 1 outlets)\n* East Africa: Red Sea States Seek Stronger Maritime Security Cooperation As Threats Rise (AllAfrica News: Latest, 1 outlets)\n* Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated (Latest News, 1 outlets)\n* A melting glacier contributed to the deadly Nepal floods. We can expect more like this (NPR Topics: World, 1 outlets)"
+  "narrative": "State of the World - 2026-08-29 (extractive mode)\n\n* Right-wing commentator Milo Yiannopoulos detained by ICE (BBC News, 2 outlets)\n* Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves (NPR Topics: World, 1 outlets)\n* Africa: Heresy Press Acquires Misadventures on K Street by KRL International CEO K. Riva Levinson (AllAfrica News: Latest, 1 outlets)\n* Liverpool finalise agreement to sign PSG's Barcola in deal worth up to \u00a3123 million, reports say (Latest News, 1 outlets)\n* MUIS to strengthen safeguards for children and youth through common framework across mosques (Latest News, 1 outlets)\n* Tanzania: Tanzania Parliament Unanimously Approves Deogratius Ndejembi As New Vice President (AllAfrica News: Latest, 1 outlets)\n* Footage of Tibet floods isn't being shown in China - and we know little about victims there (BBC News, 1 outlets)\n* Israeli settlers surround another Palestinian home in Qusra, attack journalists in Jalud (Section Feed, 1 outlets)\n* Israeli settlers continue Qusra siege for 21st day as forces prevent medical evacuations (Section Feed, 1 outlets)\n* France's nuclear tests in Algeria: A colonial legacy that still radiates 60 years later (Section Feed, 1 outlets)\n* East Africa: Red Sea States Seek Stronger Maritime Security Cooperation As Threats Rise (AllAfrica News: Latest, 1 outlets)\n* A melting glacier contributed to the deadly Nepal floods. We can expect more like this (NPR Topics: World, 1 outlets)"
 }
