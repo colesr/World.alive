@@ -1,8 +1,54 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-30T12:22:21.024050+00:00",
-  "digest_words": 246,
+  "generated_at": "2026-08-31T14:32:17.794249+00:00",
+  "digest_words": 233,
   "clusters": [
+    {
+      "headline": "Algeria president seeks death penalty for arsonists after deadly forest fires",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "South African airline defends low-altitude aerial stunt over packed stadium",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Passengers stranded as strike disrupts flights at Kenya's main airport",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Kenya Airways says the strike has caused delays of more than six hours, with some flights cancelled.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss"
+      ]
+    },
     {
       "headline": "Zambian opposition leader charged with treason",
       "countries": [],
@@ -18,45 +64,27 @@
       ]
     },
     {
-      "headline": "The Trump administration claims America will soon get a majority of its oil from Venezuela with new deal",
-      "countries": [
-        "United States"
-      ],
+      "headline": "Sudan: Sudan's Women Pay the Price As Weapons Keep Flowing - Why an Arms Embargo Is Crucial to Protecting Them",
+      "countries": [],
       "regions": [
-        "Americas"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "There are many reasons to be skeptical of the Trump administration's announcement that the U.S. will develop Venezuelan oil.",
+      "summary": "[Dabanga] The US proposal to expand the arms embargo on Darfur to cover all of Sudan is raising questions about how far a comprehensive weapons ban can reduce the risks facing women. The proposal cannot be viewed simply as a security or political measure: it is directly linked to women's rights to l",
       "links": [
-        "https://www.npr.org/2026/08/30/nx-s1-5948708/the-trump-administration-claims-america-will-soon-get-a-majority-of-its-oil-from-venezuela-with-new-deal"
+        "https://allafrica.com/stories/202608310049.html"
       ]
     },
     {
-      "headline": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-      "countries": [
-        "United States"
-      ],
+      "headline": "Algeria: President Tebboune Orders Penal Code Amendment to Introduce Death Penalty With Immediate Execution",
+      "countries": [],
       "regions": [
-        "Americas"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "President Trump says his administration has entered a sweeping agreement with Venezuela that could give the U.S. access to vast amounts of the South American country's untapped oil reserves, at cost.",
+      "summary": "[Algerie Presse Service] Algiers -- President of the Republic, Commander-in-Chief of the Armed Forces and Minister of National Defence Abdelmadjid Tebboune ordered on Sunday that the Penal Code be amended before September 15 to establish the death penalty with immediate execution for individuals inv",
       "links": [
-        "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves"
-      ]
-    },
-    {
-      "headline": "Trump's Greenland threats cast a shadow on Iceland's vote on whether to trigger EU membership talks",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/world/iceland-referendum-vote-eu-membership-greenland-6349091"
+        "https://allafrica.com/stories/202608310351.html"
       ]
     },
     {
@@ -72,50 +100,7 @@
       ]
     },
     {
-      "headline": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "countries": [
-        "China"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Saving Sampurna: Farmer rescues weakened orangutan from forest fires in Indonesia's Borneo",
-      "countries": [
-        "Indonesia"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Wildlife organization&nbsp;Yayasan Inisiasi Alam Rehabilitasi Indonesia has rescued seven orangutans from fires so far, as the country battles to contain haze from forest and land fires",
-      "links": [
-        "https://www.channelnewsasia.com/asia/orangutan-rescued-indonesia-borneo-forest-fires-haze-6350266"
-      ]
-    },
-    {
-      "headline": "'We will be there to attack': Israeli minister says US deal will not stop strikes on Iran",
-      "countries": [
-        "Israel",
-        "Iran"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \n'We will be there to attack': Israeli minister says US deal will not stop strikes on Iran\n\n    \n    \n\n        \n    \n                Israeli minister Eli Cohen said Israel would strike Iran again if Tehran attempts to rebuild its nuclear or ballistic missile programmes, even if it ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/we-will-be-there-attack-israeli-minister-says-us-deal-will-not-stop"
-      ]
-    },
-    {
-      "headline": "Israeli forces, settlers killed 235 children in West Bank since 7 Oct 2023, report says",
+      "headline": "Israeli army shoots first and finds reasons to justify mass killings later, veterans group says",
       "countries": [
         "Israel"
       ],
@@ -123,39 +108,13 @@
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsraeli forces, settlers killed 235 children in West Bank since 7 Oct 2023, report says\n\n    \n    \n\n        \n    \n                Israeli forces have killed 235 children and teenagers, including a seventh-month-old infant, in West Bank since 7 October 2023, AFP reported.&nbsp;\n\nTh",
+      "summary": "\n\n  \n      \n      \nIsraeli army shoots first and finds reasons to justify mass killings later, veterans group says\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nMon, 08/31/2026 - 11:31\n\n        \n      \n    \n      \n    \n                Breaking the Silence says Israeli mil",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-settlers-killed-235-children-west-bank-7-oct-2023-report"
+        "https://www.middleeasteye.net/news/israeli-army-shoots-first-and-finds-reasons-justify-mass-killings-later-veterans-group-says"
       ]
     },
     {
-      "headline": "East Africa: Red Sea States Seek Stronger Maritime Security Cooperation As Threats Rise",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Shabelle] Nairobi -- Countries bordering the Red Sea and Gulf of Aden are seeking to strengthen maritime security cooperation as threats including piracy, human trafficking and disruptions to commercial shipping continue to grow.",
-      "links": [
-        "https://allafrica.com/stories/202608280557.html"
-      ]
-    },
-    {
-      "headline": "Nigeria: 'Do I Look 80?' - Atiku Dismisses Age Concerns Ahead of Presidential Election",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Vanguard] The African Democratic Congress, ADC, presidential candidate, Alhaji Atiku Abubakar, said he is fit and healthy, dismissing age concerns ahead of the 2027 presidential election.",
-      "links": [
-        "https://allafrica.com/stories/202608280599.html"
-      ]
-    },
-    {
-      "headline": "Mali music star Salif Ke\u00efta cancels South African concerts over 'xenophobic violence'",
+      "headline": "South Africa: Tinubu Takes Fight Against Xenophobic, Afrophobic Attacks By South Africa to AU",
       "countries": [
         "South Africa"
       ],
@@ -163,11 +122,52 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "He says his decision is \"a rejection of hate\" rather than a rejection of South Africans.",
+      "summary": "[This Day] President Bola Tinubu on Sunday formally lodged a complaint against the recurring xenophobic and Afrophobic attacks against Africans and other nationals in South Africa to the African Union (AU), warning that the incidents undermine the continent's solidarity, unity and peaceful coexisten",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cy8z771rk9ko?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202608310106.html"
+      ]
+    },
+    {
+      "headline": "Kenya: KNCHR Warns Enforced Disappearances Remain a 'Continuing' Human Rights Crisis in Kenya",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Capital FM] Nairobi -- Kenya's human rights watchdog has warned that enforced disappearances remain a continuing human rights crisis, citing 46 cases it has documented in 2026 and calling on the government to establish the whereabouts of missing persons and prosecute those responsible.",
+      "links": [
+        "https://allafrica.com/stories/202608310631.html"
+      ]
+    },
+    {
+      "headline": "Deceived and deployed: How young Cameroonians end up fighting in Russia's war in Ukraine",
+      "countries": [
+        "Russia",
+        "Ukraine"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Analysts say economic desperation and fraudulent recruitment schemes are funneling Cameroonian youth into the Russian military \u2014 with deadly consequences. Does the Cameroonian government need to act more decisively?",
+      "links": [
+        "https://www.dw.com/en/deceived-and-deployed-how-young-cameroonians-end-up-fighting-in-russia-s-war-in-ukraine/a-78513256?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Hit shows from Edinburgh's Fringe festival are coming to America. Here are our top picks",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "The annual \"anything goes\" performing arts festival featured more than 4,200 performances this year. These are the ones we're still talking about.",
+      "links": [
+        "https://www.npr.org/2026/08/31/nx-s1-5949346/edinburgh-fringe-scotland-best-shows-coming-to-america"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-30 (extractive mode)\n\n* Zambian opposition leader charged with treason (BBC News, 2 outlets)\n* The Trump administration claims America will soon get a majority of its oil from Venezuela with new deal (NPR Topics: World, 1 outlets)\n* Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves (NPR Topics: World, 1 outlets)\n* Trump's Greenland threats cast a shadow on Iceland's vote on whether to trigger EU membership talks (Latest News, 1 outlets)\n* Africa: Heresy Press Acquires Misadventures on K Street by KRL International CEO K. Riva Levinson (AllAfrica News: Latest, 1 outlets)\n* Footage of Tibet floods isn't being shown in China - and we know little about victims there (BBC News, 1 outlets)\n* Saving Sampurna: Farmer rescues weakened orangutan from forest fires in Indonesia's Borneo (Latest News, 1 outlets)\n* 'We will be there to attack': Israeli minister says US deal will not stop strikes on Iran (Section Feed, 1 outlets)\n* Israeli forces, settlers killed 235 children in West Bank since 7 Oct 2023, report says (Section Feed, 1 outlets)\n* East Africa: Red Sea States Seek Stronger Maritime Security Cooperation As Threats Rise (AllAfrica News: Latest, 1 outlets)\n* Nigeria: 'Do I Look 80?' - Atiku Dismisses Age Concerns Ahead of Presidential Election (AllAfrica News: Latest, 1 outlets)\n* Mali music star Salif Ke\u00efta cancels South African concerts over 'xenophobic violence' (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-08-31 (extractive mode)\n\n* Algeria president seeks death penalty for arsonists after deadly forest fires (BBC News, 2 outlets)\n* South African airline defends low-altitude aerial stunt over packed stadium (BBC News, 2 outlets)\n* Passengers stranded as strike disrupts flights at Kenya's main airport (BBC News, 2 outlets)\n* Zambian opposition leader charged with treason (BBC News, 2 outlets)\n* Sudan: Sudan's Women Pay the Price As Weapons Keep Flowing - Why an Arms Embargo Is Crucial to Protecting Them (AllAfrica News: Latest, 1 outlets)\n* Algeria: President Tebboune Orders Penal Code Amendment to Introduce Death Penalty With Immediate Execution (AllAfrica News: Latest, 1 outlets)\n* Africa: Heresy Press Acquires Misadventures on K Street by KRL International CEO K. Riva Levinson (AllAfrica News: Latest, 1 outlets)\n* Israeli army shoots first and finds reasons to justify mass killings later, veterans group says (Section Feed, 1 outlets)\n* South Africa: Tinubu Takes Fight Against Xenophobic, Afrophobic Attacks By South Africa to AU (AllAfrica News: Latest, 1 outlets)\n* Kenya: KNCHR Warns Enforced Disappearances Remain a 'Continuing' Human Rights Crisis in Kenya (AllAfrica News: Latest, 1 outlets)\n* Deceived and deployed: How young Cameroonians end up fighting in Russia's war in Ukraine (World | Deutsche Welle, 1 outlets)\n* Hit shows from Edinburgh's Fringe festival are coming to America. Here are our top picks (NPR Topics: World, 1 outlets)"
 }
