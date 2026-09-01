@@ -83,7 +83,7 @@ DEFAULT_CONFIG = {
     "max_items_per_feed": 15,
     "max_clusters_in_digest": 12,
     "digest_word_limit": 800,
-    "similarity_threshold": 0.70,  # Increased threshold to improve deduplication
+    "similarity_threshold": 0.75,  # Increased threshold to improve deduplication
 }
 
 
@@ -156,6 +156,10 @@ def _combined_similarity(item1: dict, item2: dict, title_weight: float = 0.7) ->
     # Additional boost for very similar titles even without exact link match
     if title_sim > 0.8:
         return min(1.0, title_weight * title_sim + (1 - title_weight) * summary_sim + 0.15)
+    
+    # Additional heuristic: if summaries are very similar and titles share significant overlap
+    if summary_sim > 0.7 and title_sim > 0.5:
+        return min(1.0, title_weight * title_sim + (1 - title_weight) * summary_sim + 0.1)
     
     return title_weight * title_sim + (1 - title_weight) * summary_sim
 
