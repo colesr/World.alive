@@ -1,90 +1,78 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-08-31T14:32:17.794249+00:00",
-  "digest_words": 233,
+  "generated_at": "2026-09-01T12:11:44.314756+00:00",
+  "digest_words": 436,
   "clusters": [
     {
-      "headline": "Algeria president seeks death penalty for arsonists after deadly forest fires",
+      "headline": "Niger's failed coup exposes cracks in the military \u2014 and Russia's influence",
+      "countries": [
+        "Russia"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The failed coup in Niger has brought deep divisions within the military to light. As Russia's support highlights the junta's fading influence, soldiers continue to face jihadi attacks, poor equipment and little pay.",
+      "links": [
+        "https://www.dw.com/en/niger-s-failed-coup-exposes-cracks-in-the-military-and-russia-s-influence/a-78572278?maca=en-rss-en-world-4025-rdf",
+        "https://allafrica.com/stories/202609010068.html"
+      ]
+    },
+    {
+      "headline": "Zambia's president sworn in for second term while opponent detained",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded.",
+      "summary": "Hakainde Hichilema swept to victory, but his main rival is now in custody charged with treason.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "South African airline defends low-altitude aerial stunt over packed stadium",
+      "headline": "Ethiopia: Religion, Power and Politics - What's Behind the Violent Attacks On Ethiopia's Orthodox Tewahedo Church",
+      "countries": [
+        "Ethiopia"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[The Conversation Africa] The Ethiopian Orthodox Tewahedo Church has been one of Ethiopia's most influential institutions for more than 1,600 years. Church and state were closely intertwined from the official adoption of Christianity in the 4th century until the overthrow of the imperial regime in 1",
+      "links": [
+        "https://allafrica.com/stories/202609010005.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Limpopo Village Cut Off as Bridge Collapses - South African News Briefs - September 1, 2026",
       "countries": [
         "South Africa"
       ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Africa"
       ],
-      "outlets": 2,
-      "summary": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
+      "outlets": 1,
+      "summary": "[allAfrica]",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202609010067.html"
       ]
     },
     {
-      "headline": "Passengers stranded as strike disrupts flights at Kenya's main airport",
+      "headline": "Parliament speaker Berri says Lebanon will not give up right to sue Israel over \u2018genocide crimes\u2019",
       "countries": [
-        "Kenya"
+        "Israel"
       ],
       "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Kenya Airways says the strike has caused delays of more than six hours, with some flights cancelled.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Zambian opposition leader charged with treason",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Sudan: Sudan's Women Pay the Price As Weapons Keep Flowing - Why an Arms Embargo Is Crucial to Protecting Them",
-      "countries": [],
-      "regions": [
-        "Africa"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "[Dabanga] The US proposal to expand the arms embargo on Darfur to cover all of Sudan is raising questions about how far a comprehensive weapons ban can reduce the risks facing women. The proposal cannot be viewed simply as a security or political measure: it is directly linked to women's rights to l",
+      "summary": "\n\n  \n      \n      \nParliament speaker Berri says Lebanon will not give up right to sue Israel over \u2018genocide crimes\u2019\n\n    \n    \n\n        \n    \n                Lebanon parliament speaker asserted that the country will not give up its right to pursue legal action against Israel over its \"genocide crim",
       "links": [
-        "https://allafrica.com/stories/202608310049.html"
-      ]
-    },
-    {
-      "headline": "Algeria: President Tebboune Orders Penal Code Amendment to Introduce Death Penalty With Immediate Execution",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Algerie Presse Service] Algiers -- President of the Republic, Commander-in-Chief of the Armed Forces and Minister of National Defence Abdelmadjid Tebboune ordered on Sunday that the Penal Code be amended before September 15 to establish the death penalty with immediate execution for individuals inv",
-      "links": [
-        "https://allafrica.com/stories/202608310351.html"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/parliament-speaker-berri-says-lebanon-will-not-give-right-sue-israel"
       ]
     },
     {
@@ -100,7 +88,57 @@
       ]
     },
     {
-      "headline": "Israeli army shoots first and finds reasons to justify mass killings later, veterans group says",
+      "headline": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Sephora launches Olive Young K-beauty Edit in Singapore on Sep 2 \u2013 here's what you can expect",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The Sephora x Olive Young K-beauty Edit is finally in Singapore, bringing cult K-beauty brands including Dr Althea, Bioheal Boh, Rejuran and Celimax closer to home.",
+      "links": [
+        "https://www.channelnewsasia.com/style-beauty/sephora-olive-young-singapore-k-beauty-6354456"
+      ]
+    },
+    {
+      "headline": "Africa: Wars, Humanitarian Crises, Economic Rivalries and Natural Disasters Shape the World",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[ENA] The final week of August was marked by intensifying geopolitical competition, continuing wars, humanitarian emergencies, economic uncertainty and devastating natural disasters. From the Middle East and Europe to Africa, Asia and Latin America, governments confronted a series of crises that dem",
+      "links": [
+        "https://allafrica.com/stories/202609010020.html"
+      ]
+    },
+    {
+      "headline": "Israeli attacks on Gaza intensify with five killed in last 24 hours, says health ministry",
       "countries": [
         "Israel"
       ],
@@ -108,66 +146,23 @@
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsraeli army shoots first and finds reasons to justify mass killings later, veterans group says\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nMon, 08/31/2026 - 11:31\n\n        \n      \n    \n      \n    \n                Breaking the Silence says Israeli mil",
+      "summary": "\n\n  \n      \n      \nIsraeli attacks on Gaza intensify with five killed in last 24 hours, says health ministry\n\n    \n    \n\n        \n    \n                Israeli attacks on Gaza have escalated, with five Palestinians killed in the last 24 hours, the Palestinian health ministry is reporting.\n\nOn Tuesday",
       "links": [
-        "https://www.middleeasteye.net/news/israeli-army-shoots-first-and-finds-reasons-justify-mass-killings-later-veterans-group-says"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-gaza-intensify-5-killed-last-24-hours-says-ministry"
       ]
     },
     {
-      "headline": "South Africa: Tinubu Takes Fight Against Xenophobic, Afrophobic Attacks By South Africa to AU",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[This Day] President Bola Tinubu on Sunday formally lodged a complaint against the recurring xenophobic and Afrophobic attacks against Africans and other nationals in South Africa to the African Union (AU), warning that the incidents undermine the continent's solidarity, unity and peaceful coexisten",
-      "links": [
-        "https://allafrica.com/stories/202608310106.html"
-      ]
-    },
-    {
-      "headline": "Kenya: KNCHR Warns Enforced Disappearances Remain a 'Continuing' Human Rights Crisis in Kenya",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- Kenya's human rights watchdog has warned that enforced disappearances remain a continuing human rights crisis, citing 46 cases it has documented in 2026 and calling on the government to establish the whereabouts of missing persons and prosecute those responsible.",
-      "links": [
-        "https://allafrica.com/stories/202608310631.html"
-      ]
-    },
-    {
-      "headline": "Deceived and deployed: How young Cameroonians end up fighting in Russia's war in Ukraine",
-      "countries": [
-        "Russia",
-        "Ukraine"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Analysts say economic desperation and fraudulent recruitment schemes are funneling Cameroonian youth into the Russian military \u2014 with deadly consequences. Does the Cameroonian government need to act more decisively?",
-      "links": [
-        "https://www.dw.com/en/deceived-and-deployed-how-young-cameroonians-end-up-fighting-in-russia-s-war-in-ukraine/a-78513256?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Hit shows from Edinburgh's Fringe festival are coming to America. Here are our top picks",
+      "headline": "Zimbabwe: Zimbabweans Abroad Raise Alarm Over Political, Economic and Human Rights Crisis",
       "countries": [],
       "regions": [
-        "Americas"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "The annual \"anything goes\" performing arts festival featured more than 4,200 performances this year. These are the ones we're still talking about.",
+      "summary": "[New Zimbabwe] Zimbabweans living abroad have raised fresh concerns over worsening political, economic and human rights conditions in the country, warning that mounting pressures are increasingly forcing citizens to seek opportunities and sanctuary outside Zimbabwe.",
       "links": [
-        "https://www.npr.org/2026/08/31/nx-s1-5949346/edinburgh-fringe-scotland-best-shows-coming-to-america"
+        "https://allafrica.com/stories/202609010074.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-08-31 (extractive mode)\n\n* Algeria president seeks death penalty for arsonists after deadly forest fires (BBC News, 2 outlets)\n* South African airline defends low-altitude aerial stunt over packed stadium (BBC News, 2 outlets)\n* Passengers stranded as strike disrupts flights at Kenya's main airport (BBC News, 2 outlets)\n* Zambian opposition leader charged with treason (BBC News, 2 outlets)\n* Sudan: Sudan's Women Pay the Price As Weapons Keep Flowing - Why an Arms Embargo Is Crucial to Protecting Them (AllAfrica News: Latest, 1 outlets)\n* Algeria: President Tebboune Orders Penal Code Amendment to Introduce Death Penalty With Immediate Execution (AllAfrica News: Latest, 1 outlets)\n* Africa: Heresy Press Acquires Misadventures on K Street by KRL International CEO K. Riva Levinson (AllAfrica News: Latest, 1 outlets)\n* Israeli army shoots first and finds reasons to justify mass killings later, veterans group says (Section Feed, 1 outlets)\n* South Africa: Tinubu Takes Fight Against Xenophobic, Afrophobic Attacks By South Africa to AU (AllAfrica News: Latest, 1 outlets)\n* Kenya: KNCHR Warns Enforced Disappearances Remain a 'Continuing' Human Rights Crisis in Kenya (AllAfrica News: Latest, 1 outlets)\n* Deceived and deployed: How young Cameroonians end up fighting in Russia's war in Ukraine (World | Deutsche Welle, 1 outlets)\n* Hit shows from Edinburgh's Fringe festival are coming to America. Here are our top picks (NPR Topics: World, 1 outlets)"
+  "narrative": "State of the World - Daily Email Digest\n\n**Global Security and Politics**\n\nThe most significant stories today are from Africa and the Middle East, with a focus on conflicts, political instability, and humanitarian crises. \n\n* In Niger, a failed coup has exposed deep divisions within the military, with Russia's influence highlighting the junta's fading power (Deutsche Welle, AllAfrica News: Latest). The situation is marked by a negative tone, with an average sentiment of -0.62.\n* In Zambia, President Hakainde Hichilema has been sworn in for a second term, while his main opponent is detained on treason charges (BBC News). \n* In Lebanon, Parliament Speaker Berri has asserted that the country will not give up its right to sue Israel over 'genocide crimes' (Section Feed), with a negative tone of -0.25.\n* Israeli attacks on Gaza have intensified, with five killed in the last 24 hours, according to the health ministry (Section Feed), also with a negative tone of -0.25.\n\n**Regional Perspectives**\n\nThere are notable differences in tone and perspective between outlets covering these stories. For example, the tone of the Niger coup story is more negative in Deutsche Welle's coverage, while AllAfrica News: Latest presents a more factual account.\n\n**Humanitarian Crises**\n\n* In Ethiopia, the Ethiopian Orthodox Tewahedo Church has been the target of violent attacks, with the church being one of the country's most influential institutions for over 1,600 years (AllAfrica News: Latest). The tone of this story is negative, with an average sentiment of -0.23.\n* In Nepal, the death toll from recent disasters has crossed 1,000, with thousands still missing (BBC News).\n* In Afghanistan, six million deportees have been forced to start over under the Taliban, with many struggling to survive (BBC News).\n\n**Economic and Social Developments**\n\n* In South Africa, a village has been cut off after a bridge collapse, highlighting the country's infrastructure challenges (AllAfrica News: Latest). However, the tone of this story is surprisingly positive, with an average sentiment of +0.40.\n* In Singapore, Sephora has launched a new K-beauty edit, bringing cult brands to the market (Latest News), with a positive tone of +0.46.\n\n**Global Trends**\n\n* The world is marked by intensifying geopolitical competition, continuing wars, humanitarian emergencies, economic uncertainty, and devastating natural disasters (AllAfrica News: Latest).\n* Zimbabweans living abroad have raised concerns over the worsening political, economic, and human rights conditions in the country (AllAfrica News: Latest).\n\nOverall, the global situation is marked by significant challenges and conflicts, with a focus on Africa and the Middle East. The tone of the stories is predominantly negative, with some notable exceptions in regional perspectives and economic developments."
 }
