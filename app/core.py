@@ -219,37 +219,41 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
         else:
             clusters.append([item])
     
-    # Post-processing: Merge similar clusters
+    # Post-processing: Merge similar clusters with improved logic
     merged = True
-    while merged and len(clusters) > 1:
+    iteration_count = 0
+    max_iterations = 3  # Prevent infinite loops
+    
+    while merged and len(clusters) > 1 and iteration_count < max_iterations:
         merged = False
+        iteration_count += 1
+        
+        # Calculate centroids for all clusters first
+        centroids = []
+        for cluster in clusters:
+            if not cluster:
+                centroids.append((set(), set()))
+                continue
+                
+            centroid_title = set()
+            centroid_summary = set()
+            for item in cluster:
+                centroid_title |= _tokens(item["title"])
+                centroid_summary |= _tokens(item["summary"])
+            centroids.append((centroid_title, centroid_summary))
+        
+        # Try to merge clusters
         for i in range(len(clusters)):
             if merged:
                 break
+            if not clusters[i]:
+                continue
+                
             for j in range(i + 1, len(clusters)):
-                # Calculate similarity between cluster centroids
-                if not clusters[i] or not clusters[j]:
+                if not clusters[j]:
                     continue
                     
-                # Create centroids for both clusters
-                centroid_i_title = set()
-                centroid_i_summary = set()
-                for item in clusters[i]:
-                    centroid_i_title |= _tokens(item["title"])
-                    centroid_i_summary |= _tokens(item["summary"])
-                
-                centroid_j_title = set()
-                centroid_j_summary = set()
-                for item in clusters[j]:
-                    centroid_j_title |= _tokens(item["title"])
-                    centroid_j_summary |= _tokens(item["summary"])
-                
-                # Calculate centroid similarity
-                title_sim = _similarity(centroid_i_title, centroid_j_title)
-                summary_sim = _similarity(centroid_i_summary, centroid_j_summary)
-                centroid_sim = 0.7 * title_sim + 0.3 * summary_sim
-                
-                # Check for any link matches between clusters
+                # Check for direct link matches first (strongest signal)
                 link_match = False
                 for item1 in clusters[i]:
                     for item2 in clusters[j]:
@@ -260,14 +264,29 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
                     if link_match:
                         break
                 
-                # Merge if sufficiently similar or have link matches
-                if centroid_sim >= threshold * 0.7 or link_match:
+                if link_match:
                     clusters[i].extend(clusters[j])
-                    clusters.pop(j)
+                    clusters[j] = []
                     merged = True
                     break
+                
+                # If no direct link match, check centroid similarity
+                centroid_i_title, centroid_i_summary = centroids[i]
+                centroid_j_title, centroid_j_summary = centroids[j]
+                
+                if centroid_i_title and centroid_j_title and centroid_i_summary and centroid_j_summary:
+                    title_sim = _similarity(centroid_i_title, centroid_j_title)
+                    summary_sim = _similarity(centroid_i_summary, centroid_j_summary)
+                    centroid_sim = 0.7 * title_sim + 0.3 * summary_sim
+                    
+                    # Merge if sufficiently similar
+                    if centroid_sim >= threshold * 0.8:  # Slightly lower threshold for cluster merging
+                        clusters[i].extend(clusters[j])
+                        clusters[j] = []
+                        merged = True
+                        break
     
-    # Remove empty clusters
+    # Filter out empty clusters
     clusters = [c for c in clusters if c]
     
     # Sort by cluster size (bigger clusters first = more widely covered = more important)
