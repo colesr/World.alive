@@ -1,54 +1,125 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-01T12:11:44.314756+00:00",
-  "digest_words": 436,
+  "generated_at": "2026-09-02T11:48:52.523276+00:00",
+  "digest_words": 392,
   "clusters": [
     {
-      "headline": "Niger's failed coup exposes cracks in the military \u2014 and Russia's influence",
-      "countries": [
-        "Russia"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The failed coup in Niger has brought deep divisions within the military to light. As Russia's support highlights the junta's fading influence, soldiers continue to face jihadi attacks, poor equipment and little pay.",
-      "links": [
-        "https://www.dw.com/en/niger-s-failed-coup-exposes-cracks-in-the-military-and-russia-s-influence/a-78572278?maca=en-rss-en-world-4025-rdf",
-        "https://allafrica.com/stories/202609010068.html"
-      ]
-    },
-    {
-      "headline": "Zambia's president sworn in for second term while opponent detained",
+      "headline": "Madagascar ex-Senate chief sentenced  to hard labour over deadly Gen Z protest crackdown",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Hakainde Hichilema swept to victory, but his main rival is now in custody charged with treason.",
+      "summary": "At least 22 people were killed and more than 100 injured during last year's unrest, according to the UN.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Ethiopia: Religion, Power and Politics - What's Behind the Violent Attacks On Ethiopia's Orthodox Tewahedo Church",
+      "headline": "Guinea-Bissau referendum approves new constitution that expands president's powers",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The sweeping reforms come in the wake of last year's coup and ahead of a proposed return to civilian rule.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Germany says Russia behind attempted drone attack at Leipzig airport",
       "countries": [
-        "Ethiopia"
+        "Russia",
+        "Germany"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Investigators believe an explosives-laden drone was deliberately targeting a Ukrainian cargo aircraft at Leipzig/Halle airport in early August. The German government said on Tuesday that it held Russia \"responsible.\"",
+      "links": [
+        "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-world-4025-rdf",
+        "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Bus crash on Egypt's Red Sea coast kills 22",
+      "countries": [
+        "Egypt"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Reports say Jordanian nationals are among those killed in the accident in the South Sinai governorate.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Singapore commits S$112 million more to built environment R&D, sets new site supervision rules for large-scale projects",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "A refreshed Green Mark scheme will also introduce a new energy rating and recognise alternative cooling technologies that can cut energy use.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/singapore-built-environment-rd-funding-bca-green-mark-site-supervision-6356891"
+      ]
+    },
+    {
+      "headline": "GPC to table motion to reduce food waste, strengthen food resilience through government and ground-up efforts",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Rising daily food expenses may be top of mind, but upstream improvements need to be discussed so Singapore has a robust infrastructure to serve its food needs in the long run, said GPC chair Ms Poh Li San.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/gpc-motion-food-resilience-waste-parliament-6357286"
+      ]
+    },
+    {
+      "headline": "Africa: Israel/OPT - South Africa ICJ Submission Must Spur States to Press Israel to End Its Genocide in Gaza",
+      "countries": [
+        "South Africa",
+        "Israel"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[The Conversation Africa] The Ethiopian Orthodox Tewahedo Church has been one of Ethiopia's most influential institutions for more than 1,600 years. Church and state were closely intertwined from the official adoption of Christianity in the 4th century until the overthrow of the imperial regime in 1",
+      "summary": "[AI London] The Republic of South Africa's submission of evidence to the International Court of Justice (ICJ) documenting Israel's non-compliance with legally binding provisional orders issued by the court in the case concerning allegations of genocide against Palestinians in the occupied Gaza Strip",
       "links": [
-        "https://allafrica.com/stories/202609010005.html"
+        "https://allafrica.com/stories/202609020035.html"
       ]
     },
     {
-      "headline": "South Africa: Limpopo Village Cut Off as Bridge Collapses - South African News Briefs - September 1, 2026",
+      "headline": "The Violinist: How an international team brought old Singapore to life through hand-drawn animation",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "More than a decade in the making, award-winning animated film The Violinist brought together various artists and creatives from around the world to animate old Singapore by hand, while telling a story its directors believe transcends culture and history.",
+      "links": [
+        "https://www.channelnewsasia.com/entertainment/violinist-singapore-animation-ervin-han-raul-garcia-6357256"
+      ]
+    },
+    {
+      "headline": "South Africa: Western Cape Braces for Hot Summer - South African News Briefs - September 2, 2026",
       "countries": [
         "South Africa"
       ],
@@ -58,111 +129,47 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202609010067.html"
+        "https://allafrica.com/stories/202609020064.html"
       ]
     },
     {
-      "headline": "Parliament speaker Berri says Lebanon will not give up right to sue Israel over \u2018genocide crimes\u2019",
+      "headline": "Kuwait says fire 'under control' after Iranian attacks, as IRGC claims strikes on US facilities",
       "countries": [
-        "Israel"
+        "Iran"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nParliament speaker Berri says Lebanon will not give up right to sue Israel over \u2018genocide crimes\u2019\n\n    \n    \n\n        \n    \n                Lebanon parliament speaker asserted that the country will not give up its right to pursue legal action against Israel over its \"genocide crim",
+      "summary": "\n\n  \n      \n      \nKuwait says fire 'under control' after Iranian attacks, as IRGC claims strikes on US facilities\n\n    \n    \n\n        \n    \n                Iran\u2019s Islamic Revolutionary Guard Corps (IRGC) said it attacked several bases across the region, including the&nbsp;Ali Al Salem Air Base in K",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/parliament-speaker-berri-says-lebanon-will-not-give-right-sue-israel"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-says-fire-under-control-after-iranian-attacks-irgc-claims-strikes"
       ]
     },
     {
-      "headline": "Africa: Heresy Press Acquires Misadventures on K Street by KRL International CEO K. Riva Levinson",
+      "headline": "Senior IRGC official warns Arab countries to either expel US forces or face 'crushing response'",
       "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[KRL International] Washington, DC -- KRL International is pleased to announce that Heresy Press, an imprint of Skyhorse Publishing, has acquired Misadventures on K Street: My Decade with the Architects of Modern Political Scandal, the highly anticipated second memoir by its CEO K. Riva Levinson. Sc",
-      "links": [
-        "https://allafrica.com/stories/202608250672.html"
-      ]
-    },
-    {
-      "headline": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-      "countries": [],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-      "countries": [],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Sephora launches Olive Young K-beauty Edit in Singapore on Sep 2 \u2013 here's what you can expect",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The Sephora x Olive Young K-beauty Edit is finally in Singapore, bringing cult K-beauty brands including Dr Althea, Bioheal Boh, Rejuran and Celimax closer to home.",
-      "links": [
-        "https://www.channelnewsasia.com/style-beauty/sephora-olive-young-singapore-k-beauty-6354456"
-      ]
-    },
-    {
-      "headline": "Africa: Wars, Humanitarian Crises, Economic Rivalries and Natural Disasters Shape the World",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[ENA] The final week of August was marked by intensifying geopolitical competition, continuing wars, humanitarian emergencies, economic uncertainty and devastating natural disasters. From the Middle East and Europe to Africa, Asia and Latin America, governments confronted a series of crises that dem",
-      "links": [
-        "https://allafrica.com/stories/202609010020.html"
-      ]
-    },
-    {
-      "headline": "Israeli attacks on Gaza intensify with five killed in last 24 hours, says health ministry",
-      "countries": [
-        "Israel"
-      ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsraeli attacks on Gaza intensify with five killed in last 24 hours, says health ministry\n\n    \n    \n\n        \n    \n                Israeli attacks on Gaza have escalated, with five Palestinians killed in the last 24 hours, the Palestinian health ministry is reporting.\n\nOn Tuesday",
+      "summary": "\n\n  \n      \n      \nSenior IRGC official warns Arab countries to either expel US forces or face 'crushing response'\n\n    \n    \n\n        \n    \n                The Islamic Revolutionary Guard Corps (IRGC) political deputy general demanded that Arab countries either expel US forces or face a \"crushing r",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-gaza-intensify-5-killed-last-24-hours-says-ministry"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/senior-irgc-official-warns-arab-countries-either-expel-us-forces-or-face"
       ]
     },
     {
-      "headline": "Zimbabwe: Zimbabweans Abroad Raise Alarm Over Political, Economic and Human Rights Crisis",
+      "headline": "The world banned landmines and cluster munitions. Can it stop killer AI before it is too late?",
       "countries": [],
       "regions": [
-        "Africa"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "[New Zimbabwe] Zimbabweans living abroad have raised fresh concerns over worsening political, economic and human rights conditions in the country, warning that mounting pressures are increasingly forcing citizens to seek opportunities and sanctuary outside Zimbabwe.",
+      "summary": "\n\n  \n      \n      \nThe world banned landmines and cluster munitions. Can it stop killer AI before it is too late?\n\n    \n    \n\n          \n      \n      \n        Submitted by \nGergana Krasteva\n on \nWed, 09/02/2026 - 08:13\n\n        \n      \n    \n      \n    \n                Campaigners race to rein in sys",
       "links": [
-        "https://allafrica.com/stories/202609010074.html"
+        "https://www.middleeasteye.net/news/world-banned-landmines-and-cluster-munitions-can-it-stop-killer-ai-it-too-late"
       ]
     }
   ],
-  "narrative": "State of the World - Daily Email Digest\n\n**Global Security and Politics**\n\nThe most significant stories today are from Africa and the Middle East, with a focus on conflicts, political instability, and humanitarian crises. \n\n* In Niger, a failed coup has exposed deep divisions within the military, with Russia's influence highlighting the junta's fading power (Deutsche Welle, AllAfrica News: Latest). The situation is marked by a negative tone, with an average sentiment of -0.62.\n* In Zambia, President Hakainde Hichilema has been sworn in for a second term, while his main opponent is detained on treason charges (BBC News). \n* In Lebanon, Parliament Speaker Berri has asserted that the country will not give up its right to sue Israel over 'genocide crimes' (Section Feed), with a negative tone of -0.25.\n* Israeli attacks on Gaza have intensified, with five killed in the last 24 hours, according to the health ministry (Section Feed), also with a negative tone of -0.25.\n\n**Regional Perspectives**\n\nThere are notable differences in tone and perspective between outlets covering these stories. For example, the tone of the Niger coup story is more negative in Deutsche Welle's coverage, while AllAfrica News: Latest presents a more factual account.\n\n**Humanitarian Crises**\n\n* In Ethiopia, the Ethiopian Orthodox Tewahedo Church has been the target of violent attacks, with the church being one of the country's most influential institutions for over 1,600 years (AllAfrica News: Latest). The tone of this story is negative, with an average sentiment of -0.23.\n* In Nepal, the death toll from recent disasters has crossed 1,000, with thousands still missing (BBC News).\n* In Afghanistan, six million deportees have been forced to start over under the Taliban, with many struggling to survive (BBC News).\n\n**Economic and Social Developments**\n\n* In South Africa, a village has been cut off after a bridge collapse, highlighting the country's infrastructure challenges (AllAfrica News: Latest). However, the tone of this story is surprisingly positive, with an average sentiment of +0.40.\n* In Singapore, Sephora has launched a new K-beauty edit, bringing cult brands to the market (Latest News), with a positive tone of +0.46.\n\n**Global Trends**\n\n* The world is marked by intensifying geopolitical competition, continuing wars, humanitarian emergencies, economic uncertainty, and devastating natural disasters (AllAfrica News: Latest).\n* Zimbabweans living abroad have raised concerns over the worsening political, economic, and human rights conditions in the country (AllAfrica News: Latest).\n\nOverall, the global situation is marked by significant challenges and conflicts, with a focus on Africa and the Middle East. The tone of the stories is predominantly negative, with some notable exceptions in regional perspectives and economic developments."
+  "narrative": "State of the World - Daily Digest\n\n**Global Conflict and Tensions**\n\nLeading with the most globally significant and negative-tone stories, we see escalating tensions between nations. \n- In the Middle East, a senior IRGC official warned Arab countries to either expel US forces or face a 'crushing response' (Section Feed), indicating rising tensions in the region.\n- Iran's Islamic Revolutionary Guard Corps (IRGC) claimed strikes on US facilities in Kuwait, with Kuwait stating the fire is 'under control' (Section Feed), showcasing the volatile situation.\n- Germany accused Russia of being behind an attempted drone attack at Leipzig airport, targeting a Ukrainian cargo aircraft (World | Deutsche Welle, BBC News), highlighting the ongoing conflict between Russia and Ukraine and its global implications.\n\n**Africa**\n\n- In Madagascar, the ex-Senate chief was sentenced to hard labor over a deadly Gen Z protest crackdown that resulted in at least 22 deaths and over 100 injuries (BBC News).\n- Guinea-Bissau approved a new constitution that expands the president's powers in a referendum, following last year's coup (BBC News).\n- A bus crash on Egypt's Red Sea coast killed 22 people, with Jordanian nationals among the victims (BBC News).\n- South Africa submitted evidence to the International Court of Justice documenting Israel's non-compliance with legally binding provisional orders, with Amnesty International calling for states to press Israel to end its genocide in Gaza (AllAfrica News: Latest).\n\n**Asia**\n\n- Singapore committed S$112 million more to built environment R&D and introduced new site supervision rules for large-scale projects, aiming to reduce energy use (Latest News).\n- The Government Parliamentary Committee (GPC) in Singapore plans to table a motion to reduce food waste and strengthen food resilience through government and ground-up efforts (Latest News).\n- An international team brought old Singapore to life through hand-drawn animation in the award-winning film \"The Violinist\" (Latest News).\n\n**Regional Perspectives**\n\nWhile the tone of the stories varies, outlets generally converge on the facts. However, the sentiment context reveals a more negative tone in stories related to conflict and tragedy, such as the drone attack in Germany (-0.60), the bus crash in Egypt (-0.65), and the situation in Iran (-0.46). In contrast, stories from Singapore have a more positive tone (+0.46), focusing on development and innovation.\n\nOverall, the global landscape is marked by rising tensions, conflicts, and tragedies, but also efforts towards development, innovation, and resilience."
 }
