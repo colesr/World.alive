@@ -1,175 +1,167 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-02T11:48:52.523276+00:00",
-  "digest_words": 392,
+  "generated_at": "2026-09-03T11:48:51.807712+00:00",
+  "digest_words": 440,
   "clusters": [
     {
-      "headline": "Madagascar ex-Senate chief sentenced  to hard labour over deadly Gen Z protest crackdown",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "At least 22 people were killed and more than 100 injured during last year's unrest, according to the UN.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Guinea-Bissau referendum approves new constitution that expands president's powers",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The sweeping reforms come in the wake of last year's coup and ahead of a proposed return to civilian rule.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Germany says Russia behind attempted drone attack at Leipzig airport",
+      "headline": "Kenyan president orders crackdown on foreigners operating small businesses",
       "countries": [
-        "Russia",
-        "Germany"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Investigators believe an explosives-laden drone was deliberately targeting a Ukrainian cargo aircraft at Leipzig/Halle airport in early August. The German government said on Tuesday that it held Russia \"responsible.\"",
-      "links": [
-        "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-world-4025-rdf",
-        "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Bus crash on Egypt's Red Sea coast kills 22",
-      "countries": [
-        "Egypt"
+        "Kenya"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Reports say Jordanian nationals are among those killed in the accident in the South Sinai governorate.",
+      "summary": "It comes amid concerns over the growing number of traders from neighbouring countries.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Singapore commits S$112 million more to built environment R&D, sets new site supervision rules for large-scale projects",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "A refreshed Green Mark scheme will also introduce a new energy rating and recognise alternative cooling technologies that can cut energy use.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/singapore-built-environment-rd-funding-bca-green-mark-site-supervision-6356891"
-      ]
-    },
-    {
-      "headline": "GPC to table motion to reduce food waste, strengthen food resilience through government and ground-up efforts",
+      "headline": "More than 80 migrants feared dead after boat rescued off Canary Islands",
       "countries": [],
       "regions": [
-        "Asia"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "Rising daily food expenses may be top of mind, but upstream improvements need to be discussed so Singapore has a robust infrastructure to serve its food needs in the long run, said GPC chair Ms Poh Li San.",
+      "outlets": 2,
+      "summary": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/gpc-motion-food-resilience-waste-parliament-6357286"
+        "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Africa: Israel/OPT - South Africa ICJ Submission Must Spur States to Press Israel to End Its Genocide in Gaza",
+      "headline": "UN warns of 'supersized' El Ni\u00f1o as countries prepare for impact",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Guinea Bissau: Guinea-Bissau Referendum Tests Democratic Future",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "[DW] Following voter approval of a constitutional change that expands presidential powers, Guinea-Bissau faces renewed debate over legitimacy, civilian rule and democratic safeguards.",
+      "links": [
+        "https://allafrica.com/stories/202609030071.html",
+        "https://www.dw.com/en/guinea-bissau-referendum-tests-democratic-future/a-78646043?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/gloria-steinem-feminist-activist-and-journalist-dies-at-92/a-78855039?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Zimbabwe: Mnangagwa's Daughter-in-Law Denied Bail in U.S.$9.3m Money-Laundering Case, Court Rules She Is a Flight Risk",
       "countries": [
-        "South Africa",
-        "Israel"
+        "United States"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[AI London] The Republic of South Africa's submission of evidence to the International Court of Justice (ICJ) documenting Israel's non-compliance with legally binding provisional orders issued by the court in the case concerning allegations of genocide against Palestinians in the occupied Gaza Strip",
+      "summary": "[New Zimbabwe] President Emmerson Mnangagwa's daughter-in-law, Kelsea Tafirenyika, has been denied bail in a US$9.3 million money-laundering case, with a Harare magistrate ruling that she has the financial means to flee and sustain herself anywhere in the world.",
       "links": [
-        "https://allafrica.com/stories/202609020035.html"
+        "https://allafrica.com/stories/202609030012.html"
       ]
     },
     {
-      "headline": "The Violinist: How an international team brought old Singapore to life through hand-drawn animation",
-      "countries": [
-        "Singapore"
+      "headline": "Ex-Venezuelan President Nicol\u00e1s Maduro and wife seek to end drug charges case on immunity grounds",
+      "countries": [],
+      "regions": [
+        "Americas"
       ],
+      "outlets": 1,
+      "summary": "Former Venezuelan President Nicol\u00e1s Maduro and his wife have asked a judge to dismiss the drug trafficking indictment against them on the grounds that they have immunity as the leader and first lady of a foreign country",
+      "links": [
+        "https://www.npr.org/2026/09/03/g-s1-141764/ex-venezuelan-president-nicolas-maduro-and-wife-seek-to-end-drug-charges-case-on-immunity-grounds"
+      ]
+    },
+    {
+      "headline": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "More than 80 people have been killed in the mob violence, the BBC finds after gathering data from six African nations.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Entertainment platform aTwist launches with microseries as Hollywood chases mobile viewers",
+      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "More than a decade in the making, award-winning animated film The Violinist brought together various artists and creatives from around the world to animate old Singapore by hand, while telling a story its directors believe transcends culture and history.",
+      "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/entertainment/violinist-singapore-animation-ervin-han-raul-garcia-6357256"
+        "https://www.channelnewsasia.com/business/entertainment-platform-atwist-launches-microseries-hollywood-chases-mobile-viewers-6360271"
       ]
     },
     {
-      "headline": "South Africa: Western Cape Braces for Hot Summer - South African News Briefs - September 2, 2026",
+      "headline": "Blair Institute denies former UK PM asked PA to remove 'Palestine' from school textbooks",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nBlair Institute denies former UK PM asked PA to remove 'Palestine' from school textbooks \n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nThu, 09/03/2026 - 11:03\n\n        \n      \n    \n      \n    \n                Former UK prime minister's institute denies",
+      "links": [
+        "https://www.middleeasteye.net/news/blair-institute-denies-ex-uk-prime-minister-asked-pa-remove-palestine-school-textbooks"
+      ]
+    },
+    {
+      "headline": "Nigeria: CJID Opens Entries for 2026 Alfred Opubor Next-Gen Awards for Campus Journalism",
       "countries": [
-        "South Africa"
+        "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "[CJID] The Centre for Journalism Innovation and Development (CJID) has opened entries for the 2026 Alfred Opubor Next-Gen Awards for Campus Journalism, inviting undergraduate student journalists across Nigerian tertiary institutions to submit their outstanding work.",
       "links": [
-        "https://allafrica.com/stories/202609020064.html"
+        "https://allafrica.com/stories/202609020188.html"
       ]
     },
     {
-      "headline": "Kuwait says fire 'under control' after Iranian attacks, as IRGC claims strikes on US facilities",
-      "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nKuwait says fire 'under control' after Iranian attacks, as IRGC claims strikes on US facilities\n\n    \n    \n\n        \n    \n                Iran\u2019s Islamic Revolutionary Guard Corps (IRGC) said it attacked several bases across the region, including the&nbsp;Ali Al Salem Air Base in K",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-says-fire-under-control-after-iranian-attacks-irgc-claims-strikes"
-      ]
-    },
-    {
-      "headline": "Senior IRGC official warns Arab countries to either expel US forces or face 'crushing response'",
+      "headline": "Africa: UN Warns World Is Heading Past 1.5&#xb0;c, but Window to Reverse Warming Remains",
       "countries": [],
       "regions": [
-        "Middle East"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nSenior IRGC official warns Arab countries to either expel US forces or face 'crushing response'\n\n    \n    \n\n        \n    \n                The Islamic Revolutionary Guard Corps (IRGC) political deputy general demanded that Arab countries either expel US forces or face a \"crushing r",
+      "summary": "[Capital FM] Nairobi -- The world is now on course to overshoot the 1.5&#xb0;C climate threshold within the next few years, with even the most optimistic scenario projecting warming to peak at 1.8&#xb0;C, the UN Environment Programme (UNEP) warned.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/senior-irgc-official-warns-arab-countries-either-expel-us-forces-or-face"
-      ]
-    },
-    {
-      "headline": "The world banned landmines and cluster munitions. Can it stop killer AI before it is too late?",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nThe world banned landmines and cluster munitions. Can it stop killer AI before it is too late?\n\n    \n    \n\n          \n      \n      \n        Submitted by \nGergana Krasteva\n on \nWed, 09/02/2026 - 08:13\n\n        \n      \n    \n      \n    \n                Campaigners race to rein in sys",
-      "links": [
-        "https://www.middleeasteye.net/news/world-banned-landmines-and-cluster-munitions-can-it-stop-killer-ai-it-too-late"
+        "https://allafrica.com/stories/202609030021.html"
       ]
     }
   ],
-  "narrative": "State of the World - Daily Digest\n\n**Global Conflict and Tensions**\n\nLeading with the most globally significant and negative-tone stories, we see escalating tensions between nations. \n- In the Middle East, a senior IRGC official warned Arab countries to either expel US forces or face a 'crushing response' (Section Feed), indicating rising tensions in the region.\n- Iran's Islamic Revolutionary Guard Corps (IRGC) claimed strikes on US facilities in Kuwait, with Kuwait stating the fire is 'under control' (Section Feed), showcasing the volatile situation.\n- Germany accused Russia of being behind an attempted drone attack at Leipzig airport, targeting a Ukrainian cargo aircraft (World | Deutsche Welle, BBC News), highlighting the ongoing conflict between Russia and Ukraine and its global implications.\n\n**Africa**\n\n- In Madagascar, the ex-Senate chief was sentenced to hard labor over a deadly Gen Z protest crackdown that resulted in at least 22 deaths and over 100 injuries (BBC News).\n- Guinea-Bissau approved a new constitution that expands the president's powers in a referendum, following last year's coup (BBC News).\n- A bus crash on Egypt's Red Sea coast killed 22 people, with Jordanian nationals among the victims (BBC News).\n- South Africa submitted evidence to the International Court of Justice documenting Israel's non-compliance with legally binding provisional orders, with Amnesty International calling for states to press Israel to end its genocide in Gaza (AllAfrica News: Latest).\n\n**Asia**\n\n- Singapore committed S$112 million more to built environment R&D and introduced new site supervision rules for large-scale projects, aiming to reduce energy use (Latest News).\n- The Government Parliamentary Committee (GPC) in Singapore plans to table a motion to reduce food waste and strengthen food resilience through government and ground-up efforts (Latest News).\n- An international team brought old Singapore to life through hand-drawn animation in the award-winning film \"The Violinist\" (Latest News).\n\n**Regional Perspectives**\n\nWhile the tone of the stories varies, outlets generally converge on the facts. However, the sentiment context reveals a more negative tone in stories related to conflict and tragedy, such as the drone attack in Germany (-0.60), the bus crash in Egypt (-0.65), and the situation in Iran (-0.46). In contrast, stories from Singapore have a more positive tone (+0.46), focusing on development and innovation.\n\nOverall, the global landscape is marked by rising tensions, conflicts, and tragedies, but also efforts towards development, innovation, and resilience."
+  "narrative": "State of the World - Daily Digest\n\n**Global Crises and Disasters**\nThe most significant stories today are marked by a sense of urgency and concern. \n- A 'supersized' El Ni\u00f1o is predicted by the UN, which could bring disruption to global economies, affecting countries worldwide (BBC News, Africa and Europe).\n- More than 80 migrants are feared dead after a boat was rescued off the Canary Islands, with rescuers finding 44 survivors but having to leave five bodies behind due to bad weather (BBC News, Africa and Europe).\n\n**Regional Developments**\n- In Africa, the Kenyan president has ordered a crackdown on foreigners operating small businesses, amid concerns over the growing number of traders from neighboring countries (BBC News, Africa and Europe).\n- Guinea-Bissau faces renewed debate over legitimacy, civilian rule, and democratic safeguards after a referendum that expands presidential powers (AllAfrica News and Deutsche Welle, Africa and Europe).\n\n**Social and Political Issues**\n- Feminist activist and journalist Gloria Steinem has died at the age of 92, leaving behind a legacy as a prominent leader of the second wave of the feminist movement in the US (BBC News and Deutsche Welle, Europe).\n- In Zimbabwe, President Emmerson Mnangagwa's daughter-in-law has been denied bail in a $9.3 million money-laundering case, with the court ruling that she is a flight risk (AllAfrica News, Africa).\n\n**Justice and Accountability**\n- Ex-Venezuelan President Nicol\u00e1s Maduro and his wife are seeking to end drug charges against them on immunity grounds (NPR, Americas).\n- Deadly rumors spread on social media have led to the killing of over 80 people in mob violence across six African nations (BBC News, Africa).\n\n**Environment and Climate**\n- The world is on course to overshoot the 1.5\u00b0C climate threshold within the next few years, with even the most optimistic scenario projecting warming to peak at 1.8\u00b0C (AllAfrica News, Africa).\n\n**Notable Mentions**\n- The Blair Institute has denied that former UK PM Tony Blair asked the Palestinian Authority to remove 'Palestine' from school textbooks (Middle East Eye, Middle East).\n- An entertainment platform has launched with microseries as Hollywood chases mobile viewers (Latest News, Asia).\n- The Centre for Journalism Innovation and Development has opened entries for the 2026 Alfred Opubor Next-Gen Awards for Campus Journalism (AllAfrica News, Africa).\n\n**Sentiment Analysis**\nThe most negative-tone stories today come from Africa, with an average tone of -0.20 in the US regarding a money-laundering case in Zimbabwe, and -0.18 in Nigeria regarding the Alfred Opubor Next-Gen Awards for Campus Journalism. Kenya's crackdown on foreigners operating small businesses has an average tone of -0.03. These stories highlight the complexities and challenges faced by different regions and countries worldwide."
 }
