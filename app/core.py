@@ -174,8 +174,9 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
     
     clusters = []
     
+    # First pass: Create initial clusters using a more aggressive approach
     for item in sorted_items:
-        item_added = False
+        # Find the best cluster to join
         best_cluster_idx = -1
         best_score = 0.0
         
@@ -219,7 +220,83 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
         else:
             clusters.append([item])
     
-    # Post-processing: Merge similar clusters with improved logic
+    # Second pass: Refine clusters by checking if items might fit better in other clusters
+    changed = True
+    iteration_count = 0
+    max_iterations = 3
+    
+    while changed and iteration_count < max_iterations:
+        changed = False
+        iteration_count += 1
+        
+        # For each cluster, check if any items would fit better in other clusters
+        for i in range(len(clusters)):
+            if len(clusters[i]) <= 1:
+                continue  # Don't split singleton clusters
+            
+            # For each item in this cluster, check if it fits better elsewhere
+            items_to_move = []
+            for j, item in enumerate(clusters[i]):
+                best_cluster_idx = i  # Default to current cluster
+                best_score = 0.0
+                
+                # Calculate current cluster score (excluding this item)
+                other_items_in_current_cluster = [x for k, x in enumerate(clusters[i]) if k != j]
+                if other_items_in_current_cluster:
+                    current_centroid_title = set()
+                    current_centroid_summary = set()
+                    for x in other_items_in_current_cluster:
+                        current_centroid_title |= _tokens(x["title"])
+                        current_centroid_summary |= _tokens(x["summary"])
+                    
+                    current_title_sim = _similarity(_tokens(item["title"]), current_centroid_title)
+                    current_summary_sim = _similarity(_tokens(item["summary"]), current_centroid_summary)
+                    best_score = 0.7 * current_title_sim + 0.3 * current_summary_sim
+                
+                # Check other clusters
+                for k in range(len(clusters)):
+                    if k == i:
+                        continue
+                    
+                    if not clusters[k]:
+                        continue
+                    
+                    # Calculate similarity to this cluster
+                    centroid_title = set()
+                    centroid_summary = set()
+                    for x in clusters[k]:
+                        centroid_title |= _tokens(x["title"])
+                        centroid_summary |= _tokens(x["summary"])
+                    
+                    title_sim = _similarity(_tokens(item["title"]), centroid_title)
+                    summary_sim = _similarity(_tokens(item["summary"]), centroid_summary)
+                    score = 0.7 * title_sim + 0.3 * summary_sim
+                    
+                    # Boost for link matches
+                    for cluster_item in clusters[k]:
+                        if (item["link"] and cluster_item["link"] and 
+                            item["link"] == cluster_item["link"]):
+                            score = min(1.0, score * 1.5)
+                            break
+                    
+                    if score > best_score:
+                        best_cluster_idx = k
+                        best_score = score
+                
+                # If better cluster found, mark for move
+                if best_cluster_idx != i and best_score >= threshold * 0.8:  # Lower threshold for moves
+                    items_to_move.append((j, best_cluster_idx))
+            
+            # Move items (in reverse order to maintain indices)
+            for j, target_cluster in reversed(items_to_move):
+                item = clusters[i].pop(j)
+                clusters[target_cluster].append(item)
+                changed = True
+        
+        # Remove empty clusters
+        clusters = [c for c in clusters if c]
+    
+    # Third pass: Merge similar clusters with improved logic
     merged = True
     iteration_count = 0
     max_iterations = 3  # Prevent infinite loops
