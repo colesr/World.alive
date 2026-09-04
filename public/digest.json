@@ -1,64 +1,37 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-03T11:48:51.807712+00:00",
-  "digest_words": 440,
+  "generated_at": "2026-09-04T11:50:50.300115+00:00",
+  "digest_words": 225,
   "clusters": [
     {
-      "headline": "Kenyan president orders crackdown on foreigners operating small businesses",
+      "headline": "Argentina threatens oil firms with sanctions as Falkland Islands dispute intensifies",
       "countries": [
-        "Kenya"
+        "Argentina"
       ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Middle East"
       ],
       "outlets": 2,
-      "summary": "It comes amid concerns over the growing number of traders from neighbouring countries.",
+      "summary": "\n\n  \n      \n      \nArgentina threatens oil firms with sanctions as Falkland Islands dispute intensifies\n\n    \n    \n\n        \n    \n                Argentina has threatened sanctions on oil firms that seek to drill around the Falkland Islands as it continues to up the pressure on the British Overseas ",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/argentina-threatens-oil-firms-sanctions-falkland-islands-dispute",
+        "https://www.middleeasteye.net/news/argentina-threatens-oil-firm-sanctions-over-falkland-islands-claim"
       ]
     },
     {
-      "headline": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-      "countries": [],
+      "headline": "UAE president pardons Egyptian poet Abdul Rahman Yusuf al-Qaradawi",
+      "countries": [
+        "Egypt",
+        "UAE"
+      ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Middle East"
       ],
       "outlets": 2,
-      "summary": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
+      "summary": "\n\n  \n      \n      \nUAE president pardons Egyptian poet Abdul Rahman Yusuf al-Qaradawi\n\n    \n    \n\n          \n      \n      \n        Submitted by \nKatherine Hearst\n on \nFri, 09/04/2026 - 11:34\n\n        \n      \n    \n      \n    \n                The Egyptian-Turkish national was 'forcibly disappeared' fo",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "UN warns of 'supersized' El Ni\u00f1o as countries prepare for impact",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Guinea Bissau: Guinea-Bissau Referendum Tests Democratic Future",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "[DW] Following voter approval of a constitutional change that expands presidential powers, Guinea-Bissau faces renewed debate over legitimacy, civilian rule and democratic safeguards.",
-      "links": [
-        "https://allafrica.com/stories/202609030071.html",
-        "https://www.dw.com/en/guinea-bissau-referendum-tests-democratic-future/a-78646043?maca=en-rss-en-world-4025-rdf"
+        "https://www.middleeasteye.net/news/uae-president-pardons-egyptian-poet-abdul-rahman-yusuf-al-qaradawi",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/uae-pardons-egyptian-poet-abdul-rahman-yusuf-al-qaradawi"
       ]
     },
     {
@@ -75,29 +48,57 @@
       ]
     },
     {
-      "headline": "Zimbabwe: Mnangagwa's Daughter-in-Law Denied Bail in U.S.$9.3m Money-Laundering Case, Court Rules She Is a Flight Risk",
+      "headline": "Nepal faces long road to recovery as vulnerable communities bear brunt of disaster, say aid groups",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Beyond the immediate need for shelter, food, clean water and medical assistance, rebuilding homes and livelihoods could take years, they warned.",
+      "links": [
+        "https://www.channelnewsasia.com/world/nepal-tibet-disaster-recovery-aid-groups-6362706"
+      ]
+    },
+    {
+      "headline": "Exclusive-OpenAI agents hijacked German website in previously undisclosed AI\u00a0breakout this spring",
       "countries": [
-        "United States"
+        "Germany"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/business/exclusive-openai-agents-hijacked-german-website-in-previously-undisclosed-ai-breakout-spring-6362826"
+      ]
+    },
+    {
+      "headline": "South Africa: Illegal Mining Wrecks Johannesburg - South African News Briefs - September 4, 2026",
+      "countries": [
+        "South Africa"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[New Zimbabwe] President Emmerson Mnangagwa's daughter-in-law, Kelsea Tafirenyika, has been denied bail in a US$9.3 million money-laundering case, with a Harare magistrate ruling that she has the financial means to flee and sustain herself anywhere in the world.",
+      "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202609030012.html"
+        "https://allafrica.com/stories/202609040040.html"
       ]
     },
     {
-      "headline": "Ex-Venezuelan President Nicol\u00e1s Maduro and wife seek to end drug charges case on immunity grounds",
-      "countries": [],
+      "headline": "Iranian foreign ministry spokesperson slams 'long record' of deliberate US attacks on civilians",
+      "countries": [
+        "Iran"
+      ],
       "regions": [
-        "Americas"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "Former Venezuelan President Nicol\u00e1s Maduro and his wife have asked a judge to dismiss the drug trafficking indictment against them on the grounds that they have immunity as the leader and first lady of a foreign country",
+      "summary": "\n\n  \n      \n      \nIranian foreign ministry spokesperson slams 'long record' of deliberate US attacks on civilians\n\n    \n    \n\n        \n    \n                Iranian foreign ministry spokesperson,&nbsp;Esmaeil Baqaei, on Thursday indicated that Qatar confirmed Iranian attack \"were directed towards US",
       "links": [
-        "https://www.npr.org/2026/09/03/g-s1-141764/ex-venezuelan-president-nicolas-maduro-and-wife-seek-to-end-drug-charges-case-on-immunity-grounds"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-ministry-spokesperson-slams-long-record-deliberate-us"
       ]
     },
     {
@@ -113,7 +114,47 @@
       ]
     },
     {
-      "headline": "Entertainment platform aTwist launches with microseries as Hollywood chases mobile viewers",
+      "headline": "'Secretive' UAE and Swiss-based firms found to be major crude suppliers to Israel, says report",
+      "countries": [
+        "Israel",
+        "UAE",
+        "Switzerland"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \n'Secretive' UAE and Swiss-based firms found to be major crude suppliers to Israel, says report\n\n    \n    \n\n          \n      \n      \n        Submitted by \nKatherine Hearst\n on \nThu, 09/03/2026 - 11:55\n\n        \n      \n    \n      \n    \n                Vitol and Heritage Petroleum FZ",
+      "links": [
+        "https://www.middleeasteye.net/news/how-two-secretive-firms-became-major-crude-suppliers-israel"
+      ]
+    },
+    {
+      "headline": "Malaysia declares state of emergency in Sarawak\u2019s Serian after air pollutant index exceeds 500",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Serian recorded an air pollutant index reading of 515 as of 5pm on Friday after haze there worsened overnight. Readings above 400 are classified as \u201cvery hazardous\u201d.\n&nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/asia/malaysia-serian-sarawak-state-emergency-haze-forest-fires-borneo-6362021"
+      ]
+    },
+    {
+      "headline": "Malawi: Non-Communicable Diseases Now Killing 4 in 10 Malawians, Shocking WHO Report Reveals",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Nyasa Times] A shocking new report has revealed that non-communicable diseases (NCDs) now account for approximately 40 percent of all deaths in Malawi, prompting urgent calls for stronger political leadership, funding and community action.",
+      "links": [
+        "https://allafrica.com/stories/202609040066.html"
+      ]
+    },
+    {
+      "headline": "Exclusive-US military turns off ad trackers on devices amid Middle East targeting reports",
       "countries": [],
       "regions": [
         "Asia"
@@ -121,47 +162,9 @@
       "outlets": 1,
       "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/business/entertainment-platform-atwist-launches-microseries-hollywood-chases-mobile-viewers-6360271"
-      ]
-    },
-    {
-      "headline": "Blair Institute denies former UK PM asked PA to remove 'Palestine' from school textbooks",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nBlair Institute denies former UK PM asked PA to remove 'Palestine' from school textbooks \n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nThu, 09/03/2026 - 11:03\n\n        \n      \n    \n      \n    \n                Former UK prime minister's institute denies",
-      "links": [
-        "https://www.middleeasteye.net/news/blair-institute-denies-ex-uk-prime-minister-asked-pa-remove-palestine-school-textbooks"
-      ]
-    },
-    {
-      "headline": "Nigeria: CJID Opens Entries for 2026 Alfred Opubor Next-Gen Awards for Campus Journalism",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[CJID] The Centre for Journalism Innovation and Development (CJID) has opened entries for the 2026 Alfred Opubor Next-Gen Awards for Campus Journalism, inviting undergraduate student journalists across Nigerian tertiary institutions to submit their outstanding work.",
-      "links": [
-        "https://allafrica.com/stories/202609020188.html"
-      ]
-    },
-    {
-      "headline": "Africa: UN Warns World Is Heading Past 1.5&#xb0;c, but Window to Reverse Warming Remains",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- The world is now on course to overshoot the 1.5&#xb0;C climate threshold within the next few years, with even the most optimistic scenario projecting warming to peak at 1.8&#xb0;C, the UN Environment Programme (UNEP) warned.",
-      "links": [
-        "https://allafrica.com/stories/202609030021.html"
+        "https://www.channelnewsasia.com/business/exclusive-us-military-turns-ad-trackers-devices-amid-middle-east-targeting-reports-6362831"
       ]
     }
   ],
-  "narrative": "State of the World - Daily Digest\n\n**Global Crises and Disasters**\nThe most significant stories today are marked by a sense of urgency and concern. \n- A 'supersized' El Ni\u00f1o is predicted by the UN, which could bring disruption to global economies, affecting countries worldwide (BBC News, Africa and Europe).\n- More than 80 migrants are feared dead after a boat was rescued off the Canary Islands, with rescuers finding 44 survivors but having to leave five bodies behind due to bad weather (BBC News, Africa and Europe).\n\n**Regional Developments**\n- In Africa, the Kenyan president has ordered a crackdown on foreigners operating small businesses, amid concerns over the growing number of traders from neighboring countries (BBC News, Africa and Europe).\n- Guinea-Bissau faces renewed debate over legitimacy, civilian rule, and democratic safeguards after a referendum that expands presidential powers (AllAfrica News and Deutsche Welle, Africa and Europe).\n\n**Social and Political Issues**\n- Feminist activist and journalist Gloria Steinem has died at the age of 92, leaving behind a legacy as a prominent leader of the second wave of the feminist movement in the US (BBC News and Deutsche Welle, Europe).\n- In Zimbabwe, President Emmerson Mnangagwa's daughter-in-law has been denied bail in a $9.3 million money-laundering case, with the court ruling that she is a flight risk (AllAfrica News, Africa).\n\n**Justice and Accountability**\n- Ex-Venezuelan President Nicol\u00e1s Maduro and his wife are seeking to end drug charges against them on immunity grounds (NPR, Americas).\n- Deadly rumors spread on social media have led to the killing of over 80 people in mob violence across six African nations (BBC News, Africa).\n\n**Environment and Climate**\n- The world is on course to overshoot the 1.5\u00b0C climate threshold within the next few years, with even the most optimistic scenario projecting warming to peak at 1.8\u00b0C (AllAfrica News, Africa).\n\n**Notable Mentions**\n- The Blair Institute has denied that former UK PM Tony Blair asked the Palestinian Authority to remove 'Palestine' from school textbooks (Middle East Eye, Middle East).\n- An entertainment platform has launched with microseries as Hollywood chases mobile viewers (Latest News, Asia).\n- The Centre for Journalism Innovation and Development has opened entries for the 2026 Alfred Opubor Next-Gen Awards for Campus Journalism (AllAfrica News, Africa).\n\n**Sentiment Analysis**\nThe most negative-tone stories today come from Africa, with an average tone of -0.20 in the US regarding a money-laundering case in Zimbabwe, and -0.18 in Nigeria regarding the Alfred Opubor Next-Gen Awards for Campus Journalism. Kenya's crackdown on foreigners operating small businesses has an average tone of -0.03. These stories highlight the complexities and challenges faced by different regions and countries worldwide."
+  "narrative": "State of the World - 2026-09-04 (extractive mode)\n\n* Argentina threatens oil firms with sanctions as Falkland Islands dispute intensifies (Section Feed, 2 outlets)\n* UAE president pardons Egyptian poet Abdul Rahman Yusuf al-Qaradawi (Section Feed, 2 outlets)\n* Feminist activist and journalist Gloria Steinem dies, aged 92 (BBC News, 2 outlets)\n* Nepal faces long road to recovery as vulnerable communities bear brunt of disaster, say aid groups (Latest News, 1 outlets)\n* Exclusive-OpenAI agents hijacked German website in previously undisclosed AI\u00a0breakout this spring (Latest News, 1 outlets)\n* South Africa: Illegal Mining Wrecks Johannesburg - South African News Briefs - September 4, 2026 (AllAfrica News: Latest, 1 outlets)\n* Iranian foreign ministry spokesperson slams 'long record' of deliberate US attacks on civilians (Section Feed, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* 'Secretive' UAE and Swiss-based firms found to be major crude suppliers to Israel, says report (Section Feed, 1 outlets)\n* Malaysia declares state of emergency in Sarawak\u2019s Serian after air pollutant index exceeds 500 (Latest News, 1 outlets)\n* Malawi: Non-Communicable Diseases Now Killing 4 in 10 Malawians, Shocking WHO Report Reveals (AllAfrica News: Latest, 1 outlets)\n* Exclusive-US military turns off ad trackers on devices amid Middle East targeting reports (Latest News, 1 outlets)"
 }
