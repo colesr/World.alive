@@ -146,8 +146,13 @@ def _similarity(a: set[str], b: set[str]) -> float:
 
 def _combined_similarity(item1: dict, item2: dict, title_weight: float = 0.7) -> float:
     """Calculate combined similarity based on title and summary with weighted average."""
-    title_sim = _similarity(_tokens(item1["title"]), _tokens(item2["title"]))
-    summary_sim = _similarity(_tokens(item1["summary"]), _tokens(item2["summary"]))
+    title_tokens1 = _tokens(item1["title"])
+    title_tokens2 = _tokens(item2["title"])
+    summary_tokens1 = _tokens(item1["summary"])
+    summary_tokens2 = _tokens(item2["summary"])
+    
+    title_sim = _similarity(title_tokens1, title_tokens2)
+    summary_sim = _similarity(summary_tokens1, summary_tokens2)
     
     # Boost similarity for items with identical links (definite duplicates)
     if item1["link"] and item2["link"] and item1["link"] == item2["link"]:
@@ -155,11 +160,31 @@ def _combined_similarity(item1: dict, item2: dict, title_weight: float = 0.7) ->
     
     # Additional boost for very similar titles even without exact link match
     if title_sim > 0.8:
-        return min(1.0, title_weight * title_sim + (1 - title_weight) * summary_sim + 0.15)
+        return min(1.0, title_weight * title_sim + (1 - title_weight) * summary_sim + 0.2)
     
     # Additional heuristic: if summaries are very similar and titles share significant overlap
     if summary_sim > 0.7 and title_sim > 0.5:
-        return min(1.0, title_weight * title_sim + (1 - title_weight) * summary_sim + 0.1)
+        return min(1.0, title_weight * title_sim + (1 - title_weight) * summary_sim + 0.15)
+    
+    # New: Check for containment - one title largely contained in another
+    if len(title_tokens1) > 0 and len(title_tokens2) > 0:
+        containment1 = len(title_tokens1 & title_tokens2) / len(title_tokens1)
+        containment2 = len(title_tokens1 & title_tokens2) / len(title_tokens2)
+        max_containment = max(containment1, containment2)
+        if max_containment > 0.6:
+            return min(1.0, title_weight * title_sim + (1 - title_weight) * summary_sim + 0.15)
+    
+    # New: Check for date patterns in titles (same story published on different dates)
+    date_pattern = r'\b\d{1,2}[/-]\d{1,2}[/-]\d{2,4}\b|\b\d{4}-\d{2}-\d{2}\b'
+    title1_has_date = bool(re.search(date_pattern, item1["title"]))
+    title2_has_date = bool(re.search(date_pattern, item2["title"]))
+    if title1_has_date and title2_has_date:
+        # Remove dates and compare again
+        clean_title1 = re.sub(date_pattern, '', item1["title"]).strip()
+        clean_title2 = re.sub(date_pattern, '', item2["title"]).strip()
+        clean_title_sim = _similarity(_tokens(clean_title1), _tokens(clean_title2))
+        if clean_title_sim > 0.8:
+            return min(1.0, title_weight * clean_title_sim + (1 - title_weight) * summary_sim + 0.2)
     
     return title_weight * title_sim + (1 - title_weight) * summary_sim
 
@@ -229,7 +254,7 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
         changed = False
         iteration_count += 1
         
-        # For each cluster, check if any items would fit better in other clusters
+        # For each cluster, check if any items would fit better elsewhere
         for i in range(len(clusters)):
             if len(clusters[i]) <= 1:
                 continue  # Don't split singleton clusters
