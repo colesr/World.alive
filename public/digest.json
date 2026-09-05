@@ -1,104 +1,84 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-04T11:50:50.300115+00:00",
-  "digest_words": 225,
+  "generated_at": "2026-09-05T10:59:38.329408+00:00",
+  "digest_words": 245,
   "clusters": [
     {
-      "headline": "Argentina threatens oil firms with sanctions as Falkland Islands dispute intensifies",
-      "countries": [
-        "Argentina"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nArgentina threatens oil firms with sanctions as Falkland Islands dispute intensifies\n\n    \n    \n\n        \n    \n                Argentina has threatened sanctions on oil firms that seek to drill around the Falkland Islands as it continues to up the pressure on the British Overseas ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/argentina-threatens-oil-firms-sanctions-falkland-islands-dispute",
-        "https://www.middleeasteye.net/news/argentina-threatens-oil-firm-sanctions-over-falkland-islands-claim"
-      ]
-    },
-    {
-      "headline": "UAE president pardons Egyptian poet Abdul Rahman Yusuf al-Qaradawi",
-      "countries": [
-        "Egypt",
-        "UAE"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nUAE president pardons Egyptian poet Abdul Rahman Yusuf al-Qaradawi\n\n    \n    \n\n          \n      \n      \n        Submitted by \nKatherine Hearst\n on \nFri, 09/04/2026 - 11:34\n\n        \n      \n    \n      \n    \n                The Egyptian-Turkish national was 'forcibly disappeared' fo",
-      "links": [
-        "https://www.middleeasteye.net/news/uae-president-pardons-egyptian-poet-abdul-rahman-yusuf-al-qaradawi",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/uae-pardons-egyptian-poet-abdul-rahman-yusuf-al-qaradawi"
-      ]
-    },
-    {
-      "headline": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+      "headline": "Body of world's youngest traditional king returns home to Uganda amid succession row",
       "countries": [],
       "regions": [
+        "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+      "summary": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-        "https://www.dw.com/en/gloria-steinem-feminist-activist-and-journalist-dies-at-92/a-78855039?maca=en-rss-en-world-4025-rdf"
+        "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Nepal faces long road to recovery as vulnerable communities bear brunt of disaster, say aid groups",
+      "headline": "UN votes to adopt new world map to reflect Africa's true size",
       "countries": [],
       "regions": [
-        "Asia"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "Beyond the immediate need for shelter, food, clean water and medical assistance, rebuilding homes and livelihoods could take years, they warned.",
+      "outlets": 2,
+      "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
       "links": [
-        "https://www.channelnewsasia.com/world/nepal-tibet-disaster-recovery-aid-groups-6362706"
+        "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Exclusive-OpenAI agents hijacked German website in previously undisclosed AI\u00a0breakout this spring",
-      "countries": [
-        "Germany"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/exclusive-openai-agents-hijacked-german-website-in-previously-undisclosed-ai-breakout-spring-6362826"
-      ]
-    },
-    {
-      "headline": "South Africa: Illegal Mining Wrecks Johannesburg - South African News Briefs - September 4, 2026",
-      "countries": [
-        "South Africa"
-      ],
+      "headline": "Africa: African Development Bank and Axian Launch Digital Finance Programme to Support 34,000 Women-Led Businesses in Africa",
+      "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "[African Development Bank (AfDB)] AXIAN Group and the African Development Bank have launched a major women's financial inclusion programme to expand access to finance and business support for more than 34,000 women-led enterprises in five African countries.",
       "links": [
-        "https://allafrica.com/stories/202609040040.html"
+        "https://allafrica.com/stories/202609040839.html"
       ]
     },
     {
-      "headline": "Iranian foreign ministry spokesperson slams 'long record' of deliberate US attacks on civilians",
-      "countries": [
-        "Iran"
+      "headline": "Malawi: HRDC Backs Parliament's Sweeping Investigations - but Warns 12 Committees Could Stretch Capacity Too Thin",
+      "countries": [],
+      "regions": [
+        "Africa"
       ],
+      "outlets": 1,
+      "summary": "[Nyasa Times] The Human Rights Defenders Coalition (HRDC) has thrown its support behind Parliament's decision to investigate a string of pressing national issues, while cautioning that the planned 12 joint committees could run into serious challenges due to limited capacity, expertise and the risk o",
+      "links": [
+        "https://allafrica.com/stories/202609040551.html"
+      ]
+    },
+    {
+      "headline": "Police looking into 'shameful' racist online comments about Nepal-Tibet disaster, Air India: SM Shanmugam",
+      "countries": [
+        "India"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "\"These people should be unmasked and dealt with, rather than be allowed to hide behind online anonymity,\" says Senior Minister K Shanmugam.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/racist-comments-nepal-air-india-shanmugam-police-6364346"
+      ]
+    },
+    {
+      "headline": "To sustain global influence, Gulf economies recalibrate foreign investments as war drains revenues",
+      "countries": [],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIranian foreign ministry spokesperson slams 'long record' of deliberate US attacks on civilians\n\n    \n    \n\n        \n    \n                Iranian foreign ministry spokesperson,&nbsp;Esmaeil Baqaei, on Thursday indicated that Qatar confirmed Iranian attack \"were directed towards US",
+      "summary": "\n\n  \n      \n      \nTo sustain global influence, Gulf economies recalibrate foreign investments as war drains revenues\n\n    \n    \n\n          \n      \n      \n        Submitted by \nGaspard Rouffin\n on \nFri, 09/04/2026 - 11:46\n\n        \n      \n    \n      \n    \n                Closure of Hormuz is forcing",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-ministry-spokesperson-slams-long-record-deliberate-us"
+        "https://www.middleeasteye.net/news/gulf-countries-recalibrate-foreign-investments-sustain-global-influence"
       ]
     },
     {
@@ -114,57 +94,69 @@
       ]
     },
     {
-      "headline": "'Secretive' UAE and Swiss-based firms found to be major crude suppliers to Israel, says report",
-      "countries": [
-        "Israel",
-        "UAE",
-        "Switzerland"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \n'Secretive' UAE and Swiss-based firms found to be major crude suppliers to Israel, says report\n\n    \n    \n\n          \n      \n      \n        Submitted by \nKatherine Hearst\n on \nThu, 09/03/2026 - 11:55\n\n        \n      \n    \n      \n    \n                Vitol and Heritage Petroleum FZ",
-      "links": [
-        "https://www.middleeasteye.net/news/how-two-secretive-firms-became-major-crude-suppliers-israel"
-      ]
-    },
-    {
-      "headline": "Malaysia declares state of emergency in Sarawak\u2019s Serian after air pollutant index exceeds 500",
+      "headline": "Malaysia PM Anwar open to considering early GE, with DPM Zahid latest to call for snap polls",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Serian recorded an air pollutant index reading of 515 as of 5pm on Friday after haze there worsened overnight. Readings above 400 are classified as \u201cvery hazardous\u201d.\n&nbsp;",
+      "summary": "Malaysia\u2019s Deputy Prime Minister Ahmad Zahid Hamidi said on Thursday that it would be \u201cbetter\u201d for the 16th general election to be held early.",
       "links": [
-        "https://www.channelnewsasia.com/asia/malaysia-serian-sarawak-state-emergency-haze-forest-fires-borneo-6362021"
+        "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-early-general-election-6364326"
       ]
     },
     {
-      "headline": "Malawi: Non-Communicable Diseases Now Killing 4 in 10 Malawians, Shocking WHO Report Reveals",
+      "headline": "Tunisia: Human Rights Watch Updated Briefing Paper On the Human Rights Situation in Tunisia",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Nyasa Times] A shocking new report has revealed that non-communicable diseases (NCDs) now account for approximately 40 percent of all deaths in Malawi, prompting urgent calls for stronger political leadership, funding and community action.",
+      "summary": "[HRW] Update on human rights in Tunisia and the need for international scrutiny",
       "links": [
-        "https://allafrica.com/stories/202609040066.html"
+        "https://allafrica.com/stories/202609040537.html"
       ]
     },
     {
-      "headline": "Exclusive-US military turns off ad trackers on devices amid Middle East targeting reports",
-      "countries": [],
+      "headline": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "countries": [
+        "Argentina"
+      ],
       "regions": [
-        "Asia"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "",
+      "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
       "links": [
-        "https://www.channelnewsasia.com/business/exclusive-us-military-turns-ad-trackers-devices-amid-middle-east-targeting-reports-6362831"
+        "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high.",
+      "links": [
+        "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro"
+      ]
+    },
+    {
+      "headline": "Malawi: Utm's Mtumbuka Hails Speaker Suleman As 'Dolo' Amid Escalating Clash With DPP",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Nyasa Times] UTM presidential running mate and Rumphi Central MP, Dr Matthews Mtumbuka, has publicly praised National Assembly Speaker Sameer Suleman, urging Malawians to celebrate his patriotism regardless of political affiliation, amid an escalating public clash between the Speaker and the ruling",
+      "links": [
+        "https://allafrica.com/stories/202609040545.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-04 (extractive mode)\n\n* Argentina threatens oil firms with sanctions as Falkland Islands dispute intensifies (Section Feed, 2 outlets)\n* UAE president pardons Egyptian poet Abdul Rahman Yusuf al-Qaradawi (Section Feed, 2 outlets)\n* Feminist activist and journalist Gloria Steinem dies, aged 92 (BBC News, 2 outlets)\n* Nepal faces long road to recovery as vulnerable communities bear brunt of disaster, say aid groups (Latest News, 1 outlets)\n* Exclusive-OpenAI agents hijacked German website in previously undisclosed AI\u00a0breakout this spring (Latest News, 1 outlets)\n* South Africa: Illegal Mining Wrecks Johannesburg - South African News Briefs - September 4, 2026 (AllAfrica News: Latest, 1 outlets)\n* Iranian foreign ministry spokesperson slams 'long record' of deliberate US attacks on civilians (Section Feed, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* 'Secretive' UAE and Swiss-based firms found to be major crude suppliers to Israel, says report (Section Feed, 1 outlets)\n* Malaysia declares state of emergency in Sarawak\u2019s Serian after air pollutant index exceeds 500 (Latest News, 1 outlets)\n* Malawi: Non-Communicable Diseases Now Killing 4 in 10 Malawians, Shocking WHO Report Reveals (AllAfrica News: Latest, 1 outlets)\n* Exclusive-US military turns off ad trackers on devices amid Middle East targeting reports (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-09-05 (extractive mode)\n\n* Body of world's youngest traditional king returns home to Uganda amid succession row (BBC News, 2 outlets)\n* UN votes to adopt new world map to reflect Africa's true size (BBC News, 2 outlets)\n* Africa: African Development Bank and Axian Launch Digital Finance Programme to Support 34,000 Women-Led Businesses in Africa (AllAfrica News: Latest, 1 outlets)\n* Malawi: HRDC Backs Parliament's Sweeping Investigations - but Warns 12 Committees Could Stretch Capacity Too Thin (AllAfrica News: Latest, 1 outlets)\n* Police looking into 'shameful' racist online comments about Nepal-Tibet disaster, Air India: SM Shanmugam (Latest News, 1 outlets)\n* To sustain global influence, Gulf economies recalibrate foreign investments as war drains revenues (Section Feed, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Malaysia PM Anwar open to considering early GE, with DPM Zahid latest to call for snap polls (Latest News, 1 outlets)\n* Tunisia: Human Rights Watch Updated Briefing Paper On the Human Rights Situation in Tunisia (AllAfrica News: Latest, 1 outlets)\n* UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says (BBC News, 1 outlets)\n* Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high (NPR Topics: World, 1 outlets)\n* Malawi: Utm's Mtumbuka Hails Speaker Suleman As 'Dolo' Amid Escalating Clash With DPP (AllAfrica News: Latest, 1 outlets)"
 }
