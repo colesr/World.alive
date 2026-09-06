@@ -1,20 +1,35 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-05T10:59:38.329408+00:00",
-  "digest_words": 245,
+  "generated_at": "2026-09-06T11:24:50.778486+00:00",
+  "digest_words": 252,
   "clusters": [
     {
-      "headline": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "headline": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
       "countries": [],
       "regions": [
-        "Africa",
-        "Europe"
+        "Middle East"
       ],
       "outlets": 2,
-      "summary": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
+      "summary": "Gaza families hold mass funeral for 100 people recovered from rubble in Zeitoun neighbourhood.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss"
+        "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-holds-funeral-100-palestinians-recovered-rubble"
+      ]
+    },
+    {
+      "headline": "Iran threatens South Korean assets if Seoul joins Hormuz mission",
+      "countries": [
+        "South Korea",
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nIran threatens South Korean assets if Seoul joins Hormuz mission\n\n    \n    \n\n        \n    \n                Iranian academic Mohammad Marandi has warned that Tehran would consider South Korea an enemy and could strike its economic and military interests across the Persian Gulf if S",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-south-korean-assets-if-seoul-joins-hormuz-mission",
+        "https://www.middleeasteye.net/news/iran-threatens-south-korean-assets-if-seoul-joins-hormuz-mission"
       ]
     },
     {
@@ -32,53 +47,71 @@
       ]
     },
     {
-      "headline": "Africa: African Development Bank and Axian Launch Digital Finance Programme to Support 34,000 Women-Led Businesses in Africa",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[African Development Bank (AfDB)] AXIAN Group and the African Development Bank have launched a major women's financial inclusion programme to expand access to finance and business support for more than 34,000 women-led enterprises in five African countries.",
-      "links": [
-        "https://allafrica.com/stories/202609040839.html"
-      ]
-    },
-    {
-      "headline": "Malawi: HRDC Backs Parliament's Sweeping Investigations - but Warns 12 Committees Could Stretch Capacity Too Thin",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Nyasa Times] The Human Rights Defenders Coalition (HRDC) has thrown its support behind Parliament's decision to investigate a string of pressing national issues, while cautioning that the planned 12 joint committees could run into serious challenges due to limited capacity, expertise and the risk o",
-      "links": [
-        "https://allafrica.com/stories/202609040551.html"
-      ]
-    },
-    {
-      "headline": "Police looking into 'shameful' racist online comments about Nepal-Tibet disaster, Air India: SM Shanmugam",
+      "headline": "Singapore must never allow prejudice against any community to become accepted or normalised: PM Wong",
       "countries": [
-        "India"
+        "Singapore"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "\"These people should be unmasked and dealt with, rather than be allowed to hide behind online anonymity,\" says Senior Minister K Shanmugam.",
+      "summary": "\"We can and should have robust debates. But we should never use seemingly legitimate arguments as a cover to fuel prejudice against any community or hostility towards foreigners,\" says Prime Minister Lawrence Wong.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/racist-comments-nepal-air-india-shanmugam-police-6364346"
+        "https://www.channelnewsasia.com/singapore/pm-lawrence-wong-racist-comments-shanmugam-nepal-tibet-sia-6365481"
       ]
     },
     {
-      "headline": "To sustain global influence, Gulf economies recalibrate foreign investments as war drains revenues",
-      "countries": [],
+      "headline": "Travel chaos hits Changi and Jakarta airports as volcanic ash grounds flights between the two hubs",
+      "countries": [
+        "Indonesia"
+      ],
       "regions": [
-        "Middle East"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nTo sustain global influence, Gulf economies recalibrate foreign investments as war drains revenues\n\n    \n    \n\n          \n      \n      \n        Submitted by \nGaspard Rouffin\n on \nFri, 09/04/2026 - 11:46\n\n        \n      \n    \n      \n    \n                Closure of Hormuz is forcing",
+      "summary": "Conflicting airline notices meant some travellers turned up at Changi Airport to find out that their flights were grounded, while passengers in Indonesia found themselves turned away after clearing immigration.",
       "links": [
-        "https://www.middleeasteye.net/news/gulf-countries-recalibrate-foreign-investments-sustain-global-influence"
+        "https://www.channelnewsasia.com/singapore/travel-chaos-changi-airport-soekarno-hatta-volcano-6365516"
+      ]
+    },
+    {
+      "headline": "\u2018A lot more difficult\u2019: On the ground with Singapore police working to identify Nepal\u2019s flood dead",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "With nearly 4,900 people still missing after Nepal\u2019s devastating floods, Singapore police forensic specialists are helping local authorities identify the dead and bring answers to families desperately searching for loved ones.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/singapore-missing-persons-nepal-tibet-floods-6365286"
+      ]
+    },
+    {
+      "headline": "This is the work of our lifetime: Ayana Elizabeth Johnson urges action after new UN climate report",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "A United Nations report has found that the world will warm to 1.5 degrees Celsius above pre-industrial levels. Climate solutions advocate Ayana Elizabeth Johnson urges a quicker implementation of known strategies - and determination rather than despair.",
+      "links": [
+        "https://www.npr.org/2026/09/05/nx-s1-5954264/this-is-the-work-of-our-lifetime-ayana-elizabeth-johnson-urges-action-after-new-un-climate-report"
+      ]
+    },
+    {
+      "headline": "South Africa: Illegal Mining Wrecks Johannesburg - South African News Briefs - September 4, 2026",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica]",
+      "links": [
+        "https://allafrica.com/stories/202609040040.html"
       ]
     },
     {
@@ -94,15 +127,17 @@
       ]
     },
     {
-      "headline": "Malaysia PM Anwar open to considering early GE, with DPM Zahid latest to call for snap polls",
-      "countries": [],
+      "headline": "Jakarta airport suspends flights due to Mount Anak Krakatau ash; SIA among affected airlines",
+      "countries": [
+        "Indonesia"
+      ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Malaysia\u2019s Deputy Prime Minister Ahmad Zahid Hamidi said on Thursday that it would be \u201cbetter\u201d for the 16th general election to be held early.",
+      "summary": "Delayed or cancelled international flights on Sunday (Sep 6) include some to or from Singapore, Kuala Lumpur, Guangzhou, Hong Kong and Doha, according to the airport's website.",
       "links": [
-        "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-early-general-election-6364326"
+        "https://www.channelnewsasia.com/asia/jakarta-airport-suspends-flights-due-mount-anak-krakatau-ash-sia-among-affected-airlines-6365251"
       ]
     },
     {
@@ -118,45 +153,17 @@
       ]
     },
     {
-      "headline": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-      "countries": [
-        "Argentina"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high.",
-      "links": [
-        "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro"
-      ]
-    },
-    {
-      "headline": "Malawi: Utm's Mtumbuka Hails Speaker Suleman As 'Dolo' Amid Escalating Clash With DPP",
+      "headline": "Everyone needs a death to-do list \u2013 here are 25 things to sort out while you're alive",
       "countries": [],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[Nyasa Times] UTM presidential running mate and Rumphi Central MP, Dr Matthews Mtumbuka, has publicly praised National Assembly Speaker Sameer Suleman, urging Malawians to celebrate his patriotism regardless of political affiliation, amid an escalating public clash between the Speaker and the ruling",
+      "summary": "Does your family know your end-of-life wishes? Or where to find your will, passwords, bank accounts and subscriptions? Creating a death to-do list now can spare your loved ones unnecessary stress and uncertainty, whether your passing is expected or sudden.",
       "links": [
-        "https://allafrica.com/stories/202609040545.html"
+        "https://www.channelnewsasia.com/living/death-planning-guide-6341421"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-05 (extractive mode)\n\n* Body of world's youngest traditional king returns home to Uganda amid succession row (BBC News, 2 outlets)\n* UN votes to adopt new world map to reflect Africa's true size (BBC News, 2 outlets)\n* Africa: African Development Bank and Axian Launch Digital Finance Programme to Support 34,000 Women-Led Businesses in Africa (AllAfrica News: Latest, 1 outlets)\n* Malawi: HRDC Backs Parliament's Sweeping Investigations - but Warns 12 Committees Could Stretch Capacity Too Thin (AllAfrica News: Latest, 1 outlets)\n* Police looking into 'shameful' racist online comments about Nepal-Tibet disaster, Air India: SM Shanmugam (Latest News, 1 outlets)\n* To sustain global influence, Gulf economies recalibrate foreign investments as war drains revenues (Section Feed, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Malaysia PM Anwar open to considering early GE, with DPM Zahid latest to call for snap polls (Latest News, 1 outlets)\n* Tunisia: Human Rights Watch Updated Briefing Paper On the Human Rights Situation in Tunisia (AllAfrica News: Latest, 1 outlets)\n* UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says (BBC News, 1 outlets)\n* Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high (NPR Topics: World, 1 outlets)\n* Malawi: Utm's Mtumbuka Hails Speaker Suleman As 'Dolo' Amid Escalating Clash With DPP (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-09-06 (extractive mode)\n\n* Photos: Gaza holds funeral for 100 Palestinians recovered from rubble (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Iran threatens South Korean assets if Seoul joins Hormuz mission (Section Feed, 2 outlets)\n* UN votes to adopt new world map to reflect Africa's true size (BBC News, 2 outlets)\n* Singapore must never allow prejudice against any community to become accepted or normalised: PM Wong (Latest News, 1 outlets)\n* Travel chaos hits Changi and Jakarta airports as volcanic ash grounds flights between the two hubs (Latest News, 1 outlets)\n* \u2018A lot more difficult\u2019: On the ground with Singapore police working to identify Nepal\u2019s flood dead (Latest News, 1 outlets)\n* This is the work of our lifetime: Ayana Elizabeth Johnson urges action after new UN climate report (NPR Topics: World, 1 outlets)\n* South Africa: Illegal Mining Wrecks Johannesburg - South African News Briefs - September 4, 2026 (AllAfrica News: Latest, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Jakarta airport suspends flights due to Mount Anak Krakatau ash; SIA among affected airlines (Latest News, 1 outlets)\n* Tunisia: Human Rights Watch Updated Briefing Paper On the Human Rights Situation in Tunisia (AllAfrica News: Latest, 1 outlets)\n* Everyone needs a death to-do list \u2013 here are 25 things to sort out while you're alive (Latest News, 1 outlets)"
 }
