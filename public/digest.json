@@ -1,107 +1,56 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-06T11:24:50.778486+00:00",
-  "digest_words": 252,
+  "generated_at": "2026-09-07T13:05:53.919895+00:00",
+  "digest_words": 233,
   "clusters": [
     {
-      "headline": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "Gaza families hold mass funeral for 100 people recovered from rubble in Zeitoun neighbourhood.",
-      "links": [
-        "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-holds-funeral-100-palestinians-recovered-rubble"
-      ]
-    },
-    {
-      "headline": "Iran threatens South Korean assets if Seoul joins Hormuz mission",
+      "headline": "Kenya minister warns foreigners against 'misusing' visas to trade",
       "countries": [
-        "South Korea",
-        "Iran"
+        "Kenya"
       ],
       "regions": [
-        "Middle East"
+        "Africa",
+        "Europe"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIran threatens South Korean assets if Seoul joins Hormuz mission\n\n    \n    \n\n        \n    \n                Iranian academic Mohammad Marandi has warned that Tehran would consider South Korea an enemy and could strike its economic and military interests across the Persian Gulf if S",
+      "summary": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-south-korean-assets-if-seoul-joins-hormuz-mission",
-        "https://www.middleeasteye.net/news/iran-threatens-south-korean-assets-if-seoul-joins-hormuz-mission"
+        "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "UN votes to adopt new world map to reflect Africa's true size",
+      "headline": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "countries": [
+        "Egypt"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Tanzanian President Samia's husband dies in hospital",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
+      "summary": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Singapore must never allow prejudice against any community to become accepted or normalised: PM Wong",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "\"We can and should have robust debates. But we should never use seemingly legitimate arguments as a cover to fuel prejudice against any community or hostility towards foreigners,\" says Prime Minister Lawrence Wong.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/pm-lawrence-wong-racist-comments-shanmugam-nepal-tibet-sia-6365481"
-      ]
-    },
-    {
-      "headline": "Travel chaos hits Changi and Jakarta airports as volcanic ash grounds flights between the two hubs",
-      "countries": [
-        "Indonesia"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Conflicting airline notices meant some travellers turned up at Changi Airport to find out that their flights were grounded, while passengers in Indonesia found themselves turned away after clearing immigration.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/travel-chaos-changi-airport-soekarno-hatta-volcano-6365516"
-      ]
-    },
-    {
-      "headline": "\u2018A lot more difficult\u2019: On the ground with Singapore police working to identify Nepal\u2019s flood dead",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "With nearly 4,900 people still missing after Nepal\u2019s devastating floods, Singapore police forensic specialists are helping local authorities identify the dead and bring answers to families desperately searching for loved ones.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/singapore-missing-persons-nepal-tibet-floods-6365286"
-      ]
-    },
-    {
-      "headline": "This is the work of our lifetime: Ayana Elizabeth Johnson urges action after new UN climate report",
-      "countries": [],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "A United Nations report has found that the world will warm to 1.5 degrees Celsius above pre-industrial levels. Climate solutions advocate Ayana Elizabeth Johnson urges a quicker implementation of known strategies - and determination rather than despair.",
-      "links": [
-        "https://www.npr.org/2026/09/05/nx-s1-5954264/this-is-the-work-of-our-lifetime-ayana-elizabeth-johnson-urges-action-after-new-un-climate-report"
-      ]
-    },
-    {
-      "headline": "South Africa: Illegal Mining Wrecks Johannesburg - South African News Briefs - September 4, 2026",
+      "headline": "South Africa: Eight in Court Over R10m Electricity Fraud - South African News Briefs - September 7, 2026",
       "countries": [
         "South Africa"
       ],
@@ -111,7 +60,61 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202609040040.html"
+        "https://allafrica.com/stories/202609070047.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Severe Storms Batter Gauteng, North West and Northern Cape - Roads Closed, Homes Damaged",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Daily Maverick] South African Weather Services says severe thunderstorm warnings are in place for the next two days in Gauteng, KwaZulu-Natal, Free State, Mpumalanga, Limpopo, North West and the eastern parts of Northern Cape.",
+      "links": [
+        "https://allafrica.com/stories/202609070032.html"
+      ]
+    },
+    {
+      "headline": "Sierra Leone: Ex-Sierra Leone President Returns Home From Nigeria After Treason Case Discontinued",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Premium Times] Mr Koroma fled to Nigeria in January 2024 after a high court in Sierra Leone allowed him to travel on medical grounds despite being charged with treason",
+      "links": [
+        "https://allafrica.com/stories/202609070118.html"
+      ]
+    },
+    {
+      "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "countries": [
+        "Germany"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Board of Peace's Mladenov says Gaza, West Bank escalation makes two-state solution 'impossible'",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/world/board-peaces-mladenov-says-gaza-west-bank-escalation-makes-two-state-solution-impossible-6367321"
       ]
     },
     {
@@ -127,43 +130,43 @@
       ]
     },
     {
-      "headline": "Jakarta airport suspends flights due to Mount Anak Krakatau ash; SIA among affected airlines",
-      "countries": [
-        "Indonesia"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Delayed or cancelled international flights on Sunday (Sep 6) include some to or from Singapore, Kuala Lumpur, Guangzhou, Hong Kong and Doha, according to the airport's website.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/jakarta-airport-suspends-flights-due-mount-anak-krakatau-ash-sia-among-affected-airlines-6365251"
-      ]
-    },
-    {
-      "headline": "Tunisia: Human Rights Watch Updated Briefing Paper On the Human Rights Situation in Tunisia",
+      "headline": "Angola: Cotton Revival In Busia - Hope Grows Amid Small Farms, Dry Spells And a Silent Ginnery",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[HRW] Update on human rights in Tunisia and the need for international scrutiny",
+      "summary": "[allAfrica] The roads leading into the interior of Busia County tell a story of a region that is slowly changing, but perhaps not fast enough.",
       "links": [
-        "https://allafrica.com/stories/202609040537.html"
+        "https://allafrica.com/stories/202609060020.html"
       ]
     },
     {
-      "headline": "Everyone needs a death to-do list \u2013 here are 25 things to sort out while you're alive",
+      "headline": "Sudan: RSF Releases Four Journalists and Lawyer After Months in Detention in North Darfur",
       "countries": [],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "Does your family know your end-of-life wishes? Or where to find your will, passwords, bank accounts and subscriptions? Creating a death to-do list now can spare your loved ones unnecessary stress and uncertainty, whether your passing is expected or sudden.",
+      "summary": "[Dabanga] Nyala -- The Rapid Support Forces (RSF) have released four female journalists and a lawyer in Nyala, the capital of South Darfur, after holding them for varying periods of time. Sources tell Radio Dabanga that the journalists, Dr Manahil Mustafa, Ishraqa Abdelrahman, Mawahib Ibrahim, and Z",
       "links": [
-        "https://www.channelnewsasia.com/living/death-planning-guide-6341421"
+        "https://allafrica.com/stories/202609070398.html"
+      ]
+    },
+    {
+      "headline": "Australians will be able to switch off social media algorithms under planned legislation",
+      "countries": [
+        "Australia"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-06 (extractive mode)\n\n* Photos: Gaza holds funeral for 100 Palestinians recovered from rubble (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Iran threatens South Korean assets if Seoul joins Hormuz mission (Section Feed, 2 outlets)\n* UN votes to adopt new world map to reflect Africa's true size (BBC News, 2 outlets)\n* Singapore must never allow prejudice against any community to become accepted or normalised: PM Wong (Latest News, 1 outlets)\n* Travel chaos hits Changi and Jakarta airports as volcanic ash grounds flights between the two hubs (Latest News, 1 outlets)\n* \u2018A lot more difficult\u2019: On the ground with Singapore police working to identify Nepal\u2019s flood dead (Latest News, 1 outlets)\n* This is the work of our lifetime: Ayana Elizabeth Johnson urges action after new UN climate report (NPR Topics: World, 1 outlets)\n* South Africa: Illegal Mining Wrecks Johannesburg - South African News Briefs - September 4, 2026 (AllAfrica News: Latest, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Jakarta airport suspends flights due to Mount Anak Krakatau ash; SIA among affected airlines (Latest News, 1 outlets)\n* Tunisia: Human Rights Watch Updated Briefing Paper On the Human Rights Situation in Tunisia (AllAfrica News: Latest, 1 outlets)\n* Everyone needs a death to-do list \u2013 here are 25 things to sort out while you're alive (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-09-07 (extractive mode)\n\n* Kenya minister warns foreigners against 'misusing' visas to trade (BBC News, 2 outlets)\n* TV presenter among 12 sentenced to death in Egypt drugs case (BBC News, 2 outlets)\n* Tanzanian President Samia's husband dies in hospital (BBC News, 2 outlets)\n* South Africa: Eight in Court Over R10m Electricity Fraud - South African News Briefs - September 7, 2026 (AllAfrica News: Latest, 1 outlets)\n* South Africa: Severe Storms Batter Gauteng, North West and Northern Cape - Roads Closed, Homes Damaged (AllAfrica News: Latest, 1 outlets)\n* Sierra Leone: Ex-Sierra Leone President Returns Home From Nigeria After Treason Case Discontinued (AllAfrica News: Latest, 1 outlets)\n* Germany's far-right AfD says 'democracy demands' parties work with them after state election win (BBC News, 1 outlets)\n* Board of Peace's Mladenov says Gaza, West Bank escalation makes two-state solution 'impossible' (Latest News, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Angola: Cotton Revival In Busia - Hope Grows Amid Small Farms, Dry Spells And a Silent Ginnery (AllAfrica News: Latest, 1 outlets)\n* Sudan: RSF Releases Four Journalists and Lawyer After Months in Detention in North Darfur (AllAfrica News: Latest, 1 outlets)\n* Australians will be able to switch off social media algorithms under planned legislation (BBC News, 1 outlets)"
 }
