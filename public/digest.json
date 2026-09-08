@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-07T13:05:53.919895+00:00",
-  "digest_words": 233,
+  "generated_at": "2026-09-08T11:51:01.622404+00:00",
+  "digest_words": 239,
   "clusters": [
     {
-      "headline": "Kenya minister warns foreigners against 'misusing' visas to trade",
+      "headline": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
       "countries": [
         "Kenya"
       ],
@@ -13,44 +13,74 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
+      "summary": "All foreigners without proper documents in Kenya are urged to  register through their embassies.",
       "links": [
         "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
         "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "headline": "Nigeria: Breaking - Dangote Refinery Sets Minimum Subscription for $1.6 Billion IPO",
       "countries": [
-        "Egypt"
+        "Nigeria"
       ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Africa"
       ],
       "outlets": 2,
-      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "summary": "[Premium Times] Aliko Dangote, Africa's richest man and owner of the 700,000 barrel-per-day (bpd) plant, led the sign-off ceremony in Lagos on Monday.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202609070490.html",
+        "https://allafrica.com/stories/202609080111.html"
       ]
     },
     {
-      "headline": "Tanzanian President Samia's husband dies in hospital",
+      "headline": "In a major policy shift, Britain is expected to ban goods from Israeli settlements",
+      "countries": [
+        "United Kingdom",
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nIn a major policy shift, Britain is expected to ban goods from Israeli settlements\n\n    \n    \n\n        \n    \n                The&nbsp;British&nbsp;government is set to announce a ban on goods from&nbsp;Israeli&nbsp;settlements on Tuesday, a move which has provoked fury from the Is",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/major-policy-shift-britain-expected-ban-goods-israeli-settlements",
+        "https://www.middleeasteye.net/news/uk-announce-trade-sanctions-israeli-settlements"
+      ]
+    },
+    {
+      "headline": "US officials threaten retaliation against UK over Israeli settlements sanctions",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nUS officials threaten retaliation against UK over Israeli settlements sanctions\n\n    \n    \n\n        \n    \n                US&nbsp;officials have attacked the&nbsp;UK&nbsp;over its new trade sanctions on illegal&nbsp;Israeli&nbsp;settlements, amid speculation that Washington could ",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/us-officials-threaten-retaliation-against-uk-over-israeli-settlements",
+        "https://www.middleeasteye.net/news/us-officials-threaten-retaliation-against-uk-over-israeli-settlements-sanctions"
+      ]
+    },
+    {
+      "headline": "Morocco: 3 Years On, Morocco Earthquake Victims Still Wait for Help",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
+      "summary": "[DW] Reconstruction has progressed in the three years since the 2023 Morocco earthquake, but some survivors are still living in tents. Locals are divided as to how successful it's been, and whether state aid is enough.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202609080085.html",
+        "https://www.dw.com/en/3-years-on-morocco-earthquake-victims-still-wait-for-help/a-78874844?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "South Africa: Eight in Court Over R10m Electricity Fraud - South African News Briefs - September 7, 2026",
+      "headline": "South Africa: Police Union Demands Better Protection - South African News Briefs - September 8, 2026",
       "countries": [
         "South Africa"
       ],
@@ -60,35 +90,45 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202609070047.html"
+        "https://allafrica.com/stories/202609080084.html"
       ]
     },
     {
-      "headline": "South Africa: Severe Storms Batter Gauteng, North West and Northern Cape - Roads Closed, Homes Damaged",
+      "headline": "Kenya: Ruto Signs Four Bills Into Law As Kenya Strengthens Public Finance and Trust Administration",
       "countries": [
-        "South Africa"
+        "Kenya"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Daily Maverick] South African Weather Services says severe thunderstorm warnings are in place for the next two days in Gauteng, KwaZulu-Natal, Free State, Mpumalanga, Limpopo, North West and the eastern parts of Northern Cape.",
+      "summary": "[Capital FM] Nairobi -- President William Ruto has assented to four Bills seeking to strengthen population planning, public financial management, air passenger services and trust administration in Kenya.",
       "links": [
-        "https://allafrica.com/stories/202609070032.html"
+        "https://allafrica.com/stories/202609080099.html"
       ]
     },
     {
-      "headline": "Sierra Leone: Ex-Sierra Leone President Returns Home From Nigeria After Treason Case Discontinued",
-      "countries": [
-        "Nigeria"
-      ],
+      "headline": "Malawi: 9 in 10 Malawians Shut Out of Bank Loans Because They Work in 'Shadow Economy' - Economist",
+      "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Premium Times] Mr Koroma fled to Nigeria in January 2024 after a high court in Sierra Leone allowed him to travel on medical grounds despite being charged with treason",
+      "summary": "[Nyasa Times] Millions of hardworking Malawians and small business owners are being frozen out of formal bank loans simply because of HOW they earn their living, a leading economist has warned.",
       "links": [
-        "https://allafrica.com/stories/202609070118.html"
+        "https://allafrica.com/stories/202609080019.html"
+      ]
+    },
+    {
+      "headline": "Sudan: Leaked Intelligence Sheds New Light On Sudan Military's Alleged Chlorine Weapons Programme",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Capital FM] Nairobi -- The war in Sudan is facing renewed scrutiny over allegations that the Sudanese Armed Forces (SAF) under General Abdel Fattah al-Burhan developed and deployed chlorine-based weapons, with newly reported intelligence documents offering the most detailed account yet of an allege",
+      "links": [
+        "https://allafrica.com/stories/202609080022.html"
       ]
     },
     {
@@ -106,18 +146,6 @@
       ]
     },
     {
-      "headline": "Board of Peace's Mladenov says Gaza, West Bank escalation makes two-state solution 'impossible'",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/world/board-peaces-mladenov-says-gaza-west-bank-escalation-makes-two-state-solution-impossible-6367321"
-      ]
-    },
-    {
       "headline": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
       "countries": [],
       "regions": [
@@ -130,43 +158,19 @@
       ]
     },
     {
-      "headline": "Angola: Cotton Revival In Busia - Hope Grows Amid Small Farms, Dry Spells And a Silent Ginnery",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica] The roads leading into the interior of Busia County tell a story of a region that is slowly changing, but perhaps not fast enough.",
-      "links": [
-        "https://allafrica.com/stories/202609060020.html"
-      ]
-    },
-    {
-      "headline": "Sudan: RSF Releases Four Journalists and Lawyer After Months in Detention in North Darfur",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Dabanga] Nyala -- The Rapid Support Forces (RSF) have released four female journalists and a lawyer in Nyala, the capital of South Darfur, after holding them for varying periods of time. Sources tell Radio Dabanga that the journalists, Dr Manahil Mustafa, Ishraqa Abdelrahman, Mawahib Ibrahim, and Z",
-      "links": [
-        "https://allafrica.com/stories/202609070398.html"
-      ]
-    },
-    {
-      "headline": "Australians will be able to switch off social media algorithms under planned legislation",
+      "headline": "Watch live: Nicaragua defends its ICJ genocide case against Germany on second day of hearings",
       "countries": [
-        "Australia"
+        "Germany"
       ],
       "regions": [
-        "Europe"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
+      "summary": "\n\n  \n      \n      \nWatch live: Nicaragua defends its ICJ genocide case against Germany on second day of hearings\n\n    \n    \n\n        \n    \n                Nicaragua has started its oral presentation at the International Court of Justice in reply to Germany, which stands accused of genocide complicit",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/watch-live-nicaragua-defends-its-icj-genocide-case-against-germany"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-07 (extractive mode)\n\n* Kenya minister warns foreigners against 'misusing' visas to trade (BBC News, 2 outlets)\n* TV presenter among 12 sentenced to death in Egypt drugs case (BBC News, 2 outlets)\n* Tanzanian President Samia's husband dies in hospital (BBC News, 2 outlets)\n* South Africa: Eight in Court Over R10m Electricity Fraud - South African News Briefs - September 7, 2026 (AllAfrica News: Latest, 1 outlets)\n* South Africa: Severe Storms Batter Gauteng, North West and Northern Cape - Roads Closed, Homes Damaged (AllAfrica News: Latest, 1 outlets)\n* Sierra Leone: Ex-Sierra Leone President Returns Home From Nigeria After Treason Case Discontinued (AllAfrica News: Latest, 1 outlets)\n* Germany's far-right AfD says 'democracy demands' parties work with them after state election win (BBC News, 1 outlets)\n* Board of Peace's Mladenov says Gaza, West Bank escalation makes two-state solution 'impossible' (Latest News, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Angola: Cotton Revival In Busia - Hope Grows Amid Small Farms, Dry Spells And a Silent Ginnery (AllAfrica News: Latest, 1 outlets)\n* Sudan: RSF Releases Four Journalists and Lawyer After Months in Detention in North Darfur (AllAfrica News: Latest, 1 outlets)\n* Australians will be able to switch off social media algorithms under planned legislation (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-09-08 (extractive mode)\n\n* Kenya moves to register frightened Burundians as tension over foreign traders rises (BBC News, 2 outlets)\n* Nigeria: Breaking - Dangote Refinery Sets Minimum Subscription for $1.6 Billion IPO (AllAfrica News: Latest, 2 outlets)\n* In a major policy shift, Britain is expected to ban goods from Israeli settlements (Section Feed, 2 outlets)\n* US officials threaten retaliation against UK over Israeli settlements sanctions (Section Feed, 2 outlets)\n* Morocco: 3 Years On, Morocco Earthquake Victims Still Wait for Help (AllAfrica News: Latest, 2 outlets)\n* South Africa: Police Union Demands Better Protection - South African News Briefs - September 8, 2026 (AllAfrica News: Latest, 1 outlets)\n* Kenya: Ruto Signs Four Bills Into Law As Kenya Strengthens Public Finance and Trust Administration (AllAfrica News: Latest, 1 outlets)\n* Malawi: 9 in 10 Malawians Shut Out of Bank Loans Because They Work in 'Shadow Economy' - Economist (AllAfrica News: Latest, 1 outlets)\n* Sudan: Leaked Intelligence Sheds New Light On Sudan Military's Alleged Chlorine Weapons Programme (AllAfrica News: Latest, 1 outlets)\n* Germany's far-right AfD says 'democracy demands' parties work with them after state election win (BBC News, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Watch live: Nicaragua defends its ICJ genocide case against Germany on second day of hearings (Section Feed, 1 outlets)"
 }
