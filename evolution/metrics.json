@@ -1,19 +1,5 @@
 [
   {
-    "timestamp": "2026-06-10T21:57:31.436349+00:00",
-    "items_fetched": 111,
-    "clusters": 95,
-    "regions_covered": [
-      "Africa",
-      "Americas",
-      "Asia",
-      "Europe",
-      "Middle East"
-    ],
-    "digest_words": 499,
-    "email_sent": true
-  },
-  {
     "timestamp": "2026-06-11T02:32:28.084249+00:00",
     "items_fetched": 111,
     "clusters": 101,
@@ -1436,5 +1422,21 @@
     "email_sent": true,
     "sibling_reachable": true,
     "sentiment_enriched": true
+  },
+  {
+    "timestamp": "2026-09-09T12:01:20.380459+00:00",
+    "items_fetched": 111,
+    "clusters": 108,
+    "regions_covered": [
+      "Africa",
+      "Americas",
+      "Asia",
+      "Europe",
+      "Middle East"
+    ],
+    "digest_words": 243,
+    "email_sent": true,
+    "sibling_reachable": false,
+    "sentiment_enriched": false
   }
 ]

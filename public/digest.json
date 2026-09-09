@@ -1,10 +1,39 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-08T11:51:01.622404+00:00",
-  "digest_words": 239,
+  "generated_at": "2026-09-09T12:01:20.379128+00:00",
+  "digest_words": 243,
   "clusters": [
     {
-      "headline": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
+      "headline": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Israeli opposition accuses Netanyahu of fuelling diplomatic isolation after UK sanctions",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nIsraeli opposition accuses Netanyahu of fuelling diplomatic isolation after UK sanctions\n\n    \n    \n\n        \n    \n                Israeli&nbsp;opposition politicians have accused Benjamin Netanyahu's government of driving the country into unprecedented global isolation after the ",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-accuses-netanyahu-fuelling-diplomatic-isolation-after",
+        "https://www.middleeasteye.net/news/israeli-opposition-accuses-netanyahu-fuelling-diplomatic-isolation-after-uk-sanctions"
+      ]
+    },
+    {
+      "headline": "Kenya: Crackdown on foreign traders prompts xenophobia fears",
       "countries": [
         "Kenya"
       ],
@@ -13,74 +42,54 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "All foreigners without proper documents in Kenya are urged to  register through their embassies.",
+      "summary": "Concerns about xenophobia are rising in Kenya after President William Ruto ordered a crackdown on foreigners working as hawkers. The government insists however that legally documented foreign traders remain protected.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss"
+        "https://www.dw.com/en/kenya-crackdown-on-foreign-traders-prompts-xenophobia-fears/a-79143847?maca=en-rss-en-world-4025-rdf",
+        "https://allafrica.com/stories/202609090075.html"
       ]
     },
     {
-      "headline": "Nigeria: Breaking - Dangote Refinery Sets Minimum Subscription for $1.6 Billion IPO",
+      "headline": "Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns",
       "countries": [
         "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
-      "outlets": 2,
-      "summary": "[Premium Times] Aliko Dangote, Africa's richest man and owner of the 700,000 barrel-per-day (bpd) plant, led the sign-off ceremony in Lagos on Monday.",
+      "outlets": 1,
+      "summary": "[CyFrica] As Nigeria's digital economy accelerates towards an estimated $18.3 billion in 2026, the country is confronting an equally urgent challenge: protecting the digital infrastructure, data and financial ecosystems powering that growth.",
       "links": [
-        "https://allafrica.com/stories/202609070490.html",
-        "https://allafrica.com/stories/202609080111.html"
+        "https://allafrica.com/stories/202609080569.html"
       ]
     },
     {
-      "headline": "In a major policy shift, Britain is expected to ban goods from Israeli settlements",
+      "headline": "Fifty years after Mao\u2019s death, China has transformed. DW looks at why his political legacy still matters.",
       "countries": [
-        "United Kingdom",
-        "Israel"
+        "China"
       ],
       "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIn a major policy shift, Britain is expected to ban goods from Israeli settlements\n\n    \n    \n\n        \n    \n                The&nbsp;British&nbsp;government is set to announce a ban on goods from&nbsp;Israeli&nbsp;settlements on Tuesday, a move which has provoked fury from the Is",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/major-policy-shift-britain-expected-ban-goods-israeli-settlements",
-        "https://www.middleeasteye.net/news/uk-announce-trade-sanctions-israeli-settlements"
-      ]
-    },
-    {
-      "headline": "US officials threaten retaliation against UK over Israeli settlements sanctions",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nUS officials threaten retaliation against UK over Israeli settlements sanctions\n\n    \n    \n\n        \n    \n                US&nbsp;officials have attacked the&nbsp;UK&nbsp;over its new trade sanctions on illegal&nbsp;Israeli&nbsp;settlements, amid speculation that Washington could ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/us-officials-threaten-retaliation-against-uk-over-israeli-settlements",
-        "https://www.middleeasteye.net/news/us-officials-threaten-retaliation-against-uk-over-israeli-settlements-sanctions"
-      ]
-    },
-    {
-      "headline": "Morocco: 3 Years On, Morocco Earthquake Victims Still Wait for Help",
-      "countries": [],
-      "regions": [
-        "Africa",
         "Europe"
       ],
-      "outlets": 2,
-      "summary": "[DW] Reconstruction has progressed in the three years since the 2023 Morocco earthquake, but some survivors are still living in tents. Locals are divided as to how successful it's been, and whether state aid is enough.",
+      "outlets": 1,
+      "summary": "Mao Zedong was perhaps the most influential, and certainly one of the most controversial, figures in 20th-century China. Even five decades after his death, the legacy of his era continues to influence China today.",
       "links": [
-        "https://allafrica.com/stories/202609080085.html",
-        "https://www.dw.com/en/3-years-on-morocco-earthquake-victims-still-wait-for-help/a-78874844?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/fifty-years-after-mao-s-death-china-has-transformed-dw-looks-at-why-his-political-legacy-still-matters/a-79189751?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "South Africa: Police Union Demands Better Protection - South African News Briefs - September 8, 2026",
+      "headline": "Zimbabwe: 'Order Must Be Maintained' - Govt Orders Crackdown On Illegal Harare Vendors Defying Eviction",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Zimbabwe] THE government has declared that illegal vending in Harare's Central Business District (CBD) \"is no longer acceptable\" and \"no longer business as usual\", with authorities moving to enforce the use of designated markets and vending bays.",
+      "links": [
+        "https://allafrica.com/stories/202609090014.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Fake Toys Raise Safety and Job Concerns - South African News Briefs - September 9, 2026",
       "countries": [
         "South Africa"
       ],
@@ -90,59 +99,31 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202609080084.html"
+        "https://allafrica.com/stories/202609090068.html"
       ]
     },
     {
-      "headline": "Kenya: Ruto Signs Four Bills Into Law As Kenya Strengthens Public Finance and Trust Administration",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- President William Ruto has assented to four Bills seeking to strengthen population planning, public financial management, air passenger services and trust administration in Kenya.",
-      "links": [
-        "https://allafrica.com/stories/202609080099.html"
-      ]
-    },
-    {
-      "headline": "Malawi: 9 in 10 Malawians Shut Out of Bank Loans Because They Work in 'Shadow Economy' - Economist",
+      "headline": "Lesotho: Authorities Must Investigate Reported Abduction and Assault of Journalist Kananelo Boloetse",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Nyasa Times] Millions of hardworking Malawians and small business owners are being frozen out of formal bank loans simply because of HOW they earn their living, a leading economist has warned.",
+      "summary": "[AI London] Responding to reports that journalist and human rights defender Kananelo Boloetse was abducted on 5 September from his home in Maseru, interrogated about his work, assaulted and threatened with death, Amnesty International's Deputy Regional Director for East and Southern Africa, Vongai C",
       "links": [
-        "https://allafrica.com/stories/202609080019.html"
+        "https://allafrica.com/stories/202609090027.html"
       ]
     },
     {
-      "headline": "Sudan: Leaked Intelligence Sheds New Light On Sudan Military's Alleged Chlorine Weapons Programme",
+      "headline": "Zimbabwe: Teachers Cut Working Days to Three, Set Aside Two for Side Hustles, Citing Poor Salaries",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- The war in Sudan is facing renewed scrutiny over allegations that the Sudanese Armed Forces (SAF) under General Abdel Fattah al-Burhan developed and deployed chlorine-based weapons, with newly reported intelligence documents offering the most detailed account yet of an allege",
+      "summary": "[New Zimbabwe] The Amalgamated Rural Teachers Union of Zimbabwe (ARTUZ) says its members will report for duty for only three days a week, citing the failure by the government to address their deteriorating salaries and working conditions.",
       "links": [
-        "https://allafrica.com/stories/202609080022.html"
-      ]
-    },
-    {
-      "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "countries": [
-        "Germany"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202609090013.html"
       ]
     },
     {
@@ -158,19 +139,31 @@
       ]
     },
     {
-      "headline": "Watch live: Nicaragua defends its ICJ genocide case against Germany on second day of hearings",
-      "countries": [
-        "Germany"
-      ],
+      "headline": "Panasonic Energy develops solid-state battery that can operate at 150 degrees Celsius",
+      "countries": [],
       "regions": [
-        "Middle East"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nWatch live: Nicaragua defends its ICJ genocide case against Germany on second day of hearings\n\n    \n    \n\n        \n    \n                Nicaragua has started its oral presentation at the International Court of Justice in reply to Germany, which stands accused of genocide complicit",
+      "summary": "",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/watch-live-nicaragua-defends-its-icj-genocide-case-against-germany"
+        "https://www.channelnewsasia.com/business/panasonic-energy-develops-solid-state-battery-can-operate-150-degrees-celsius-6372861"
+      ]
+    },
+    {
+      "headline": "Iceland summons U.S. ambassador after Trump posts countries draped with American flag",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Iceland summoned the U.S. ambassador after President Trump posted a map on Truth Social that showed the country, along with a number of other nations, covered with an American flag.",
+      "links": [
+        "https://www.npr.org/2026/09/09/nx-s1-5961412/iceland-summons-u-s-ambassador-after-trump-posts-countries-draped-with-american-flag"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-08 (extractive mode)\n\n* Kenya moves to register frightened Burundians as tension over foreign traders rises (BBC News, 2 outlets)\n* Nigeria: Breaking - Dangote Refinery Sets Minimum Subscription for $1.6 Billion IPO (AllAfrica News: Latest, 2 outlets)\n* In a major policy shift, Britain is expected to ban goods from Israeli settlements (Section Feed, 2 outlets)\n* US officials threaten retaliation against UK over Israeli settlements sanctions (Section Feed, 2 outlets)\n* Morocco: 3 Years On, Morocco Earthquake Victims Still Wait for Help (AllAfrica News: Latest, 2 outlets)\n* South Africa: Police Union Demands Better Protection - South African News Briefs - September 8, 2026 (AllAfrica News: Latest, 1 outlets)\n* Kenya: Ruto Signs Four Bills Into Law As Kenya Strengthens Public Finance and Trust Administration (AllAfrica News: Latest, 1 outlets)\n* Malawi: 9 in 10 Malawians Shut Out of Bank Loans Because They Work in 'Shadow Economy' - Economist (AllAfrica News: Latest, 1 outlets)\n* Sudan: Leaked Intelligence Sheds New Light On Sudan Military's Alleged Chlorine Weapons Programme (AllAfrica News: Latest, 1 outlets)\n* Germany's far-right AfD says 'democracy demands' parties work with them after state election win (BBC News, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Watch live: Nicaragua defends its ICJ genocide case against Germany on second day of hearings (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-09-09 (extractive mode)\n\n* 'You're not alone in the darkness': Gambia president urges calm after violent blackout protests (BBC News, 2 outlets)\n* Israeli opposition accuses Netanyahu of fuelling diplomatic isolation after UK sanctions (Section Feed, 2 outlets)\n* Kenya: Crackdown on foreign traders prompts xenophobia fears (World | Deutsche Welle, 2 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* Fifty years after Mao\u2019s death, China has transformed. DW looks at why his political legacy still matters. (World | Deutsche Welle, 1 outlets)\n* Zimbabwe: 'Order Must Be Maintained' - Govt Orders Crackdown On Illegal Harare Vendors Defying Eviction (AllAfrica News: Latest, 1 outlets)\n* South Africa: Fake Toys Raise Safety and Job Concerns - South African News Briefs - September 9, 2026 (AllAfrica News: Latest, 1 outlets)\n* Lesotho: Authorities Must Investigate Reported Abduction and Assault of Journalist Kananelo Boloetse (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Teachers Cut Working Days to Three, Set Aside Two for Side Hustles, Citing Poor Salaries (AllAfrica News: Latest, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Panasonic Energy develops solid-state battery that can operate at 150 degrees Celsius (Latest News, 1 outlets)\n* Iceland summons U.S. ambassador after Trump posts countries draped with American flag (NPR Topics: World, 1 outlets)"
 }
