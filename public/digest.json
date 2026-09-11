@@ -1,112 +1,103 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-10T11:55:36.814063+00:00",
-  "digest_words": 234,
+  "generated_at": "2026-09-11T11:54:42.319616+00:00",
+  "digest_words": 246,
   "clusters": [
     {
-      "headline": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "headline": "Six Nigerians accused of romance scams to be extradited to the US",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
+      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+      "headline": "More than 20 children killed in DR Congo school fire",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+      "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "headline": "Nigeria: Coalition for Whistleblower Protection and Press Freedom (CWPPF) Condemns Attack On Journalists At APC Rally in Kano",
       "countries": [
-        "Spain"
+        "Nigeria"
       ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Somalia: Somaliland Ready to Contribute Up to 2,000 Troops to Gaza Stabilisation Force, President Says",
-      "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Horn Diplomat] Washington (Horndiplomat) -- Somaliland is prepared to contribute as many as 2,000 soldiers to a proposed international stabilisation force in Gaza if formally requested by the United States or Israel, President Abdirahman Mohamed Abdullahi \"Irro\" has said.",
+      "summary": "[CJID] Abuja, Nigeria -- The Coalition for Whistleblower Protection and Press Freedom (CWPPF) condemns the violent attack on five journalists and the destruction of a Radio Nigeria, Pyramid FM vehicle by suspected thugs during an All Progressives Congress (APC) rally in Kano State on Saturday, Septe",
       "links": [
-        "https://allafrica.com/stories/202609100182.html"
+        "https://allafrica.com/stories/202609110014.html"
       ]
     },
     {
-      "headline": "Woman sues Sheng Siong, employee after allegedly being hit by trolley carrying bags of rice at outlet",
-      "countries": [],
+      "headline": "Germany\u2019s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans",
+      "countries": [
+        "Russia",
+        "Germany"
+      ],
       "regions": [
-        "Asia"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "Ms Dong Lihua&nbsp;claimed that the incident aggravated degenerative disc disease in her lower back, and that she suffered from chronic pain syndrome and depression.",
+      "summary": "Canceled language exams, disrupted plans to study in Germany and the disappearance of an important cultural link: DW users shared how the closure of Germany's Goethe-Institut in Russia affects their lives.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/woman-hit-trolley-sue-sheng-siong-6375961"
+        "https://www.dw.com/en/germany-s-goethe-institut-is-closing-in-russia-russians-tell-dw-how-canceled-exams-are-upending-their-plans/a-79218936?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Ali al-Taher: What Israel\u2019s 'operational control' of the hill really means for Hezbollah and Lebanon",
+      "headline": "South Africa: Hawks to Extradite Six Nigerians to US - South African News Briefs - September 11, 2026",
       "countries": [
-        "Israel"
+        "South Africa"
       ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica]",
+      "links": [
+        "https://allafrica.com/stories/202609110037.html"
+      ]
+    },
+    {
+      "headline": "Jabaroot: Behind the hacker group's claim of a 70,000\u2011name leak in Morocco's police and intelligence",
+      "countries": [],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nAli al-Taher: What Israel\u2019s 'operational control' of the hill really means for Hezbollah and Lebanon\n\n    \n    \n\n          \n      \n      \n        Submitted by \nAdam Chamseddine\n on \nWed, 09/09/2026 - 12:52\n\n        \n      \n    \n      \n    \n                Hezbollah's withdrawal fr",
+      "summary": "\n\n  \n      \n      \nJabaroot: Behind the hacker group's claim of a 70,000\u2011name leak in Morocco's police and intelligence\n\n    \n    \n\n          \n      \n      \n        Submitted by \nHugo Martin\n on \nFri, 09/11/2026 - 09:47\n\n        \n      \n    \n      \n    \n                Alleged breach raises security",
       "links": [
-        "https://www.middleeasteye.net/news/ali-al-taher-what-israels-operational-control-really-means-hezbollah-and-lebanon"
+        "https://www.middleeasteye.net/news/jabaroot-behind-hacker-group-claim-70000%E2%80%91name-leak-Morocco-police-intelligence"
       ]
     },
     {
-      "headline": "Exclusive-UK deepens reliance on Musk's SpaceX, spending nearly $40 million on satellite services",
-      "countries": [],
+      "headline": "MHA refutes claims that the death penalty was discussed during visit by Israel's security ministry",
+      "countries": [
+        "Israel"
+      ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "",
+      "summary": "The Ministry of Home Affairs says discussions with the Israeli government involved the sharing of best practices in emergency response, crime prevention and forensics. Issues relating to the death penalty \u201cwere never part of the meeting and were not discussed\u201d.&nbsp;\n&nbsp;",
       "links": [
-        "https://www.channelnewsasia.com/business/exclusive-uk-deepens-reliance-musks-spacex-spending-nearly-40-million-satellite-services-6376021"
-      ]
-    },
-    {
-      "headline": "PAP government does not believe in using higher pay to entice candidates into politics: PM Wong",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "\u201cNo one should enter politics for the money,\u201d says Prime Minister Lawrence Wong in the parliamentary debate about political salaries.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/political-salary-review-debate-higher-pay-candidates-pm-wong-6375956"
+        "https://www.channelnewsasia.com/singapore/israel-death-penalty-visit-mha-6378526"
       ]
     },
     {
@@ -134,31 +125,43 @@
       ]
     },
     {
-      "headline": "Primary 1 registration: More Phase 2C places from 2027, new two-track scheme at 12 schools",
+      "headline": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
       "countries": [],
       "regions": [
-        "Asia"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "Most primary schools will set aside 60 places for Phase 2C, an increase from 40.",
+      "summary": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/p1-registration-phase-2c-two-track-schools-6375426"
+        "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Iran's government opposes parliamentary bill to expand definition of 'enemy infiltration'",
-      "countries": [
-        "Iran"
-      ],
+      "headline": "In a significant strategic gain, Houthis claim control of Yemen\u2019s entire Red Sea coastline",
+      "countries": [],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIran's government opposes parliamentary bill to expand definition of 'enemy infiltration'\n\n    \n    \n\n        \n    \n                Iran's government opposes a parliamentary bill that would impose tougher criminal penalties for activities deemed to constitute foreign influence or ",
+      "summary": "\n\n  \n      \n      \nIn a significant strategic gain, Houthis claim control of Yemen\u2019s entire Red Sea coastline\n\n    \n    \n\n        \n    \n                Houthi forces have swept through the last government-held stretch of Yemen\u2019s Red Sea coastline and taken control of the entire coast after an 18-hou",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/irans-government-opposes-parliamentary-bill-expand-definition-enemy"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/significant-strategic-gain-houthis-claim-control-yemens-entire-red-sea"
+      ]
+    },
+    {
+      "headline": "Woman in China accuses 4-year-old boy of touching her buttocks, sparking online firestorm",
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Surveillance footage shows the boy brushing against the woman as he runs behind her at a restaurant in Changsha.",
+      "links": [
+        "https://www.channelnewsasia.com/east-asia/china-woman-boy-touching-buttocks-online-debate-6378551"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-10 (extractive mode)\n\n* Royal family rift after popular TV news presenter chosen to succeed Ugandan king (BBC News, 2 outlets)\n* Uganda pulling out of Prince Harry's Invictus Games, says military chief (BBC News, 2 outlets)\n* Spanish intelligence warned of Ceuta mass crossing plans before surge (BBC News, 2 outlets)\n* Somalia: Somaliland Ready to Contribute Up to 2,000 Troops to Gaza Stabilisation Force, President Says (AllAfrica News: Latest, 1 outlets)\n* Woman sues Sheng Siong, employee after allegedly being hit by trolley carrying bags of rice at outlet (Latest News, 1 outlets)\n* Ali al-Taher: What Israel\u2019s 'operational control' of the hill really means for Hezbollah and Lebanon (Section Feed, 1 outlets)\n* Exclusive-UK deepens reliance on Musk's SpaceX, spending nearly $40 million on satellite services (Latest News, 1 outlets)\n* PAP government does not believe in using higher pay to entice candidates into politics: PM Wong (Latest News, 1 outlets)\n* 'You're not alone in the darkness': Gambia president urges calm after violent blackout protests (BBC News, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Primary 1 registration: More Phase 2C places from 2027, new two-track scheme at 12 schools (Latest News, 1 outlets)\n* Iran's government opposes parliamentary bill to expand definition of 'enemy infiltration' (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-09-11 (extractive mode)\n\n* Six Nigerians accused of romance scams to be extradited to the US (BBC News, 2 outlets)\n* More than 20 children killed in DR Congo school fire (BBC News, 2 outlets)\n* Nigeria: Coalition for Whistleblower Protection and Press Freedom (CWPPF) Condemns Attack On Journalists At APC Rally in Kano (AllAfrica News: Latest, 1 outlets)\n* Germany\u2019s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans (World | Deutsche Welle, 1 outlets)\n* South Africa: Hawks to Extradite Six Nigerians to US - South African News Briefs - September 11, 2026 (AllAfrica News: Latest, 1 outlets)\n* Jabaroot: Behind the hacker group's claim of a 70,000\u2011name leak in Morocco's police and intelligence (Section Feed, 1 outlets)\n* MHA refutes claims that the death penalty was discussed during visit by Israel's security ministry (Latest News, 1 outlets)\n* 'You're not alone in the darkness': Gambia president urges calm after violent blackout protests (BBC News, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt (BBC News, 1 outlets)\n* In a significant strategic gain, Houthis claim control of Yemen\u2019s entire Red Sea coastline (Section Feed, 1 outlets)\n* Woman in China accuses 4-year-old boy of touching her buttocks, sparking online firestorm (Latest News, 1 outlets)"
 }
