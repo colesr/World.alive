@@ -1,103 +1,96 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-11T11:54:42.319616+00:00",
-  "digest_words": 246,
+  "generated_at": "2026-09-12T11:21:05.574684+00:00",
+  "digest_words": 250,
   "clusters": [
     {
-      "headline": "Six Nigerians accused of romance scams to be extradited to the US",
-      "countries": [],
+      "headline": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "countries": [
+        "Kenya"
+      ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+      "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "More than 20 children killed in DR Congo school fire",
+      "headline": "Africa: African Development Bank Group and African Forum of Deposit Funds Enter Into New Alliance to Mobilize More Long-Term Financing",
       "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Nigeria: Coalition for Whistleblower Protection and Press Freedom (CWPPF) Condemns Attack On Journalists At APC Rally in Kano",
-      "countries": [
-        "Nigeria"
-      ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[CJID] Abuja, Nigeria -- The Coalition for Whistleblower Protection and Press Freedom (CWPPF) condemns the violent attack on five journalists and the destruction of a Radio Nigeria, Pyramid FM vehicle by suspected thugs during an All Progressives Congress (APC) rally in Kano State on Saturday, Septe",
+      "summary": "[African Development Bank (AfDB)] The African Development Bank Group and the members of the African Forum of Deposit Funds have agreed to strengthen their cooperation to mobilise more long-term financing for the continent's sustainable development. Through this strategic alliance, they aim to suppor",
       "links": [
-        "https://allafrica.com/stories/202609110014.html"
+        "https://allafrica.com/stories/202609100691.html"
       ]
     },
     {
-      "headline": "Germany\u2019s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans",
-      "countries": [
-        "Russia",
-        "Germany"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Canceled language exams, disrupted plans to study in Germany and the disappearance of an important cultural link: DW users shared how the closure of Germany's Goethe-Institut in Russia affects their lives.",
-      "links": [
-        "https://www.dw.com/en/germany-s-goethe-institut-is-closing-in-russia-russians-tell-dw-how-canceled-exams-are-upending-their-plans/a-79218936?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "South Africa: Hawks to Extradite Six Nigerians to US - South African News Briefs - September 11, 2026",
-      "countries": [
-        "South Africa"
-      ],
+      "headline": "Africa: TotalEnergies CAF Confederation Cup Preliminary Round Second Leg Fixtures Provide Enticing Battles Across the Continent",
+      "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "[CAF] The TotalEnergies CAF Confederation Cup 2026/27 First Preliminary Round moves into its decisive return legs this weekend, with clubs across the continent battling to keep alive their hopes of reaching the group stage.",
       "links": [
-        "https://allafrica.com/stories/202609110037.html"
+        "https://allafrica.com/stories/202609110558.html"
       ]
     },
     {
-      "headline": "Jabaroot: Behind the hacker group's claim of a 70,000\u2011name leak in Morocco's police and intelligence",
+      "headline": "Festival Of Thrills at RWS returns with Halloween Horror Nights, Minions live show, racing experiences and more",
       "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nJabaroot: Behind the hacker group's claim of a 70,000\u2011name leak in Morocco's police and intelligence\n\n    \n    \n\n          \n      \n      \n        Submitted by \nHugo Martin\n on \nFri, 09/11/2026 - 09:47\n\n        \n      \n    \n      \n    \n                Alleged breach raises security",
-      "links": [
-        "https://www.middleeasteye.net/news/jabaroot-behind-hacker-group-claim-70000%E2%80%91name-leak-Morocco-police-intelligence"
-      ]
-    },
-    {
-      "headline": "MHA refutes claims that the death penalty was discussed during visit by Israel's security ministry",
-      "countries": [
-        "Israel"
-      ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The Ministry of Home Affairs says discussions with the Israeli government involved the sharing of best practices in emergency response, crime prevention and forensics. Issues relating to the death penalty \u201cwere never part of the meeting and were not discussed\u201d.&nbsp;\n&nbsp;",
+      "summary": "Festival Of Thrills will run till Nov 1 at Resorts World Sentosa and comprises numerous activities and experiences.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/israel-death-penalty-visit-mha-6378526"
+        "https://www.channelnewsasia.com/entertainment/festival-thrills-resorts-world-sentosa-2026-6379881"
+      ]
+    },
+    {
+      "headline": "Malaysia\u2019s Islamist party PAS criticised over latest proposal to reserve Cabinet roles for Muslims",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "A lawmaker has called the proposal \u201cdivisive\u201d, while a major interfaith group raised constitutional concerns and framed it as part of a wider push by Parti Islam Se-Malaysia (PAS) for a theocratic Islamic state.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/malaysia-pas-hadi-muslim-cabinet-roles-criticism-6380086"
+      ]
+    },
+    {
+      "headline": "Kenya: Finance Should Work Around How Customers Actually Earn, says Watu Kenya's Damien Gueroult",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica] Watu Kenya Country Manager Damien Gueroult says serving customers outside traditional banking starts with understanding how they earn, what they use financing for and what it takes to lend sustainably.",
+      "links": [
+        "https://allafrica.com/stories/202609110498.html"
+      ]
+    },
+    {
+      "headline": "Gambia: 112 Victims Received Full Compensation As Government Spends D24.8 Million On Reparations",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Foroyaa] Justice Minister Dawda Jallow has told the National Assembly that the Government of the Gambia has so far paid twenty-four million eight hundred thousand dalasi (D24.8 million) in compensation to victims of human rights violations committed during the Yahya Jammeh era.",
+      "links": [
+        "https://allafrica.com/stories/202609110335.html"
       ]
     },
     {
@@ -125,43 +118,43 @@
       ]
     },
     {
-      "headline": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "headline": "Police warn of rise in unauthorised cryptocurrency account access through compromised emails",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Several of the email accounts involved had previously appeared in data breaches on other platforms, the police said.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/cryptocurrency-unauthorised-access-compromised-emails-data-breach-scams-6380001"
+      ]
+    },
+    {
+      "headline": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
       "countries": [],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+      "summary": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "In a significant strategic gain, Houthis claim control of Yemen\u2019s entire Red Sea coastline",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIn a significant strategic gain, Houthis claim control of Yemen\u2019s entire Red Sea coastline\n\n    \n    \n\n        \n    \n                Houthi forces have swept through the last government-held stretch of Yemen\u2019s Red Sea coastline and taken control of the entire coast after an 18-hou",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/significant-strategic-gain-houthis-claim-control-yemens-entire-red-sea"
-      ]
-    },
-    {
-      "headline": "Woman in China accuses 4-year-old boy of touching her buttocks, sparking online firestorm",
+      "headline": "Ethiopia: Ethiopia Reaffirms Reform Momentum, Brics Commitment At Finance Leaders' Meeting",
       "countries": [
-        "China"
+        "Ethiopia"
       ],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "Surveillance footage shows the boy brushing against the woman as he runs behind her at a restaurant in Changsha.",
+      "summary": "[ENA] Addis Ababa -- Ethiopia has reaffirmed its commitment to advancing economic reforms and contributing to BRICS' shared financial agenda, as its delegation participated in the Second BRICS Finance Ministers and Central Bank Governors (FMCBG) Meeting in Mumbai, India.",
       "links": [
-        "https://www.channelnewsasia.com/east-asia/china-woman-boy-touching-buttocks-online-debate-6378551"
+        "https://allafrica.com/stories/202609110568.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-11 (extractive mode)\n\n* Six Nigerians accused of romance scams to be extradited to the US (BBC News, 2 outlets)\n* More than 20 children killed in DR Congo school fire (BBC News, 2 outlets)\n* Nigeria: Coalition for Whistleblower Protection and Press Freedom (CWPPF) Condemns Attack On Journalists At APC Rally in Kano (AllAfrica News: Latest, 1 outlets)\n* Germany\u2019s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans (World | Deutsche Welle, 1 outlets)\n* South Africa: Hawks to Extradite Six Nigerians to US - South African News Briefs - September 11, 2026 (AllAfrica News: Latest, 1 outlets)\n* Jabaroot: Behind the hacker group's claim of a 70,000\u2011name leak in Morocco's police and intelligence (Section Feed, 1 outlets)\n* MHA refutes claims that the death penalty was discussed during visit by Israel's security ministry (Latest News, 1 outlets)\n* 'You're not alone in the darkness': Gambia president urges calm after violent blackout protests (BBC News, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt (BBC News, 1 outlets)\n* In a significant strategic gain, Houthis claim control of Yemen\u2019s entire Red Sea coastline (Section Feed, 1 outlets)\n* Woman in China accuses 4-year-old boy of touching her buttocks, sparking online firestorm (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-09-12 (extractive mode)\n\n* 'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders (BBC News, 2 outlets)\n* Africa: African Development Bank Group and African Forum of Deposit Funds Enter Into New Alliance to Mobilize More Long-Term Financing (AllAfrica News: Latest, 1 outlets)\n* Africa: TotalEnergies CAF Confederation Cup Preliminary Round Second Leg Fixtures Provide Enticing Battles Across the Continent (AllAfrica News: Latest, 1 outlets)\n* Festival Of Thrills at RWS returns with Halloween Horror Nights, Minions live show, racing experiences and more (Latest News, 1 outlets)\n* Malaysia\u2019s Islamist party PAS criticised over latest proposal to reserve Cabinet roles for Muslims (Latest News, 1 outlets)\n* Kenya: Finance Should Work Around How Customers Actually Earn, says Watu Kenya's Damien Gueroult (AllAfrica News: Latest, 1 outlets)\n* Gambia: 112 Victims Received Full Compensation As Government Spends D24.8 Million On Reparations (AllAfrica News: Latest, 1 outlets)\n* 'You're not alone in the darkness': Gambia president urges calm after violent blackout protests (BBC News, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Police warn of rise in unauthorised cryptocurrency account access through compromised emails (Latest News, 1 outlets)\n* When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all (BBC News, 1 outlets)\n* Ethiopia: Ethiopia Reaffirms Reform Momentum, Brics Commitment At Finance Leaders' Meeting (AllAfrica News: Latest, 1 outlets)"
 }
