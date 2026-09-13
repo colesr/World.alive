@@ -1,70 +1,49 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-12T11:21:05.574684+00:00",
-  "digest_words": 250,
+  "generated_at": "2026-09-13T12:25:19.068772+00:00",
+  "digest_words": 237,
   "clusters": [
     {
-      "headline": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "headline": "Houthi missiles target military base in Saudi Arabia as Iraq probes drone attack on oil pipeline",
       "countries": [
-        "Kenya"
+        "Saudi Arabia"
       ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nHouthi missiles target military base in Saudi Arabia as Iraq probes drone attack on oil pipeline\n\n    \n    \n\n        \n    \n                Yemen's&nbsp;Houthi group on Sunday&nbsp;claimed&nbsp;that it had launched a ballistic missile and drone attack on a Saudi military base, as f",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-missiles-target-military-base-saudi-arabia-iraq-probes-drone",
+        "https://www.middleeasteye.net/news/houthis-target-saudi-base-iraq-probes-drone-attack-oil-pipeline"
+      ]
+    },
+    {
+      "headline": "Uganda's King Oyo buried amid calls for unity over his successor",
+      "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
+      "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Africa: African Development Bank Group and African Forum of Deposit Funds Enter Into New Alliance to Mobilize More Long-Term Financing",
-      "countries": [],
+      "headline": "Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns",
+      "countries": [
+        "Nigeria"
+      ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[African Development Bank (AfDB)] The African Development Bank Group and the members of the African Forum of Deposit Funds have agreed to strengthen their cooperation to mobilise more long-term financing for the continent's sustainable development. Through this strategic alliance, they aim to suppor",
+      "summary": "[CyFrica] As Nigeria's digital economy accelerates towards an estimated $18.3 billion in 2026, the country is confronting an equally urgent challenge: protecting the digital infrastructure, data and financial ecosystems powering that growth.",
       "links": [
-        "https://allafrica.com/stories/202609100691.html"
-      ]
-    },
-    {
-      "headline": "Africa: TotalEnergies CAF Confederation Cup Preliminary Round Second Leg Fixtures Provide Enticing Battles Across the Continent",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[CAF] The TotalEnergies CAF Confederation Cup 2026/27 First Preliminary Round moves into its decisive return legs this weekend, with clubs across the continent battling to keep alive their hopes of reaching the group stage.",
-      "links": [
-        "https://allafrica.com/stories/202609110558.html"
-      ]
-    },
-    {
-      "headline": "Festival Of Thrills at RWS returns with Halloween Horror Nights, Minions live show, racing experiences and more",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Festival Of Thrills will run till Nov 1 at Resorts World Sentosa and comprises numerous activities and experiences.",
-      "links": [
-        "https://www.channelnewsasia.com/entertainment/festival-thrills-resorts-world-sentosa-2026-6379881"
-      ]
-    },
-    {
-      "headline": "Malaysia\u2019s Islamist party PAS criticised over latest proposal to reserve Cabinet roles for Muslims",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "A lawmaker has called the proposal \u201cdivisive\u201d, while a major interfaith group raised constitutional concerns and framed it as part of a wider push by Parti Islam Se-Malaysia (PAS) for a theocratic Islamic state.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/malaysia-pas-hadi-muslim-cabinet-roles-criticism-6380086"
+        "https://allafrica.com/stories/202609080569.html"
       ]
     },
     {
@@ -79,18 +58,6 @@
       "summary": "[allAfrica] Watu Kenya Country Manager Damien Gueroult says serving customers outside traditional banking starts with understanding how they earn, what they use financing for and what it takes to lend sustainably.",
       "links": [
         "https://allafrica.com/stories/202609110498.html"
-      ]
-    },
-    {
-      "headline": "Gambia: 112 Victims Received Full Compensation As Government Spends D24.8 Million On Reparations",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Foroyaa] Justice Minister Dawda Jallow has told the National Assembly that the Government of the Gambia has so far paid twenty-four million eight hundred thousand dalasi (D24.8 million) in compensation to victims of human rights violations committed during the Yahya Jammeh era.",
-      "links": [
-        "https://allafrica.com/stories/202609110335.html"
       ]
     },
     {
@@ -118,43 +85,84 @@
       ]
     },
     {
-      "headline": "Police warn of rise in unauthorised cryptocurrency account access through compromised emails",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Several of the email accounts involved had previously appeared in data breaches on other platforms, the police said.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/cryptocurrency-unauthorised-access-compromised-emails-data-breach-scams-6380001"
-      ]
-    },
-    {
-      "headline": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
+      "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
       "countries": [],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
+      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Ethiopia: Ethiopia Reaffirms Reform Momentum, Brics Commitment At Finance Leaders' Meeting",
+      "headline": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
       "countries": [
-        "Ethiopia"
+        "Russia",
+        "Ukraine"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "In Algeria, new focus on English in schools rekindles debate over French colonial legacy",
+      "countries": [
+        "France"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nIn Algeria, new focus on English in schools rekindles debate over French colonial legacy\n\n    \n    \n\n          \n      \n      \n        Submitted by \nTassa Adidi\n on \nFri, 09/04/2026 - 13:43\n\n        \n      \n    \n      \n    \n                Move to make English the first foreign lan",
+      "links": [
+        "https://www.middleeasteye.net/news/algeria-focus-english-schools-rekindles-debate-over-french-colonial-legacy"
+      ]
+    },
+    {
+      "headline": "Kenya: Govt Urges Asal Residents to Relocate From Flood-Prone Areas Ahead of Heavy Rains",
+      "countries": [
+        "Kenya"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[ENA] Addis Ababa -- Ethiopia has reaffirmed its commitment to advancing economic reforms and contributing to BRICS' shared financial agenda, as its delegation participated in the Second BRICS Finance Ministers and Central Bank Governors (FMCBG) Meeting in Mumbai, India.",
+      "summary": "[Capital FM] Nairobi -- The Government has intensified preparedness measures in arid and semi-arid lands (ASALs), urging communities living in flood-prone areas to relocate to safer ground ahead of anticipated heavy rains.",
       "links": [
-        "https://allafrica.com/stories/202609110568.html"
+        "https://allafrica.com/stories/202609110052.html"
+      ]
+    },
+    {
+      "headline": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "UKMTO's report of a projectile hitting a vessel as it moved through the Strait of Hormuz came the day after Saudi Arabia said it had temporarily closed its East-West pipeline as a precaution after a drone attack.",
+      "links": [
+        "https://www.channelnewsasia.com/world/attack-strait-hormuz-shipping-oil-6381001"
+      ]
+    },
+    {
+      "headline": "'BRICS' forum brings together emerging economies, aimed at countering western dominance",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "India hosts the 18th BRICS summit in New Delhi this weekend. BRICS is a grouping of major emerging markets and developing countries.",
+      "links": [
+        "https://www.npr.org/2026/09/12/nx-s1-5965777/brics-forum-brings-together-emerging-economies-aimed-at-countering-western-dominance"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-12 (extractive mode)\n\n* 'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders (BBC News, 2 outlets)\n* Africa: African Development Bank Group and African Forum of Deposit Funds Enter Into New Alliance to Mobilize More Long-Term Financing (AllAfrica News: Latest, 1 outlets)\n* Africa: TotalEnergies CAF Confederation Cup Preliminary Round Second Leg Fixtures Provide Enticing Battles Across the Continent (AllAfrica News: Latest, 1 outlets)\n* Festival Of Thrills at RWS returns with Halloween Horror Nights, Minions live show, racing experiences and more (Latest News, 1 outlets)\n* Malaysia\u2019s Islamist party PAS criticised over latest proposal to reserve Cabinet roles for Muslims (Latest News, 1 outlets)\n* Kenya: Finance Should Work Around How Customers Actually Earn, says Watu Kenya's Damien Gueroult (AllAfrica News: Latest, 1 outlets)\n* Gambia: 112 Victims Received Full Compensation As Government Spends D24.8 Million On Reparations (AllAfrica News: Latest, 1 outlets)\n* 'You're not alone in the darkness': Gambia president urges calm after violent blackout protests (BBC News, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Police warn of rise in unauthorised cryptocurrency account access through compromised emails (Latest News, 1 outlets)\n* When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all (BBC News, 1 outlets)\n* Ethiopia: Ethiopia Reaffirms Reform Momentum, Brics Commitment At Finance Leaders' Meeting (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-09-13 (extractive mode)\n\n* Houthi missiles target military base in Saudi Arabia as Iraq probes drone attack on oil pipeline (Section Feed, 2 outlets)\n* Uganda's King Oyo buried amid calls for unity over his successor (BBC News, 2 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* Kenya: Finance Should Work Around How Customers Actually Earn, says Watu Kenya's Damien Gueroult (AllAfrica News: Latest, 1 outlets)\n* 'You're not alone in the darkness': Gambia president urges calm after violent blackout protests (BBC News, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC (BBC News, 1 outlets)\n* Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat (BBC News, 1 outlets)\n* In Algeria, new focus on English in schools rekindles debate over French colonial legacy (Section Feed, 1 outlets)\n* Kenya: Govt Urges Asal Residents to Relocate From Flood-Prone Areas Ahead of Heavy Rains (AllAfrica News: Latest, 1 outlets)\n* New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies (Latest News, 1 outlets)\n* 'BRICS' forum brings together emerging economies, aimed at countering western dominance (NPR Topics: World, 1 outlets)"
 }
