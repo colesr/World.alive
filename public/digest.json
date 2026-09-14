@@ -1,35 +1,33 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-13T12:25:19.068772+00:00",
-  "digest_words": 237,
+  "generated_at": "2026-09-14T13:27:14.302950+00:00",
+  "digest_words": 241,
   "clusters": [
     {
-      "headline": "Houthi missiles target military base in Saudi Arabia as Iraq probes drone attack on oil pipeline",
-      "countries": [
-        "Saudi Arabia"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nHouthi missiles target military base in Saudi Arabia as Iraq probes drone attack on oil pipeline\n\n    \n    \n\n        \n    \n                Yemen's&nbsp;Houthi group on Sunday&nbsp;claimed&nbsp;that it had launched a ballistic missile and drone attack on a Saudi military base, as f",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-missiles-target-military-base-saudi-arabia-iraq-probes-drone",
-        "https://www.middleeasteye.net/news/houthis-target-saudi-base-iraq-probes-drone-attack-oil-pipeline"
-      ]
-    },
-    {
-      "headline": "Uganda's King Oyo buried amid calls for unity over his successor",
+      "headline": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
+      "summary": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Can fractured pro-government forces stop the Houthi advance in Yemen?",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nCan fractured pro-government forces stop the Houthi advance in Yemen?\n\n    \n    \n\n        \n    \n                On 3 September, Houthi forces launched a heavy offensive against Yemen's internationally recognised government in the southern Hodeidah districts of Hays and Al-Khawkha,",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/can-fractured-pro-government-forces-stop-houthi-advance-yemen",
+        "https://www.middleeasteye.net/news/airstrikes-hit-houthi-targets-mocha-and-fierce-battles-are-ongoing-west-taiz"
       ]
     },
     {
@@ -47,7 +45,33 @@
       ]
     },
     {
-      "headline": "Kenya: Finance Should Work Around How Customers Actually Earn, says Watu Kenya's Damien Gueroult",
+      "headline": "\u2018Trading chaos for reliability\u2019: AI slowdown could mean stricter regulations and more testing, say experts",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "\u201cInstead of disruptive new models dropping every few weeks, existing tools will become faster, cheaper and far more consistent,\u201d says one AI startup founder.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/ai-slowdown-regulations-testing-chatgpt-claude-xai-6383491"
+      ]
+    },
+    {
+      "headline": "Man drove around Singapore with 'SMS blaster' that sent more than 10,000 phishing messages, gets jail",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "When he visited his sister while the device was in his car, he warned her about phishing messages targeting WhatsApp users.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/sms-blaster-phishing-message-scam-whatsapp-6383016"
+      ]
+    },
+    {
+      "headline": "Kenya: 'Women Are Not Afraid of Change' - Why Africa's Food Security Depends on Who Bears the Risk",
       "countries": [
         "Kenya"
       ],
@@ -55,21 +79,24 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica] Watu Kenya Country Manager Damien Gueroult says serving customers outside traditional banking starts with understanding how they earn, what they use financing for and what it takes to lend sustainably.",
+      "summary": "[allAfrica] For Africa's smallholder farmers, the next climate shock will not only test what they grow, but whether they have the resources to withstand a failed season.",
       "links": [
-        "https://allafrica.com/stories/202609110498.html"
+        "https://allafrica.com/stories/202609140136.html"
       ]
     },
     {
-      "headline": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
-      "countries": [],
+      "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "countries": [
+        "Russia",
+        "Ukraine"
+      ],
       "regions": [
-        "Africa"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
+      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -85,70 +112,19 @@
       ]
     },
     {
-      "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "countries": [],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "headline": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
       "countries": [
         "Russia",
-        "Ukraine"
+        "Ukraine",
+        "Poland"
       ],
       "regions": [
-        "Europe"
+        "Americas"
       ],
       "outlets": 1,
-      "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+      "summary": "A Russian drone struck a train near the Ukraine-Poland border shortly after senior visiting officials, including the former prime ministers of the U.K. and Sweden, passed through.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "In Algeria, new focus on English in schools rekindles debate over French colonial legacy",
-      "countries": [
-        "France"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIn Algeria, new focus on English in schools rekindles debate over French colonial legacy\n\n    \n    \n\n          \n      \n      \n        Submitted by \nTassa Adidi\n on \nFri, 09/04/2026 - 13:43\n\n        \n      \n    \n      \n    \n                Move to make English the first foreign lan",
-      "links": [
-        "https://www.middleeasteye.net/news/algeria-focus-english-schools-rekindles-debate-over-french-colonial-legacy"
-      ]
-    },
-    {
-      "headline": "Kenya: Govt Urges Asal Residents to Relocate From Flood-Prone Areas Ahead of Heavy Rains",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- The Government has intensified preparedness measures in arid and semi-arid lands (ASALs), urging communities living in flood-prone areas to relocate to safer ground ahead of anticipated heavy rains.",
-      "links": [
-        "https://allafrica.com/stories/202609110052.html"
-      ]
-    },
-    {
-      "headline": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "UKMTO's report of a projectile hitting a vessel as it moved through the Strait of Hormuz came the day after Saudi Arabia said it had temporarily closed its East-West pipeline as a precaution after a drone attack.",
-      "links": [
-        "https://www.channelnewsasia.com/world/attack-strait-hormuz-shipping-oil-6381001"
+        "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train"
       ]
     },
     {
@@ -162,7 +138,31 @@
       "links": [
         "https://www.npr.org/2026/09/12/nx-s1-5965777/brics-forum-brings-together-emerging-economies-aimed-at-countering-western-dominance"
       ]
+    },
+    {
+      "headline": "CPC increased oil exports by 22% in August after fewer attacks on tankers, sources say",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/business/cpc-increased-oil-exports-22-in-august-after-fewer-attacks-tankers-sources-say-6383276"
+      ]
+    },
+    {
+      "headline": "Africa: Old Global Order Must Change As Power Shifts to Emerging Economies - Guterres",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[UN News] UN Secretary-General Ant&#xf3;nio Guterres told leaders of a bloc of major emerging economies in New Delhi on Sunday that a more balanced global order requires an overhaul of the institutions built after the Second World War, including the UN Security Council.",
+      "links": [
+        "https://allafrica.com/stories/202609140046.html"
+      ]
     }
   ],
-  "narrative": "State of the World - 2026-09-13 (extractive mode)\n\n* Houthi missiles target military base in Saudi Arabia as Iraq probes drone attack on oil pipeline (Section Feed, 2 outlets)\n* Uganda's King Oyo buried amid calls for unity over his successor (BBC News, 2 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* Kenya: Finance Should Work Around How Customers Actually Earn, says Watu Kenya's Damien Gueroult (AllAfrica News: Latest, 1 outlets)\n* 'You're not alone in the darkness': Gambia president urges calm after violent blackout protests (BBC News, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC (BBC News, 1 outlets)\n* Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat (BBC News, 1 outlets)\n* In Algeria, new focus on English in schools rekindles debate over French colonial legacy (Section Feed, 1 outlets)\n* Kenya: Govt Urges Asal Residents to Relocate From Flood-Prone Areas Ahead of Heavy Rains (AllAfrica News: Latest, 1 outlets)\n* New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies (Latest News, 1 outlets)\n* 'BRICS' forum brings together emerging economies, aimed at countering western dominance (NPR Topics: World, 1 outlets)"
+  "narrative": "State of the World - 2026-09-14 (extractive mode)\n\n* Zambians warned not to eat dead wildlife after anthrax kills dozens of animals (BBC News, 2 outlets)\n* Can fractured pro-government forces stop the Houthi advance in Yemen? (Section Feed, 2 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* \u2018Trading chaos for reliability\u2019: AI slowdown could mean stricter regulations and more testing, say experts (Latest News, 1 outlets)\n* Man drove around Singapore with 'SMS blaster' that sent more than 10,000 phishing messages, gets jail (Latest News, 1 outlets)\n* Kenya: 'Women Are Not Afraid of Change' - Why Africa's Food Security Depends on Who Bears the Risk (AllAfrica News: Latest, 1 outlets)\n* Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station (BBC News, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through (NPR Topics: World, 1 outlets)\n* 'BRICS' forum brings together emerging economies, aimed at countering western dominance (NPR Topics: World, 1 outlets)\n* CPC increased oil exports by 22% in August after fewer attacks on tankers, sources say (Latest News, 1 outlets)\n* Africa: Old Global Order Must Change As Power Shifts to Emerging Economies - Guterres (AllAfrica News: Latest, 1 outlets)"
 }
