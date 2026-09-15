@@ -1,33 +1,50 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-14T13:27:14.302950+00:00",
-  "digest_words": 241,
+  "generated_at": "2026-09-15T12:18:57.551347+00:00",
+  "digest_words": 238,
   "clusters": [
     {
-      "headline": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "headline": "Over 130 lawyers warn UK sanctions on Israeli settlements don't go far enough",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nOver 130 lawyers warn UK sanctions on Israeli settlements don't go far enough\n\n    \n    \n\n        \n    \n                More than 130 lawyers, former judges and legal academics have warned British Prime Minister Andy Burnham that sanctions announced last week by Foreign Secretary ",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/over-130-lawyers-warn-uk-sanctions-israeli-settlements-dont-go-far",
+        "https://www.middleeasteye.net/news/over-130-lawyers-warn-uk-sanctions-israeli-settlements-do-not-go-far-enough"
+      ]
+    },
+    {
+      "headline": "Palestinian citizens of Israel mobilise against settler outpost in Galilee",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nPalestinian citizens of Israel mobilise against settler outpost in Galilee\n\n    \n    \n\n        \n    \n                Palestinian&nbsp;citizens of&nbsp;Israel&nbsp;have begun daily protests against an outpost established by settlers from the&nbsp;occupied&nbsp;West Bank in the hear",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-citizens-israel-mobilise-against-settler-outpost-galilee",
+        "https://www.middleeasteye.net/news/palestinian-citizens-israel-mobilise-against-settler-outpost-galilee"
+      ]
+    },
+    {
+      "headline": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
+      "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Can fractured pro-government forces stop the Houthi advance in Yemen?",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nCan fractured pro-government forces stop the Houthi advance in Yemen?\n\n    \n    \n\n        \n    \n                On 3 September, Houthi forces launched a heavy offensive against Yemen's internationally recognised government in the southern Hodeidah districts of Hays and Al-Khawkha,",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/can-fractured-pro-government-forces-stop-houthi-advance-yemen",
-        "https://www.middleeasteye.net/news/airstrikes-hit-houthi-targets-mocha-and-fierce-battles-are-ongoing-west-taiz"
+        "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -45,58 +62,17 @@
       ]
     },
     {
-      "headline": "\u2018Trading chaos for reliability\u2019: AI slowdown could mean stricter regulations and more testing, say experts",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "\u201cInstead of disruptive new models dropping every few weeks, existing tools will become faster, cheaper and far more consistent,\u201d says one AI startup founder.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/ai-slowdown-regulations-testing-chatgpt-claude-xai-6383491"
-      ]
-    },
-    {
-      "headline": "Man drove around Singapore with 'SMS blaster' that sent more than 10,000 phishing messages, gets jail",
+      "headline": "South Africa: Durban Refugees Relocated to Gauteng - South African News Briefs - September 15, 2026",
       "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "When he visited his sister while the device was in his car, he warned her about phishing messages targeting WhatsApp users.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/sms-blaster-phishing-message-scam-whatsapp-6383016"
-      ]
-    },
-    {
-      "headline": "Kenya: 'Women Are Not Afraid of Change' - Why Africa's Food Security Depends on Who Bears the Risk",
-      "countries": [
-        "Kenya"
+        "South Africa"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica] For Africa's smallholder farmers, the next climate shock will not only test what they grow, but whether they have the resources to withstand a failed season.",
+      "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202609140136.html"
-      ]
-    },
-    {
-      "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "countries": [
-        "Russia",
-        "Ukraine"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202609150115.html"
       ]
     },
     {
@@ -112,35 +88,60 @@
       ]
     },
     {
-      "headline": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
+      "headline": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
       "countries": [
-        "Russia",
-        "Ukraine",
-        "Poland"
+        "United States",
+        "Russia"
       ],
       "regions": [
-        "Americas"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "A Russian drone struck a train near the Ukraine-Poland border shortly after senior visiting officials, including the former prime ministers of the U.K. and Sweden, passed through.",
+      "summary": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
       "links": [
-        "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train"
+        "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "'BRICS' forum brings together emerging economies, aimed at countering western dominance",
+      "headline": "Amazon's AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage",
+      "countries": [
+        "UAE"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/business/amazons-aws-unable-restore-access-bahrain-one-uae-cloud-data-zone-after-war-damage-6385996"
+      ]
+    },
+    {
+      "headline": "Creativity, confidence and a DSA edge: Why parents are investing in children\u2019s art classes",
       "countries": [],
       "regions": [
-        "Americas"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "India hosts the 18th BRICS summit in New Delhi this weekend. BRICS is a grouping of major emerging markets and developing countries.",
+      "summary": "Enrichment providers say families are increasingly looking to art to develop creativity, confidence and communication skills.",
       "links": [
-        "https://www.npr.org/2026/09/12/nx-s1-5965777/brics-forum-brings-together-emerging-economies-aimed-at-countering-western-dominance"
+        "https://www.channelnewsasia.com/singapore/art-enrichment-classes-parents-build-children-creativity-confidence-dsa-6385631"
       ]
     },
     {
-      "headline": "CPC increased oil exports by 22% in August after fewer attacks on tankers, sources say",
+      "headline": "CNA Explains: Why AI leaders are calling for a slowdown \u2013 and what makes it so difficult",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "One expert says getting companies and countries to slow the AI race could be even harder than negotiating the nuclear arms treaties of the Cold War.",
+      "links": [
+        "https://www.channelnewsasia.com/world/ai-slowdown-dangers-cna-explains-6385551"
+      ]
+    },
+    {
+      "headline": "Games-Asiad organisers pledge to address accommodation complaints as cruise ship arrives",
       "countries": [],
       "regions": [
         "Asia"
@@ -148,21 +149,23 @@
       "outlets": 1,
       "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/business/cpc-increased-oil-exports-22-in-august-after-fewer-attacks-tankers-sources-say-6383276"
+        "https://www.channelnewsasia.com/sport/games-asiad-organisers-pledge-address-accommodation-complaints-cruise-ship-arrives-6385831"
       ]
     },
     {
-      "headline": "Africa: Old Global Order Must Change As Power Shifts to Emerging Economies - Guterres",
-      "countries": [],
+      "headline": "Netanyahu 'offers Israeli services' in 'comprehensive war' against Houthis, says report",
+      "countries": [
+        "Israel"
+      ],
       "regions": [
-        "Africa"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "[UN News] UN Secretary-General Ant&#xf3;nio Guterres told leaders of a bloc of major emerging economies in New Delhi on Sunday that a more balanced global order requires an overhaul of the institutions built after the Second World War, including the UN Security Council.",
+      "summary": "\n\n  \n      \n      \nNetanyahu 'offers Israeli services' in 'comprehensive war' against Houthis, says report\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nTue, 09/15/2026 - 09:31\n\n        \n      \n    \n      \n    \n                Al-Akhbar cites US diplomatic sources on Neta",
       "links": [
-        "https://allafrica.com/stories/202609140046.html"
+        "https://www.middleeasteye.net/news/netanyahu-offered-israels-services-participate-comprehensive-war-against-houthis-says-report"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-14 (extractive mode)\n\n* Zambians warned not to eat dead wildlife after anthrax kills dozens of animals (BBC News, 2 outlets)\n* Can fractured pro-government forces stop the Houthi advance in Yemen? (Section Feed, 2 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* \u2018Trading chaos for reliability\u2019: AI slowdown could mean stricter regulations and more testing, say experts (Latest News, 1 outlets)\n* Man drove around Singapore with 'SMS blaster' that sent more than 10,000 phishing messages, gets jail (Latest News, 1 outlets)\n* Kenya: 'Women Are Not Afraid of Change' - Why Africa's Food Security Depends on Who Bears the Risk (AllAfrica News: Latest, 1 outlets)\n* Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station (BBC News, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through (NPR Topics: World, 1 outlets)\n* 'BRICS' forum brings together emerging economies, aimed at countering western dominance (NPR Topics: World, 1 outlets)\n* CPC increased oil exports by 22% in August after fewer attacks on tankers, sources say (Latest News, 1 outlets)\n* Africa: Old Global Order Must Change As Power Shifts to Emerging Economies - Guterres (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-09-15 (extractive mode)\n\n* Over 130 lawyers warn UK sanctions on Israeli settlements don't go far enough (Section Feed, 2 outlets)\n* Palestinian citizens of Israel mobilise against settler outpost in Galilee (Section Feed, 2 outlets)\n* Wild dogs record 2,500-mile trek across Zambia in search of a mate (BBC News, 2 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* South Africa: Durban Refugees Relocated to Gauteng - South African News Briefs - September 15, 2026 (AllAfrica News: Latest, 1 outlets)\n* 'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media (BBC News, 1 outlets)\n* Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift' (BBC News, 1 outlets)\n* Amazon's AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage (Latest News, 1 outlets)\n* Creativity, confidence and a DSA edge: Why parents are investing in children\u2019s art classes (Latest News, 1 outlets)\n* CNA Explains: Why AI leaders are calling for a slowdown \u2013 and what makes it so difficult (Latest News, 1 outlets)\n* Games-Asiad organisers pledge to address accommodation complaints as cruise ship arrives (Latest News, 1 outlets)\n* Netanyahu 'offers Israeli services' in 'comprehensive war' against Houthis, says report (Section Feed, 1 outlets)"
 }
