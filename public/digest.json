@@ -1,8 +1,22 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-17T12:17:18.249041+00:00",
-  "digest_words": 234,
+  "generated_at": "2026-09-18T11:57:13.048345+00:00",
+  "digest_words": 243,
   "clusters": [
+    {
+      "headline": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss"
+      ]
+    },
     {
       "headline": "Ninth woman's body found as South African police investigate string of deaths",
       "countries": [
@@ -20,104 +34,73 @@
       ]
     },
     {
-      "headline": "Congo-Brazzaville: Congo's Ebola Epidemic May Have Gone Undetected for Months",
-      "countries": [],
+      "headline": "Dozens of suspected illegal miners die in Nigerian custody",
+      "countries": [
+        "Nigeria"
+      ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "[DW] The deadliest Ebola outbreak on record in the Democratic Republic of Congo may have begun months before it was first declared in May.",
+      "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
       "links": [
-        "https://allafrica.com/stories/202609170083.html",
-        "https://www.dw.com/en/congo-s-ebola-epidemic-may-have-gone-undetected-for-months/a-79281803?maca=en-rss-en-world-4025-rdf"
+        "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Netanyahu calls to strip citizenship of those who 'defame' Israeli army",
-      "countries": [
-        "Israel"
-      ],
+      "headline": "Africa: Unstoppable Africa 2026 to Bring African and Global CEOs and Leaders to Drive Investment and Growth Across The Continent",
+      "countries": [],
       "regions": [
-        "Middle East"
+        "Africa"
       ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nNetanyahu calls to strip citizenship of those who 'defame' Israeli army\n\n    \n    \n\n        \n    \n                Israeli&nbsp;Prime Minister Benjamin Netanyahu has called for the stripping of citizenship from those who \"defame\" the Israeli army.\n\nHis comments reflect anger from t",
+      "outlets": 1,
+      "summary": "[Global Compact] More than 2,000 African and global business leaders plus heads of state will gather in New York on September 20-21 for Unstoppable Africa, flagship event of the Global Africa Business Initiative (GABI).",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-calls-strip-citizenship-those-who-defame-israeli-army",
-        "https://www.middleeasteye.net/news/netanyahu-calls-defame-army-have-israeli-citizenship-stripped"
+        "https://allafrica.com/stories/202609110459.html"
       ]
     },
     {
-      "headline": "Abducted South African journalist found dead with gunshot wounds",
+      "headline": "Najib\u2019s house arrest puts Malaysia in \u2018uncharted\u2019 legal territory, poses political challenge for PM Anwar",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Former PM Najib Razak is likely the first convicted prisoner in Malaysia to have his sentence commuted to house arrest, experts say, adding that the move could pose a challenge for incumbent Anwar Ibrahim, given his anti-corruption pledge.\n\n&nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/asia/malaysia-najib-razak-house-arrest-pardon-politics-legal-implications-6394466"
+      ]
+    },
+    {
+      "headline": "South Africa: South Africa Stands Behind Grieving Families, Conveys Condolences - President Ramaphosa",
       "countries": [
         "South Africa"
       ],
       "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The body of veteran broadcaster Owen Ndlovu was found hours after armed men kidnapped him near Johannesburg.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Africa: African Development Bank and Korea's National Information Society Agency Deepen Partnership On Africa's Ai and Digital Transformation",
-      "countries": [],
-      "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[African Development Bank (AfDB)] The African Development Bank and the Korean National Information Society Agency (NIA) signed a letter of intent on Wednesday, laying the groundwork for an expanded partnership to promote artificial intelligence (AI) and digital transformation across Africa.",
+      "summary": "[SAnews.gov.za] President Cyril Ramaphosa has assured families who are grieving their loved ones that the nation stands with them.",
       "links": [
-        "https://allafrica.com/stories/202609160742.html"
+        "https://allafrica.com/stories/202609180081.html"
       ]
     },
     {
-      "headline": "Ethiopia: 16 Killed, More Than 16 Women and Children Abducted in Armed Attack in Gurage Zone, Residents Say",
-      "countries": [
-        "Ethiopia"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Addis Standard] Addis Abeba -- At least 16 civilians were killed and more than 16 women and children were abducted during an armed attack in Abeshige District of the Gurage Zone in Central Ethiopia Regional State on Monday night, according to residents who spoke to Addis Standard.",
-      "links": [
-        "https://allafrica.com/stories/202609170047.html"
-      ]
-    },
-    {
-      "headline": "Inter-agency task force proposes fee caps for all disability services, more families to receive subsidies",
+      "headline": "UK settlements ban: How conspiracy theory accusing Burnham of courting 'Islamist voters' went global",
       "countries": [],
       "regions": [
-        "Asia"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "The disability task force also called for stronger support for persons with higher needs, who typically face higher costs.",
+      "summary": "\n\n  \n      \n      \nUK settlements ban: How conspiracy theory accusing Burnham of courting 'Islamist voters' went global\n\n    \n    \n\n          \n      \n      \n        Submitted by \nPeter Oborne\n on \nThu, 09/17/2026 - 13:19\n\n        \n      \n    \n      \n    \n                Right-wing UK politicians hav",
       "links": [
-        "https://www.channelnewsasia.com/singapore/disability-task-force-fee-caps-subsidies-recommendations-6390011"
+        "https://www.middleeasteye.net/news/uk-settlements-ban-how-conspiracy-theory-accusing-burnham-courting-islamist-voters-went-global"
       ]
     },
     {
-      "headline": "Thai monetary policy 'very, very\u00a0accommodative', no change to growth outlook, central bank official says",
-      "countries": [
-        "Thailand"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/thai-monetary-policy-very-very-accommodative-no-change-growth-outlook-central-bank-official-says-6391856"
-      ]
-    },
-    {
-      "headline": "South Africa: Ramaphosa Resting After Falling Ill - South African News Briefs - September 17, 2026",
+      "headline": "South Africa: South Africa Sees Rise in Mpox Cases - South African News Briefs - September 18, 2026",
       "countries": [
         "South Africa"
       ],
@@ -127,49 +110,59 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202609170073.html"
+        "https://allafrica.com/stories/202609180114.html"
       ]
     },
     {
-      "headline": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
+      "headline": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
       "countries": [
-        "Australia"
+        "Iran"
       ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "The government wants to reduce net overseas migration to 225,000 people by 2028.",
+      "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Israel trying to 'eliminate' living conditions for Palestinians in occupied West Bank: Report",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsrael trying to 'eliminate' living conditions for Palestinians in occupied West Bank: Report\n\n    \n    \n\n        \n    \n                Israel is systematically trying to \"eliminate\" living conditions for Palestinians in the occupied West Bank, according to a new report by a right",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israel-trying-eliminate-living-conditions-palestinians-occupied-west-0"
-      ]
-    },
-    {
-      "headline": "Equatorial Guinea: Facebook, TikTok Shut Down in Equatorial Guinea After VP Corruption Video",
+      "headline": "Uganda: Kisoro Residents Warned to Brace for Heavy Rains, Floods and Landslides Until 2027",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Leadership] Facebook and TikTok have been inaccessible in Equatorial Guinea for more than two weeks following the circulation of a video accusing the country's vice-president, Teodoro Nguema Obiang, of corruption.",
+      "summary": "[Nile Post] Residents of Kisoro District in southwestern Uganda have been warned to prepare for heavier rainfall, floods, landslides and lightning strikes expected to persist through 2027.",
       "links": [
-        "https://allafrica.com/stories/202609170067.html"
+        "https://allafrica.com/stories/202609180290.html"
+      ]
+    },
+    {
+      "headline": "Coroner rules death of 17-year-old boy who was pinned by basketball frame a misadventure",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Dunking and holding on to the rim are \u201cpart and parcel of the game\u201d and the basketball structure should easily have been able to withstand the forces involved, said the State Coroner.&nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/bedok-basketball-frame-fall-death-6394546"
+      ]
+    },
+    {
+      "headline": "CASE sees rise in complaints over pre-owned cars; mileage tampering among issues flagged",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Industry players say squeezed margins and the difficulty of selling high-mileage cars can tempt unscrupulous dealers to manipulate odometers.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/case-rise-complaints-pre-owned-cars-mileage-tampering-among-issues-flagged-6394571"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-17 (extractive mode)\n\n* Ninth woman's body found as South African police investigate string of deaths (BBC News, 2 outlets)\n* Congo-Brazzaville: Congo's Ebola Epidemic May Have Gone Undetected for Months (AllAfrica News: Latest, 2 outlets)\n* Netanyahu calls to strip citizenship of those who 'defame' Israeli army (Section Feed, 2 outlets)\n* Abducted South African journalist found dead with gunshot wounds (BBC News, 2 outlets)\n* Africa: African Development Bank and Korea's National Information Society Agency Deepen Partnership On Africa's Ai and Digital Transformation (AllAfrica News: Latest, 1 outlets)\n* Ethiopia: 16 Killed, More Than 16 Women and Children Abducted in Armed Attack in Gurage Zone, Residents Say (AllAfrica News: Latest, 1 outlets)\n* Inter-agency task force proposes fee caps for all disability services, more families to receive subsidies (Latest News, 1 outlets)\n* Thai monetary policy 'very, very\u00a0accommodative', no change to growth outlook, central bank official says (Latest News, 1 outlets)\n* South Africa: Ramaphosa Resting After Falling Ill - South African News Briefs - September 17, 2026 (AllAfrica News: Latest, 1 outlets)\n* International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown (BBC News, 1 outlets)\n* Israel trying to 'eliminate' living conditions for Palestinians in occupied West Bank: Report (Section Feed, 1 outlets)\n* Equatorial Guinea: Facebook, TikTok Shut Down in Equatorial Guinea After VP Corruption Video (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-09-18 (extractive mode)\n\n* 'This is our company': Nigerians show off oil wealth after share-buying frenzy (BBC News, 2 outlets)\n* Ninth woman's body found as South African police investigate string of deaths (BBC News, 2 outlets)\n* Dozens of suspected illegal miners die in Nigerian custody (BBC News, 2 outlets)\n* Africa: Unstoppable Africa 2026 to Bring African and Global CEOs and Leaders to Drive Investment and Growth Across The Continent (AllAfrica News: Latest, 1 outlets)\n* Najib\u2019s house arrest puts Malaysia in \u2018uncharted\u2019 legal territory, poses political challenge for PM Anwar (Latest News, 1 outlets)\n* South Africa: South Africa Stands Behind Grieving Families, Conveys Condolences - President Ramaphosa (AllAfrica News: Latest, 1 outlets)\n* UK settlements ban: How conspiracy theory accusing Burnham of courting 'Islamist voters' went global (Section Feed, 1 outlets)\n* South Africa: South Africa Sees Rise in Mpox Cases - South African News Briefs - September 18, 2026 (AllAfrica News: Latest, 1 outlets)\n* US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark (BBC News, 1 outlets)\n* Uganda: Kisoro Residents Warned to Brace for Heavy Rains, Floods and Landslides Until 2027 (AllAfrica News: Latest, 1 outlets)\n* Coroner rules death of 17-year-old boy who was pinned by basketball frame a misadventure (Latest News, 1 outlets)\n* CASE sees rise in complaints over pre-owned cars; mileage tampering among issues flagged (Latest News, 1 outlets)"
 }
