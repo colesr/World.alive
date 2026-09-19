@@ -1,106 +1,140 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-18T11:57:13.048345+00:00",
-  "digest_words": 243,
+  "generated_at": "2026-09-19T11:41:50.302150+00:00",
+  "digest_words": 227,
   "clusters": [
     {
-      "headline": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Ninth woman's body found as South African police investigate string of deaths",
+      "headline": "Death toll from Pakistan police headquarters attack rises to 31",
       "countries": [
-        "South Africa"
+        "Pakistan"
       ],
       "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Dozens of suspected illegal miners die in Nigerian custody",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Africa: Unstoppable Africa 2026 to Bring African and Global CEOs and Leaders to Drive Investment and Growth Across The Continent",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Global Compact] More than 2,000 African and global business leaders plus heads of state will gather in New York on September 20-21 for Unstoppable Africa, flagship event of the Global Africa Business Initiative (GABI).",
-      "links": [
-        "https://allafrica.com/stories/202609110459.html"
-      ]
-    },
-    {
-      "headline": "Najib\u2019s house arrest puts Malaysia in \u2018uncharted\u2019 legal territory, poses political challenge for PM Anwar",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Former PM Najib Razak is likely the first convicted prisoner in Malaysia to have his sentence commuted to house arrest, experts say, adding that the move could pose a challenge for incumbent Anwar Ibrahim, given his anti-corruption pledge.\n\n&nbsp;",
-      "links": [
-        "https://www.channelnewsasia.com/asia/malaysia-najib-razak-house-arrest-pardon-politics-legal-implications-6394466"
-      ]
-    },
-    {
-      "headline": "South Africa: South Africa Stands Behind Grieving Families, Conveys Condolences - President Ramaphosa",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[SAnews.gov.za] President Cyril Ramaphosa has assured families who are grieving their loved ones that the nation stands with them.",
-      "links": [
-        "https://allafrica.com/stories/202609180081.html"
-      ]
-    },
-    {
-      "headline": "UK settlements ban: How conspiracy theory accusing Burnham of courting 'Islamist voters' went global",
-      "countries": [],
-      "regions": [
+        "Asia",
         "Middle East"
       ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nUK settlements ban: How conspiracy theory accusing Burnham of courting 'Islamist voters' went global\n\n    \n    \n\n          \n      \n      \n        Submitted by \nPeter Oborne\n on \nThu, 09/17/2026 - 13:19\n\n        \n      \n    \n      \n    \n                Right-wing UK politicians hav",
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nDeath toll from Pakistan police headquarters attack rises to 31\n\n    \n    \n\n        \n    \n                The death toll from an explosion and gun attack at a police headquarters in northern Pakistan rose to at least 31, including 16 police personnel, a senior police official told",
       "links": [
-        "https://www.middleeasteye.net/news/uk-settlements-ban-how-conspiracy-theory-accusing-burnham-courting-islamist-voters-went-global"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-pakistan-police-headquarters-attack-rises-31",
+        "https://www.channelnewsasia.com/asia/pakistan-militant-attack-police-hq-death-toll-rises-6396396"
       ]
     },
     {
-      "headline": "South Africa: South Africa Sees Rise in Mpox Cases - South African News Briefs - September 18, 2026",
+      "headline": "Shots heard as police start moving migrants from Ceuta beaches",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Grim discoveries of murdered women spark fear in South Africa",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Trump signs Bill authorising sweeping Russia sanctions",
+      "countries": [
+        "United States",
+        "Russia"
+      ],
+      "regions": [
+        "Asia",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "It targets Moscow's so-called shadow fleet of tankers used to evade Western sanctions, and allows Trump the authority to impose tariffs of up to 100 per cent on major buyers of Russian oil and gas.",
+      "links": [
+        "https://www.channelnewsasia.com/world/trump-russia-us-sanctions-bill-6396521",
+        "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Singapore exploring Canada as potential energy source, anticipates further fuel disruptions from Middle East: Vivian Balakrishnan",
+      "countries": [
+        "Canada",
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Speaking after his visit to Ottawa, Dr Balakrishnan described Canada as an energy \"superpower\" in both fossil fuels and renewable energy.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/middle-east-fuel-disruption-canada-energy-source-balakrishnan-6396176"
+      ]
+    },
+    {
+      "headline": "Malaysia\u2019s Transport Minister Anthony Loke resigns over former PM Najib\u2019s conditional pardon, other DAP ministers to stay on",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The decision was reached during an emergency meeting of Democratic Action Party's central executive committee on Saturday (Sep 19), a day after Najib Razak\u2019s pardon was granted by the Malaysian king.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/dap-najib-pardon-emergency-meeting-6396451"
+      ]
+    },
+    {
+      "headline": "Scammers are using AI to commit crimes at speed. How is Singapore police's new Cyber Command keeping up?",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Hackers are using AI to help write malicious code and find exploitable weaknesses, says a cybersecurity specialist with the Singapore Police Force's new Cyber Command.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/police-cyber-command-artificial-intelligence-scams-6394231"
+      ]
+    },
+    {
+      "headline": "Kenya: Nairobi Trade Fair Now Ready As Organisers, Security Teams Complete Final Preparations",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Capital FM] Nairobi -- Preparations for the 2026 Nairobi International Trade Fair have reached 99%, organisers said today, as officials completed an inspection of the Jamhuri Park Showground ahead of the week-long event scheduled for September 28 to October 4, 2026.",
+      "links": [
+        "https://allafrica.com/stories/202609180595.html"
+      ]
+    },
+    {
+      "headline": "Africa: Korea, African Development Bank Sign Deal to Launch Joint Ai Hub to Support Africa",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[African Development Bank (AfDB)] The African Development Bank Group and the Republic of Korea signed a Letter of Intent on 9 September in Seoul to establish a Korea-Africa Hub for artificial intelligence (AI) to support the responsible development, adoption and financing of AI technologies across A",
+      "links": [
+        "https://allafrica.com/stories/202609180673.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Pressure Grows As Organisations Picket Outside Kempton Park Police Station",
       "countries": [
         "South Africa"
       ],
@@ -108,61 +142,37 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "[Scrolla] A \"Picket for Justice,\" backed by FEDUSA, Contralesa, SANCO and dozens of other organisations, is taking place at Kempton Park police station today from 8am.   The picket is part of a full day of action, including a march to Church Square and a meeting with runners at the Union Buildings, ",
       "links": [
-        "https://allafrica.com/stories/202609180114.html"
+        "https://allafrica.com/stories/202609180404.html"
       ]
     },
     {
-      "headline": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Uganda: Kisoro Residents Warned to Brace for Heavy Rains, Floods and Landslides Until 2027",
+      "headline": "Uganda: Police Spent Shs59.3 Million to Transcribe Audio, Videos in Besigye Treason Case",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Nile Post] Residents of Kisoro District in southwestern Uganda have been warned to prepare for heavier rainfall, floods, landslides and lightning strikes expected to persist through 2027.",
+      "summary": "[Independent (Kampala)] Kampala -- The High Court in Kampala has heard that the Criminal Investigations Department of Police paid UGX 59,300,000 to Makerere University's Institute of Languages Project Account for transcription services of audios and videos arising from various meetings in which jail",
       "links": [
-        "https://allafrica.com/stories/202609180290.html"
+        "https://allafrica.com/stories/202609180318.html"
       ]
     },
     {
-      "headline": "Coroner rules death of 17-year-old boy who was pinned by basketball frame a misadventure",
-      "countries": [],
+      "headline": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
+      "countries": [
+        "United States"
+      ],
       "regions": [
-        "Asia"
+        "Americas"
       ],
       "outlets": 1,
-      "summary": "Dunking and holding on to the rim are \u201cpart and parcel of the game\u201d and the basketball structure should easily have been able to withstand the forces involved, said the State Coroner.&nbsp;",
+      "summary": "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice. And, recent lawsuits seek to keep armed federal officers away from polling sites.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/bedok-basketball-frame-fall-death-6394546"
-      ]
-    },
-    {
-      "headline": "CASE sees rise in complaints over pre-owned cars; mileage tampering among issues flagged",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Industry players say squeezed margins and the difficulty of selling high-mileage cars can tempt unscrupulous dealers to manipulate odometers.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/case-rise-complaints-pre-owned-cars-mileage-tampering-among-issues-flagged-6394571"
+        "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-18 (extractive mode)\n\n* 'This is our company': Nigerians show off oil wealth after share-buying frenzy (BBC News, 2 outlets)\n* Ninth woman's body found as South African police investigate string of deaths (BBC News, 2 outlets)\n* Dozens of suspected illegal miners die in Nigerian custody (BBC News, 2 outlets)\n* Africa: Unstoppable Africa 2026 to Bring African and Global CEOs and Leaders to Drive Investment and Growth Across The Continent (AllAfrica News: Latest, 1 outlets)\n* Najib\u2019s house arrest puts Malaysia in \u2018uncharted\u2019 legal territory, poses political challenge for PM Anwar (Latest News, 1 outlets)\n* South Africa: South Africa Stands Behind Grieving Families, Conveys Condolences - President Ramaphosa (AllAfrica News: Latest, 1 outlets)\n* UK settlements ban: How conspiracy theory accusing Burnham of courting 'Islamist voters' went global (Section Feed, 1 outlets)\n* South Africa: South Africa Sees Rise in Mpox Cases - South African News Briefs - September 18, 2026 (AllAfrica News: Latest, 1 outlets)\n* US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark (BBC News, 1 outlets)\n* Uganda: Kisoro Residents Warned to Brace for Heavy Rains, Floods and Landslides Until 2027 (AllAfrica News: Latest, 1 outlets)\n* Coroner rules death of 17-year-old boy who was pinned by basketball frame a misadventure (Latest News, 1 outlets)\n* CASE sees rise in complaints over pre-owned cars; mileage tampering among issues flagged (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-09-19 (extractive mode)\n\n* Death toll from Pakistan police headquarters attack rises to 31 (Section Feed, 2 outlets)\n* Shots heard as police start moving migrants from Ceuta beaches (BBC News, 2 outlets)\n* Grim discoveries of murdered women spark fear in South Africa (BBC News, 2 outlets)\n* Trump signs Bill authorising sweeping Russia sanctions (Latest News, 2 outlets)\n* Singapore exploring Canada as potential energy source, anticipates further fuel disruptions from Middle East: Vivian Balakrishnan (Latest News, 1 outlets)\n* Malaysia\u2019s Transport Minister Anthony Loke resigns over former PM Najib\u2019s conditional pardon, other DAP ministers to stay on (Latest News, 1 outlets)\n* Scammers are using AI to commit crimes at speed. How is Singapore police's new Cyber Command keeping up? (Latest News, 1 outlets)\n* Kenya: Nairobi Trade Fair Now Ready As Organisers, Security Teams Complete Final Preparations (AllAfrica News: Latest, 1 outlets)\n* Africa: Korea, African Development Bank Sign Deal to Launch Joint Ai Hub to Support Africa (AllAfrica News: Latest, 1 outlets)\n* South Africa: Pressure Grows As Organisations Picket Outside Kempton Park Police Station (AllAfrica News: Latest, 1 outlets)\n* Uganda: Police Spent Shs59.3 Million to Transcribe Audio, Videos in Besigye Treason Case (AllAfrica News: Latest, 1 outlets)\n* Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation (NPR Topics: World, 1 outlets)"
 }
