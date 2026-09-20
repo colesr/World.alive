@@ -1,38 +1,8 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-19T11:41:50.302150+00:00",
-  "digest_words": 227,
+  "generated_at": "2026-09-20T11:53:55.540394+00:00",
+  "digest_words": 236,
   "clusters": [
-    {
-      "headline": "Death toll from Pakistan police headquarters attack rises to 31",
-      "countries": [
-        "Pakistan"
-      ],
-      "regions": [
-        "Asia",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nDeath toll from Pakistan police headquarters attack rises to 31\n\n    \n    \n\n        \n    \n                The death toll from an explosion and gun attack at a police headquarters in northern Pakistan rose to at least 31, including 16 police personnel, a senior police official told",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-pakistan-police-headquarters-attack-rises-31",
-        "https://www.channelnewsasia.com/asia/pakistan-militant-attack-police-hq-death-toll-rises-6396396"
-      ]
-    },
-    {
-      "headline": "Shots heard as police start moving migrants from Ceuta beaches",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
     {
       "headline": "Grim discoveries of murdered women spark fear in South Africa",
       "countries": [
@@ -50,51 +20,21 @@
       ]
     },
     {
-      "headline": "Trump signs Bill authorising sweeping Russia sanctions",
+      "headline": "Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns",
       "countries": [
-        "United States",
-        "Russia"
+        "Nigeria"
       ],
       "regions": [
-        "Asia",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "It targets Moscow's so-called shadow fleet of tankers used to evade Western sanctions, and allows Trump the authority to impose tariffs of up to 100 per cent on major buyers of Russian oil and gas.",
-      "links": [
-        "https://www.channelnewsasia.com/world/trump-russia-us-sanctions-bill-6396521",
-        "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Singapore exploring Canada as potential energy source, anticipates further fuel disruptions from Middle East: Vivian Balakrishnan",
-      "countries": [
-        "Canada",
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "Speaking after his visit to Ottawa, Dr Balakrishnan described Canada as an energy \"superpower\" in both fossil fuels and renewable energy.",
+      "summary": "[CyFrica] As Nigeria's digital economy accelerates towards an estimated $18.3 billion in 2026, the country is confronting an equally urgent challenge: protecting the digital infrastructure, data and financial ecosystems powering that growth.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/middle-east-fuel-disruption-canada-energy-source-balakrishnan-6396176"
+        "https://allafrica.com/stories/202609080569.html"
       ]
     },
     {
-      "headline": "Malaysia\u2019s Transport Minister Anthony Loke resigns over former PM Najib\u2019s conditional pardon, other DAP ministers to stay on",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The decision was reached during an emergency meeting of Democratic Action Party's central executive committee on Saturday (Sep 19), a day after Najib Razak\u2019s pardon was granted by the Malaysian king.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/dap-najib-pardon-emergency-meeting-6396451"
-      ]
-    },
-    {
-      "headline": "Scammers are using AI to commit crimes at speed. How is Singapore police's new Cyber Command keeping up?",
+      "headline": "Singapore's Gan Ching Hwee clinches Asian Games silver in 1,500m freestyle, sets new national records",
       "countries": [
         "Singapore"
       ],
@@ -102,35 +42,49 @@
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Hackers are using AI to help write malicious code and find exploitable weaknesses, says a cybersecurity specialist with the Singapore Police Force's new Cyber Command.",
+      "summary": "This is Gan's first Asian Games medal.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/police-cyber-command-artificial-intelligence-scams-6394231"
+        "https://www.channelnewsasia.com/sport/gan-ching-hwee-silver-asian-games-singapore-6397311"
       ]
     },
     {
-      "headline": "Kenya: Nairobi Trade Fair Now Ready As Organisers, Security Teams Complete Final Preparations",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- Preparations for the 2026 Nairobi International Trade Fair have reached 99%, organisers said today, as officials completed an inspection of the Jamhuri Park Showground ahead of the week-long event scheduled for September 28 to October 4, 2026.",
-      "links": [
-        "https://allafrica.com/stories/202609180595.html"
-      ]
-    },
-    {
-      "headline": "Africa: Korea, African Development Bank Sign Deal to Launch Joint Ai Hub to Support Africa",
+      "headline": "Najib says unable to pay US$12.26m fine for house arrest pardon; assets 'not within his sole control'",
       "countries": [],
       "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "A statement released by the former Malaysian prime minister's legal team on Sunday (Sep 20) said a significant part of Najib Razak\u2019s assets, bank accounts and properties remained subject to freezing orders and enforcement proceedings by the government.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/najib-says-unable-pay-us1226m-fine-house-arrest-pardon-assets-not-within-his-sole-control-6397356"
+      ]
+    },
+    {
+      "headline": "\u2018Hyperzionism\u2019: How Germany\u2019s conflation of antisemitism and anti-Zionism allowed a far-right return",
+      "countries": [
+        "Germany"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \n\u2018Hyperzionism\u2019: How Germany\u2019s conflation of antisemitism and anti-Zionism allowed a far-right return\n\n    \n    \n\n          \n      \n      \n        Submitted by \nFleur Hargreaves\n on \nSat, 09/19/2026 - 09:02\n\n        \n      \n    \n      \n    \n                While Germany\u2019s far-right",
+      "links": [
+        "https://www.middleeasteye.net/news/hyperzionism-how-germanys-conflation-antisemitism-and-anti-zionism-allowed-far-right-gain"
+      ]
+    },
+    {
+      "headline": "South Africa: South Africa Sees Rise in Mpox Cases - South African News Briefs - September 18, 2026",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[African Development Bank (AfDB)] The African Development Bank Group and the Republic of Korea signed a Letter of Intent on 9 September in Seoul to establish a Korea-Africa Hub for artificial intelligence (AI) to support the responsible development, adoption and financing of AI technologies across A",
+      "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202609180673.html"
+        "https://allafrica.com/stories/202609180114.html"
       ]
     },
     {
@@ -160,19 +114,57 @@
       ]
     },
     {
-      "headline": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
+      "headline": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "countries": [
         "United States"
       ],
       "regions": [
-        "Americas"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice. And, recent lawsuits seek to keep armed federal officers away from polling sites.",
+      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "links": [
-        "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine"
+        "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Games-IOC chief Coventry gives thumbs-up to Asian Games accommodation despite criticism",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/sport/games-ioc-chief-coventry-gives-thumbs-up-asian-games-accommodation-despite-criticism-6397241"
+      ]
+    },
+    {
+      "headline": "Guinea: Guinea Bans France 24, Withdraws Jeune Afrique Correspondent's Accreditation",
+      "countries": [
+        "France"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[CPJ] Dakar -- The Committee to Protect Journalists calls on Guinean authorities to reverse Thursday's ban on France 24 after a presenter called President Mamadi Doumbouya a \"putschist president\" and to reinstate the accreditation of the pan-African weekly Jeune Afrique's Guinea correspondent Diawo ",
+      "links": [
+        "https://allafrica.com/stories/202609180518.html"
+      ]
+    },
+    {
+      "headline": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-19 (extractive mode)\n\n* Death toll from Pakistan police headquarters attack rises to 31 (Section Feed, 2 outlets)\n* Shots heard as police start moving migrants from Ceuta beaches (BBC News, 2 outlets)\n* Grim discoveries of murdered women spark fear in South Africa (BBC News, 2 outlets)\n* Trump signs Bill authorising sweeping Russia sanctions (Latest News, 2 outlets)\n* Singapore exploring Canada as potential energy source, anticipates further fuel disruptions from Middle East: Vivian Balakrishnan (Latest News, 1 outlets)\n* Malaysia\u2019s Transport Minister Anthony Loke resigns over former PM Najib\u2019s conditional pardon, other DAP ministers to stay on (Latest News, 1 outlets)\n* Scammers are using AI to commit crimes at speed. How is Singapore police's new Cyber Command keeping up? (Latest News, 1 outlets)\n* Kenya: Nairobi Trade Fair Now Ready As Organisers, Security Teams Complete Final Preparations (AllAfrica News: Latest, 1 outlets)\n* Africa: Korea, African Development Bank Sign Deal to Launch Joint Ai Hub to Support Africa (AllAfrica News: Latest, 1 outlets)\n* South Africa: Pressure Grows As Organisations Picket Outside Kempton Park Police Station (AllAfrica News: Latest, 1 outlets)\n* Uganda: Police Spent Shs59.3 Million to Transcribe Audio, Videos in Besigye Treason Case (AllAfrica News: Latest, 1 outlets)\n* Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation (NPR Topics: World, 1 outlets)"
+  "narrative": "State of the World - 2026-09-20 (extractive mode)\n\n* Grim discoveries of murdered women spark fear in South Africa (BBC News, 2 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* Singapore's Gan Ching Hwee clinches Asian Games silver in 1,500m freestyle, sets new national records (Latest News, 1 outlets)\n* Najib says unable to pay US$12.26m fine for house arrest pardon; assets 'not within his sole control' (Latest News, 1 outlets)\n* \u2018Hyperzionism\u2019: How Germany\u2019s conflation of antisemitism and anti-Zionism allowed a far-right return (Section Feed, 1 outlets)\n* South Africa: South Africa Sees Rise in Mpox Cases - South African News Briefs - September 18, 2026 (AllAfrica News: Latest, 1 outlets)\n* South Africa: Pressure Grows As Organisations Picket Outside Kempton Park Police Station (AllAfrica News: Latest, 1 outlets)\n* Uganda: Police Spent Shs59.3 Million to Transcribe Audio, Videos in Besigye Treason Case (AllAfrica News: Latest, 1 outlets)\n* Nato welcomes Greenland deal as Trump says it will give US 'permanent security control' (BBC News, 1 outlets)\n* Games-IOC chief Coventry gives thumbs-up to Asian Games accommodation despite criticism (Latest News, 1 outlets)\n* Guinea: Guinea Bans France 24, Withdraws Jeune Afrique Correspondent's Accreditation (AllAfrica News: Latest, 1 outlets)\n* Our head teacher was an abuser. We joined forces to get justice - now we're married (BBC News, 1 outlets)"
 }
