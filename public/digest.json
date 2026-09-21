@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-20T11:53:55.540394+00:00",
-  "digest_words": 236,
+  "generated_at": "2026-09-21T13:26:55.939197+00:00",
+  "digest_words": 233,
   "clusters": [
     {
-      "headline": "Grim discoveries of murdered women spark fear in South Africa",
+      "headline": "Three held over woman's murder as South Africa police investigate eight other body finds",
       "countries": [
         "South Africa"
       ],
@@ -13,158 +13,168 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns",
+      "headline": "Netanyahu tours tunnels beneath Al-Aqsa as Ben Gvir raids Jerusalem holy site",
       "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[CyFrica] As Nigeria's digital economy accelerates towards an estimated $18.3 billion in 2026, the country is confronting an equally urgent challenge: protecting the digital infrastructure, data and financial ecosystems powering that growth.",
-      "links": [
-        "https://allafrica.com/stories/202609080569.html"
-      ]
-    },
-    {
-      "headline": "Singapore's Gan Ching Hwee clinches Asian Games silver in 1,500m freestyle, sets new national records",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "This is Gan's first Asian Games medal.",
-      "links": [
-        "https://www.channelnewsasia.com/sport/gan-ching-hwee-silver-asian-games-singapore-6397311"
-      ]
-    },
-    {
-      "headline": "Najib says unable to pay US$12.26m fine for house arrest pardon; assets 'not within his sole control'",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "A statement released by the former Malaysian prime minister's legal team on Sunday (Sep 20) said a significant part of Najib Razak\u2019s assets, bank accounts and properties remained subject to freezing orders and enforcement proceedings by the government.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/najib-says-unable-pay-us1226m-fine-house-arrest-pardon-assets-not-within-his-sole-control-6397356"
-      ]
-    },
-    {
-      "headline": "\u2018Hyperzionism\u2019: How Germany\u2019s conflation of antisemitism and anti-Zionism allowed a far-right return",
-      "countries": [
-        "Germany"
+        "Israel"
       ],
       "regions": [
         "Middle East"
       ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \n\u2018Hyperzionism\u2019: How Germany\u2019s conflation of antisemitism and anti-Zionism allowed a far-right return\n\n    \n    \n\n          \n      \n      \n        Submitted by \nFleur Hargreaves\n on \nSat, 09/19/2026 - 09:02\n\n        \n      \n    \n      \n    \n                While Germany\u2019s far-right",
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nNetanyahu tours tunnels beneath Al-Aqsa as Ben Gvir raids Jerusalem holy site\n\n    \n    \n\n        \n    \n                Israeli Prime Minister Benjamin Netanyahu toured tunnels beneath Al-Aqsa Mosque as hundreds of Israeli settlers raided the Jerusalem holy site over the weekend.&",
       "links": [
-        "https://www.middleeasteye.net/news/hyperzionism-how-germanys-conflation-antisemitism-and-anti-zionism-allowed-far-right-gain"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-tours-tunnels-beneath-al-aqsa-ben-gvir-raids-jerusalem-holy",
+        "https://www.middleeasteye.net/news/netanyahu-tours-tunnels-beneath-al-aqsa-ben-gvir-raids-jerusalem-holy-site"
       ]
     },
     {
-      "headline": "South Africa: South Africa Sees Rise in Mpox Cases - South African News Briefs - September 18, 2026",
+      "headline": "Seven Ethiopian rebel groups form new alliance",
       "countries": [
-        "South Africa"
+        "Ethiopia"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "South Sudan: Egypt Says It Backs South Sudan's Fula Dam After Review, Renews Objections to Ethiopia's GERD",
+      "countries": [
+        "Egypt",
+        "Ethiopia"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "[Addis Standard] Addis Abeba -- Egypt has agreed to South Sudan's planned Grand Fula Dam after reviewing technical studies on the project, Egyptian Minister of Water Resources and Irrigation Hani Sewilam said, as Cairo simultaneously reiterated its objections to Ethiopia's unilateral operation of th",
       "links": [
-        "https://allafrica.com/stories/202609180114.html"
+        "https://allafrica.com/stories/202609210242.html"
       ]
     },
     {
-      "headline": "South Africa: Pressure Grows As Organisations Picket Outside Kempton Park Police Station",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Scrolla] A \"Picket for Justice,\" backed by FEDUSA, Contralesa, SANCO and dozens of other organisations, is taking place at Kempton Park police station today from 8am.   The picket is part of a full day of action, including a march to Church Square and a meeting with runners at the Union Buildings, ",
-      "links": [
-        "https://allafrica.com/stories/202609180404.html"
-      ]
-    },
-    {
-      "headline": "Uganda: Police Spent Shs59.3 Million to Transcribe Audio, Videos in Besigye Treason Case",
+      "headline": "Lindsay Clancy's ex-husband says he forgave her so he would not be 'eaten up inside forever'",
       "countries": [],
       "regions": [
-        "Africa"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "[Independent (Kampala)] Kampala -- The High Court in Kampala has heard that the Criminal Investigations Department of Police paid UGX 59,300,000 to Makerere University's Institute of Languages Project Account for transcription services of audios and videos arising from various meetings in which jail",
+      "summary": "Patrick Clancy gives his first interview since his wife's mistrial over the killing of their three young children.",
       "links": [
-        "https://allafrica.com/stories/202609180318.html"
+        "https://www.bbc.co.uk/news/articles/cq5yme200n8go?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "headline": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
       "countries": [
-        "United States"
+        "Russia"
       ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "summary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Games-IOC chief Coventry gives thumbs-up to Asian Games accommodation despite criticism",
-      "countries": [],
+      "headline": "Houthis push for control of Yemen highlands as Trump reported to have called off airstrikes",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "US President Donald Trump reportedly&nbsp;called off the airstrikes at the last minute, even as troops were loading bombs onto aircraft.",
+      "links": [
+        "https://www.channelnewsasia.com/world/houthis-fight-yemen-highlands-control-trump-airstrikes-6399591"
+      ]
+    },
+    {
+      "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "countries": [
+        "Germany"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Trump administration prepares sanctions against International Criminal Court, source says",
+      "countries": [
+        "United States"
+      ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
       "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/sport/games-ioc-chief-coventry-gives-thumbs-up-asian-games-accommodation-despite-criticism-6397241"
+        "https://www.channelnewsasia.com/world/us-sanction-international-criminal-court-trump-6397981"
       ]
     },
     {
-      "headline": "Guinea: Guinea Bans France 24, Withdraws Jeune Afrique Correspondent's Accreditation",
+      "headline": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
       "countries": [
-        "France"
+        "Indonesia"
       ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[CPJ] Dakar -- The Committee to Protect Journalists calls on Guinean authorities to reverse Thursday's ban on France 24 after a presenter called President Mamadi Doumbouya a \"putschist president\" and to reinstate the accreditation of the pan-African weekly Jeune Afrique's Guinea correspondent Diawo ",
-      "links": [
-        "https://allafrica.com/stories/202609180518.html"
-      ]
-    },
-    {
-      "headline": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-      "countries": [],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "summary": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Pro-Israel think tank urges Israel to weaponise US interdependence amid falling support",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nPro-Israel think tank urges Israel to weaponise US interdependence amid falling support\n\n    \n    \n\n          \n      \n      \n        Submitted by \nElis Gjevori\n on \nMon, 09/21/2026 - 11:10\n\n        \n      \n    \n      \n    \n                FDD urges Israel to bind itself closer to ",
+      "links": [
+        "https://www.middleeasteye.net/news/pro-israel-think-tank-urges-israel-weaponise-us-interdependence-amid-falling-american-support"
+      ]
+    },
+    {
+      "headline": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "This week, world leaders convene for the U.N. General Assembly as war continues in Ukraine and the Gulf. And, President Trump has proposed that his arch serve as a military complex.",
+      "links": [
+        "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-20 (extractive mode)\n\n* Grim discoveries of murdered women spark fear in South Africa (BBC News, 2 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* Singapore's Gan Ching Hwee clinches Asian Games silver in 1,500m freestyle, sets new national records (Latest News, 1 outlets)\n* Najib says unable to pay US$12.26m fine for house arrest pardon; assets 'not within his sole control' (Latest News, 1 outlets)\n* \u2018Hyperzionism\u2019: How Germany\u2019s conflation of antisemitism and anti-Zionism allowed a far-right return (Section Feed, 1 outlets)\n* South Africa: South Africa Sees Rise in Mpox Cases - South African News Briefs - September 18, 2026 (AllAfrica News: Latest, 1 outlets)\n* South Africa: Pressure Grows As Organisations Picket Outside Kempton Park Police Station (AllAfrica News: Latest, 1 outlets)\n* Uganda: Police Spent Shs59.3 Million to Transcribe Audio, Videos in Besigye Treason Case (AllAfrica News: Latest, 1 outlets)\n* Nato welcomes Greenland deal as Trump says it will give US 'permanent security control' (BBC News, 1 outlets)\n* Games-IOC chief Coventry gives thumbs-up to Asian Games accommodation despite criticism (Latest News, 1 outlets)\n* Guinea: Guinea Bans France 24, Withdraws Jeune Afrique Correspondent's Accreditation (AllAfrica News: Latest, 1 outlets)\n* Our head teacher was an abuser. We joined forces to get justice - now we're married (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-09-21 (extractive mode)\n\n* Three held over woman's murder as South Africa police investigate eight other body finds (BBC News, 2 outlets)\n* Netanyahu tours tunnels beneath Al-Aqsa as Ben Gvir raids Jerusalem holy site (Section Feed, 2 outlets)\n* Seven Ethiopian rebel groups form new alliance (BBC News, 2 outlets)\n* South Sudan: Egypt Says It Backs South Sudan's Fula Dam After Review, Renews Objections to Ethiopia's GERD (AllAfrica News: Latest, 1 outlets)\n* Lindsay Clancy's ex-husband says he forgave her so he would not be 'eaten up inside forever' (BBC News, 1 outlets)\n* Russia's elections had few surprises - but how the Kremlin uses the results will be crucial (BBC News, 1 outlets)\n* Houthis push for control of Yemen highlands as Trump reported to have called off airstrikes (Latest News, 1 outlets)\n* German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on (BBC News, 1 outlets)\n* Trump administration prepares sanctions against International Criminal Court, source says (Latest News, 1 outlets)\n* Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds (BBC News, 1 outlets)\n* Pro-Israel think tank urges Israel to weaponise US interdependence amid falling support (Section Feed, 1 outlets)\n* World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex' (NPR Topics: World, 1 outlets)"
 }
