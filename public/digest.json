@@ -1,171 +1,181 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-22T12:11:02.642152+00:00",
-  "digest_words": 254,
+  "generated_at": "2026-09-23T12:23:20.642291+00:00",
+  "digest_words": 250,
   "clusters": [
     {
-      "headline": "Ethiopia: UN Voices Concern Over Worsening Security Situation, Armed-Group Coalition and Drone Strikes in Ethiopia",
+      "headline": "Tigray forces seize main airport in northern Ethiopia from police, residents tell the BBC",
       "countries": [
         "Ethiopia"
       ],
       "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Addis Standard] Addis Abeba -- The United Nations has expressed deep concern over what it described as a worsening security situation in Ethiopia, citing the formation of a new coalition of armed groups, continued insecurity and reports of drone strikes.",
-      "links": [
-        "https://allafrica.com/stories/202609220093.html"
-      ]
-    },
-    {
-      "headline": "Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[CyFrica] As Nigeria's digital economy accelerates towards an estimated $18.3 billion in 2026, the country is confronting an equally urgent challenge: protecting the digital infrastructure, data and financial ecosystems powering that growth.",
-      "links": [
-        "https://allafrica.com/stories/202609080569.html"
-      ]
-    },
-    {
-      "headline": "Ethiopia: From Global South Solidarity to Economic Power - Transforming India-Ethiopia Ties Beyond Brics",
-      "countries": [
-        "India",
-        "Ethiopia"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Addis Standard] Addis Abeba -- The most overused phrase in contemporary diplomacy may also be one of its most important: the Global South. It appears in declarations, summits and speeches with increasing regularity. But  political vocabulary becomes meaningful only when it begins to alter economic ",
-      "links": [
-        "https://allafrica.com/stories/202609220094.html"
-      ]
-    },
-    {
-      "headline": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/three-out-four-americans-say-ai-firms-not-doing-enough-prevent-disaster-reutersipsos-poll-finds-6401991"
-      ]
-    },
-    {
-      "headline": "ASEAN aims to bring upgraded goods trade pact into force by end-2026, ahead of schedule: Gan Kim Yong",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The ASEAN Trade in Goods Agreement&nbsp;will simplify and clarify trade rules, making it easier for businesses to operate across ASEAN and facilitating greater intra-regional trade.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/gan-kim-yong-asean-atiga-trade-goods-agreement-2026-6401906"
-      ]
-    },
-    {
-      "headline": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "countries": [
-        "Russia"
-      ],
-      "regions": [
+        "Africa",
         "Europe"
       ],
-      "outlets": 1,
-      "summary": "Sinkevi\u010dius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+      "outlets": 2,
+      "summary": "There are fears of a return to war in the northern region as tensions between the government and TPLF escalate.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
-      "countries": [],
+      "headline": "How Ceuta, football and Israel are shaping Morocco's election",
+      "countries": [
+        "Israel"
+      ],
       "regions": [
+        "Africa",
         "Europe"
       ],
-      "outlets": 1,
-      "summary": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media.",
+      "outlets": 2,
+      "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Two charged with woman's murder as South Africa police investigate eight other body finds",
+      "headline": "Eleven killed in mass shooting at house in South Africa",
       "countries": [
         "South Africa"
       ],
       "regions": [
-        "Africa"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
+      "outlets": 2,
+      "summary": "One of those killed is believed to be a pregnant woman, police said.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "How Tollyjoy grew from a 100-worker Singapore factory to a regional brand over 55 years",
+      "headline": "Africa: All of Africa Today - September 23, 2026",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 2,
+      "summary": "[allAfrica] UN Chief Says Security Council Remains 'Unjust' Without Permanent African Seat",
+      "links": [
+        "https://allafrica.com/stories/202609230256.html",
+        "https://allafrica.com/stories/202609220182.html"
+      ]
+    },
+    {
+      "headline": "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor",
       "countries": [
-        "Singapore"
+        "Russia",
+        "Ukraine"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Food supplies to the town of Oleshky in the occupied part of the southern Kherson region have been cut off since May. Efforts by Kyiv to negotiate the evacuation of civilians with Moscow have been largely unsuccessful.",
+      "links": [
+        "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?",
+      "countries": [
+        "United States",
+        "China"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Do Trump's task force and a special envoy for artificial intelligence in the US indicate a move toward regulating this disputed technology, particularly vis-a-vis China?",
+      "links": [
+        "https://www.dw.com/en/us-china-ai-race-does-trump-want-to-regulate-ai-by-forming-a-new-task-force-and-a-special-envoy-for-artificial-intelligence-in-the-us/a-79372591?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Complaint filed in Paris against the Israeli army after the uprooting of centuries-old olive trees in Lebanon",
+      "countries": [
+        "France",
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nComplaint filed in Paris against the Israeli army after the uprooting of centuries-old olive trees in Lebanon\n\n    \n    \n\n        \n    \n                A French businessman born in Lebanon has filed a complaint against persons unknown for war crimes, targeting the Israeli army, wh",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/complaint-filed-paris-against-israeli-army-after-uprooting-centuries-old"
+      ]
+    },
+    {
+      "headline": "Africa: Corporate Council on Africa Announces C&#xf4;te d'Ivoire as Host of 2027 U.S.-Africa Business Summit",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Corporate Council on Africa] New York -- C&#xf4;te d'Ivoire will take center stage in the U.S.-Africa business relationship in 2027, as Corporate Council on Africa (CCA) today announced that the Republic of C&#xf4;te d'Ivoire will host the 2027 U.S.-Africa Business Summit.",
+      "links": [
+        "https://allafrica.com/stories/202609210835.html"
+      ]
+    },
+    {
+      "headline": "UK intends to remain open to Chinese investment while protecting national security: Trade minister",
+      "countries": [
+        "China"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Founded by Mr Tan Khung Ngee and his wife, Madam Tan Hong Keow, in 1971, the family business later passed to their son who had initially hoped to pursue medicine.",
+      "summary": "In an exclusive interview with CNA\u2019s Roland Lim, British Minister of State for Trade Anas Sarwar discusses London\u2019s push to balance its relationships with the United States and China while strengthening ties with Southeast Asia.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/tollyjoy-singapore-baby-care-brand-history-55-years-6401721"
+        "https://www.channelnewsasia.com/asia/uk-britain-chinese-investment-while-protecting-national-security-asean-anas-sarwar-6404816"
       ]
     },
     {
-      "headline": "Soaring living costs have many Nigerian couples rethinking the lavish wedding tradition",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Nigeria's lavish wedding tradition is colliding with a cost-of-living crisis, forcing young couples to rethink how they say \"I do.\"",
-      "links": [
-        "https://www.npr.org/2026/09/21/nx-s1-5909146/soaring-living-costs-have-many-nigerian-couples-rethinking-the-lavish-wedding-tradition"
-      ]
-    },
-    {
-      "headline": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "This week, world leaders convene for the U.N. General Assembly as war continues in Ukraine and the Gulf. And, President Trump has proposed that his arch serve as a military complex.",
-      "links": [
-        "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting"
-      ]
-    },
-    {
-      "headline": "Leaders set ambitious goals to better the world by 2030. They've made little progress",
+      "headline": "Sudan: Drone Strikes Destroy More Than 330,000 Learning Materials in Sudan's North Kordofan State",
       "countries": [],
       "regions": [
-        "Americas"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "In 2015, global leaders set ambitious goals to reduce inequality, end hunger and boost education. More than a decade later, the world is nowhere near achieving much of what was promised.",
+      "summary": "[Unicef] New York/Nairobi/Khartoum -- Drone strikes on two warehouses in Shikan locality, North Kordofan, on 20 September destroyed over 292,000 school textbooks, 40,000 Arabic Language and Mathematics Review Books, and other learning materials intended for distribution to children.",
       "links": [
-        "https://www.npr.org/2026/09/22/nx-s1-5975528/leaders-set-ambitious-goals-to-better-the-world-by-2030-theyve-made-little-progress"
+        "https://allafrica.com/stories/202609220447.html"
+      ]
+    },
+    {
+      "headline": "2 men charged with conspiring with ex-lawyer Jeffrey Ong to misappropriate millions of dollars",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "According to court records, the two men pleaded not guilty to their respective charges.&nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/two-men-charged-jeffrey-ong-court-crime-6404706"
+      ]
+    },
+    {
+      "headline": "French legal complaint says Israeli army uprooted and stole ancient olive trees from Lebanon",
+      "countries": [
+        "France",
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nFrench legal complaint says Israeli army uprooted and stole ancient olive trees from Lebanon\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nWed, 09/23/2026 - 11:43\n\n        \n      \n    \n      \n    \n                Unnamed French citizen says his family i",
+      "links": [
+        "https://www.middleeasteye.net/news/french-legal-complaint-says-israeli-army-uprooted-and-stole-600-year-old-olive-trees-lebanon"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-22 (extractive mode)\n\n* Ethiopia: UN Voices Concern Over Worsening Security Situation, Armed-Group Coalition and Drone Strikes in Ethiopia (AllAfrica News: Latest, 1 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* Ethiopia: From Global South Solidarity to Economic Power - Transforming India-Ethiopia Ties Beyond Brics (AllAfrica News: Latest, 1 outlets)\n* Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds (Latest News, 1 outlets)\n* ASEAN aims to bring upgraded goods trade pact into force by end-2026, ahead of schedule: Gan Kim Yong (Latest News, 1 outlets)\n* Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC (BBC News, 1 outlets)\n* Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer (BBC News, 1 outlets)\n* Two charged with woman's murder as South Africa police investigate eight other body finds (BBC News, 1 outlets)\n* How Tollyjoy grew from a 100-worker Singapore factory to a regional brand over 55 years (Latest News, 1 outlets)\n* Soaring living costs have many Nigerian couples rethinking the lavish wedding tradition (NPR Topics: World, 1 outlets)\n* World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex' (NPR Topics: World, 1 outlets)\n* Leaders set ambitious goals to better the world by 2030. They've made little progress (NPR Topics: World, 1 outlets)"
+  "narrative": "State of the World - 2026-09-23 (extractive mode)\n\n* Tigray forces seize main airport in northern Ethiopia from police, residents tell the BBC (BBC News, 2 outlets)\n* How Ceuta, football and Israel are shaping Morocco's election (BBC News, 2 outlets)\n* Eleven killed in mass shooting at house in South Africa (BBC News, 2 outlets)\n* Africa: All of Africa Today - September 23, 2026 (AllAfrica News: Latest, 2 outlets)\n* Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor (World | Deutsche Welle, 1 outlets)\n* US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US? (World | Deutsche Welle, 1 outlets)\n* Complaint filed in Paris against the Israeli army after the uprooting of centuries-old olive trees in Lebanon (Section Feed, 1 outlets)\n* Africa: Corporate Council on Africa Announces C&#xf4;te d'Ivoire as Host of 2027 U.S.-Africa Business Summit (AllAfrica News: Latest, 1 outlets)\n* UK intends to remain open to Chinese investment while protecting national security: Trade minister (Latest News, 1 outlets)\n* Sudan: Drone Strikes Destroy More Than 330,000 Learning Materials in Sudan's North Kordofan State (AllAfrica News: Latest, 1 outlets)\n* 2 men charged with conspiring with ex-lawyer Jeffrey Ong to misappropriate millions of dollars (Latest News, 1 outlets)\n* French legal complaint says Israeli army uprooted and stole ancient olive trees from Lebanon (Section Feed, 1 outlets)"
 }
