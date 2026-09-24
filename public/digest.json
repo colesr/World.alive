@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-23T12:23:20.642291+00:00",
-  "digest_words": 250,
+  "generated_at": "2026-09-24T12:22:57.343038+00:00",
+  "digest_words": 279,
   "clusters": [
     {
-      "headline": "Tigray forces seize main airport in northern Ethiopia from police, residents tell the BBC",
+      "headline": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
       "countries": [
         "Ethiopia"
       ],
@@ -13,26 +13,10 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "There are fears of a return to war in the northern region as tensions between the government and TPLF escalate.",
+      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
       "links": [
         "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
         "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "How Ceuta, football and Israel are shaping Morocco's election",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -52,19 +36,6 @@
       ]
     },
     {
-      "headline": "Africa: All of Africa Today - September 23, 2026",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 2,
-      "summary": "[allAfrica] UN Chief Says Security Council Remains 'Unjust' Without Permanent African Seat",
-      "links": [
-        "https://allafrica.com/stories/202609230256.html",
-        "https://allafrica.com/stories/202609220182.html"
-      ]
-    },
-    {
       "headline": "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor",
       "countries": [
         "Russia",
@@ -80,102 +51,126 @@
       ]
     },
     {
-      "headline": "US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?",
+      "headline": "Africa: Vaccination Rates Are Falling in Africa, but a New Strategy Aims to Turn Things Around. Five Things It Needs to Get Right",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[The Conversation Africa] Africa has reached an important moment in its immunisation journey. Coverage is not rising fast enough to keep pace with population growth, persistent inequities and a growing number of vaccines. At the same time, outbreaks and financing pressures are intensifying.",
+      "links": [
+        "https://allafrica.com/stories/202609240004.html"
+      ]
+    },
+    {
+      "headline": "Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Slovak Prime Minister Robert Fico says he fears war and will do everything he can to keep his country out of one. Critics say his remarks risk weakening NATO, the alliance that was designed to prevent such a war.",
+      "links": [
+        "https://www.dw.com/en/slovakia-pm-robert-fico-s-nato-article-5-remarks-spark-criticism-and-raise-questions-about-his-country-s-nato-commitment/a-79387050?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Man fails to prove money from then-girlfriend was given out of \u2018love and affection\u2019, ordered to repay S$321,000",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The High Court ordered a man to repay his former girlfriend more than S$320,000, finding that he was not a \u201ccredible witness\u201d.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/man-ordered-repay-money-girlfriend-high-court-civil-case-6407976"
+      ]
+    },
+    {
+      "headline": "Pakistan's jailed former PM Khan's sons told DW the authorities are cracking down ahead of new PTI protests",
       "countries": [
-        "United States",
-        "China"
+        "Pakistan"
       ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Do Trump's task force and a special envoy for artificial intelligence in the US indicate a move toward regulating this disputed technology, particularly vis-a-vis China?",
+      "summary": "The sons of jailed Pakistani ex-PM Imran Khan told DW their father is in ill health while being isolated from family and doctors. Other relatives have been detained ahead of a planned opposition protest.",
       "links": [
-        "https://www.dw.com/en/us-china-ai-race-does-trump-want-to-regulate-ai-by-forming-a-new-task-force-and-a-special-envoy-for-artificial-intelligence-in-the-us/a-79372591?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/pakistan-s-jailed-former-pm-khan-s-sons-told-dw-the-authorities-are-cracking-down-ahead-of-new-pti-protests/a-79392147?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Complaint filed in Paris against the Israeli army after the uprooting of centuries-old olive trees in Lebanon",
-      "countries": [
-        "France",
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nComplaint filed in Paris against the Israeli army after the uprooting of centuries-old olive trees in Lebanon\n\n    \n    \n\n        \n    \n                A French businessman born in Lebanon has filed a complaint against persons unknown for war crimes, targeting the Israeli army, wh",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/complaint-filed-paris-against-israeli-army-after-uprooting-centuries-old"
-      ]
-    },
-    {
-      "headline": "Africa: Corporate Council on Africa Announces C&#xf4;te d'Ivoire as Host of 2027 U.S.-Africa Business Summit",
+      "headline": "US judge blocks Trump ban of CNN, MS NOW, Politico from White House, orders him to restore access",
       "countries": [
         "United States"
       ],
       "regions": [
-        "Africa"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "[Corporate Council on Africa] New York -- C&#xf4;te d'Ivoire will take center stage in the U.S.-Africa business relationship in 2027, as Corporate Council on Africa (CCA) today announced that the Republic of C&#xf4;te d'Ivoire will host the 2027 U.S.-Africa Business Summit.",
+      "summary": "A judge has ordered President Trump to restore White House access to CNN, MS NOW and Politico after he banned the media outlets from the premises.",
       "links": [
-        "https://allafrica.com/stories/202609210835.html"
+        "https://www.dw.com/en/us-judge-blocks-trump-ban-of-cnn-ms-now-politico-from-white-house-orders-him-to-restore-access/a-79405693?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "UK intends to remain open to Chinese investment while protecting national security: Trade minister",
+      "headline": "New fighting in Ethiopia's Tigray region raises fears of a return to the country's civil war",
       "countries": [
-        "China"
+        "Ethiopia"
       ],
       "regions": [
-        "Asia"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "In an exclusive interview with CNA\u2019s Roland Lim, British Minister of State for Trade Anas Sarwar discusses London\u2019s push to balance its relationships with the United States and China while strengthening ties with Southeast Asia.",
+      "summary": "Fighting in and around Tigray is testing Ethiopia's fragile 2022 peace deal. With old enemies forming new alliances, experts warn that the conflict could enter a dangerous new phase.",
       "links": [
-        "https://www.channelnewsasia.com/asia/uk-britain-chinese-investment-while-protecting-national-security-asean-anas-sarwar-6404816"
+        "https://www.dw.com/en/new-fighting-in-ethiopia-s-tigray-region-raises-fears-of-a-return-to-the-country-s-civil-war/a-79400869?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Sudan: Drone Strikes Destroy More Than 330,000 Learning Materials in Sudan's North Kordofan State",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Unicef] New York/Nairobi/Khartoum -- Drone strikes on two warehouses in Shikan locality, North Kordofan, on 20 September destroyed over 292,000 school textbooks, 40,000 Arabic Language and Mathematics Review Books, and other learning materials intended for distribution to children.",
-      "links": [
-        "https://allafrica.com/stories/202609220447.html"
-      ]
-    },
-    {
-      "headline": "2 men charged with conspiring with ex-lawyer Jeffrey Ong to misappropriate millions of dollars",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "According to court records, the two men pleaded not guilty to their respective charges.&nbsp;",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/two-men-charged-jeffrey-ong-court-crime-6404706"
-      ]
-    },
-    {
-      "headline": "French legal complaint says Israeli army uprooted and stole ancient olive trees from Lebanon",
+      "headline": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
       "countries": [
-        "France",
+        "Russia",
+        "Poland"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Dozens of Palestinians killed and wounded in Gaza as Israel continues to bomb civilians",
+      "countries": [
         "Israel"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nFrench legal complaint says Israeli army uprooted and stole ancient olive trees from Lebanon\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nWed, 09/23/2026 - 11:43\n\n        \n      \n    \n      \n    \n                Unnamed French citizen says his family i",
+      "summary": "\n\n  \n      \n      \nDozens of Palestinians killed and wounded in Gaza as Israel continues to bomb civilians\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nThu, 09/24/2026 - 09:59\n\n        \n      \n    \n      \n    \n                During the past day at least seven people hav",
       "links": [
-        "https://www.middleeasteye.net/news/french-legal-complaint-says-israeli-army-uprooted-and-stole-600-year-old-olive-trees-lebanon"
+        "https://www.middleeasteye.net/news/dozens-palestinians-killed-and-wounded-gaza-israel-continues-bomb-civilians"
+      ]
+    },
+    {
+      "headline": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-23 (extractive mode)\n\n* Tigray forces seize main airport in northern Ethiopia from police, residents tell the BBC (BBC News, 2 outlets)\n* How Ceuta, football and Israel are shaping Morocco's election (BBC News, 2 outlets)\n* Eleven killed in mass shooting at house in South Africa (BBC News, 2 outlets)\n* Africa: All of Africa Today - September 23, 2026 (AllAfrica News: Latest, 2 outlets)\n* Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor (World | Deutsche Welle, 1 outlets)\n* US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US? (World | Deutsche Welle, 1 outlets)\n* Complaint filed in Paris against the Israeli army after the uprooting of centuries-old olive trees in Lebanon (Section Feed, 1 outlets)\n* Africa: Corporate Council on Africa Announces C&#xf4;te d'Ivoire as Host of 2027 U.S.-Africa Business Summit (AllAfrica News: Latest, 1 outlets)\n* UK intends to remain open to Chinese investment while protecting national security: Trade minister (Latest News, 1 outlets)\n* Sudan: Drone Strikes Destroy More Than 330,000 Learning Materials in Sudan's North Kordofan State (AllAfrica News: Latest, 1 outlets)\n* 2 men charged with conspiring with ex-lawyer Jeffrey Ong to misappropriate millions of dollars (Latest News, 1 outlets)\n* French legal complaint says Israeli army uprooted and stole ancient olive trees from Lebanon (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-09-24 (extractive mode)\n\n* Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war (BBC News, 2 outlets)\n* Eleven killed in mass shooting at house in South Africa (BBC News, 2 outlets)\n* Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor (World | Deutsche Welle, 1 outlets)\n* Africa: Vaccination Rates Are Falling in Africa, but a New Strategy Aims to Turn Things Around. Five Things It Needs to Get Right (AllAfrica News: Latest, 1 outlets)\n* Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment (World | Deutsche Welle, 1 outlets)\n* Man fails to prove money from then-girlfriend was given out of \u2018love and affection\u2019, ordered to repay S$321,000 (Latest News, 1 outlets)\n* Pakistan's jailed former PM Khan's sons told DW the authorities are cracking down ahead of new PTI protests (World | Deutsche Welle, 1 outlets)\n* US judge blocks Trump ban of CNN, MS NOW, Politico from White House, orders him to restore access (World | Deutsche Welle, 1 outlets)\n* New fighting in Ethiopia's Tigray region raises fears of a return to the country's civil war (World | Deutsche Welle, 1 outlets)\n* Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat (BBC News, 1 outlets)\n* Dozens of Palestinians killed and wounded in Gaza as Israel continues to bomb civilians (Section Feed, 1 outlets)\n* 'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria (BBC News, 1 outlets)"
 }
