@@ -1,10 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-24T12:22:57.343038+00:00",
-  "digest_words": 279,
+  "generated_at": "2026-09-25T12:23:17.346807+00:00",
+  "digest_words": 262,
   "clusters": [
     {
-      "headline": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "headline": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
       "countries": [
         "Ethiopia"
       ],
@@ -13,138 +13,109 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "summary": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Eleven killed in mass shooting at house in South Africa",
+      "headline": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
       "countries": [
-        "South Africa"
+        "Ethiopia"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "One of those killed is believed to be a pregnant woman, police said.",
+      "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor",
-      "countries": [
-        "Russia",
-        "Ukraine"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Food supplies to the town of Oleshky in the occupied part of the southern Kherson region have been cut off since May. Efforts by Kyiv to negotiate the evacuation of civilians with Moscow have been largely unsuccessful.",
-      "links": [
-        "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Africa: Vaccination Rates Are Falling in Africa, but a New Strategy Aims to Turn Things Around. Five Things It Needs to Get Right",
+      "headline": "\u2018People are destitute\u2019: Lebanon\u2019s spiralling prices fuel fears of social unrest",
       "countries": [],
       "regions": [
-        "Africa"
+        "Middle East"
       ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] Africa has reached an important moment in its immunisation journey. Coverage is not rising fast enough to keep pace with population growth, persistent inequities and a growing number of vaccines. At the same time, outbreaks and financing pressures are intensifying.",
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \n\u2018People are destitute\u2019: Lebanon\u2019s spiralling prices fuel fears of social unrest\n\n    \n    \n\n        \n    \n                Lebanon\u2019s fuel prices have doubled since the start of the&nbsp;US-Israel&nbsp;war on&nbsp;Iran, sparking public outcry as the country\u2019s weary residents say the",
       "links": [
-        "https://allafrica.com/stories/202609240004.html"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/people-are-destitute-lebanons-spiralling-prices-fuel-fears-social-unrest",
+        "https://www.middleeasteye.net/news/people-destitute-lebanon-spiralling-fuel-prices-risk-social-unrest"
       ]
     },
     {
-      "headline": "Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment",
+      "headline": "How Bulgaria become a global leader in battery storage and what this means for the country's grid and energy market?",
       "countries": [],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Slovak Prime Minister Robert Fico says he fears war and will do everything he can to keep his country out of one. Critics say his remarks risk weakening NATO, the alliance that was designed to prevent such a war.",
+      "summary": "In under two years, Bulgaria has become one of the world's most battery-intensive energy markets. Can the surge last \u2014 and what will it mean for conventional power generators?",
       "links": [
-        "https://www.dw.com/en/slovakia-pm-robert-fico-s-nato-article-5-remarks-spark-criticism-and-raise-questions-about-his-country-s-nato-commitment/a-79387050?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/how-bulgaria-become-a-global-leader-in-battery-storage-and-what-this-means-for-the-country-s-grid-and-energy-market/a-79428289?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Man fails to prove money from then-girlfriend was given out of \u2018love and affection\u2019, ordered to repay S$321,000",
+      "headline": "Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The US and NATO want Czechia to spend more on defense. Czech Prime Minister Andrej Babis says Prague cannot afford faster increases, despite growing warnings about the threat from Russia.",
+      "links": [
+        "https://www.dw.com/en/czech-pm-andrej-babis-reiterates-importance-of-nato-for-his-country-but-rejects-calls-to-increase-defense-spending/a-79411066?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Govt reviewing property purchases by rail planning officers between 2007 and 2011 after working paper allegations",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The High Court ordered a man to repay his former girlfriend more than S$320,000, finding that he was not a \u201ccredible witness\u201d.",
+      "summary": "The statistical patterns are concerning, but do not by themselves establish whether officers had access to non-public information about MRT stations or if it influenced property purchases, says the Public Service Division.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/man-ordered-repay-money-girlfriend-high-court-civil-case-6407976"
+        "https://www.channelnewsasia.com/singapore/private-properties-mrt-stations-rail-planning-officials-review-nber-paper-6410066"
       ]
     },
     {
-      "headline": "Pakistan's jailed former PM Khan's sons told DW the authorities are cracking down ahead of new PTI protests",
+      "headline": "Turkish parliament speaker expects Pakistan, Saudi Arabia defence pact to be submitted for approval next month",
       "countries": [
+        "Saudi Arabia",
+        "Turkey",
         "Pakistan"
       ],
       "regions": [
-        "Europe"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "The sons of jailed Pakistani ex-PM Imran Khan told DW their father is in ill health while being isolated from family and doctors. Other relatives have been detained ahead of a planned opposition protest.",
+      "summary": "\n\n  \n      \n      \nTurkish parliament speaker expects Pakistan, Saudi Arabia defence pact to be submitted for approval next month\n\n    \n    \n\n        \n    \n                A joint defence pact between Turkey, Saudi Arabia, and Pakistan has not yet been submitted to the Turkey's parliament for approv",
       "links": [
-        "https://www.dw.com/en/pakistan-s-jailed-former-pm-khan-s-sons-told-dw-the-authorities-are-cracking-down-ahead-of-new-pti-protests/a-79392147?maca=en-rss-en-world-4025-rdf"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-parliament-speaker-expects-pakistan-saudi-arabia-defence-pact-be"
       ]
     },
     {
-      "headline": "US judge blocks Trump ban of CNN, MS NOW, Politico from White House, orders him to restore access",
+      "headline": "Africa: Corporate Council on Africa Announces C&#xf4;te d'Ivoire as Host of 2027 U.S.-Africa Business Summit",
       "countries": [
         "United States"
       ],
       "regions": [
-        "Europe"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "A judge has ordered President Trump to restore White House access to CNN, MS NOW and Politico after he banned the media outlets from the premises.",
+      "summary": "[Corporate Council on Africa] New York -- C&#xf4;te d'Ivoire will take center stage in the U.S.-Africa business relationship in 2027, as Corporate Council on Africa (CCA) today announced that the Republic of C&#xf4;te d'Ivoire will host the 2027 U.S.-Africa Business Summit.",
       "links": [
-        "https://www.dw.com/en/us-judge-blocks-trump-ban-of-cnn-ms-now-politico-from-white-house-orders-him-to-restore-access/a-79405693?maca=en-rss-en-world-4025-rdf"
+        "https://allafrica.com/stories/202609210835.html"
       ]
     },
     {
-      "headline": "New fighting in Ethiopia's Tigray region raises fears of a return to the country's civil war",
-      "countries": [
-        "Ethiopia"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Fighting in and around Tigray is testing Ethiopia's fragile 2022 peace deal. With old enemies forming new alliances, experts warn that the conflict could enter a dangerous new phase.",
-      "links": [
-        "https://www.dw.com/en/new-fighting-in-ethiopia-s-tigray-region-raises-fears-of-a-return-to-the-country-s-civil-war/a-79400869?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "countries": [
-        "Russia",
-        "Poland"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Dozens of Palestinians killed and wounded in Gaza as Israel continues to bomb civilians",
+      "headline": "A UK company, a Greek owner and Netanyahu's former lawyer: Who really owns Serbia's Israeli drone venture?",
       "countries": [
         "Israel"
       ],
@@ -152,25 +123,51 @@
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nDozens of Palestinians killed and wounded in Gaza as Israel continues to bomb civilians\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nThu, 09/24/2026 - 09:59\n\n        \n      \n    \n      \n    \n                During the past day at least seven people hav",
+      "summary": "\n\n  \n      \n      \nA UK company, a Greek owner and Netanyahu's former lawyer: Who really owns Serbia's Israeli drone venture?\n\n    \n    \n\n          \n      \n      \n        Submitted by \nElis Gjevori\n on \nThu, 09/24/2026 - 09:52\n\n        \n      \n    \n      \n    \n                The deal involving the ",
       "links": [
-        "https://www.middleeasteye.net/news/dozens-palestinians-killed-and-wounded-gaza-israel-continues-bomb-civilians"
+        "https://www.middleeasteye.net/news/uk-company-netanyahus-former-lawyer-and-questions-over-israels-serbian-drone-venture"
       ]
     },
     {
-      "headline": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
+      "headline": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal?",
       "countries": [
-        "Nigeria"
+        "Iran"
       ],
       "regions": [
-        "Africa"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
+      "summary": "Iran's president used his trip to New York this week for the UN General Assembly to signal openness to talks over the nuclear dispute. However, the chances of a major breakthrough on the war remain low.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss"
+        "https://www.dw.com/en/iranian-president-pezeshkian-brought-a-diplomatic-tone-to-new-york-for-unga-what-did-his-remarks-signal/a-79428890?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "HDB scales up robotics and automation solutions to increase construction productivity at BTO sites",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The government will also further standardise precast components, with productivity gains that could translate into projects being completed earlier, said Minister for National Development Chee Hong Tat.\n&nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/hdb-robotics-automation-construction-bto-productivity-timeline-6410356"
+      ]
+    },
+    {
+      "headline": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
+      "countries": [
+        "India"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Bangladesh's absence from the BRICS summit in New Delhi has raised fresh questions about strained ties. Ousted PM Sheikh Hasina's exile in India remains a major obstacle to normalizing relations.",
+      "links": [
+        "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667?maca=en-rss-en-world-4025-rdf"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-24 (extractive mode)\n\n* Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war (BBC News, 2 outlets)\n* Eleven killed in mass shooting at house in South Africa (BBC News, 2 outlets)\n* Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor (World | Deutsche Welle, 1 outlets)\n* Africa: Vaccination Rates Are Falling in Africa, but a New Strategy Aims to Turn Things Around. Five Things It Needs to Get Right (AllAfrica News: Latest, 1 outlets)\n* Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment (World | Deutsche Welle, 1 outlets)\n* Man fails to prove money from then-girlfriend was given out of \u2018love and affection\u2019, ordered to repay S$321,000 (Latest News, 1 outlets)\n* Pakistan's jailed former PM Khan's sons told DW the authorities are cracking down ahead of new PTI protests (World | Deutsche Welle, 1 outlets)\n* US judge blocks Trump ban of CNN, MS NOW, Politico from White House, orders him to restore access (World | Deutsche Welle, 1 outlets)\n* New fighting in Ethiopia's Tigray region raises fears of a return to the country's civil war (World | Deutsche Welle, 1 outlets)\n* Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat (BBC News, 1 outlets)\n* Dozens of Palestinians killed and wounded in Gaza as Israel continues to bomb civilians (Section Feed, 1 outlets)\n* 'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-09-25 (extractive mode)\n\n* Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti (BBC News, 2 outlets)\n* Ethiopia's army says it has repelled attacks in first comment on fresh fighting (BBC News, 2 outlets)\n* \u2018People are destitute\u2019: Lebanon\u2019s spiralling prices fuel fears of social unrest (Section Feed, 2 outlets)\n* How Bulgaria become a global leader in battery storage and what this means for the country's grid and energy market? (World | Deutsche Welle, 1 outlets)\n* Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending (World | Deutsche Welle, 1 outlets)\n* Govt reviewing property purchases by rail planning officers between 2007 and 2011 after working paper allegations (Latest News, 1 outlets)\n* Turkish parliament speaker expects Pakistan, Saudi Arabia defence pact to be submitted for approval next month (Section Feed, 1 outlets)\n* Africa: Corporate Council on Africa Announces C&#xf4;te d'Ivoire as Host of 2027 U.S.-Africa Business Summit (AllAfrica News: Latest, 1 outlets)\n* A UK company, a Greek owner and Netanyahu's former lawyer: Who really owns Serbia's Israeli drone venture? (Section Feed, 1 outlets)\n* Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal? (World | Deutsche Welle, 1 outlets)\n* HDB scales up robotics and automation solutions to increase construction productivity at BTO sites (Latest News, 1 outlets)\n* Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi (World | Deutsche Welle, 1 outlets)"
 }
