@@ -1,51 +1,34 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-25T12:23:17.346807+00:00",
-  "digest_words": 262,
+  "generated_at": "2026-09-26T11:54:18.796015+00:00",
+  "digest_words": 265,
   "clusters": [
     {
-      "headline": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "headline": "South African white genocide does not exist, new ambassador to US tells BBC",
       "countries": [
-        "Ethiopia"
+        "South Africa"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "countries": [
-        "Ethiopia"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "\u2018People are destitute\u2019: Lebanon\u2019s spiralling prices fuel fears of social unrest",
+      "headline": "Africa: UN Secretary-General Launches Global Grids Accelerator to Power Growth and Clean Energy in Africa and South-East Asia",
       "countries": [],
       "regions": [
-        "Middle East"
+        "Africa"
       ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \n\u2018People are destitute\u2019: Lebanon\u2019s spiralling prices fuel fears of social unrest\n\n    \n    \n\n        \n    \n                Lebanon\u2019s fuel prices have doubled since the start of the&nbsp;US-Israel&nbsp;war on&nbsp;Iran, sparking public outcry as the country\u2019s weary residents say the",
+      "outlets": 1,
+      "summary": "[African Development Bank (AfDB)] UN Secretary-General Ant&#xf3;nio Guterres today launched the Global Grids Accelerator, a new initiative to help accelerate investment in electricity infrastructure across Africa and South-East Asia and help turn government and regional priorities into investable, o",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/people-are-destitute-lebanons-spiralling-prices-fuel-fears-social-unrest",
-        "https://www.middleeasteye.net/news/people-destitute-lebanon-spiralling-fuel-prices-risk-social-unrest"
+        "https://allafrica.com/stories/202609250369.html"
       ]
     },
     {
@@ -73,59 +56,15 @@
       ]
     },
     {
-      "headline": "Govt reviewing property purchases by rail planning officers between 2007 and 2011 after working paper allegations",
+      "headline": "Africa: WHO Director-General's remarks at the High-Level Meeting on Pandemic Prevention, Preparedness and Response",
       "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The statistical patterns are concerning, but do not by themselves establish whether officers had access to non-public information about MRT stations or if it influenced property purchases, says the Public Service Division.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/private-properties-mrt-stations-rail-planning-officials-review-nber-paper-6410066"
-      ]
-    },
-    {
-      "headline": "Turkish parliament speaker expects Pakistan, Saudi Arabia defence pact to be submitted for approval next month",
-      "countries": [
-        "Saudi Arabia",
-        "Turkey",
-        "Pakistan"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nTurkish parliament speaker expects Pakistan, Saudi Arabia defence pact to be submitted for approval next month\n\n    \n    \n\n        \n    \n                A joint defence pact between Turkey, Saudi Arabia, and Pakistan has not yet been submitted to the Turkey's parliament for approv",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-parliament-speaker-expects-pakistan-saudi-arabia-defence-pact-be"
-      ]
-    },
-    {
-      "headline": "Africa: Corporate Council on Africa Announces C&#xf4;te d'Ivoire as Host of 2027 U.S.-Africa Business Summit",
-      "countries": [
-        "United States"
-      ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Corporate Council on Africa] New York -- C&#xf4;te d'Ivoire will take center stage in the U.S.-Africa business relationship in 2027, as Corporate Council on Africa (CCA) today announced that the Republic of C&#xf4;te d'Ivoire will host the 2027 U.S.-Africa Business Summit.",
+      "summary": "[WHO] New York -- Your Excellency Dr Khalilur Rahman, President of the General Assembly, Your Excellency Amar Bendjama, President of ECOSOC, My sister, Deputy Secretary-General Amina Mohamed, The Right Honourable Helen Clark, Excellencies, dear colleagues and friends,",
       "links": [
-        "https://allafrica.com/stories/202609210835.html"
-      ]
-    },
-    {
-      "headline": "A UK company, a Greek owner and Netanyahu's former lawyer: Who really owns Serbia's Israeli drone venture?",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nA UK company, a Greek owner and Netanyahu's former lawyer: Who really owns Serbia's Israeli drone venture?\n\n    \n    \n\n          \n      \n      \n        Submitted by \nElis Gjevori\n on \nThu, 09/24/2026 - 09:52\n\n        \n      \n    \n      \n    \n                The deal involving the ",
-      "links": [
-        "https://www.middleeasteye.net/news/uk-company-netanyahus-former-lawyer-and-questions-over-israels-serbian-drone-venture"
+        "https://allafrica.com/stories/202609250480.html"
       ]
     },
     {
@@ -143,31 +82,90 @@
       ]
     },
     {
-      "headline": "HDB scales up robotics and automation solutions to increase construction productivity at BTO sites",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The government will also further standardise precast components, with productivity gains that could translate into projects being completed earlier, said Minister for National Development Chee Hong Tat.\n&nbsp;",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/hdb-robotics-automation-construction-bto-productivity-timeline-6410356"
-      ]
-    },
-    {
-      "headline": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
+      "headline": "A HRW report shows how South Korean women face systemic barriers to climbing the career ladder",
       "countries": [
-        "India"
+        "South Korea"
       ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Bangladesh's absence from the BRICS summit in New Delhi has raised fresh questions about strained ties. Ousted PM Sheikh Hasina's exile in India remains a major obstacle to normalizing relations.",
+      "summary": "A new report shows how in South Korea, women on average earn less and have fewer employment opportunities throughout their lives.",
       "links": [
-        "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/a-hrw-report-shows-how-south-korean-women-face-systemic-barriers-to-climbing-the-career-ladder/a-79431285?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Canadian lawmaker removed from position after backing bill targeting arms exports to Israel",
+      "countries": [
+        "Canada",
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nCanadian lawmaker removed from position after backing bill targeting arms exports to Israel\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nSat, 09/26/2026 - 10:47\n\n        \n      \n    \n      \n    \n                Sean Casey was among 15 Liberal MPs who b",
+      "links": [
+        "https://www.middleeasteye.net/news/canadian-lawmaker-removed-position-after-backing-bill-targeting-arms-exports-israel"
+      ]
+    },
+    {
+      "headline": "'Lithuanian skies are NATO skies': DW speaks with Lithuanian premier Mindaugas Sinkevicius",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "In a DW interview, Prime Minister Mindaugas Sinkevicius discussed threats to Lithuania from Russia and Belarus, NATO's need for stronger air defense and why military spending alone cannot ensure security.",
+      "links": [
+        "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Nigeria: Nigeria, U.S. Sign Framework to Attract Investment Into $700bn Mineral Resources",
+      "countries": [
+        "United States",
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Premium Times] The framework is expected to use the relationship between the Nigerian and US governments as a foundation for business-to-business transactions and investment across Nigeria's mineral value chain.",
+      "links": [
+        "https://allafrica.com/stories/202609250198.html"
+      ]
+    },
+    {
+      "headline": "After Xi-Trump summit, US-China rivalry remains frozen. Is this to Beijing's advantage?",
+      "countries": [
+        "United States",
+        "China"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The US president showcased White House construction projects and hosted a lavish dinner with tech CEOs, but the summit made little progress on key issues such as trade tensions and AI regulation.",
+      "links": [
+        "https://www.dw.com/en/after-xi-trump-summit-us-china-rivalry-remains-frozen-is-this-to-beijing-s-advantage/a-79427127?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-25 (extractive mode)\n\n* Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti (BBC News, 2 outlets)\n* Ethiopia's army says it has repelled attacks in first comment on fresh fighting (BBC News, 2 outlets)\n* \u2018People are destitute\u2019: Lebanon\u2019s spiralling prices fuel fears of social unrest (Section Feed, 2 outlets)\n* How Bulgaria become a global leader in battery storage and what this means for the country's grid and energy market? (World | Deutsche Welle, 1 outlets)\n* Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending (World | Deutsche Welle, 1 outlets)\n* Govt reviewing property purchases by rail planning officers between 2007 and 2011 after working paper allegations (Latest News, 1 outlets)\n* Turkish parliament speaker expects Pakistan, Saudi Arabia defence pact to be submitted for approval next month (Section Feed, 1 outlets)\n* Africa: Corporate Council on Africa Announces C&#xf4;te d'Ivoire as Host of 2027 U.S.-Africa Business Summit (AllAfrica News: Latest, 1 outlets)\n* A UK company, a Greek owner and Netanyahu's former lawyer: Who really owns Serbia's Israeli drone venture? (Section Feed, 1 outlets)\n* Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal? (World | Deutsche Welle, 1 outlets)\n* HDB scales up robotics and automation solutions to increase construction productivity at BTO sites (Latest News, 1 outlets)\n* Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi (World | Deutsche Welle, 1 outlets)"
+  "narrative": "State of the World - 2026-09-26 (extractive mode)\n\n* South African white genocide does not exist, new ambassador to US tells BBC (BBC News, 2 outlets)\n* Africa: UN Secretary-General Launches Global Grids Accelerator to Power Growth and Clean Energy in Africa and South-East Asia (AllAfrica News: Latest, 1 outlets)\n* How Bulgaria become a global leader in battery storage and what this means for the country's grid and energy market? (World | Deutsche Welle, 1 outlets)\n* Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending (World | Deutsche Welle, 1 outlets)\n* Africa: WHO Director-General's remarks at the High-Level Meeting on Pandemic Prevention, Preparedness and Response (AllAfrica News: Latest, 1 outlets)\n* Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal? (World | Deutsche Welle, 1 outlets)\n* A HRW report shows how South Korean women face systemic barriers to climbing the career ladder (World | Deutsche Welle, 1 outlets)\n* Canadian lawmaker removed from position after backing bill targeting arms exports to Israel (Section Feed, 1 outlets)\n* 'Lithuanian skies are NATO skies': DW speaks with Lithuanian premier Mindaugas Sinkevicius (World | Deutsche Welle, 1 outlets)\n* Nigeria: Nigeria, U.S. Sign Framework to Attract Investment Into $700bn Mineral Resources (AllAfrica News: Latest, 1 outlets)\n* After Xi-Trump summit, US-China rivalry remains frozen. Is this to Beijing's advantage? (World | Deutsche Welle, 1 outlets)\n* 'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria (BBC News, 1 outlets)"
 }
