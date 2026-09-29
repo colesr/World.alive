@@ -1,77 +1,82 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-28T14:39:57.131397+00:00",
-  "digest_words": 235,
+  "generated_at": "2026-09-29T13:30:34.848235+00:00",
+  "digest_words": 259,
   "clusters": [
     {
-      "headline": "'We hear you, you were right': Ed Miliband addresses critics of Labour policy on Palestine",
+      "headline": "Journalist crowned king in Uganda after bitter succession dispute",
       "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \n'We hear you, you were right': Ed Miliband addresses critics of Labour policy on Palestine\n\n    \n    \n\n        \n    \n                British&nbsp;Foreign Secretary Ed Miliband has told people \"moved and outraged by the plight of the&nbsp;Palestinian&nbsp;people\" that \"we hear you,",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/we-hear-you-you-were-right-ed-miliband-addresses-critics-labour-policy",
-        "https://www.middleeasteye.net/news/we-hear-you-you-were-right-ed-miliband-tells-people-outraged-over-palestinian-plight"
-      ]
-    },
-    {
-      "headline": "Israel shuts Palestinian shops to facilitate Jewish prayers in Jerusalem\u2019s Old City",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIsrael shuts Palestinian shops to facilitate Jewish prayers in Jerusalem\u2019s Old City\n\n    \n    \n\n        \n    \n                Israeli forces have ordered dozens of Palestinian shops in the Old City of occupied East Jerusalem to close, restricting access to streets leading to the A",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israel-shuts-palestinian-shops-facilitate-jewish-prayers-jerusalems-old",
-        "https://www.middleeasteye.net/news/israel-shuts-palestinian-shops-facilitate-jewish-prayers-jerusalems-old-city"
-      ]
-    },
-    {
-      "headline": "Israel chokes West Bank movement amid Jewish holiday",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIsrael chokes West Bank movement amid Jewish holiday\n\n    \n    \n\n        \n    \n                Israeli forces have stepped up restrictions on Palestinians in the occupied West Bank during the Jewish holiday of Sukkot, blocking roads, limiting movement and causing hours-long waits ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israel-chokes-west-bank-movement-amid-jewish-holiday",
-        "https://www.middleeasteye.net/news/israel-chokes-west-bank-movement-during-jewish-holiday"
-      ]
-    },
-    {
-      "headline": "Two mass shootings in South Africa leave 28 dead",
-      "countries": [
-        "South Africa"
-      ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "summary": "Kijanangoma has been crowned amid a dispute over a young heir whom the royal clan does not recognise.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Malawi: Malawi's Economists Press for Fiscal Discipline and Forex Reform As Debt Nears 91 Percent of GDP",
+      "headline": "Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years as Baghdad delays militia disarmament",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "As the US completes its military withdrawal from Iraq, Baghdad declares a new era of sovereignty. But as US troops leave, questions remain over militias, foreign forces and the country's future security.",
+      "links": [
+        "https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years-as-baghdad-delays-militia-disarmament/a-79462926?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Albania: As corruption cases multiply, experts question whether the anti-corruption drive is addressing the causes or just the symptoms.",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "From a former president to the ex-intelligence chief, Albania is prosecuting senior officials at a rate once thought impossible. But do more prosecutions mean less corruption or simply better enforcement?",
+      "links": [
+        "https://www.dw.com/en/albania-as-corruption-cases-multiply-experts-question-whether-the-anti-corruption-drive-is-addressing-the-causes-or-just-the-symptoms/a-79473031?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Goh Jin Hian testifies in false trading trial, says he believed market-making services 'completely legal'",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "\"I was very sensitive to anything wrong being done because of the reputation of the individuals in the board and even to my own reputation,\" Dr Goh Jin Hian said as he took the stand.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/goh-jin-hian-market-maker-false-trading-trial-6418416"
+      ]
+    },
+    {
+      "headline": "Singapore Writers Festival 2026: Amitav Ghosh, Silvia Moreno-Garcia and Rachel Smythe among highlights",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Running from Nov 13 to 22, this year's Singapore Writers Festival will feature more than 300 writers, speakers and moderators in over 200 programmes, including a new Crime &amp; Mystery Spotlight, literary walks and multilingual events.",
+      "links": [
+        "https://www.channelnewsasia.com/living/singapore-writers-festival-2026-swf-authors-programmes-highlights-6417681"
+      ]
+    },
+    {
+      "headline": "Mali: Damning Evidence of War Crimes By State Armed Forces and Wagner Group Personnel - New Report",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Nyasa Times] The Economics Association of Malawi says tight budgets and a more flexible exchange rate are needed, but warns that the medicine carries costs for business",
+      "summary": "[AI London] Killings of civilians during military joint operations Civilians tortured to death in detention, others subjected to simulated drowning, beatings and electric shocks Fulani, Arabs and Tuaregs targeted",
       "links": [
-        "https://allafrica.com/stories/202609280537.html"
+        "https://allafrica.com/stories/202609290085.html"
       ]
     },
     {
@@ -89,87 +94,73 @@
       ]
     },
     {
-      "headline": "Police confirm death of 24-year-old Muay Thai fighter hospitalised after Singapore tournament",
+      "headline": "Why the latest action from India's youth-led 'cockroach' movement is targeting the election chief",
       "countries": [
-        "Thailand",
-        "Singapore"
+        "India"
       ],
       "regions": [
-        "Asia"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "The fighter was taken unconscious to hospital after participating in the AMC 13 Fight for Hope tournament at the National Stadium on Sep 12.",
+      "summary": "The 'cockroach' movement has emerged as an influential force in Indian politics. Its latest campaign targets the election commission amid a wider debate over voter rolls and public trust in electoral institutions.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/muaythai-fight-hope-damian-inspire-fitness-6394246"
+        "https://www.dw.com/en/why-the-latest-action-from-india-s-youth-led-cockroach-movement-is-targeting-the-election-chief/a-79462036?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Africa: Pollen Season - New Map of South Africa's Allergy Hotspots Gives You Time to Prepare",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] For some South Africans, the beginning of the flower season is met not with the joys of spring but rather with a sniffy nose, itchy eyes and a cacophony of sneezing.",
-      "links": [
-        "https://allafrica.com/stories/202609280204.html"
-      ]
-    },
-    {
-      "headline": "South Africa: 'We Were Never Consulted' - Cape Town Residents Challenge Equinix Data Centre",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[GroundUp] Rezoning appeal has temporarily halted plans",
-      "links": [
-        "https://allafrica.com/stories/202609280533.html"
-      ]
-    },
-    {
-      "headline": "Africa: Africa's Mineral Strength Is Wasted If Countries Don't Work Together - New Report",
+      "headline": "Miliband \u2018looking at\u2019 whether Palestine Action ban was sensible, argues mass arrests 'unintended'",
       "countries": [],
       "regions": [
-        "Africa"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "[The Conversation Africa] Green technologies are mineral-intensive: electric vehicles, batteries, solar panels, wind turbines and grids need cobalt, lithium, copper, manganese, graphite and rare earths. The International Energy Agency estimates that electric cars require six times more minerals than",
+      "summary": "\n\n  \n      \n      \nMiliband \u2018looking at\u2019 whether Palestine Action ban was sensible, argues mass arrests 'unintended'\n\n    \n    \n\n          \n      \n      \n        Submitted by \nImran Mulla\n on \nTue, 09/29/2026 - 08:47\n\n        \n      \n    \n      \n    \n                Foreign secretary's remarks at La",
       "links": [
-        "https://allafrica.com/stories/202609270108.html"
+        "https://www.middleeasteye.net/news/miliband-says-uk-looking-whether-palestine-action-ban-was-sensible-and-argues-mass-arrests"
       ]
     },
     {
-      "headline": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "headline": "Araghchi adamant 'no change' in Iran's position, says conditions 'completely fair and reasonable'",
       "countries": [
-        "United States",
         "Iran"
       ],
       "regions": [
-        "Europe"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "summary": "\n\n  \n      \n      \nAraghchi adamant 'no change' in Iran's position, says conditions 'completely fair and reasonable'\n\n    \n    \n\n        \n    \n                Iranian foreign minister&nbsp;Abbas Araghchi said that Tehran's conditions to the US are&nbsp;\"completely fair and reasonable\", adding that t",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-adamant-no-change-irans-position-says-conditions-completely"
       ]
     },
     {
-      "headline": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
-      "countries": [],
+      "headline": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "countries": [
+        "South Africa"
+      ],
       "regions": [
-        "Europe"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+      "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Ed Miliband confirms UK is considering defying Israeli order to close East Jerusalem consulate",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nEd Miliband confirms UK is considering defying Israeli order to close East Jerusalem consulate\n\n    \n    \n\n          \n      \n      \n        Submitted by \nImran Mulla\n on \nTue, 09/29/2026 - 08:09\n\n        \n      \n    \n      \n    \n                The foreign secretary says the UK is",
+      "links": [
+        "https://www.middleeasteye.net/news/ed-miliband-confirms-uk-considering-defying-israeli-order-close-british-consulate-east"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-28 (extractive mode)\n\n* 'We hear you, you were right': Ed Miliband addresses critics of Labour policy on Palestine (Section Feed, 2 outlets)\n* Israel shuts Palestinian shops to facilitate Jewish prayers in Jerusalem\u2019s Old City (Section Feed, 2 outlets)\n* Israel chokes West Bank movement amid Jewish holiday (Section Feed, 2 outlets)\n* Two mass shootings in South Africa leave 28 dead (BBC News, 2 outlets)\n* Malawi: Malawi's Economists Press for Fiscal Discipline and Forex Reform As Debt Nears 91 Percent of GDP (AllAfrica News: Latest, 1 outlets)\n* US sanctions on Iran's aviation industry make travel less predictable as countries cancel flights (World | Deutsche Welle, 1 outlets)\n* Police confirm death of 24-year-old Muay Thai fighter hospitalised after Singapore tournament (Latest News, 1 outlets)\n* Africa: Pollen Season - New Map of South Africa's Allergy Hotspots Gives You Time to Prepare (AllAfrica News: Latest, 1 outlets)\n* South Africa: 'We Were Never Consulted' - Cape Town Residents Challenge Equinix Data Centre (AllAfrica News: Latest, 1 outlets)\n* Africa: Africa's Mineral Strength Is Wasted If Countries Don't Work Together - New Report (AllAfrica News: Latest, 1 outlets)\n* Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal (BBC News, 1 outlets)\n* Killer Christa Pike to be executed within days - but her defence say she's a victim too (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-09-29 (extractive mode)\n\n* Journalist crowned king in Uganda after bitter succession dispute (BBC News, 2 outlets)\n* Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years as Baghdad delays militia disarmament (World | Deutsche Welle, 1 outlets)\n* Albania: As corruption cases multiply, experts question whether the anti-corruption drive is addressing the causes or just the symptoms. (World | Deutsche Welle, 1 outlets)\n* Goh Jin Hian testifies in false trading trial, says he believed market-making services 'completely legal' (Latest News, 1 outlets)\n* Singapore Writers Festival 2026: Amitav Ghosh, Silvia Moreno-Garcia and Rachel Smythe among highlights (Latest News, 1 outlets)\n* Mali: Damning Evidence of War Crimes By State Armed Forces and Wagner Group Personnel - New Report (AllAfrica News: Latest, 1 outlets)\n* US sanctions on Iran's aviation industry make travel less predictable as countries cancel flights (World | Deutsche Welle, 1 outlets)\n* Why the latest action from India's youth-led 'cockroach' movement is targeting the election chief (World | Deutsche Welle, 1 outlets)\n* Miliband \u2018looking at\u2019 whether Palestine Action ban was sensible, argues mass arrests 'unintended' (Section Feed, 1 outlets)\n* Araghchi adamant 'no change' in Iran's position, says conditions 'completely fair and reasonable' (Section Feed, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Ed Miliband confirms UK is considering defying Israeli order to close East Jerusalem consulate (Section Feed, 1 outlets)"
 }
