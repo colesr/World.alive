@@ -102,26 +102,91 @@ def fetch_feeds(config: dict) -> list[dict]:
     items = []
     for region, urls in config["feeds"].items():
         for url in urls:
-            try:
-                parsed = feedparser.parse(url)
-                if parsed.bozo and parsed.bozo_exception:
-                    print(f"[warn] feed parsing issue: {url} ({parsed.bozo_exception})")
-                for entry in parsed.entries[: config["max_items_per_feed"]]:
-                    items.append(
-                        {
-                            "title": entry.get("title", "").strip(),
-                            "summary": re.sub(r"<[^>]+>", "", entry.get("summary", ""))[:500],
-                            "link": entry.get("link", ""),
-                            "region": region,
-                            "source": parsed.feed.get("title", url),
-                        }
-                    )
-            except Exception as exc:  # noqa: BLE001 - keep pipeline alive
-                print(f"[warn] feed failed: {url} ({exc})")
-                if "timed out" in str(exc):
-                    print(f"[info] considering alternative feed sources for region: {region}")
-                    # Placeholder for alternative feed logic
+            # Try primary URL first
+            feed_items = _fetch_single_feed(url, region, config["max_items_per_feed"])
+            if feed_items:
+                items.extend(feed_items)
+            else:
+                print(f"[info] Primary feed failed, considering alternatives for region: {region}")
+                # Try alternative feeds if configured
+                alt_feed_items = _try_alternative_feeds(region, config["max_items_per_feed"])
+                if alt_feed_items:
+                    items.extend(alt_feed_items)
     return [i for i in items if i["title"]]
+
+
+def _fetch_single_feed(url: str, region: str, max_items: int, retries: int = 2) -> list[dict]:
+    """Fetch a single feed with retry logic."""
+    for attempt in range(retries + 1):
+        try:
+            parsed = feedparser.parse(url)
+            if parsed.bozo and parsed.bozo_exception:
+                if attempt < retries:
+                    print(f"[warn] feed parsing issue (attempt {attempt + 1}): {url} ({parsed.bozo_exception})")
+                    continue
+                else:
+                    print(f"[warn] feed parsing failed after {retries + 1} attempts: {url} ({parsed.bozo_exception})")
+                    return []
+            
+            items = []
+            for entry in parsed.entries[:max_items]:
+                items.append(
+                    {
+                        "title": entry.get("title", "").strip(),
+                        "summary": re.sub(r"<[^>]+>", "", entry.get("summary", ""))[:500],
+                        "link": entry.get("link", ""),
+                        "region": region,
+                        "source": parsed.feed.get("title", url),
+                    }
+                )
+            return items
+        except Exception as exc:  # noqa: BLE001 - keep pipeline alive
+            if attempt < retries:
+                print(f"[warn] feed failed (attempt {attempt + 1}): {url} ({exc})")
+                continue
+            else:
+                print(f"[warn] feed failed after {retries + 1} attempts: {url} ({exc})")
+                return []
+    return []
+
+
+def _try_alternative_feeds(region: str, max_items: int) -> list[dict]:
+    """Try alternative feeds for a region when primary feeds fail."""
+    # Alternative feeds organized by region for fallback
+    alternative_feeds = {
+        "Europe": [
+            "https://feeds.reuters.com/reuters/worldNews",
+            "https://www.france24.com/en/rss",
+        ],
+        "Middle East": [
+            "https://www.reuters.com/rssfeed//worldNews/channel.rss",
+            "https://timesofindia.indiatimes.com/rssfeeds/29658929.cms",
+        ],
+        "Asia": [
+            "https://www.reuters.com/rssfeed//worldNews/channel.rss",  # Reuters world news covers Asia
+            "https://www.scmp.com/rss/91/feed",
+        ],
+        "Americas": [
+            "https://feeds.reuters.com/reuters/worldNews",
+            "https://www.reuters.com/rssfeed//worldNews/channel.rss",
+        ],
+        "Africa": [
+            "https://www.reuters.com/rssfeed//worldNews/channel.rss",
+            "https://www.aljazeera.com/xml/rss/all.xml",  # Sometimes works when other Al Jazeera feed fails
+        ],
+    }
+    
+    if region not in alternative_feeds:
+        return []
+    
+    # Try up to 2 alternative feeds
+    for alt_url in alternative_feeds[region][:2]:
+        items = _fetch_single_feed(alt_url, region, max_items, retries=1)
+        if items:
+            print(f"[info] Successfully fetched from alternative feed for {region}: {alt_url}")
+            return items
+    
+    return []
 
 
 # ---------------------------------------------------------------------------
