@@ -1,131 +1,134 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-09-30T13:07:00.258855+00:00",
-  "digest_words": 260,
+  "generated_at": "2026-10-01T14:00:26.414641+00:00",
+  "digest_words": 565,
   "clusters": [
     {
-      "headline": "Exclusive: Zack Polanski says UK should defy Israel on fate of British Consulate in East Jerusalem",
+      "headline": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "RAF Fairford: Netanyahu claims Israel warned UK of \u2018Iranian attack\u2019",
       "countries": [
-        "United Kingdom",
-        "Israel"
+        "Israel",
+        "Iran"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \nExclusive: Zack Polanski says UK should defy Israel on fate of British Consulate in East Jerusalem\n\n    \n    \n\n        \n    \n                Green Party leader Zack Polanski has called on the&nbsp;British&nbsp;government to defy&nbsp;Israel&nbsp;and keep the British Consulate in E",
+      "summary": "\n\n  \n      \n      \nRAF Fairford: Netanyahu claims Israel warned UK of \u2018Iranian attack\u2019\n\n    \n    \n\n        \n    \n                Benjamin Netanyahu has claimed&nbsp;Israel&nbsp;gave&nbsp;Britain&nbsp;intelligence about the incident last Sunday near the RAF Fairford military base, without providing a",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-zack-polanski-says-uk-should-defy-israel-fate-british",
-        "https://www.middleeasteye.net/news/zack-polanski-says-uk-must-defy-israel-keep-british-consulate-east-jerusalem-open"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/raf-fairford-netanyahu-claims-israel-warned-uk-iranian-attack",
+        "https://www.middleeasteye.net/news/netanyahu-claims-israel-warned-uk-iranian-attack-after-israeli-minister-called-shabana-mahmood"
       ]
     },
     {
-      "headline": "Botswana condemned for slaughtering elephants for independence celebrations",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The government authorises the hunting of 23 elephants and dozens of other wild animals for independence day feasts.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "headline": "Explosions heard in Ethiopia's capital after drone flights banned",
       "countries": [
-        "Kenya"
+        "Ethiopia"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
+      "summary": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Albania: As corruption cases multiply, experts question whether the anti-corruption drive is addressing the causes or just the symptoms.",
+      "headline": "Bosnia elections: Polls overshadowed by exhaustion, exodus and geopolitics as ethnic politics eclipse real problems",
       "countries": [],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "From a former president to the ex-intelligence chief, Albania is prosecuting senior officials at a rate once thought impossible. But do more prosecutions mean less corruption or simply better enforcement?",
+      "summary": "Bosnia goes to the polls on October 4 to elect several parliaments and presidents. While voters worry about the economy and emigration, the campaign is focused on ethnicity, exposing the country's political paralysis.",
       "links": [
-        "https://www.dw.com/en/albania-as-corruption-cases-multiply-experts-question-whether-the-anti-corruption-drive-is-addressing-the-causes-or-just-the-symptoms/a-79473031?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/bosnia-elections-polls-overshadowed-by-exhaustion-exodus-and-geopolitics-as-ethnic-politics-eclipse-real-problems/a-79487802?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "South Africa: Malema Apologises to Judicial Service Commission - South African News Briefs - September 30, 2026",
+      "headline": "Ireland will boycott Eurovision again because of Israel's participation, but the song contest is still expanding.",
       "countries": [
-        "South Africa"
+        "Israel"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The 2026 Eurovision Song Contest was marred by boycotts in protest against Israel's participation in the midst of its war on Gaza. It still aims to keep growing.",
+      "links": [
+        "https://www.dw.com/en/ireland-will-boycott-eurovision-again-because-of-israel-s-participation-but-the-song-contest-is-still-expanding/a-79401752?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Kenya: Politrack Poll - Ruto 45.1 Percent, Sifuna 19.6 Percent, Kalonzo 10.3 Percent If Elections Held Today",
+      "countries": [
+        "Kenya"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "[Capital FM] Nairobi -- President William Ruto leads the presidential preference survey by Politrack Africa, with 45.1 per cent of respondents saying they would vote for him if elections were held today.",
       "links": [
-        "https://allafrica.com/stories/202609300094.html"
+        "https://allafrica.com/stories/202610010372.html"
       ]
     },
     {
-      "headline": "Women and children displaced by Nepal's floods say safe housing, privacy and stability remain out of reach",
-      "countries": [],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Families living in temporary shelters in northern Nepal say safety and privacy remain out of reach as concerns about trafficking and abuse mount.",
-      "links": [
-        "https://www.dw.com/en/women-and-children-displaced-by-nepal-s-floods-say-safe-housing-privacy-and-stability-remain-out-of-reach/a-79474014?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "North Korea has recently completed two road bridges easing transport to strategic allies Russia and China",
+      "headline": "Iran's nuclear program remains shrouded in mystery as the regime debates ditching non-proliferation",
       "countries": [
-        "China",
-        "Russia"
+        "Iran"
       ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Two recently opened bridges are expected to ease trade and transport between North Korea and its powerful neighbors. The new connections come as Pyongyang builds strategic ties with China and Russia.",
+      "summary": "Iran's nuclear program is entering a critical phase as Tehran debates dropping out of a nuclear non-proliferation treaty. Satellite images also show activity at known nuclear sites.",
       "links": [
-        "https://www.dw.com/en/north-korea-has-recently-completed-two-road-bridges-easing-transport-to-strategic-allies-russia-and-china/a-79473981?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/iran-s-nuclear-program-remains-shrouded-in-mystery-as-the-regime-debates-ditching-non-proliferation/a-79488197?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Committee formed to review child safeguards in Islamic religious settings after sexual assault case",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "This comes after a religious influencer sexually abused two young brothers, including one at a mosque, while on bail for another offence.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/committee-islamic-religious-settings-mosques-children-safeguards-sex-assault-6420921"
-      ]
-    },
-    {
-      "headline": "\u2018We just want more rest\u2019: China workers lament extra workdays ahead of Golden Week holiday break",
+      "headline": "Amazon, Walmart's Flipkart launch review of unlicensed security camera listings on India platforms",
       "countries": [
-        "China"
+        "India"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Chinese social media users are venting about \u201cmake-up\u201d workdays around the Golden Week holiday break, saying work arrangements are leaving them with little extra time to rest.&nbsp;",
+      "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/east-asia/china-workers-golden-week-holiday-rest-tiaoxiu-debate-6421006"
+        "https://www.channelnewsasia.com/business/amazon-walmarts-flipkart-launch-review-unlicensed-security-camera-listings-india-platforms-6424266"
+      ]
+    },
+    {
+      "headline": "No decision made on expanding dating platform for Singapore public officers beyond pilot: GovTech",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The FirstDate pilot is currently limited to public officers aged 21 to 35 who are not married.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/firstdate-singapore-government-dating-platform-6424471"
       ]
     },
     {
@@ -143,29 +146,31 @@
       ]
     },
     {
-      "headline": "From robots to cancer screenings, Asia\u2019s next wave of AI startups is moving into the real world",
+      "headline": "Lawyer of Junaid Hafeez, a Pakistai scholar imprisoned for 13 years, is hopeful for his release",
       "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "A former Fulbright scholar, Junaid Hafeez was sentenced to death under Pakistan's controversial blasphemy laws. His family and lawyer told DW there is now hope a court will overturn the conviction.",
+      "links": [
+        "https://www.dw.com/en/lawyer-of-junaid-hafeez-a-pakistai-scholar-imprisoned-for-13-years-is-hopeful-for-his-release/a-79490207?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Chinese hair embroidery uses human hair instead of silk thread to create ultra-fine portraits",
+      "countries": [
+        "China"
+      ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "More than half of the 30 companies showcased at the NextGen Tech 30 event are applying AI to physical industries, marking a shift from the software-focused firms in previous cohorts.&nbsp;",
+      "summary": "While China\u2019s iconic silk embroidery is world-renowned for its exquisite detail and painterly effects, an even more meticulous traditional technique surpasses it.\nOriginating in Dongtai, located in eastern China\u2019s Jiangsu province, during the Tang dynasty (618\u2013907), hair embroidery relies on the inc",
       "links": [
-        "https://www.channelnewsasia.com/singapore/nextgen-tech-30-sgx-granite-asia-startups-artificial-intelligence-6421421"
-      ]
-    },
-    {
-      "headline": "Malawi: From Seaweed to Sanitary Pads - Malawian Scientist Pushes to Build Solutions in Africa",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica] \"You can have a brilliant solution and still struggle to get it in front of the right people.\"",
-      "links": [
-        "https://allafrica.com/stories/202609300448.html"
+        "https://www.scmp.com/news/people-culture/trending-china/article/3369383/chinese-hair-embroidery-uses-human-hair-instead-silk-thread-create-ultra-fine-portraits?utm_source=rss_feed"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-09-30 (extractive mode)\n\n* Exclusive: Zack Polanski says UK should defy Israel on fate of British Consulate in East Jerusalem (Section Feed, 2 outlets)\n* Botswana condemned for slaughtering elephants for independence celebrations (BBC News, 2 outlets)\n* Africa's richest man launches Kenya oil refinery despite land protests (BBC News, 2 outlets)\n* Albania: As corruption cases multiply, experts question whether the anti-corruption drive is addressing the causes or just the symptoms. (World | Deutsche Welle, 1 outlets)\n* South Africa: Malema Apologises to Judicial Service Commission - South African News Briefs - September 30, 2026 (AllAfrica News: Latest, 1 outlets)\n* Women and children displaced by Nepal's floods say safe housing, privacy and stability remain out of reach (World | Deutsche Welle, 1 outlets)\n* North Korea has recently completed two road bridges easing transport to strategic allies Russia and China (World | Deutsche Welle, 1 outlets)\n* Committee formed to review child safeguards in Islamic religious settings after sexual assault case (Latest News, 1 outlets)\n* \u2018We just want more rest\u2019: China workers lament extra workdays ahead of Golden Week holiday break (Latest News, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* From robots to cancer screenings, Asia\u2019s next wave of AI startups is moving into the real world (Latest News, 1 outlets)\n* Malawi: From Seaweed to Sanitary Pads - Malawian Scientist Pushes to Build Solutions in Africa (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - Daily Digest\n\n**Conflict and Unrest**\n\nLeading with the most globally significant and negative-tone stories, we begin with Ethiopia, where explosions were heard in the capital after drone flights were banned. The situation has an average tone of -0.76, indicating a highly negative sentiment. According to BBC News, the explosions come a week after fighting erupted north of the capital between the army and a new alliance of armed groups.\n\nNext, we look at the Middle East, where Israeli Prime Minister Benjamin Netanyahu claims Israel warned the UK of an 'Iranian attack' on RAF Fairford. The sentiment surrounding this story has an average tone of -0.44, indicating a negative tone. Section Feed reports on this development, which may escalate tensions in the region.\n\nIran's nuclear program is also a concern, with the regime debating ditching non-proliferation treaties. The average tone of this story is -0.38, indicating a negative sentiment. Deutsche Welle reports that satellite images show activity at known nuclear sites, adding to the mystery surrounding Iran's nuclear program.\n\n**Regional Developments**\n\nIn Africa, a presidential preference survey in Kenya shows President William Ruto leading with 45.1% of the vote. The average tone of this story is +0.90, indicating a highly positive sentiment. AllAfrica News reports on this development, which may have implications for the country's future.\n\nIn South Africa, twelve women have been killed in one part of the country since July, sparking concern and outrage. The average tone of this story is -0.55, indicating a negative sentiment. BBC News reports on this development, which has been described as a \"stain on our national conscience\" by President Cyril Ramaphosa.\n\n**Economy and Technology**\n\nIn India, Amazon and Walmart's Flipkart have launched a review of unlicensed security camera listings on their platforms. The average tone of this story is -0.66, indicating a negative sentiment. Latest News reports on this development, which may have implications for consumer safety and privacy.\n\nIn Singapore, a pilot program for a dating platform for public officers has been launched, but no decision has been made on expanding it beyond the pilot phase. The average tone of this story is +0.42, indicating a positive sentiment. Latest News reports on this development, which may have implications for the country's social landscape.\n\n**Culture and Society**\n\nIn China, a traditional technique of hair embroidery uses human hair instead of silk thread to create ultra-fine portraits. The average tone of this story is +0.40, indicating a positive sentiment. South China Morning Post reports on this development, which highlights the country's rich cultural heritage.\n\n**Other Developments**\n\nIn Bosnia, elections are being held amidst concerns about the economy and emigration. Deutsche Welle reports on this development, which may have implications for the country's future.\n\nIn Ireland, the country will boycott Eurovision again due to Israel's participation, but the song contest is still expanding. The average tone of this story is -0.49, indicating a negative sentiment. Deutsche Welle reports on this development, which may have implications for the country's cultural landscape.\n\nIn Zimbabwe, a tycoon and his wife were killed in a helicopter crash, sparking an outpouring of grief and tributes. BBC News reports on this development, which may have implications for the country's business and political landscape.\n\nOverall, the global landscape is marked by conflict, unrest, and economic challenges, but also by cultural and social developments that highlight the diversity and complexity of our world."
 }
