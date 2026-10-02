@@ -553,9 +553,12 @@ def summarize(clusters: list[list[dict]], config: dict, sentiment: dict | None =
     """Call an LLM to produce the digest. Falls back to extractive mode if no token.
     `sentiment` is optional borrowed per-country tone (-1..1) from the sibling; when
     present it is folded into the prompt as additional steering context."""
+    
+    # More explicit word count guidance in the prompt
     prompt = (
         "You are writing a daily 'State of the World' email digest.\n"
-        f"Hard limit: {config['digest_word_limit']} words.\n"
+        f"You MUST keep your response under {config['digest_word_limit']} words. "
+        "Count your words carefully and stop when you reach this limit.\n"
         "Group by theme, lead with the most globally significant stories, "
         "note regional perspective differences where outlets diverge, plain text only.\n\n"
         + build_llm_input(clusters, config)
@@ -582,10 +585,19 @@ def summarize(clusters: list[list[dict]], config: dict, sentiment: dict | None =
             else:
                 # OpenAI-compatible response shape: choices[0].message.content
                 content = resp.json()["choices"][0]["message"]["content"]
-                # Ensure we don't exceed word limit significantly
+                
+                # Aggressive word limit enforcement with multiple strategies
                 words = content.split()
                 if len(words) > config['digest_word_limit']:
-                    content = ' '.join(words[:config['digest_word_limit']])
+                    # First try truncating at sentence boundary near limit
+                    truncated_content = ' '.join(words[:config['digest_word_limit']])
+                    last_period = truncated_content.rfind('.')
+                    if last_period > 0:
+                        content = truncated_content[:last_period + 1]
+                    else:
+                        # If no period found, just truncate at word boundary
+                        content = ' '.join(words[:config['digest_word_limit']])
+                        
                 return content
         except Exception as exc:  # noqa: BLE001 - never let summarization kill the digest
             print(f"[warn] LLM call errored: {exc}")
