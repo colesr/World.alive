@@ -83,7 +83,7 @@ DEFAULT_CONFIG = {
     "max_items_per_feed": 15,
     "max_clusters_in_digest": 12,
     "digest_word_limit": 800,
-    "similarity_threshold": 0.75,  # Increased threshold to improve deduplication
+    "similarity_threshold": 0.65,  # Reduced threshold to improve clustering
 }
 
 
@@ -228,18 +228,18 @@ def _combined_similarity(item1: dict, item2: dict, title_weight: float = 0.7) ->
         return min(1.0, title_weight * title_sim + (1 - title_weight) * summary_sim + 0.2)
     
     # Additional heuristic: if summaries are very similar and titles share significant overlap
-    if summary_sim > 0.7 and title_sim > 0.5:
+    if summary_sim > 0.6 and title_sim > 0.4:
         return min(1.0, title_weight * title_sim + (1 - title_weight) * summary_sim + 0.15)
     
-    # New: Check for containment - one title largely contained in another
+    # Check for containment - one title largely contained in another
     if len(title_tokens1) > 0 and len(title_tokens2) > 0:
         containment1 = len(title_tokens1 & title_tokens2) / len(title_tokens1)
         containment2 = len(title_tokens1 & title_tokens2) / len(title_tokens2)
         max_containment = max(containment1, containment2)
-        if max_containment > 0.6:
+        if max_containment > 0.5:
             return min(1.0, title_weight * title_sim + (1 - title_weight) * summary_sim + 0.15)
     
-    # New: Check for date patterns in titles (same story published on different dates)
+    # Check for date patterns in titles (same story published on different dates)
     date_pattern = r'\b\d{1,2}[/-]\d{1,2}[/-]\d{2,4}\b|\b\d{4}-\d{2}-\d{2}\b'
     title1_has_date = bool(re.search(date_pattern, item1["title"]))
     title2_has_date = bool(re.search(date_pattern, item2["title"]))
@@ -248,7 +248,7 @@ def _combined_similarity(item1: dict, item2: dict, title_weight: float = 0.7) ->
         clean_title1 = re.sub(date_pattern, '', item1["title"]).strip()
         clean_title2 = re.sub(date_pattern, '', item2["title"]).strip()
         clean_title_sim = _similarity(_tokens(clean_title1), _tokens(clean_title2))
-        if clean_title_sim > 0.8:
+        if clean_title_sim > 0.7:
             return min(1.0, title_weight * clean_title_sim + (1 - title_weight) * summary_sim + 0.2)
     
     return title_weight * title_sim + (1 - title_weight) * summary_sim
@@ -313,7 +313,7 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
     # Second pass: Refine clusters by checking if items might fit better in other clusters
     changed = True
     iteration_count = 0
-    max_iterations = 3
+    max_iterations = 2
     
     while changed and iteration_count < max_iterations:
         changed = False
@@ -374,7 +374,7 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
                         best_score = score
                 
                 # If better cluster found, mark for move
-                if best_cluster_idx != i and best_score >= threshold * 0.8:  # Lower threshold for moves
+                if best_cluster_idx != i and best_score >= threshold * 0.7:  # Lower threshold for moves
                     items_to_move.append((j, best_cluster_idx))
             
             # Move items (in reverse order to maintain indices)
@@ -389,7 +389,7 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
     # Third pass: Merge similar clusters with improved logic
     merged = True
     iteration_count = 0
-    max_iterations = 3  # Prevent infinite loops
+    max_iterations = 2  # Prevent infinite loops
     
     while merged and len(clusters) > 1 and iteration_count < max_iterations:
         merged = False
@@ -447,7 +447,7 @@ def cluster_items(items: list[dict], threshold: float) -> list[list[dict]]:
                     centroid_sim = 0.7 * title_sim + 0.3 * summary_sim
                     
                     # Merge if sufficiently similar
-                    if centroid_sim >= threshold * 0.8:  # Slightly lower threshold for cluster merging
+                    if centroid_sim >= threshold * 0.7:  # Slightly lower threshold for cluster merging
                         clusters[i].extend(clusters[j])
                         clusters[j] = []
                         merged = True
