@@ -1,51 +1,33 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-02T13:18:32.703021+00:00",
-  "digest_words": 348,
+  "generated_at": "2026-10-03T12:08:12.172089+00:00",
+  "digest_words": 255,
   "clusters": [
     {
-      "headline": "Israel\u2019s top court backs barring Palestinian politician from election over article",
-      "countries": [
-        "Israel"
-      ],
+      "headline": "'The entire land is ours': Ben Gvir escalates calls for annexation of occupied West Bank",
+      "countries": [],
       "regions": [
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIsrael\u2019s top court backs barring Palestinian politician from election over article\n\n    \n    \n\n        \n    \n                Israel\u2019s top court has backed barring a Palestinian politician with Israeli citizenship from standing in the upcoming parliamentary election, citing an arti",
+      "summary": "\n\n  \n      \n      \n'The entire land is ours': Ben Gvir escalates calls for annexation of occupied West Bank\n\n    \n    \n\n        \n    \n                Israeli National Security Minister Itamar Ben Gvir&nbsp;claimed&nbsp;that the entire occupied West Bank \u201cbelongs to Israel\u201d and has vowed to dismantle",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israels-top-court-backs-barring-palestinian-politician-election-over",
-        "https://www.middleeasteye.net/news/israels-top-court-backs-barring-palestinian-politician-election-over-article"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/entire-land-ours-ben-gvir-escalates-calls-annexation-occupied-west-bank",
+        "https://www.middleeasteye.net/news/entire-land-ours-ben-gvir-escalates-calls-annexation-occupied-west-bank"
       ]
     },
     {
-      "headline": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "headline": "Ethiopia: Who Gets to Author Ethiopia's Political Order? Why the Crisis Is About More Than Identity Politics",
       "countries": [
         "Ethiopia"
       ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Africa"
       ],
-      "outlets": 2,
-      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+      "outlets": 1,
+      "summary": "[Addis Standard] Addis Abeba -- A familiar explanation of Ethiopia's recurring crises starts with identity:  politics organized around nationality can harden boundaries, reward exclusionary mobilization, and expose minorities, migrants, mixed communities, and dissenters to exclusion when democratic ",
       "links": [
-        "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Algeria introduces death penalty for arsonists after deadly wildfires",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202610020236.html"
       ]
     },
     {
@@ -75,6 +57,49 @@
       ]
     },
     {
+      "headline": "Israeli forces held Palestinian activist Issa Amro incommunicado for hours: Israeli rights lawyer",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nIsraeli forces held Palestinian activist Issa Amro incommunicado for hours: Israeli rights lawyer\n\n    \n    \n\n        \n    \n                Palestinian activist Issa Amro was detained by Israeli forces on Friday and held for seven hours for being \"too close to a settlement\", a hum",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-held-palestinian-activist-issa-amro-incommunicado-hours"
+      ]
+    },
+    {
+      "headline": "Ethiopia: U.S. Lawmakers, Europe Peace Foundation Urge Dialogue As Fighting Escalates in Ethiopia",
+      "countries": [
+        "United States",
+        "Ethiopia"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Addis Standard] Addis Abeba -- The Europe Peace Foundation and three US lawmakers have separately called for an immediate end to hostilities in Ethiopia, urging the parties to return to negotiations as fighting intensifies in Tigray and neighbouring Amhara and Afar regions.",
+      "links": [
+        "https://allafrica.com/stories/202610020310.html"
+      ]
+    },
+    {
+      "headline": "Ethiopia: Alamata Fighting Leaves Trail of Civilian Casualties - Adigrat Eparch Appeals for Help",
+      "countries": [
+        "Ethiopia"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Addis Standard] Addis Abeba -- More than 50 civilians have reportedly been killed in and around Alamata, southern Tigray, during several days of intense fighting in late September, as renewed hostilities in northern Ethiopia leave residents displaced, medical facilities overwhelmed and humanitarian",
+      "links": [
+        "https://allafrica.com/stories/202610020283.html"
+      ]
+    },
+    {
       "headline": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
       "countries": [
         "South Africa"
@@ -101,69 +126,47 @@
       ]
     },
     {
-      "headline": "Egypt detains entire newsroom of leading fact-checking platform over 'fake news' allegations",
+      "headline": "'Artists must pick a side': How Israel's assault on Gaza is shifting the culture on Broadway",
       "countries": [
-        "Egypt"
+        "Israel"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nEgypt detains entire newsroom of leading fact-checking platform over 'fake news' allegations\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nFri, 10/02/2026 - 10:51\n\n        \n      \n    \n      \n    \n                Reporters Without Borders denounces the ",
+      "summary": "\n\n  \n      \n      \n'Artists must pick a side': How Israel's assault on Gaza is shifting the culture on Broadway\n\n    \n    \n\n          \n      \n      \n        Submitted by \nYasmine El-Sabawi\n on \nFri, 10/02/2026 - 13:55\n\n        \n      \n    \n      \n    \n                    \n                  \n        ",
       "links": [
-        "https://www.middleeasteye.net/news/egypt-detains-entire-newsroom-leading-fact-checking-platform-over-fake-news-allegations"
+        "https://www.middleeasteye.net/big-story/how-israel-assault-gaza-shifting-culture-broadway"
       ]
     },
     {
-      "headline": "Existing safeguards by AI companies insufficient as models grow more capable: Josephine Teo",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Content filters, user verification and pre-release testing are among existing safeguards, but malicious users can bypass them by turning to openly available AI models, says the digital development and information minister.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/ai-safeguards-insufficient-content-filters-josephine-teo-6426716"
-      ]
-    },
-    {
-      "headline": "US arrests man over alleged smuggling of US$300 million worth of computer servers to China",
+      "headline": "Kenya: City Hall Launches Day 2 of 'Operation Okoa Maisha' El Ni&#xf1;o Emergency Simulation",
       "countries": [
-        "China"
+        "Kenya"
       ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Greg Lui operated a technology company called Earthmade Computer, which he used to buy and send items to China without the licences required by the US Department of Commerce from 2023 to 2024, said the Department of Justice.",
-      "links": [
-        "https://www.channelnewsasia.com/world/us-man-arrested-smuggle-computer-servers-china-6426911"
-      ]
-    },
-    {
-      "headline": "Congo-Kinshasa: Ebola Response Faces Setback As Transit Centre Burns Down in DR Congo Camp",
-      "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[UN News] The enormous challenge of halting the spread of Ebola in the Democratic Republic of the Congo (DRC) just became even harder after a key transit centre for patients requiring treatment burned down in Ituri province.",
+      "summary": "[Capital FM] Nairobi -- Nairobi City County has entered the second day of Operation Okoa Maisha, a multi-agency emergency simulation exercise designed to test the city's preparedness and response to the expected El Ni&#xf1;o rains.",
       "links": [
-        "https://allafrica.com/stories/202610020007.html"
+        "https://allafrica.com/stories/202610020159.html"
       ]
     },
     {
-      "headline": "Africa: Ecowas Court and Women's Rights in West Africa - What's Working - and What Isn't",
-      "countries": [],
+      "headline": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "countries": [
+        "South Africa"
+      ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[The Conversation Africa] The Ecowas Court is a west African regional body located in Abuja, Nigeria, serving the now 12-nation Economic Community of West African States (Ecowas). The court, originally set up to handle economic matters related to the Ecowas Treaty, was given a human rights mandate i",
+      "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
       "links": [
-        "https://allafrica.com/stories/202610020008.html"
+        "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "**State of the World Email Digest**\n\n**Conflict and Diplomacy**\n\nThe most significant stories today are centered around conflict and diplomacy. In Africa, Ethiopia and Eritrea have cut diplomatic ties as the northern conflict escalates, with Ethiopian forces battling rebel fighters (BBC News). The tone of this story is highly negative, with an average tone of -0.63. \n\nIn the Middle East, Israel's top court has backed barring a Palestinian politician from election over an article, with a negative tone of -0.39 (MEE staff). \n\n**Regional Security and Human Rights**\n\nIn Africa, Algeria has introduced the death penalty for arsonists after deadly wildfires, with over 200 people estimated to have died (BBC News). South Africa is also grappling with a series of murders, with 12 women killed in one part since July, prompting the President to describe the situation as a \"stain on our national conscience\" (BBC News). The tone of this story is extremely negative, with an average tone of -0.98.\n\nIn Egypt, the entire newsroom of a leading fact-checking platform has been detained over 'fake news' allegations, with a negative tone of -0.12 (MEE staff).\n\n**Technology and Economy**\n\nIn Asia, existing safeguards by AI companies are insufficient as models grow more capable, according to Josephine Teo (Latest News). The US has also arrested a man over alleged smuggling of computer servers to China worth $300 million (Latest News). The tone of this story is positive, with an average tone of +0.37.\n\nIn Africa, Nigeria's digital economy is accelerating, with the country confronting the challenge of protecting its digital infrastructure (AllAfrica News: Latest). The tone of this story is positive, with an average tone of +0.27.\n\n**Health and Humanitarian Crisis**\n\nIn Africa, the Ebola response in the Democratic Republic of the Congo has faced a setback after a key transit centre for patients burned down (AllAfrica News: Latest).\n\nOverall, the tone of today's stories is predominantly negative, with conflict, diplomacy, and human rights issues dominating the headlines. Outlets diverge in tone, with some stories having a more positive tone, such as those related to technology and economy. \n\nWord count: 799"
+  "narrative": "State of the World - 2026-10-03 (extractive mode)\n\n* 'The entire land is ours': Ben Gvir escalates calls for annexation of occupied West Bank (Section Feed, 2 outlets)\n* Ethiopia: Who Gets to Author Ethiopia's Political Order? Why the Crisis Is About More Than Identity Politics (AllAfrica News: Latest, 1 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot (BBC News, 1 outlets)\n* Israeli forces held Palestinian activist Issa Amro incommunicado for hours: Israeli rights lawyer (Section Feed, 1 outlets)\n* Ethiopia: U.S. Lawmakers, Europe Peace Foundation Urge Dialogue As Fighting Escalates in Ethiopia (AllAfrica News: Latest, 1 outlets)\n* Ethiopia: Alamata Fighting Leaves Trail of Civilian Casualties - Adigrat Eparch Appeals for Help (AllAfrica News: Latest, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia (NPR Topics: World, 1 outlets)\n* 'Artists must pick a side': How Israel's assault on Gaza is shifting the culture on Broadway (Section Feed, 1 outlets)\n* Kenya: City Hall Launches Day 2 of 'Operation Okoa Maisha' El Ni&#xf1;o Emergency Simulation (AllAfrica News: Latest, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)"
 }
