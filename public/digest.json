@@ -1,19 +1,61 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-03T12:08:12.172089+00:00",
-  "digest_words": 255,
+  "generated_at": "2026-10-04T12:56:00.798005+00:00",
+  "digest_words": 259,
   "clusters": [
     {
-      "headline": "'The entire land is ours': Ben Gvir escalates calls for annexation of occupied West Bank",
+      "headline": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
       "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Iran says Hormuz Strait to remain closed until US meets seven conditions",
+      "countries": [
+        "Iran"
+      ],
       "regions": [
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \n'The entire land is ours': Ben Gvir escalates calls for annexation of occupied West Bank\n\n    \n    \n\n        \n    \n                Israeli National Security Minister Itamar Ben Gvir&nbsp;claimed&nbsp;that the entire occupied West Bank \u201cbelongs to Israel\u201d and has vowed to dismantle",
+      "summary": "\n\n  \n      \n      \nIran says Hormuz Strait to remain closed until US meets seven conditions\n\n    \n    \n\n        \n    \n                Iran's Parliament Speaker Mohammad Bagher Ghalibaf has said that the Strait of Hormuz will remain shut until Washington meets certain conditions.\n\nGhalibaf, who also ",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/entire-land-ours-ben-gvir-escalates-calls-annexation-occupied-west-bank",
-        "https://www.middleeasteye.net/news/entire-land-ours-ben-gvir-escalates-calls-annexation-occupied-west-bank"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-hormuz-strait-remain-closed-until-us-meets-seven-conditions",
+        "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "Priority queues, trained staff at polyclinics among proposals to support people with intellectual disabilities",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The task force also recommended introducing future care planning across adult disability services to help people with disabilities and their families plan ahead.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/polyclinic-staff-training-intellectual-disabilities-autism-task-force-6423641"
+      ]
+    },
+    {
+      "headline": "Singapore athletes met 'internal medal projections' at Asian Games, will look to close gap to golds: Officials",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Singapore's athletes ended the Asian Games with two gold, nine silver and seven bronze medals.",
+      "links": [
+        "https://www.channelnewsasia.com/sport/athletes-internal-medal-projections-asian-games-6430366"
       ]
     },
     {
@@ -45,19 +87,33 @@
       ]
     },
     {
-      "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "countries": [],
+      "headline": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+      "countries": [
+        "Brazil"
+      ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "summary": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
+        "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Israeli forces held Palestinian activist Issa Amro incommunicado for hours: Israeli rights lawyer",
+      "headline": "Task force proposes stronger job and training support for people with disabilities to ease 'post-18 cliff'",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Families worry about whether children with disabilities will be able to find and keep a job, as well as live independently, after they graduate from special education schools at 18.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/work-internships-job-tasters-students-disabilities-task-force-6423766"
+      ]
+    },
+    {
+      "headline": "NAZA: Israeli embassies in UK and US promote rival documentary to challenge Gaza genocide allegations",
       "countries": [
         "Israel"
       ],
@@ -65,9 +121,9 @@
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsraeli forces held Palestinian activist Issa Amro incommunicado for hours: Israeli rights lawyer\n\n    \n    \n\n        \n    \n                Palestinian activist Issa Amro was detained by Israeli forces on Friday and held for seven hours for being \"too close to a settlement\", a hum",
+      "summary": "\n\n  \n      \n      \nNAZA: Israeli embassies in UK and US promote rival documentary to challenge Gaza genocide allegations\n\n    \n    \n\n        \n    \n                Israeli embassies in the United States and the United Kingdom are promoting a copycat NAZA, nearly a month after the release of&nbsp;the ",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-held-palestinian-activist-issa-amro-incommunicado-hours"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/naza-israeli-embassies-uk-and-us-promote-rival-documentary-challenge"
       ]
     },
     {
@@ -112,61 +168,7 @@
       "links": [
         "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
       ]
-    },
-    {
-      "headline": "Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia",
-      "countries": [],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Activists across Asia are being hunted down by authoritarian governments even across international borders. Human rights groups have been warning of a \"swap market\" of repression in Southeast Asia.",
-      "links": [
-        "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments"
-      ]
-    },
-    {
-      "headline": "'Artists must pick a side': How Israel's assault on Gaza is shifting the culture on Broadway",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \n'Artists must pick a side': How Israel's assault on Gaza is shifting the culture on Broadway\n\n    \n    \n\n          \n      \n      \n        Submitted by \nYasmine El-Sabawi\n on \nFri, 10/02/2026 - 13:55\n\n        \n      \n    \n      \n    \n                    \n                  \n        ",
-      "links": [
-        "https://www.middleeasteye.net/big-story/how-israel-assault-gaza-shifting-culture-broadway"
-      ]
-    },
-    {
-      "headline": "Kenya: City Hall Launches Day 2 of 'Operation Okoa Maisha' El Ni&#xf1;o Emergency Simulation",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- Nairobi City County has entered the second day of Operation Okoa Maisha, a multi-agency emergency simulation exercise designed to test the city's preparedness and response to the expected El Ni&#xf1;o rains.",
-      "links": [
-        "https://allafrica.com/stories/202610020159.html"
-      ]
-    },
-    {
-      "headline": "The South African men trying to end violence against women: 'Every man needs to play a part'",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
-      ]
     }
   ],
-  "narrative": "State of the World - 2026-10-03 (extractive mode)\n\n* 'The entire land is ours': Ben Gvir escalates calls for annexation of occupied West Bank (Section Feed, 2 outlets)\n* Ethiopia: Who Gets to Author Ethiopia's Political Order? Why the Crisis Is About More Than Identity Politics (AllAfrica News: Latest, 1 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot (BBC News, 1 outlets)\n* Israeli forces held Palestinian activist Issa Amro incommunicado for hours: Israeli rights lawyer (Section Feed, 1 outlets)\n* Ethiopia: U.S. Lawmakers, Europe Peace Foundation Urge Dialogue As Fighting Escalates in Ethiopia (AllAfrica News: Latest, 1 outlets)\n* Ethiopia: Alamata Fighting Leaves Trail of Civilian Casualties - Adigrat Eparch Appeals for Help (AllAfrica News: Latest, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia (NPR Topics: World, 1 outlets)\n* 'Artists must pick a side': How Israel's assault on Gaza is shifting the culture on Broadway (Section Feed, 1 outlets)\n* Kenya: City Hall Launches Day 2 of 'Operation Okoa Maisha' El Ni&#xf1;o Emergency Simulation (AllAfrica News: Latest, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-10-04 (extractive mode)\n\n* Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer (BBC News, 2 outlets)\n* Iran says Hormuz Strait to remain closed until US meets seven conditions (Section Feed, 2 outlets)\n* Priority queues, trained staff at polyclinics among proposals to support people with intellectual disabilities (Latest News, 1 outlets)\n* Singapore athletes met 'internal medal projections' at Asian Games, will look to close gap to golds: Officials (Latest News, 1 outlets)\n* Ethiopia: Who Gets to Author Ethiopia's Political Order? Why the Crisis Is About More Than Identity Politics (AllAfrica News: Latest, 1 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied (World | Deutsche Welle, 1 outlets)\n* Task force proposes stronger job and training support for people with disabilities to ease 'post-18 cliff' (Latest News, 1 outlets)\n* NAZA: Israeli embassies in UK and US promote rival documentary to challenge Gaza genocide allegations (Section Feed, 1 outlets)\n* Ethiopia: U.S. Lawmakers, Europe Peace Foundation Urge Dialogue As Fighting Escalates in Ethiopia (AllAfrica News: Latest, 1 outlets)\n* Ethiopia: Alamata Fighting Leaves Trail of Civilian Casualties - Adigrat Eparch Appeals for Help (AllAfrica News: Latest, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)"
 }
