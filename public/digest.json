@@ -1,158 +1,146 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-04T12:56:00.798005+00:00",
-  "digest_words": 259,
+  "generated_at": "2026-10-05T15:22:54.659360+00:00",
+  "digest_words": 236,
   "clusters": [
     {
-      "headline": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Iran says Hormuz Strait to remain closed until US meets seven conditions",
+      "headline": "Labour MP Emily Thornberry urges Britain to defy Israeli order to close Jerusalem consulate",
       "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIran says Hormuz Strait to remain closed until US meets seven conditions\n\n    \n    \n\n        \n    \n                Iran's Parliament Speaker Mohammad Bagher Ghalibaf has said that the Strait of Hormuz will remain shut until Washington meets certain conditions.\n\nGhalibaf, who also ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-hormuz-strait-remain-closed-until-us-meets-seven-conditions",
-        "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "Priority queues, trained staff at polyclinics among proposals to support people with intellectual disabilities",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The task force also recommended introducing future care planning across adult disability services to help people with disabilities and their families plan ahead.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/polyclinic-staff-training-intellectual-disabilities-autism-task-force-6423641"
-      ]
-    },
-    {
-      "headline": "Singapore athletes met 'internal medal projections' at Asian Games, will look to close gap to golds: Officials",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Singapore's athletes ended the Asian Games with two gold, nine silver and seven bronze medals.",
-      "links": [
-        "https://www.channelnewsasia.com/sport/athletes-internal-medal-projections-asian-games-6430366"
-      ]
-    },
-    {
-      "headline": "Ethiopia: Who Gets to Author Ethiopia's Political Order? Why the Crisis Is About More Than Identity Politics",
-      "countries": [
-        "Ethiopia"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Addis Standard] Addis Abeba -- A familiar explanation of Ethiopia's recurring crises starts with identity:  politics organized around nationality can harden boundaries, reward exclusionary mobilization, and expose minorities, migrants, mixed communities, and dissenters to exclusion when democratic ",
-      "links": [
-        "https://allafrica.com/stories/202610020236.html"
-      ]
-    },
-    {
-      "headline": "Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[CyFrica] As Nigeria's digital economy accelerates towards an estimated $18.3 billion in 2026, the country is confronting an equally urgent challenge: protecting the digital infrastructure, data and financial ecosystems powering that growth.",
-      "links": [
-        "https://allafrica.com/stories/202609080569.html"
-      ]
-    },
-    {
-      "headline": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-      "countries": [
-        "Brazil"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.",
-      "links": [
-        "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Task force proposes stronger job and training support for people with disabilities to ease 'post-18 cliff'",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Families worry about whether children with disabilities will be able to find and keep a job, as well as live independently, after they graduate from special education schools at 18.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/work-internships-job-tasters-students-disabilities-task-force-6423766"
-      ]
-    },
-    {
-      "headline": "NAZA: Israeli embassies in UK and US promote rival documentary to challenge Gaza genocide allegations",
-      "countries": [
+        "United Kingdom",
         "Israel"
       ],
       "regions": [
         "Middle East"
       ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nNAZA: Israeli embassies in UK and US promote rival documentary to challenge Gaza genocide allegations\n\n    \n    \n\n        \n    \n                Israeli embassies in the United States and the United Kingdom are promoting a copycat NAZA, nearly a month after the release of&nbsp;the ",
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nLabour MP Emily Thornberry urges Britain to defy Israeli order to close Jerusalem consulate\n\n    \n    \n\n          \n      \n      \n        Submitted by \nPeter Oborne\n on \nMon, 10/05/2026 - 12:44\n\n        \n      \n    \n      \n    \n                The chair of Parliament's Foreign Affa",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/naza-israeli-embassies-uk-and-us-promote-rival-documentary-challenge"
+        "https://www.middleeasteye.net/news/labour-mp-emily-thorberry-urges-britain-defy-israeli-order-close-jerusalem-consulate",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/labour-mp-emily-thornberry-urges-uk-defy-israeli-order-close-jerusalem"
       ]
     },
     {
-      "headline": "Ethiopia: U.S. Lawmakers, Europe Peace Foundation Urge Dialogue As Fighting Escalates in Ethiopia",
+      "headline": "Turkey supplies Korkut air defence systems to Ukraine, sources say",
       "countries": [
-        "United States",
+        "Turkey",
+        "Ukraine"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nTurkey supplies Korkut air defence systems to Ukraine, sources say\n\n    \n    \n\n        \n    \n                Turkey&nbsp;supplied anti-drone air defence systems to&nbsp;Ukraine&nbsp;earlier this year, allowing Kyiv to test new products and bolster its capabilities, several people ",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-supplies-korkut-air-defence-systems-ukraine-sources-say",
+        "https://www.middleeasteye.net/news/turkey-supplies-korkut-air-defence-systems-ukraine-sources-say"
+      ]
+    },
+    {
+      "headline": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "countries": [
         "Ethiopia"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Africa: Africa CDC Supports DR Congo in Strengthening Transparency and Accountability in Ebola Response Funding",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Africa CDC] Kinshasa -- The Africa Centres for Disease Control and Prevention (Africa CDC) welcomes and supports the position of the Government of the Democratic Republic of the Congo, expressed through the Ministry of Public Health, Hygiene and Social Welfare, to strengthen transparency, traceabil",
+      "links": [
+        "https://allafrica.com/stories/202610040090.html"
+      ]
+    },
+    {
+      "headline": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
+      "countries": [
+        "Ethiopia"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Reports indicate Ethiopian government forces have made advances against a northern rebel group. Renewed fighting has raised fears the conflict could spill over into the wider region.",
+      "links": [
+        "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Sudan: 'Sudan's Children Face Recruitment, Sexual Violence, and Lasting Trauma' - Amnesty Researcher",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Dabanga] Amsterdam / El Fasher -- Children in North Darfur have been recruited by the Rapid Support Forces (RSF), subjected to sexual violence and left facing the effects of starvation and years without education, according to Amnesty International researcher Janine Morna.",
+      "links": [
+        "https://allafrica.com/stories/202610050066.html"
+      ]
+    },
+    {
+      "headline": "ComChest disburses more than S$80 million in FY2025, benefitting over 130,000 individuals, families",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Around S$41 million went towards programmes addressing critical needs, including support for people with mental health needs, children with special needs and youth at risk.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/community-chest-channels-80-million-sgd-340-social-programmes-6429071"
+      ]
+    },
+    {
+      "headline": "Thousands transferred from Syria to Iraq face possible execution over alleged IS links, HRW says",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nThousands transferred from Syria to Iraq face possible execution over alleged IS links, HRW says\n\n    \n    \n\n          \n      \n      \n        Submitted by \nAlex MacDonald\n on \nMon, 10/05/2026 - 13:16\n\n        \n      \n    \n      \n    \n                Dozens of countries have stalle",
+      "links": [
+        "https://www.middleeasteye.net/news/thousands-suspected-islamic-state-members-risk-abuse-iraqi-prisons-warns-rights-group"
+      ]
+    },
+    {
+      "headline": "South Africa: Fochville Crash Accused Due in Court - South African News Briefs - October 5, 2026",
+      "countries": [
+        "South Africa"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Addis Standard] Addis Abeba -- The Europe Peace Foundation and three US lawmakers have separately called for an immediate end to hostilities in Ethiopia, urging the parties to return to negotiations as fighting intensifies in Tigray and neighbouring Amhara and Afar regions.",
+      "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202610020310.html"
-      ]
-    },
-    {
-      "headline": "Ethiopia: Alamata Fighting Leaves Trail of Civilian Casualties - Adigrat Eparch Appeals for Help",
-      "countries": [
-        "Ethiopia"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Addis Standard] Addis Abeba -- More than 50 civilians have reportedly been killed in and around Alamata, southern Tigray, during several days of intense fighting in late September, as renewed hostilities in northern Ethiopia leave residents displaced, medical facilities overwhelmed and humanitarian",
-      "links": [
-        "https://allafrica.com/stories/202610020283.html"
+        "https://allafrica.com/stories/202610050137.html"
       ]
     },
     {
@@ -168,7 +156,19 @@
       "links": [
         "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
       ]
+    },
+    {
+      "headline": "Bosnia election: New steps to prevent electoral fraud, but nationalist parties remain on top",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "New technology has stopped votes being cast on behalf of dead or absent voters, and turnout has fallen to a record low. But it was a case of deja vu in Bosnia's elections with the same parties winning.",
+      "links": [
+        "https://www.dw.com/en/bosnia-election-new-steps-to-prevent-electoral-fraud-but-nationalist-parties-remain-on-top/a-79544717?maca=en-rss-en-world-4025-rdf"
+      ]
     }
   ],
-  "narrative": "State of the World - 2026-10-04 (extractive mode)\n\n* Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer (BBC News, 2 outlets)\n* Iran says Hormuz Strait to remain closed until US meets seven conditions (Section Feed, 2 outlets)\n* Priority queues, trained staff at polyclinics among proposals to support people with intellectual disabilities (Latest News, 1 outlets)\n* Singapore athletes met 'internal medal projections' at Asian Games, will look to close gap to golds: Officials (Latest News, 1 outlets)\n* Ethiopia: Who Gets to Author Ethiopia's Political Order? Why the Crisis Is About More Than Identity Politics (AllAfrica News: Latest, 1 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied (World | Deutsche Welle, 1 outlets)\n* Task force proposes stronger job and training support for people with disabilities to ease 'post-18 cliff' (Latest News, 1 outlets)\n* NAZA: Israeli embassies in UK and US promote rival documentary to challenge Gaza genocide allegations (Section Feed, 1 outlets)\n* Ethiopia: U.S. Lawmakers, Europe Peace Foundation Urge Dialogue As Fighting Escalates in Ethiopia (AllAfrica News: Latest, 1 outlets)\n* Ethiopia: Alamata Fighting Leaves Trail of Civilian Casualties - Adigrat Eparch Appeals for Help (AllAfrica News: Latest, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-10-05 (extractive mode)\n\n* Labour MP Emily Thornberry urges Britain to defy Israeli order to close Jerusalem consulate (Section Feed, 2 outlets)\n* Turkey supplies Korkut air defence systems to Ukraine, sources say (Section Feed, 2 outlets)\n* Bombs preventing rescue of kidnapped youths, Nigerian police say (BBC News, 2 outlets)\n* Ethiopian rebel forces withdraw from Tigray regional capital (BBC News, 2 outlets)\n* Africa: Africa CDC Supports DR Congo in Strengthening Transparency and Accountability in Ebola Response Funding (AllAfrica News: Latest, 1 outlets)\n* In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate (World | Deutsche Welle, 1 outlets)\n* Sudan: 'Sudan's Children Face Recruitment, Sexual Violence, and Lasting Trauma' - Amnesty Researcher (AllAfrica News: Latest, 1 outlets)\n* ComChest disburses more than S$80 million in FY2025, benefitting over 130,000 individuals, families (Latest News, 1 outlets)\n* Thousands transferred from Syria to Iraq face possible execution over alleged IS links, HRW says (Section Feed, 1 outlets)\n* South Africa: Fochville Crash Accused Due in Court - South African News Briefs - October 5, 2026 (AllAfrica News: Latest, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Bosnia election: New steps to prevent electoral fraud, but nationalist parties remain on top (World | Deutsche Welle, 1 outlets)"
 }
