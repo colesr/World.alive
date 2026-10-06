@@ -1,42 +1,40 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-05T15:22:54.659360+00:00",
-  "digest_words": 236,
+  "generated_at": "2026-10-06T13:44:28.594836+00:00",
+  "digest_words": 244,
   "clusters": [
     {
-      "headline": "Labour MP Emily Thornberry urges Britain to defy Israeli order to close Jerusalem consulate",
+      "headline": "Former German spy chief arrested on suspicion of treason and espionage",
       "countries": [
-        "United Kingdom",
-        "Israel"
+        "Germany"
       ],
       "regions": [
+        "Europe",
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \nLabour MP Emily Thornberry urges Britain to defy Israeli order to close Jerusalem consulate\n\n    \n    \n\n          \n      \n      \n        Submitted by \nPeter Oborne\n on \nMon, 10/05/2026 - 12:44\n\n        \n      \n    \n      \n    \n                The chair of Parliament's Foreign Affa",
+      "summary": "August Hanning&#039;s former chief of staff was also arrested on suspicion of &#039;aiding and abetting attempted treason&#039;.",
       "links": [
-        "https://www.middleeasteye.net/news/labour-mp-emily-thorberry-urges-britain-defy-israeli-order-close-jerusalem-consulate",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/labour-mp-emily-thornberry-urges-uk-defy-israeli-order-close-jerusalem"
+        "https://www.aljazeera.com/news/2026/10/6/former-german-spy-chief-arrested-on-suspicion-of-treason-and-espionage?traffic_source=rss",
+        "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Turkey supplies Korkut air defence systems to Ukraine, sources say",
-      "countries": [
-        "Turkey",
-        "Ukraine"
-      ],
+      "headline": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
+      "countries": [],
       "regions": [
-        "Middle East"
+        "Africa",
+        "Europe"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \nTurkey supplies Korkut air defence systems to Ukraine, sources say\n\n    \n    \n\n        \n    \n                Turkey&nbsp;supplied anti-drone air defence systems to&nbsp;Ukraine&nbsp;earlier this year, allowing Kyiv to test new products and bolster its capabilities, several people ",
+      "summary": "The arrests are part of the country's efforts to curb the misuse and abuse of the national currency.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-supplies-korkut-air-defence-systems-ukraine-sources-say",
-        "https://www.middleeasteye.net/news/turkey-supplies-korkut-air-defence-systems-ukraine-sources-say"
+        "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
+      "headline": "Nigeria mourns 25 killed as military plane crashes into swamp",
       "countries": [
         "Nigeria"
       ],
@@ -45,102 +43,107 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
+      "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "headline": "Kenya confirms its first Ebola death as outbreak spreads",
       "countries": [
-        "Ethiopia"
+        "Kenya"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Africa: Africa CDC Supports DR Congo in Strengthening Transparency and Accountability in Ebola Response Funding",
+      "headline": "The agonising wait for Gaza\u2019s missing",
       "countries": [],
       "regions": [
-        "Africa"
+        "Middle East"
       ],
-      "outlets": 1,
-      "summary": "[Africa CDC] Kinshasa -- The Africa Centres for Disease Control and Prevention (Africa CDC) welcomes and supports the position of the Government of the Democratic Republic of the Congo, expressed through the Ministry of Public Health, Hygiene and Social Welfare, to strengthen transparency, traceabil",
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nThe agonising wait for Gaza\u2019s missing\n\n    \n    \n\n        \n    \n                Three years into Israel\u2019s genocide in Gaza, Palestinian families are still searching for answers about thousands of relatives who vanished during the war.\n\nSome disappeared during Israeli ground attack",
       "links": [
-        "https://allafrica.com/stories/202610040090.html"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/agonising-wait-gazas-missing",
+        "https://www.middleeasteye.net/news/agonising-wait-gazas-missing"
       ]
     },
     {
-      "headline": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
+      "headline": "Liberia: U.S. Migrant Flights to Liberia Evoke Troubling History of Sending People Deemed Unwanted to the West African Nation",
       "countries": [
-        "Ethiopia"
+        "United States"
       ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Reports indicate Ethiopian government forces have made advances against a northern rebel group. Renewed fighting has raised fears the conflict could spill over into the wider region.",
-      "links": [
-        "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Sudan: 'Sudan's Children Face Recruitment, Sexual Violence, and Lasting Trauma' - Amnesty Researcher",
-      "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Dabanga] Amsterdam / El Fasher -- Children in North Darfur have been recruited by the Rapid Support Forces (RSF), subjected to sexual violence and left facing the effects of starvation and years without education, according to Amnesty International researcher Janine Morna.",
+      "summary": "[The Conversation Africa] The Supreme Court's recent decision to temporarily allow the United States to resume deporting migrants to third-country destinations could see the resumption of flights to Liberia.",
       "links": [
-        "https://allafrica.com/stories/202610050066.html"
+        "https://allafrica.com/stories/202610060005.html"
       ]
     },
     {
-      "headline": "ComChest disburses more than S$80 million in FY2025, benefitting over 130,000 individuals, families",
+      "headline": "Two men fined more than S$3.34 million each for evading tax on over 4.5 million litres of diesel from Malaysia",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Around S$41 million went towards programmes addressing critical needs, including support for people with mental health needs, children with special needs and youth at risk.",
+      "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/singapore/community-chest-channels-80-million-sgd-340-social-programmes-6429071"
+        "https://www.channelnewsasia.com/singapore/two-men-fined-evading-duty-diesel-malaysia-6436036"
       ]
     },
     {
-      "headline": "Thousands transferred from Syria to Iraq face possible execution over alleged IS links, HRW says",
-      "countries": [],
+      "headline": "European president taking 'extremely seriously' allegations Rima Hassan MEP overturned Israeli and EU flags",
+      "countries": [
+        "Israel"
+      ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nThousands transferred from Syria to Iraq face possible execution over alleged IS links, HRW says\n\n    \n    \n\n          \n      \n      \n        Submitted by \nAlex MacDonald\n on \nMon, 10/05/2026 - 13:16\n\n        \n      \n    \n      \n    \n                Dozens of countries have stalle",
+      "summary": "\n\n  \n      \n      \nEuropean president taking 'extremely seriously' allegations Rima Hassan MEP overturned Israeli and EU flags\n\n    \n    \n\n        \n    \n                The president of the European Parliament, Roberta Metsola, stated on Tuesday that she was taking \"extremely seriously\" the accusati",
       "links": [
-        "https://www.middleeasteye.net/news/thousands-suspected-islamic-state-members-risk-abuse-iraqi-prisons-warns-rights-group"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/european-president-taking-extremely-seriously-allegations-french"
       ]
     },
     {
-      "headline": "South Africa: Fochville Crash Accused Due in Court - South African News Briefs - October 5, 2026",
+      "headline": "Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns",
       "countries": [
-        "South Africa"
+        "Nigeria"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "[CyFrica] As Nigeria's digital economy accelerates towards an estimated $18.3 billion in 2026, the country is confronting an equally urgent challenge: protecting the digital infrastructure, data and financial ecosystems powering that growth.",
       "links": [
-        "https://allafrica.com/stories/202610050137.html"
+        "https://allafrica.com/stories/202609080569.html"
+      ]
+    },
+    {
+      "headline": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
+      "countries": [
+        "Vietnam"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night.",
+      "links": [
+        "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat"
       ]
     },
     {
@@ -158,17 +161,19 @@
       ]
     },
     {
-      "headline": "Bosnia election: New steps to prevent electoral fraud, but nationalist parties remain on top",
-      "countries": [],
+      "headline": "Kenya: Govt Identifies 109 Criminal Gangs, Warns Against Political Violence Ahead of 2027 Polls",
+      "countries": [
+        "Kenya"
+      ],
       "regions": [
-        "Europe"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "New technology has stopped votes being cast on behalf of dead or absent voters, and turnout has fallen to a record low. But it was a case of deja vu in Bosnia's elections with the same parties winning.",
+      "summary": "[Capital FM] Nairobi -- The government has intensified its crackdown on criminal gangs and organised violence, identifying 109 organised criminal gangs and groups operating across the country as Kenya prepares for the 2027 General Election.",
       "links": [
-        "https://www.dw.com/en/bosnia-election-new-steps-to-prevent-electoral-fraud-but-nationalist-parties-remain-on-top/a-79544717?maca=en-rss-en-world-4025-rdf"
+        "https://allafrica.com/stories/202610060128.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-10-05 (extractive mode)\n\n* Labour MP Emily Thornberry urges Britain to defy Israeli order to close Jerusalem consulate (Section Feed, 2 outlets)\n* Turkey supplies Korkut air defence systems to Ukraine, sources say (Section Feed, 2 outlets)\n* Bombs preventing rescue of kidnapped youths, Nigerian police say (BBC News, 2 outlets)\n* Ethiopian rebel forces withdraw from Tigray regional capital (BBC News, 2 outlets)\n* Africa: Africa CDC Supports DR Congo in Strengthening Transparency and Accountability in Ebola Response Funding (AllAfrica News: Latest, 1 outlets)\n* In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate (World | Deutsche Welle, 1 outlets)\n* Sudan: 'Sudan's Children Face Recruitment, Sexual Violence, and Lasting Trauma' - Amnesty Researcher (AllAfrica News: Latest, 1 outlets)\n* ComChest disburses more than S$80 million in FY2025, benefitting over 130,000 individuals, families (Latest News, 1 outlets)\n* Thousands transferred from Syria to Iraq face possible execution over alleged IS links, HRW says (Section Feed, 1 outlets)\n* South Africa: Fochville Crash Accused Due in Court - South African News Briefs - October 5, 2026 (AllAfrica News: Latest, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Bosnia election: New steps to prevent electoral fraud, but nationalist parties remain on top (World | Deutsche Welle, 1 outlets)"
+  "narrative": "State of the World - 2026-10-06 (extractive mode)\n\n* Former German spy chief arrested on suspicion of treason and espionage (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Seven arrested for using Ghanaian banknotes to make 'money bouquets' (BBC News, 2 outlets)\n* Nigeria mourns 25 killed as military plane crashes into swamp (BBC News, 2 outlets)\n* Kenya confirms its first Ebola death as outbreak spreads (BBC News, 2 outlets)\n* The agonising wait for Gaza\u2019s missing (Section Feed, 2 outlets)\n* Liberia: U.S. Migrant Flights to Liberia Evoke Troubling History of Sending People Deemed Unwanted to the West African Nation (AllAfrica News: Latest, 1 outlets)\n* Two men fined more than S$3.34 million each for evading tax on over 4.5 million litres of diesel from Malaysia (Latest News, 1 outlets)\n* European president taking 'extremely seriously' allegations Rima Hassan MEP overturned Israeli and EU flags (Section Feed, 1 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat (NPR Topics: World, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Kenya: Govt Identifies 109 Criminal Gangs, Warns Against Political Violence Ahead of 2027 Polls (AllAfrica News: Latest, 1 outlets)"
 }
