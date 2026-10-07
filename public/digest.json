@@ -1,56 +1,25 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-06T13:44:28.594836+00:00",
-  "digest_words": 244,
+  "generated_at": "2026-10-07T14:02:43.502733+00:00",
+  "digest_words": 268,
   "clusters": [
     {
-      "headline": "Former German spy chief arrested on suspicion of treason and espionage",
+      "headline": "Exclusive: UK consul-general to Palestine set to leave Jerusalem before Israel's closure deadline",
       "countries": [
-        "Germany"
+        "Israel"
       ],
       "regions": [
-        "Europe",
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "August Hanning&#039;s former chief of staff was also arrested on suspicion of &#039;aiding and abetting attempted treason&#039;.",
+      "summary": "\n\n  \n      \n      \nExclusive: UK consul-general to Palestine set to leave Jerusalem before Israel's closure deadline\n\n    \n    \n\n          \n      \n      \n        Submitted by \nImran Mulla\n on \nWed, 10/07/2026 - 10:43\n\n        \n      \n    \n      \n    \n                The closure of the nearly 200-yea",
       "links": [
-        "https://www.aljazeera.com/news/2026/10/6/former-german-spy-chief-arrested-on-suspicion-of-treason-and-espionage?traffic_source=rss",
-        "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
+        "https://www.middleeasteye.net/news/uk-consul-general-palestine-leave-jerusalem-before-israels-deadline-close-consulate",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/uk-consul-general-palestine-set-leave-jerusalem-israels-closure-deadline"
       ]
     },
     {
-      "headline": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The arrests are part of the country's efforts to curb the misuse and abuse of the national currency.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Nigeria mourns 25 killed as military plane crashes into swamp",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Kenya confirms its first Ebola death as outbreak spreads",
+      "headline": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
       "countries": [
         "Kenya"
       ],
@@ -59,67 +28,40 @@
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+      "summary": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "The agonising wait for Gaza\u2019s missing",
+      "headline": "Henri Kagan, Kenso Soai win Nobel chemistry prize for \u2018mirror image\u2019 work",
       "countries": [],
       "regions": [
+        "Americas",
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \nThe agonising wait for Gaza\u2019s missing\n\n    \n    \n\n        \n    \n                Three years into Israel\u2019s genocide in Gaza, Palestinian families are still searching for answers about thousands of relatives who vanished during the war.\n\nSome disappeared during Israeli ground attack",
+      "summary": "Scientists honoured for solving mystery of asymmetric molecules that has helped in manufacture of pharmaceuticals.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/agonising-wait-gazas-missing",
-        "https://www.middleeasteye.net/news/agonising-wait-gazas-missing"
+        "https://www.aljazeera.com/news/2026/10/7/henri-kagan-kenso-soai-win-chemistry-nobel-for-mirror-image-breakthrough?traffic_source=rss",
+        "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry"
       ]
     },
     {
-      "headline": "Liberia: U.S. Migrant Flights to Liberia Evoke Troubling History of Sending People Deemed Unwanted to the West African Nation",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[The Conversation Africa] The Supreme Court's recent decision to temporarily allow the United States to resume deporting migrants to third-country destinations could see the resumption of flights to Liberia.",
-      "links": [
-        "https://allafrica.com/stories/202610060005.html"
-      ]
-    },
-    {
-      "headline": "Two men fined more than S$3.34 million each for evading tax on over 4.5 million litres of diesel from Malaysia",
+      "headline": "Jewish, 94, and arrested for supporting Palestine Action: Margaret Owen on Ed Miliband and the right to protest",
       "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/two-men-fined-evading-duty-diesel-malaysia-6436036"
-      ]
-    },
-    {
-      "headline": "European president taking 'extremely seriously' allegations Rima Hassan MEP overturned Israeli and EU flags",
-      "countries": [
-        "Israel"
-      ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nEuropean president taking 'extremely seriously' allegations Rima Hassan MEP overturned Israeli and EU flags\n\n    \n    \n\n        \n    \n                The president of the European Parliament, Roberta Metsola, stated on Tuesday that she was taking \"extremely seriously\" the accusati",
+      "summary": "\n\n  \n      \n      \nJewish, 94, and arrested for supporting Palestine Action: Margaret Owen on Ed Miliband and the right to protest\n\n    \n    \n\n          \n      \n      \n        Submitted by \nKatherine Hearst\n on \nTue, 10/06/2026 - 12:26\n\n        \n      \n    \n      \n    \n                Owen OBE, a fr",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/european-president-taking-extremely-seriously-allegations-french"
+        "https://www.middleeasteye.net/news/jewish-arrested-supporting-palestine-action-margaret-owen-ed-miliband-right-protest"
       ]
     },
     {
-      "headline": "Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns",
+      "headline": "Nigeria: Anti-Graft Agency Opposes Diezani's Move to Present Evidence of UK Court Acquittal in Abuja Case",
       "countries": [
         "Nigeria"
       ],
@@ -127,23 +69,23 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[CyFrica] As Nigeria's digital economy accelerates towards an estimated $18.3 billion in 2026, the country is confronting an equally urgent challenge: protecting the digital infrastructure, data and financial ecosystems powering that growth.",
+      "summary": "[Premium Times] EFCC maintained that the UK judgement was irrelevant to the case Diezani filed in court for the recovery of her auctioned assets.",
       "links": [
-        "https://allafrica.com/stories/202609080569.html"
+        "https://allafrica.com/stories/202610070132.html"
       ]
     },
     {
-      "headline": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
+      "headline": "Africa: U.S. Backs Stronger AU-UN Role in Africa Conflicts, Supports UN Financing for AU-Led Missions",
       "countries": [
-        "Vietnam"
+        "United States"
       ],
       "regions": [
-        "Americas"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night.",
+      "summary": "[Capital FM] Nairobi -- The United States has backed a stronger African Union-United Nations partnership to address conflicts across the continent, saying a UN framework for financing AU-led peace operations could provide a useful tool in responding to Africa's security crises.",
       "links": [
-        "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat"
+        "https://allafrica.com/stories/202610070467.html"
       ]
     },
     {
@@ -161,19 +103,69 @@
       ]
     },
     {
-      "headline": "Kenya: Govt Identifies 109 Criminal Gangs, Warns Against Political Violence Ahead of 2027 Polls",
+      "headline": "Zimbabwe: Mnangagwa Declares State of Disaster As 8,500 Homes Lose Roofs in Masvingo Hailstorm",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Zimbabwe] PRESIDENT Emmerson Mnangagwa has declared a State of Disaster following a severe hailstorm that hit Masvingo on Monday, leaving thousands of homes and infrastructure damaged.",
+      "links": [
+        "https://allafrica.com/stories/202610070177.html"
+      ]
+    },
+    {
+      "headline": "US\u00a0government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/business/us-government-google-join-zuckerberg-backed-biohub-in-18-billion-push-ai-biology-data-6439731"
+      ]
+    },
+    {
+      "headline": "The South African men trying to end violence against women: 'Every man needs to play a part'",
       "countries": [
-        "Kenya"
+        "South Africa"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- The government has intensified its crackdown on criminal gangs and organised violence, identifying 109 organised criminal gangs and groups operating across the country as Kenya prepares for the 2027 General Election.",
+      "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
       "links": [
-        "https://allafrica.com/stories/202610060128.html"
+        "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked",
+      "countries": [],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Israelis are gathering Wednesday to commemorate the Oct. 7, 2023, attack that killed 1,200 people, and sparked a devastating war in Gaza that Palestinians still grapple with.",
+      "links": [
+        "https://www.npr.org/2026/10/07/nx-s1-5993459/israelis-oct-7-palestinians-war"
+      ]
+    },
+    {
+      "headline": "\u2018Nothing is left\u2019: deadly floods slam Thai economy and strain Bangkok ahead of IMF meeting",
+      "countries": [
+        "Thailand"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Monsoon floods in Thailand have killed 60 people since mid-September, officials said, as surging waters exact an increasing economic toll \u2013 destroying homes and crops, killing livestock and flooding factories.\nBangkok buckled at the end of September as 300mm (11.8 inches) of rain \u2013 around one month\u2019",
+      "links": [
+        "https://www.scmp.com/week-asia/health-environment/article/3370074/nothing-left-deadly-floods-slam-thai-economy-and-strain-bangkok-ahead-imf-meeting?utm_source=rss_feed"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-10-06 (extractive mode)\n\n* Former German spy chief arrested on suspicion of treason and espionage (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Seven arrested for using Ghanaian banknotes to make 'money bouquets' (BBC News, 2 outlets)\n* Nigeria mourns 25 killed as military plane crashes into swamp (BBC News, 2 outlets)\n* Kenya confirms its first Ebola death as outbreak spreads (BBC News, 2 outlets)\n* The agonising wait for Gaza\u2019s missing (Section Feed, 2 outlets)\n* Liberia: U.S. Migrant Flights to Liberia Evoke Troubling History of Sending People Deemed Unwanted to the West African Nation (AllAfrica News: Latest, 1 outlets)\n* Two men fined more than S$3.34 million each for evading tax on over 4.5 million litres of diesel from Malaysia (Latest News, 1 outlets)\n* European president taking 'extremely seriously' allegations Rima Hassan MEP overturned Israeli and EU flags (Section Feed, 1 outlets)\n* Africa: NITDA, NDPC and Galaxy Backbone Back CyFrica 2026 as Nigeria's Leading Cybersecurity Summit Returns (AllAfrica News: Latest, 1 outlets)\n* Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat (NPR Topics: World, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Kenya: Govt Identifies 109 Criminal Gangs, Warns Against Political Violence Ahead of 2027 Polls (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-10-07 (extractive mode)\n\n* Exclusive: UK consul-general to Palestine set to leave Jerusalem before Israel's closure deadline (Section Feed, 2 outlets)\n* Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow (BBC News, 2 outlets)\n* Henri Kagan, Kenso Soai win Nobel chemistry prize for \u2018mirror image\u2019 work (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Jewish, 94, and arrested for supporting Palestine Action: Margaret Owen on Ed Miliband and the right to protest (Section Feed, 1 outlets)\n* Nigeria: Anti-Graft Agency Opposes Diezani's Move to Present Evidence of UK Court Acquittal in Abuja Case (AllAfrica News: Latest, 1 outlets)\n* Africa: U.S. Backs Stronger AU-UN Role in Africa Conflicts, Supports UN Financing for AU-Led Missions (AllAfrica News: Latest, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Zimbabwe: Mnangagwa Declares State of Disaster As 8,500 Homes Lose Roofs in Masvingo Hailstorm (AllAfrica News: Latest, 1 outlets)\n* US\u00a0government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data (Latest News, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked (NPR Topics: World, 1 outlets)\n* \u2018Nothing is left\u2019: deadly floods slam Thai economy and strain Bangkok ahead of IMF meeting (News - South China Morning Post, 1 outlets)"
 }
