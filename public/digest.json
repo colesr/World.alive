@@ -1,91 +1,123 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-07T14:02:43.502733+00:00",
-  "digest_words": 268,
+  "generated_at": "2026-10-08T14:09:33.910511+00:00",
+  "digest_words": 263,
   "clusters": [
     {
-      "headline": "Exclusive: UK consul-general to Palestine set to leave Jerusalem before Israel's closure deadline",
+      "headline": "South Korea test-flies its first domestically developed hypersonic weapon",
+      "countries": [
+        "South Korea"
+      ],
+      "regions": [
+        "Americas",
+        "Asia"
+      ],
+      "outlets": 2,
+      "summary": "The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.",
+      "links": [
+        "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
+        "https://www.scmp.com/news/asia/east-asia/article/3370218/south-korea-test-flies-its-first-home-grown-hypersonic-weapon?utm_source=rss_feed"
+      ]
+    },
+    {
+      "headline": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
+      "countries": [
+        "Saudi Arabia",
+        "Turkey",
+        "Pakistan"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Pakistan and Turkey have agreed to provide \"practical measures\" to defend Saudi Arabia against Houthi attacks. Could a new alliance reshape the war against the Houthis in Yemen?",
+      "links": [
+        "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Ed Miliband insists UK will 'build back up' presence in Jerusalem as British consulate closes on Israel's orders",
+      "countries": [
+        "United Kingdom",
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nEd Miliband insists UK will 'build back up' presence in Jerusalem as British consulate closes on Israel's orders\n\n    \n    \n\n          \n      \n      \n        Submitted by \nImran Mulla\n on \nThu, 10/08/2026 - 10:20\n\n        \n      \n    \n      \n    \n                Britain has opted ",
+      "links": [
+        "https://www.middleeasteye.net/news/ed-miliband-insists-uk-will-build-back-presence-jerusalem-british-consulate-jerusalem-closes"
+      ]
+    },
+    {
+      "headline": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
+      "countries": [
+        "Russia"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Two ships have sunk off the coast of Bulgaria and Romania after drone attacks in recent days. Bulgaria has held back on pointing the finger at Russia. What does that mean for security in the Black Sea and the region?",
+      "links": [
+        "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "South Africa: Anti-Immigration Groups Promise More Disruptions - South African News Briefs - October 8, 2026",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica]",
+      "links": [
+        "https://allafrica.com/stories/202610080059.html"
+      ]
+    },
+    {
+      "headline": "\u2018Occupation. Expulsion. Settlement\u2019: Israeli politician campaigns on platform to ethnically cleanse Gaza",
       "countries": [
         "Israel"
       ],
       "regions": [
         "Middle East"
       ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nExclusive: UK consul-general to Palestine set to leave Jerusalem before Israel's closure deadline\n\n    \n    \n\n          \n      \n      \n        Submitted by \nImran Mulla\n on \nWed, 10/07/2026 - 10:43\n\n        \n      \n    \n      \n    \n                The closure of the nearly 200-yea",
-      "links": [
-        "https://www.middleeasteye.net/news/uk-consul-general-palestine-leave-jerusalem-before-israels-deadline-close-consulate",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/uk-consul-general-palestine-set-leave-jerusalem-israels-closure-deadline"
-      ]
-    },
-    {
-      "headline": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Henri Kagan, Kenso Soai win Nobel chemistry prize for \u2018mirror image\u2019 work",
-      "countries": [],
-      "regions": [
-        "Americas",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "Scientists honoured for solving mystery of asymmetric molecules that has helped in manufacture of pharmaceuticals.",
-      "links": [
-        "https://www.aljazeera.com/news/2026/10/7/henri-kagan-kenso-soai-win-chemistry-nobel-for-mirror-image-breakthrough?traffic_source=rss",
-        "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry"
-      ]
-    },
-    {
-      "headline": "Jewish, 94, and arrested for supporting Palestine Action: Margaret Owen on Ed Miliband and the right to protest",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nJewish, 94, and arrested for supporting Palestine Action: Margaret Owen on Ed Miliband and the right to protest\n\n    \n    \n\n          \n      \n      \n        Submitted by \nKatherine Hearst\n on \nTue, 10/06/2026 - 12:26\n\n        \n      \n    \n      \n    \n                Owen OBE, a fr",
+      "summary": "\n\n  \n      \n      \n\u2018Occupation. Expulsion. Settlement\u2019: Israeli politician campaigns on platform to ethnically cleanse Gaza\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nThu, 10/08/2026 - 12:14\n\n        \n      \n    \n      \n    \n                Zehut leader and former Liku",
       "links": [
-        "https://www.middleeasteye.net/news/jewish-arrested-supporting-palestine-action-margaret-owen-ed-miliband-right-protest"
+        "https://www.middleeasteye.net/news/israeli-politician-puts-occupation-expulsion-settlement-election-campaign-ads"
       ]
     },
     {
-      "headline": "Nigeria: Anti-Graft Agency Opposes Diezani's Move to Present Evidence of UK Court Acquittal in Abuja Case",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Premium Times] EFCC maintained that the UK judgement was irrelevant to the case Diezani filed in court for the recovery of her auctioned assets.",
-      "links": [
-        "https://allafrica.com/stories/202610070132.html"
-      ]
-    },
-    {
-      "headline": "Africa: U.S. Backs Stronger AU-UN Role in Africa Conflicts, Supports UN Financing for AU-Led Missions",
+      "headline": "As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive",
       "countries": [
         "United States"
       ],
       "regions": [
-        "Africa"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- The United States has backed a stronger African Union-United Nations partnership to address conflicts across the continent, saying a UN framework for financing AU-led peace operations could provide a useful tool in responding to Africa's security crises.",
+      "summary": "Despite not being on the ballot, Trump is campaigning hard ahead of the upcoming midterm elections. His tactics and promises have mostly been at the expense of US taypayers. Experts say some might violate federal law.",
       "links": [
-        "https://allafrica.com/stories/202610070467.html"
+        "https://www.dw.com/en/as-us-midterm-elections-loom-trump-s-campaign-tactics-are-becoming-increasingly-unusual-and-expensive/a-79585673?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
@@ -103,19 +135,22 @@
       ]
     },
     {
-      "headline": "Zimbabwe: Mnangagwa Declares State of Disaster As 8,500 Homes Lose Roofs in Masvingo Hailstorm",
-      "countries": [],
+      "headline": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "countries": [
+        "Russia",
+        "Ukraine"
+      ],
       "regions": [
-        "Africa"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "[New Zimbabwe] PRESIDENT Emmerson Mnangagwa has declared a State of Disaster following a severe hailstorm that hit Masvingo on Monday, leaving thousands of homes and infrastructure damaged.",
+      "summary": "Ukraine accused Russia of targeting the crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
       "links": [
-        "https://allafrica.com/stories/202610070177.html"
+        "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "US\u00a0government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data",
+      "headline": "Explainer-Data centers' 'flexible' power usage could save the grid billions. Can they scale?",
       "countries": [],
       "regions": [
         "Asia"
@@ -123,49 +158,23 @@
       "outlets": 1,
       "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/business/us-government-google-join-zuckerberg-backed-biohub-in-18-billion-push-ai-biology-data-6439731"
+        "https://www.channelnewsasia.com/business/explainer-data-centers-flexible-power-usage-could-save-grid-billions-can-they-scale-6442466"
       ]
     },
     {
-      "headline": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "headline": "Zambia: Zambia Finalises U.S.$1.5 Billion U.S. Health Funding Deal As Zimbabwe Rejects Terms",
       "countries": [
-        "South Africa"
+        "United States"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+      "summary": "[New Zimbabwe] Zambia is set to sign a US$1.5 billion health funding agreement with the United States this week after resolving a dispute over sensitive health data-sharing requirements.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked",
-      "countries": [],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Israelis are gathering Wednesday to commemorate the Oct. 7, 2023, attack that killed 1,200 people, and sparked a devastating war in Gaza that Palestinians still grapple with.",
-      "links": [
-        "https://www.npr.org/2026/10/07/nx-s1-5993459/israelis-oct-7-palestinians-war"
-      ]
-    },
-    {
-      "headline": "\u2018Nothing is left\u2019: deadly floods slam Thai economy and strain Bangkok ahead of IMF meeting",
-      "countries": [
-        "Thailand"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Monsoon floods in Thailand have killed 60 people since mid-September, officials said, as surging waters exact an increasing economic toll \u2013 destroying homes and crops, killing livestock and flooding factories.\nBangkok buckled at the end of September as 300mm (11.8 inches) of rain \u2013 around one month\u2019",
-      "links": [
-        "https://www.scmp.com/week-asia/health-environment/article/3370074/nothing-left-deadly-floods-slam-thai-economy-and-strain-bangkok-ahead-imf-meeting?utm_source=rss_feed"
+        "https://allafrica.com/stories/202610080020.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-10-07 (extractive mode)\n\n* Exclusive: UK consul-general to Palestine set to leave Jerusalem before Israel's closure deadline (Section Feed, 2 outlets)\n* Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow (BBC News, 2 outlets)\n* Henri Kagan, Kenso Soai win Nobel chemistry prize for \u2018mirror image\u2019 work (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Jewish, 94, and arrested for supporting Palestine Action: Margaret Owen on Ed Miliband and the right to protest (Section Feed, 1 outlets)\n* Nigeria: Anti-Graft Agency Opposes Diezani's Move to Present Evidence of UK Court Acquittal in Abuja Case (AllAfrica News: Latest, 1 outlets)\n* Africa: U.S. Backs Stronger AU-UN Role in Africa Conflicts, Supports UN Financing for AU-Led Missions (AllAfrica News: Latest, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Zimbabwe: Mnangagwa Declares State of Disaster As 8,500 Homes Lose Roofs in Masvingo Hailstorm (AllAfrica News: Latest, 1 outlets)\n* US\u00a0government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data (Latest News, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked (NPR Topics: World, 1 outlets)\n* \u2018Nothing is left\u2019: deadly floods slam Thai economy and strain Bangkok ahead of IMF meeting (News - South China Morning Post, 1 outlets)"
+  "narrative": "State of the World - 2026-10-08 (extractive mode)\n\n* South Korea test-flies its first domestically developed hypersonic weapon (NPR Topics: World, 2 outlets)\n* Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen? (World | Deutsche Welle, 1 outlets)\n* Ed Miliband insists UK will 'build back up' presence in Jerusalem as British consulate closes on Israel's orders (Section Feed, 1 outlets)\n* Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain (BBC News, 1 outlets)\n* Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia? (World | Deutsche Welle, 1 outlets)\n* South Africa: Anti-Immigration Groups Promise More Disruptions - South African News Briefs - October 8, 2026 (AllAfrica News: Latest, 1 outlets)\n* \u2018Occupation. Expulsion. Settlement\u2019: Israeli politician campaigns on platform to ethnically cleanse Gaza (Section Feed, 1 outlets)\n* As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive (World | Deutsche Welle, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge (BBC News, 1 outlets)\n* Explainer-Data centers' 'flexible' power usage could save the grid billions. Can they scale? (Latest News, 1 outlets)\n* Zambia: Zambia Finalises U.S.$1.5 Billion U.S. Health Funding Deal As Zimbabwe Rejects Terms (AllAfrica News: Latest, 1 outlets)"
 }
