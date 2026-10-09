@@ -1,67 +1,96 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-08T14:09:33.910511+00:00",
-  "digest_words": 263,
+  "generated_at": "2026-10-09T13:57:20.586192+00:00",
+  "digest_words": 264,
   "clusters": [
     {
-      "headline": "South Korea test-flies its first domestically developed hypersonic weapon",
-      "countries": [
-        "South Korea"
-      ],
+      "headline": "How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast \u2014 and beyond",
+      "countries": [],
       "regions": [
-        "Americas",
-        "Asia"
-      ],
-      "outlets": 2,
-      "summary": "The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.",
-      "links": [
-        "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
-        "https://www.scmp.com/news/asia/east-asia/article/3370218/south-korea-test-flies-its-first-home-grown-hypersonic-weapon?utm_source=rss_feed"
-      ]
-    },
-    {
-      "headline": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
-      "countries": [
-        "Saudi Arabia",
-        "Turkey",
-        "Pakistan"
-      ],
-      "regions": [
+        "Africa",
         "Europe"
       ],
-      "outlets": 1,
-      "summary": "Pakistan and Turkey have agreed to provide \"practical measures\" to defend Saudi Arabia against Houthi attacks. Could a new alliance reshape the war against the Houthis in Yemen?",
+      "outlets": 2,
+      "summary": "The Bab el-Mandeb Strait, which Yemeni government forces are trying to take back from the Houthis, is located not far from Djibouti and other African states.",
       "links": [
-        "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-world-4025-rdf",
+        "https://allafrica.com/stories/202610090212.html"
       ]
     },
     {
-      "headline": "Ed Miliband insists UK will 'build back up' presence in Jerusalem as British consulate closes on Israel's orders",
+      "headline": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
       "countries": [
-        "United Kingdom",
+        "South Africa"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "countries": [
+        "Ethiopia"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Israel kills eight in Gaza as families forced to flee homes",
+      "countries": [
         "Israel"
       ],
       "regions": [
         "Middle East"
       ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nEd Miliband insists UK will 'build back up' presence in Jerusalem as British consulate closes on Israel's orders\n\n    \n    \n\n          \n      \n      \n        Submitted by \nImran Mulla\n on \nThu, 10/08/2026 - 10:20\n\n        \n      \n    \n      \n    \n                Britain has opted ",
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nIsrael kills eight in Gaza as families forced to flee homes\n\n    \n    \n\n        \n    \n                Israeli forces killed eight Palestinians in the Gaza Strip on Thursday as they issued fresh expulsion orders in several areas, according to local reports.\n\nA woman and a child wer",
       "links": [
-        "https://www.middleeasteye.net/news/ed-miliband-insists-uk-will-build-back-presence-jerusalem-british-consulate-jerusalem-closes"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-eight-gaza-families-forced-flee-homes",
+        "https://www.middleeasteye.net/news/israel-kills-eight-gaza-families-forced-flee-homes"
       ]
     },
     {
-      "headline": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "headline": "Africa: African Ministers to Convene Dialogue With WHO Director-General Candidates in Addis Ababa On 23 November 2026",
       "countries": [
-        "Israel"
+        "Ethiopia"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Africa CDC] Addis Ababa -- The 54 WHO recognized African countries represent nearly 30% of WHO Membership. Therefore, when leaders of this global health institution are selected, Africans should have the opportunity to hear directly from the candidates: their vision, priorities, and commitments to ",
+      "links": [
+        "https://allafrica.com/stories/202610070397.html"
+      ]
+    },
+    {
+      "headline": "Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows",
+      "countries": [
+        "Ukraine",
+        "Poland"
       ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+      "summary": "A Ukrainian woman who fled the war in her country built a lifeline for refugees in Poland. Now her organization faces donor fatigue, funding cuts and rising hostility as support for Ukrainians in Poland wanes.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
+        "https://www.dw.com/en/poland-lifeline-for-ukrainian-refugees-confronts-donor-fatigue-and-online-abuse-as-anti-ukrainian-sentiment-grows/a-79613292?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
@@ -79,45 +108,41 @@
       ]
     },
     {
-      "headline": "South Africa: Anti-Immigration Groups Promise More Disruptions - South African News Briefs - October 8, 2026",
-      "countries": [
-        "South Africa"
-      ],
+      "headline": "N95 masks to be distributed to more vulnerable individuals once 24-hour PSI exceeds 200: Haze Task Force",
+      "countries": [],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "School closures will be considered when the air quality forecast for the next day exceeds a 24-hour PSI of 300.",
       "links": [
-        "https://allafrica.com/stories/202610080059.html"
+        "https://www.channelnewsasia.com/singapore/haze-psi-nea-task-force-air-quality-n95-mask-distribution-6445376"
       ]
     },
     {
-      "headline": "\u2018Occupation. Expulsion. Settlement\u2019: Israeli politician campaigns on platform to ethnically cleanse Gaza",
+      "headline": "India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests",
       "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \n\u2018Occupation. Expulsion. Settlement\u2019: Israeli politician campaigns on platform to ethnically cleanse Gaza\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nThu, 10/08/2026 - 12:14\n\n        \n      \n    \n      \n    \n                Zehut leader and former Liku",
-      "links": [
-        "https://www.middleeasteye.net/news/israeli-politician-puts-occupation-expulsion-settlement-election-campaign-ads"
-      ]
-    },
-    {
-      "headline": "As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive",
-      "countries": [
-        "United States"
+        "India"
       ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Despite not being on the ballot, Trump is campaigning hard ahead of the upcoming midterm elections. His tactics and promises have mostly been at the expense of US taypayers. Experts say some might violate federal law.",
+      "summary": "The Indian capital New Delhi has been turned into a fortress with train and metro cancelations, barricades and heavy police presence ahead of Saturday's planned protests against the chief of India's electoral body.",
       "links": [
-        "https://www.dw.com/en/as-us-midterm-elections-loom-trump-s-campaign-tactics-are-becoming-increasingly-unusual-and-expensive/a-79585673?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/india-s-cockroaches-vs-election-commission-what-you-need-to-know-ahead-of-cjp-s-october-10-protests/a-79608760?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "My parents speak at least 3 languages each; I can barely manage my mother tongue. What went wrong?",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Like her polyglot parents, millennial Jillian Lim has socialised with people of many races and ethnicities all her life. She interrogates why this&nbsp;exposure hasn't made her more proficient with a variety of languages and dialects.&nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/cna-insider/voices/language-learning-dialects-culture-social-cohesion-6426431"
       ]
     },
     {
@@ -135,46 +160,19 @@
       ]
     },
     {
-      "headline": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "headline": "South Africa: Four Killed in Germiston Shack Fire - South African News Briefs - October 9, 2026",
       "countries": [
-        "Russia",
-        "Ukraine"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Ukraine accused Russia of targeting the crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Explainer-Data centers' 'flexible' power usage could save the grid billions. Can they scale?",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/business/explainer-data-centers-flexible-power-usage-could-save-grid-billions-can-they-scale-6442466"
-      ]
-    },
-    {
-      "headline": "Zambia: Zambia Finalises U.S.$1.5 Billion U.S. Health Funding Deal As Zimbabwe Rejects Terms",
-      "countries": [
-        "United States"
+        "South Africa"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[New Zimbabwe] Zambia is set to sign a US$1.5 billion health funding agreement with the United States this week after resolving a dispute over sensitive health data-sharing requirements.",
+      "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202610080020.html"
+        "https://allafrica.com/stories/202610090192.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-10-08 (extractive mode)\n\n* South Korea test-flies its first domestically developed hypersonic weapon (NPR Topics: World, 2 outlets)\n* Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen? (World | Deutsche Welle, 1 outlets)\n* Ed Miliband insists UK will 'build back up' presence in Jerusalem as British consulate closes on Israel's orders (Section Feed, 1 outlets)\n* Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain (BBC News, 1 outlets)\n* Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia? (World | Deutsche Welle, 1 outlets)\n* South Africa: Anti-Immigration Groups Promise More Disruptions - South African News Briefs - October 8, 2026 (AllAfrica News: Latest, 1 outlets)\n* \u2018Occupation. Expulsion. Settlement\u2019: Israeli politician campaigns on platform to ethnically cleanse Gaza (Section Feed, 1 outlets)\n* As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive (World | Deutsche Welle, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge (BBC News, 1 outlets)\n* Explainer-Data centers' 'flexible' power usage could save the grid billions. Can they scale? (Latest News, 1 outlets)\n* Zambia: Zambia Finalises U.S.$1.5 Billion U.S. Health Funding Deal As Zimbabwe Rejects Terms (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-10-09 (extractive mode)\n\n* How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast \u2014 and beyond (World | Deutsche Welle, 2 outlets)\n* Cars torched and shops looted as anti-migrant violence erupts in South Africa (BBC News, 2 outlets)\n* Ethiopia warns Eritrea it will defend itself after troops cross border (BBC News, 2 outlets)\n* Israel kills eight in Gaza as families forced to flee homes (Section Feed, 2 outlets)\n* Africa: African Ministers to Convene Dialogue With WHO Director-General Candidates in Addis Ababa On 23 November 2026 (AllAfrica News: Latest, 1 outlets)\n* Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows (World | Deutsche Welle, 1 outlets)\n* Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia? (World | Deutsche Welle, 1 outlets)\n* N95 masks to be distributed to more vulnerable individuals once 24-hour PSI exceeds 200: Haze Task Force (Latest News, 1 outlets)\n* India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests (World | Deutsche Welle, 1 outlets)\n* My parents speak at least 3 languages each; I can barely manage my mother tongue. What went wrong? (Latest News, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* South Africa: Four Killed in Germiston Shack Fire - South African News Briefs - October 9, 2026 (AllAfrica News: Latest, 1 outlets)"
 }
