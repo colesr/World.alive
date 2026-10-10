@@ -1,56 +1,41 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-09T13:57:20.586192+00:00",
-  "digest_words": 264,
+  "generated_at": "2026-10-10T13:08:31.426509+00:00",
+  "digest_words": 250,
   "clusters": [
     {
-      "headline": "How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast \u2014 and beyond",
-      "countries": [],
+      "headline": "Yousof Azizi: The Iranian-American scholar pressured by the FBI to return to Iran",
+      "countries": [
+        "United States",
+        "Iran"
+      ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Middle East"
       ],
       "outlets": 2,
-      "summary": "The Bab el-Mandeb Strait, which Yemeni government forces are trying to take back from the Houthis, is located not far from Djibouti and other African states.",
+      "summary": "\n\n  \n      \n      \nYousof Azizi: The Iranian-American scholar pressured by the FBI to return to Iran\n\n    \n    \n\n        \n    \n                Monday 13 April started as a normal day for Yousof Azizi, a PhD student at Virginia Tech University in America.&nbsp;\n\nIn the morning, he took his 12-year-ol",
       "links": [
-        "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-world-4025-rdf",
-        "https://allafrica.com/stories/202610090212.html"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/yousof-azizi-iranian-american-scholar-pressured-fbi-return-iran",
+        "https://www.middleeasteye.net/news/yousof-azizi-iranian-american-scholar-pressured-fbi-return-iran"
       ]
     },
     {
-      "headline": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+      "headline": "South African human rights lawyer Navi Pillay wins the Nobel Peace Prize",
       "countries": [
         "South Africa"
       ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Americas"
       ],
       "outlets": 2,
-      "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+      "summary": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for advancing human rights and international law.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss"
+        "https://www.npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
+        "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize"
       ]
     },
     {
-      "headline": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-      "countries": [
-        "Ethiopia"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Israel kills eight in Gaza as families forced to flee homes",
+      "headline": "Netanyahu\u2019s former aide alleges attempt to alter 7 October records",
       "countries": [
         "Israel"
       ],
@@ -58,24 +43,10 @@
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \nIsrael kills eight in Gaza as families forced to flee homes\n\n    \n    \n\n        \n    \n                Israeli forces killed eight Palestinians in the Gaza Strip on Thursday as they issued fresh expulsion orders in several areas, according to local reports.\n\nA woman and a child wer",
+      "summary": "\n\n  \n      \n      \nNetanyahu\u2019s former aide alleges attempt to alter 7 October records\n\n    \n    \n\n        \n    \n                Israeli&nbsp;Prime Minister Benjamin Netanyahu is facing renewed criticism over the 7 October 2023 Hamas-led attack and subsequent captive negotiations, Israeli media have&",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-eight-gaza-families-forced-flee-homes",
-        "https://www.middleeasteye.net/news/israel-kills-eight-gaza-families-forced-flee-homes"
-      ]
-    },
-    {
-      "headline": "Africa: African Ministers to Convene Dialogue With WHO Director-General Candidates in Addis Ababa On 23 November 2026",
-      "countries": [
-        "Ethiopia"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Africa CDC] Addis Ababa -- The 54 WHO recognized African countries represent nearly 30% of WHO Membership. Therefore, when leaders of this global health institution are selected, Africans should have the opportunity to hear directly from the candidates: their vision, priorities, and commitments to ",
-      "links": [
-        "https://allafrica.com/stories/202610070397.html"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-former-aide-alleges-attempt-alter-7-october-records",
+        "https://www.middleeasteye.net/news/netanyahus-former-aide-alleges-attempt-alter-7-october-records"
       ]
     },
     {
@@ -94,29 +65,17 @@
       ]
     },
     {
-      "headline": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
+      "headline": "'Beyond the uniform': Singapore, Brunei officers share stories of lasting friendships as defence ties turn 50",
       "countries": [
-        "Russia"
+        "Singapore"
       ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Two ships have sunk off the coast of Bulgaria and Romania after drone attacks in recent days. Bulgaria has held back on pointing the finger at Russia. What does that mean for security in the Black Sea and the region?",
-      "links": [
-        "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "N95 masks to be distributed to more vulnerable individuals once 24-hour PSI exceeds 200: Haze Task Force",
-      "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "School closures will be considered when the air quality forecast for the next day exceeds a 24-hour PSI of 300.",
+      "summary": "\"We encouraged each other, learned from one another and, most importantly, knew that we were not navigating those challenges alone,\" says a Royal Brunei Air Force officer.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/haze-psi-nea-task-force-air-quality-n95-mask-distribution-6445376"
+        "https://www.channelnewsasia.com/singapore/brunei-singapore-officers-50-years-defence-ties-6448251"
       ]
     },
     {
@@ -134,19 +93,62 @@
       ]
     },
     {
-      "headline": "My parents speak at least 3 languages each; I can barely manage my mother tongue. What went wrong?",
+      "headline": "South Africa's Navi Pillay wins Nobel Peace Prize for 'efforts to promote peace and international law'",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+      "countries": [
+        "United States",
+        "Russia"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+      "links": [
+        "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms"
+      ]
+    },
+    {
+      "headline": "Africa: Vaccines Deliver Over U.S.$30 Billion in Economic Benefits for Lower-Income Countries in 2025",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[GAVI] Gavi-supported immunisation generated more than US$ 30 billion in economic benefits in 2025, through lower healthcare costs and healthier, more productive populations Recognising the value of immunisation, countries invested a record US$ 301 million in co-financing of Gavi-supported vaccines ",
+      "links": [
+        "https://allafrica.com/stories/202610090500.html"
+      ]
+    },
+    {
+      "headline": "People\u2019s Association to launch bite-sized AI courses for seniors and homemakers unfamiliar with tech",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Like her polyglot parents, millennial Jillian Lim has socialised with people of many races and ethnicities all her life. She interrogates why this&nbsp;exposure hasn't made her more proficient with a variety of languages and dialects.&nbsp;",
+      "summary": "",
       "links": [
-        "https://www.channelnewsasia.com/cna-insider/voices/language-learning-dialects-culture-social-cohesion-6426431"
+        "https://www.channelnewsasia.com/singapore/ai-courses-seniors-homemakers-community-club-pa-6448406"
       ]
     },
     {
-      "headline": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "headline": "South Africa: Navi Pillay's Nobel Win Draws Attention To Her Work Defending Media Freedom And Beyond",
       "countries": [
         "South Africa"
       ],
@@ -154,25 +156,25 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+      "summary": "[Bird Story Agency] Recognised by the Norwegian Nobel Committee for her efforts to promote peace and international law, Navi Pillay is being celebrated by African media, legal and civil society voices for a career advancing justice, accountability and human rights -- including the right to report fr",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202610090519.html"
       ]
     },
     {
-      "headline": "South Africa: Four Killed in Germiston Shack Fire - South African News Briefs - October 9, 2026",
+      "headline": "Liberia: Charged in U.S.$30,500 Land Deal, Eric Wowoh Denies Fraud and Challenges Police Allegations",
       "countries": [
-        "South Africa"
+        "United States"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[allAfrica]",
+      "summary": "[Liberian Investigator] MONROVIA -- Eric W. Wowoh, the Liberian businessman charged in connection with a disputed US$30,500 property transaction involving a Liberian-American couple, has broken his silence, strongly denying allegations of fraud and unlawful land conveyance while challenging the fina",
       "links": [
-        "https://allafrica.com/stories/202610090192.html"
+        "https://allafrica.com/stories/202610090600.html"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-10-09 (extractive mode)\n\n* How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast \u2014 and beyond (World | Deutsche Welle, 2 outlets)\n* Cars torched and shops looted as anti-migrant violence erupts in South Africa (BBC News, 2 outlets)\n* Ethiopia warns Eritrea it will defend itself after troops cross border (BBC News, 2 outlets)\n* Israel kills eight in Gaza as families forced to flee homes (Section Feed, 2 outlets)\n* Africa: African Ministers to Convene Dialogue With WHO Director-General Candidates in Addis Ababa On 23 November 2026 (AllAfrica News: Latest, 1 outlets)\n* Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows (World | Deutsche Welle, 1 outlets)\n* Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia? (World | Deutsche Welle, 1 outlets)\n* N95 masks to be distributed to more vulnerable individuals once 24-hour PSI exceeds 200: Haze Task Force (Latest News, 1 outlets)\n* India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests (World | Deutsche Welle, 1 outlets)\n* My parents speak at least 3 languages each; I can barely manage my mother tongue. What went wrong? (Latest News, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* South Africa: Four Killed in Germiston Shack Fire - South African News Briefs - October 9, 2026 (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-10-10 (extractive mode)\n\n* Yousof Azizi: The Iranian-American scholar pressured by the FBI to return to Iran (Section Feed, 2 outlets)\n* South African human rights lawyer Navi Pillay wins the Nobel Peace Prize (NPR Topics: World, 2 outlets)\n* Netanyahu\u2019s former aide alleges attempt to alter 7 October records (Section Feed, 2 outlets)\n* Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows (World | Deutsche Welle, 1 outlets)\n* 'Beyond the uniform': Singapore, Brunei officers share stories of lasting friendships as defence ties turn 50 (Latest News, 1 outlets)\n* India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests (World | Deutsche Welle, 1 outlets)\n* South Africa's Navi Pillay wins Nobel Peace Prize for 'efforts to promote peace and international law' (BBC News, 1 outlets)\n* Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms (NPR Topics: World, 1 outlets)\n* Africa: Vaccines Deliver Over U.S.$30 Billion in Economic Benefits for Lower-Income Countries in 2025 (AllAfrica News: Latest, 1 outlets)\n* People\u2019s Association to launch bite-sized AI courses for seniors and homemakers unfamiliar with tech (Latest News, 1 outlets)\n* South Africa: Navi Pillay's Nobel Win Draws Attention To Her Work Defending Media Freedom And Beyond (AllAfrica News: Latest, 1 outlets)\n* Liberia: Charged in U.S.$30,500 Land Deal, Eric Wowoh Denies Fraud and Challenges Police Allegations (AllAfrica News: Latest, 1 outlets)"
 }
