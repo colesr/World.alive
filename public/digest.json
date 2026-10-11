@@ -1,41 +1,10 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-10T13:08:31.426509+00:00",
-  "digest_words": 250,
+  "generated_at": "2026-10-11T13:37:40.636778+00:00",
+  "digest_words": 258,
   "clusters": [
     {
-      "headline": "Yousof Azizi: The Iranian-American scholar pressured by the FBI to return to Iran",
-      "countries": [
-        "United States",
-        "Iran"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nYousof Azizi: The Iranian-American scholar pressured by the FBI to return to Iran\n\n    \n    \n\n        \n    \n                Monday 13 April started as a normal day for Yousof Azizi, a PhD student at Virginia Tech University in America.&nbsp;\n\nIn the morning, he took his 12-year-ol",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/yousof-azizi-iranian-american-scholar-pressured-fbi-return-iran",
-        "https://www.middleeasteye.net/news/yousof-azizi-iranian-american-scholar-pressured-fbi-return-iran"
-      ]
-    },
-    {
-      "headline": "South African human rights lawyer Navi Pillay wins the Nobel Peace Prize",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 2,
-      "summary": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for advancing human rights and international law.",
-      "links": [
-        "https://www.npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
-        "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize"
-      ]
-    },
-    {
-      "headline": "Netanyahu\u2019s former aide alleges attempt to alter 7 October records",
+      "headline": "Former US official says Israeli demands made Gaza deal 'impossible for another six months'",
       "countries": [
         "Israel"
       ],
@@ -43,10 +12,96 @@
         "Middle East"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \nNetanyahu\u2019s former aide alleges attempt to alter 7 October records\n\n    \n    \n\n        \n    \n                Israeli&nbsp;Prime Minister Benjamin Netanyahu is facing renewed criticism over the 7 October 2023 Hamas-led attack and subsequent captive negotiations, Israeli media have&",
+      "summary": "\n\n  \n      \n      \nFormer US official says Israeli demands made Gaza deal 'impossible for another six months'\n\n    \n    \n\n        \n    \n                A former senior&nbsp;US&nbsp;official has accused&nbsp;Israeli&nbsp;Prime Minister Benjamin Netanyahu of delaying a captive exchange and ceasefire d",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-former-aide-alleges-attempt-alter-7-october-records",
-        "https://www.middleeasteye.net/news/netanyahus-former-aide-alleges-attempt-alter-7-october-records"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/former-us-official-says-israeli-demands-made-gaza-deal-impossible",
+        "https://www.middleeasteye.net/news/former-us-official-says-israeli-demands-made-gaza-deal-impossible-another-six-months"
+      ]
+    },
+    {
+      "headline": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "countries": [
+        "Ethiopia"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "US justice department investigates TV networks over Trump pool coverage",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Asia",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+        "https://www.channelnewsasia.com/world/us-justice-department-pool-media-coverage-6450061"
+      ]
+    },
+    {
+      "headline": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Pope Leo to undergo surgery for small growth on lung",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 2,
+      "summary": "Pope Leo said \u2060on Sunday that doctors had detected a small growth on his lung during a recent health check and he would be undergoing surgery this \u200cweek to remove it, in the first health scare of the 71-year-old pontiff\u2019s tenure.\nLeo told pilgrims in St. Peter\u2019s Square for his weekly Sunday prayer t",
+      "links": [
+        "https://www.scmp.com/news/world/europe/article/3370499/pope-leo-undergo-surgery-small-growth-lung?utm_source=rss_feed",
+        "https://www.channelnewsasia.com/world/pope-leo-undergo-surgery-small-growth-lung-6450191"
+      ]
+    },
+    {
+      "headline": "Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces \u2014 why? And how?",
+      "countries": [
+        "Russia",
+        "Ukraine"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Russia has announced a battalion consisting of Ukrainian \"volunteers.\" But veterans and former prisoners of war share very different accounts.",
+      "links": [
+        "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Couples looking to have children often turn to surrogacy agencies in Georgia without understanding the hidden costs",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Georgia became a hub for surrogate pregnancies after Russia's full-scale invasion of Ukraine in 2022. DW spoke with parents, and those who wanted to become parents, about the hidden costs of a booming industry.",
+      "links": [
+        "https://www.dw.com/en/couples-looking-to-have-children-often-turn-to-surrogacy-agencies-in-georgia-without-understanding-the-hidden-costs/a-79629971?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
@@ -65,17 +120,31 @@
       ]
     },
     {
-      "headline": "'Beyond the uniform': Singapore, Brunei officers share stories of lasting friendships as defence ties turn 50",
+      "headline": "Ethiopia: UN Chief 'Gravely Concerned' By Renewed Fighting in Northern Ethiopia, Warns Against Escalation",
       "countries": [
-        "Singapore"
+        "Ethiopia"
       ],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "\"We encouraged each other, learned from one another and, most importantly, knew that we were not navigating those challenges alone,\" says a Royal Brunei Air Force officer.",
+      "summary": "[UN News] UN Secretary-General Ant&#xf3;nio Guterres has called for an immediate end to the renewed fighting in northern Ethiopia, saying he is deeply worried by reports that Eritrean forces are present in the country.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/brunei-singapore-officers-50-years-defence-ties-6448251"
+        "https://allafrica.com/stories/202610100175.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Navi Pillay's Nobel Peace Prize Is a Vote of Confidence in a Global Legal Order Under Fire",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[The Conversation Africa] The awarding of the 2026 Nobel Peace Prize to distinguished South African jurist and international judge Navanethem \"Navi\" Pillay is about more than just the recognition of an exceptional individual in the global fight for justice.",
+      "links": [
+        "https://allafrica.com/stories/202610100176.html"
       ]
     },
     {
@@ -105,76 +174,7 @@
       "links": [
         "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
       ]
-    },
-    {
-      "headline": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
-      "countries": [
-        "United States",
-        "Russia"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
-      "links": [
-        "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms"
-      ]
-    },
-    {
-      "headline": "Africa: Vaccines Deliver Over U.S.$30 Billion in Economic Benefits for Lower-Income Countries in 2025",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[GAVI] Gavi-supported immunisation generated more than US$ 30 billion in economic benefits in 2025, through lower healthcare costs and healthier, more productive populations Recognising the value of immunisation, countries invested a record US$ 301 million in co-financing of Gavi-supported vaccines ",
-      "links": [
-        "https://allafrica.com/stories/202610090500.html"
-      ]
-    },
-    {
-      "headline": "People\u2019s Association to launch bite-sized AI courses for seniors and homemakers unfamiliar with tech",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/ai-courses-seniors-homemakers-community-club-pa-6448406"
-      ]
-    },
-    {
-      "headline": "South Africa: Navi Pillay's Nobel Win Draws Attention To Her Work Defending Media Freedom And Beyond",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Bird Story Agency] Recognised by the Norwegian Nobel Committee for her efforts to promote peace and international law, Navi Pillay is being celebrated by African media, legal and civil society voices for a career advancing justice, accountability and human rights -- including the right to report fr",
-      "links": [
-        "https://allafrica.com/stories/202610090519.html"
-      ]
-    },
-    {
-      "headline": "Liberia: Charged in U.S.$30,500 Land Deal, Eric Wowoh Denies Fraud and Challenges Police Allegations",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Liberian Investigator] MONROVIA -- Eric W. Wowoh, the Liberian businessman charged in connection with a disputed US$30,500 property transaction involving a Liberian-American couple, has broken his silence, strongly denying allegations of fraud and unlawful land conveyance while challenging the fina",
-      "links": [
-        "https://allafrica.com/stories/202610090600.html"
-      ]
     }
   ],
-  "narrative": "State of the World - 2026-10-10 (extractive mode)\n\n* Yousof Azizi: The Iranian-American scholar pressured by the FBI to return to Iran (Section Feed, 2 outlets)\n* South African human rights lawyer Navi Pillay wins the Nobel Peace Prize (NPR Topics: World, 2 outlets)\n* Netanyahu\u2019s former aide alleges attempt to alter 7 October records (Section Feed, 2 outlets)\n* Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows (World | Deutsche Welle, 1 outlets)\n* 'Beyond the uniform': Singapore, Brunei officers share stories of lasting friendships as defence ties turn 50 (Latest News, 1 outlets)\n* India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests (World | Deutsche Welle, 1 outlets)\n* South Africa's Navi Pillay wins Nobel Peace Prize for 'efforts to promote peace and international law' (BBC News, 1 outlets)\n* Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms (NPR Topics: World, 1 outlets)\n* Africa: Vaccines Deliver Over U.S.$30 Billion in Economic Benefits for Lower-Income Countries in 2025 (AllAfrica News: Latest, 1 outlets)\n* People\u2019s Association to launch bite-sized AI courses for seniors and homemakers unfamiliar with tech (Latest News, 1 outlets)\n* South Africa: Navi Pillay's Nobel Win Draws Attention To Her Work Defending Media Freedom And Beyond (AllAfrica News: Latest, 1 outlets)\n* Liberia: Charged in U.S.$30,500 Land Deal, Eric Wowoh Denies Fraud and Challenges Police Allegations (AllAfrica News: Latest, 1 outlets)"
+  "narrative": "State of the World - 2026-10-11 (extractive mode)\n\n* Former US official says Israeli demands made Gaza deal 'impossible for another six months' (Section Feed, 2 outlets)\n* Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says (BBC News, 2 outlets)\n* US justice department investigates TV networks over Trump pool coverage (BBC News, 2 outlets)\n* Children among 109 dead after boat capsizes off Djibouti, UN says (BBC News, 2 outlets)\n* Pope Leo to undergo surgery for small growth on lung (News - South China Morning Post, 2 outlets)\n* Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces \u2014 why? And how? (World | Deutsche Welle, 1 outlets)\n* Couples looking to have children often turn to surrogacy agencies in Georgia without understanding the hidden costs (World | Deutsche Welle, 1 outlets)\n* Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows (World | Deutsche Welle, 1 outlets)\n* Ethiopia: UN Chief 'Gravely Concerned' By Renewed Fighting in Northern Ethiopia, Warns Against Escalation (AllAfrica News: Latest, 1 outlets)\n* South Africa: Navi Pillay's Nobel Peace Prize Is a Vote of Confidence in a Global Legal Order Under Fire (AllAfrica News: Latest, 1 outlets)\n* India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests (World | Deutsche Welle, 1 outlets)\n* South Africa's Navi Pillay wins Nobel Peace Prize for 'efforts to promote peace and international law' (BBC News, 1 outlets)"
 }
