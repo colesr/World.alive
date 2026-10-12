@@ -1,140 +1,139 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-11T13:37:40.636778+00:00",
-  "digest_words": 258,
+  "generated_at": "2026-10-12T16:14:50.105212+00:00",
+  "digest_words": 260,
   "clusters": [
     {
-      "headline": "Former US official says Israeli demands made Gaza deal 'impossible for another six months'",
+      "headline": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
       "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nFormer US official says Israeli demands made Gaza deal 'impossible for another six months'\n\n    \n    \n\n        \n    \n                A former senior&nbsp;US&nbsp;official has accused&nbsp;Israeli&nbsp;Prime Minister Benjamin Netanyahu of delaying a captive exchange and ceasefire d",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/former-us-official-says-israeli-demands-made-gaza-deal-impossible",
-        "https://www.middleeasteye.net/news/former-us-official-says-israeli-demands-made-gaza-deal-impossible-another-six-months"
-      ]
-    },
-    {
-      "headline": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "countries": [
-        "Ethiopia"
+        "Kenya"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "US justice department investigates TV networks over Trump pool coverage",
+      "headline": "South Africa's deputy police chief resigns after being charged with sexual offences",
       "countries": [
-        "United States"
+        "South Africa"
       ],
       "regions": [
-        "Asia",
+        "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "summary": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-        "https://www.channelnewsasia.com/world/us-justice-department-pool-media-coverage-6450061"
+        "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+      "headline": "Bergs stuns Alcaraz in Shanghai as Zverev claims year\u2019s top tennis ranking",
+      "countries": [],
+      "regions": [
+        "Asia",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "After defending his Japan Open title after returning from injury, Alcaraz never found his rhythm in a scrappy contest.",
+      "links": [
+        "https://www.aljazeera.com/sports/2026/10/12/zizou-bergs-stuns-alcaraz-in-shanghai-as-zverev-claims-year-end-top-ranking?traffic_source=rss",
+        "https://www.channelnewsasia.com/sport/bergs-stuns-alcaraz-in-shanghai-zverev-claims-year-end-top-ranking-6453191"
+      ]
+    },
+    {
+      "headline": "Sudan: Air Strikes Kill Dozens of Gold Miners on Sudan-Egypt Border",
+      "countries": [
+        "Egypt"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "[DW] A Sudan-based rights group said 72 people were killed in a remote, disputed area known for illegal gold mining.",
+      "links": [
+        "https://allafrica.com/stories/202610120126.html",
+        "https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Children among 139 dead after boat capsizes off Djibouti, UN says",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
       "links": [
         "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
         "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Pope Leo to undergo surgery for small growth on lung",
+      "headline": "Gaza: \u2018She survived the bombing, but not the blockade\u2019",
       "countries": [],
       "regions": [
-        "Asia"
+        "Middle East"
       ],
       "outlets": 2,
-      "summary": "Pope Leo said \u2060on Sunday that doctors had detected a small growth on his lung during a recent health check and he would be undergoing surgery this \u200cweek to remove it, in the first health scare of the 71-year-old pontiff\u2019s tenure.\nLeo told pilgrims in St. Peter\u2019s Square for his weekly Sunday prayer t",
+      "summary": "\n\n  \n      \n      \nGaza: \u2018She survived the bombing, but not the blockade\u2019\n\n    \n    \n\n        \n    \n                After two years of bombardment and forced displacement during Israel\u2019s genocide in Gaza, Suhaila al-Mabhouh had one wish: to go home.\n\nThe 60-year-old Palestinian longed so desperately",
       "links": [
-        "https://www.scmp.com/news/world/europe/article/3370499/pope-leo-undergo-surgery-small-growth-lung?utm_source=rss_feed",
-        "https://www.channelnewsasia.com/world/pope-leo-undergo-surgery-small-growth-lung-6450191"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-she-survived-bombing-not-blockade",
+        "https://www.middleeasteye.net/news/she-survived-bombing-not-blockade"
       ]
     },
     {
-      "headline": "Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces \u2014 why? And how?",
+      "headline": "Cyprus closer than ever to joining Schengen but political hurdles relating to the Green Line and British Sovereign Base Areas remain",
       "countries": [
-        "Russia",
-        "Ukraine"
+        "United Kingdom"
       ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Russia has announced a battalion consisting of Ukrainian \"volunteers.\" But veterans and former prisoners of war share very different accounts.",
+      "summary": "The European Commission says Cyprus is ready to join the Schengen Area. Yet questions relating to the island's division and British military bases could still complicate its path to Europe's border-free travel zone.",
       "links": [
-        "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/cyprus-closer-than-ever-to-joining-schengen-but-political-hurdles-relating-to-the-green-line-and-british-sovereign-base-areas-remain/a-79641488?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Couples looking to have children often turn to surrogacy agencies in Georgia without understanding the hidden costs",
+      "headline": "East Africa: Egypt, Sudan, Eritrea and Somalia Meet to Discuss Tensions and Unresolved Issues in the Horn of Africa",
+      "countries": [
+        "Egypt"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Agenzia Fides] El Alamein -- As geopolitical tensions and internal conflicts continue to shake the Horn of Africa, the presidents of Egypt, Somalia and Eritrea, together with the head of Sudan's Transitional Council, met in El Alamein on Sunday, 4 October, to discuss the main challenges facing the ",
+      "links": [
+        "https://allafrica.com/stories/202610120520.html"
+      ]
+    },
+    {
+      "headline": "Madagascar: A Year After Madagascar's Gen Z Protests and Rajoelina's Ouster, Little Promised Change",
       "countries": [],
       "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Georgia became a hub for surrogate pregnancies after Russia's full-scale invasion of Ukraine in 2022. DW spoke with parents, and those who wanted to become parents, about the hidden costs of a booming industry.",
-      "links": [
-        "https://www.dw.com/en/couples-looking-to-have-children-often-turn-to-surrogacy-agencies-in-georgia-without-understanding-the-hidden-costs/a-79629971?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows",
-      "countries": [
-        "Ukraine",
-        "Poland"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "A Ukrainian woman who fled the war in her country built a lifeline for refugees in Poland. Now her organization faces donor fatigue, funding cuts and rising hostility as support for Ukrainians in Poland wanes.",
-      "links": [
-        "https://www.dw.com/en/poland-lifeline-for-ukrainian-refugees-confronts-donor-fatigue-and-online-abuse-as-anti-ukrainian-sentiment-grows/a-79613292?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Ethiopia: UN Chief 'Gravely Concerned' By Renewed Fighting in Northern Ethiopia, Warns Against Escalation",
-      "countries": [
-        "Ethiopia"
-      ],
-      "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[UN News] UN Secretary-General Ant&#xf3;nio Guterres has called for an immediate end to the renewed fighting in northern Ethiopia, saying he is deeply worried by reports that Eritrean forces are present in the country.",
+      "summary": "[RFI] A year after Madagascar's then-president Andry Rajoelina fled the country following more than two weeks of youth-led protests, the military-backed transition has yet to deliver on its promise of a political \"refoundation\".",
       "links": [
-        "https://allafrica.com/stories/202610100175.html"
+        "https://allafrica.com/stories/202610120426.html"
       ]
     },
     {
-      "headline": "South Africa: Navi Pillay's Nobel Peace Prize Is a Vote of Confidence in a Global Legal Order Under Fire",
+      "headline": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
       "countries": [
         "South Africa"
       ],
@@ -142,27 +141,27 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[The Conversation Africa] The awarding of the 2026 Nobel Peace Prize to distinguished South African jurist and international judge Navanethem \"Navi\" Pillay is about more than just the recognition of an exceptional individual in the global fight for justice.",
+      "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
       "links": [
-        "https://allafrica.com/stories/202610100176.html"
+        "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests",
+      "headline": "Nigeria: My Nigerian Pastor Inspired Me to Speak Out On Christian Persecution - - Nicki Minaj",
       "countries": [
-        "India"
+        "Nigeria"
       ],
       "regions": [
-        "Europe"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "The Indian capital New Delhi has been turned into a fortress with train and metro cancelations, barricades and heavy police presence ahead of Saturday's planned protests against the chief of India's electoral body.",
+      "summary": "[Vanguard] American rapper Nicki Minaj has said her Nigerian pastor inspired her to speak out about the alleged persecution of Christians in Nigeria, urging celebrities and social media influencers to use their platforms to draw attention to the situation.",
       "links": [
-        "https://www.dw.com/en/india-s-cockroaches-vs-election-commission-what-you-need-to-know-ahead-of-cjp-s-october-10-protests/a-79608760?maca=en-rss-en-world-4025-rdf"
+        "https://allafrica.com/stories/202610120518.html"
       ]
     },
     {
-      "headline": "South Africa's Navi Pillay wins Nobel Peace Prize for 'efforts to promote peace and international law'",
+      "headline": "The South African men trying to end violence against women: 'Every man needs to play a part'",
       "countries": [
         "South Africa"
       ],
@@ -170,11 +169,11 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+      "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-10-11 (extractive mode)\n\n* Former US official says Israeli demands made Gaza deal 'impossible for another six months' (Section Feed, 2 outlets)\n* Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says (BBC News, 2 outlets)\n* US justice department investigates TV networks over Trump pool coverage (BBC News, 2 outlets)\n* Children among 109 dead after boat capsizes off Djibouti, UN says (BBC News, 2 outlets)\n* Pope Leo to undergo surgery for small growth on lung (News - South China Morning Post, 2 outlets)\n* Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces \u2014 why? And how? (World | Deutsche Welle, 1 outlets)\n* Couples looking to have children often turn to surrogacy agencies in Georgia without understanding the hidden costs (World | Deutsche Welle, 1 outlets)\n* Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows (World | Deutsche Welle, 1 outlets)\n* Ethiopia: UN Chief 'Gravely Concerned' By Renewed Fighting in Northern Ethiopia, Warns Against Escalation (AllAfrica News: Latest, 1 outlets)\n* South Africa: Navi Pillay's Nobel Peace Prize Is a Vote of Confidence in a Global Legal Order Under Fire (AllAfrica News: Latest, 1 outlets)\n* India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests (World | Deutsche Welle, 1 outlets)\n* South Africa's Navi Pillay wins Nobel Peace Prize for 'efforts to promote peace and international law' (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-10-12 (extractive mode)\n\n* Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds (BBC News, 2 outlets)\n* South Africa's deputy police chief resigns after being charged with sexual offences (BBC News, 2 outlets)\n* Bergs stuns Alcaraz in Shanghai as Zverev claims year\u2019s top tennis ranking (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Sudan: Air Strikes Kill Dozens of Gold Miners on Sudan-Egypt Border (AllAfrica News: Latest, 2 outlets)\n* Children among 139 dead after boat capsizes off Djibouti, UN says (BBC News, 2 outlets)\n* Gaza: \u2018She survived the bombing, but not the blockade\u2019 (Section Feed, 2 outlets)\n* Cyprus closer than ever to joining Schengen but political hurdles relating to the Green Line and British Sovereign Base Areas remain (World | Deutsche Welle, 1 outlets)\n* East Africa: Egypt, Sudan, Eritrea and Somalia Meet to Discuss Tensions and Unresolved Issues in the Horn of Africa (AllAfrica News: Latest, 1 outlets)\n* Madagascar: A Year After Madagascar's Gen Z Protests and Rajoelina's Ouster, Little Promised Change (AllAfrica News: Latest, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Nigeria: My Nigerian Pastor Inspired Me to Speak Out On Christian Persecution - - Nicki Minaj (AllAfrica News: Latest, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)"
 }
