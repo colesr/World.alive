@@ -1,22 +1,22 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-12T16:14:50.105212+00:00",
-  "digest_words": 260,
+  "generated_at": "2026-10-13T14:40:05.077649+00:00",
+  "digest_words": 252,
   "clusters": [
     {
-      "headline": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+      "headline": "Saudi Arabia refuses request from Netanyahu to join fight against Houthis, says report",
       "countries": [
-        "Kenya"
+        "Saudi Arabia",
+        "Israel"
       ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Middle East"
       ],
       "outlets": 2,
-      "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+      "summary": "\n\n  \n      \n      \nSaudi Arabia refuses request from Netanyahu to join fight against Houthis, says report\n\n    \n    \n\n        \n    \n                Saudi Arabia's Crown Prince Mohammed bin Salman denied a request by&nbsp;Israel&nbsp;to join the fight against the Houthis in&nbsp;Yemen, Israeli media ",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-refuses-request-netanyahu-join-fight-against-houthis-says",
+        "https://www.middleeasteye.net/news/saudi-arabia-refuses-request-netanyahu-join-fight-against-houthis"
       ]
     },
     {
@@ -36,100 +36,127 @@
       ]
     },
     {
-      "headline": "Bergs stuns Alcaraz in Shanghai as Zverev claims year\u2019s top tennis ranking",
-      "countries": [],
-      "regions": [
-        "Asia",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "After defending his Japan Open title after returning from injury, Alcaraz never found his rhythm in a scrappy contest.",
-      "links": [
-        "https://www.aljazeera.com/sports/2026/10/12/zizou-bergs-stuns-alcaraz-in-shanghai-as-zverev-claims-year-end-top-ranking?traffic_source=rss",
-        "https://www.channelnewsasia.com/sport/bergs-stuns-alcaraz-in-shanghai-zverev-claims-year-end-top-ranking-6453191"
-      ]
-    },
-    {
-      "headline": "Sudan: Air Strikes Kill Dozens of Gold Miners on Sudan-Egypt Border",
-      "countries": [
-        "Egypt"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "[DW] A Sudan-based rights group said 72 people were killed in a remote, disputed area known for illegal gold mining.",
-      "links": [
-        "https://allafrica.com/stories/202610120126.html",
-        "https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "headline": "Ex-president named leader of new DR Congo rebel coalition",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "summary": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Gaza: \u2018She survived the bombing, but not the blockade\u2019",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nGaza: \u2018She survived the bombing, but not the blockade\u2019\n\n    \n    \n\n        \n    \n                After two years of bombardment and forced displacement during Israel\u2019s genocide in Gaza, Suhaila al-Mabhouh had one wish: to go home.\n\nThe 60-year-old Palestinian longed so desperately",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-she-survived-bombing-not-blockade",
-        "https://www.middleeasteye.net/news/she-survived-bombing-not-blockade"
-      ]
-    },
-    {
-      "headline": "Cyprus closer than ever to joining Schengen but political hurdles relating to the Green Line and British Sovereign Base Areas remain",
+      "headline": "South Africa: Road Accident Fund to Receive No Additional Govt Funding - South African News Briefs - October 13, 2026",
       "countries": [
-        "United Kingdom"
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[allAfrica]",
+      "links": [
+        "https://allafrica.com/stories/202610130136.html"
+      ]
+    },
+    {
+      "headline": "Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month",
+      "countries": [
+        "Germany",
+        "Turkey",
+        "Poland"
       ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "The European Commission says Cyprus is ready to join the Schengen Area. Yet questions relating to the island's division and British military bases could still complicate its path to Europe's border-free travel zone.",
+      "summary": "Polish authorities have reported the arrests of two Turkish citizens in Germany in connection with alleged sabotage of a Starlink station last month. Prime Minister Donald Tusk called the fire an act of \"hybrid warfare.\"",
       "links": [
-        "https://www.dw.com/en/cyprus-closer-than-ever-to-joining-schengen-but-political-hurdles-relating-to-the-green-line-and-british-sovereign-base-areas-remain/a-79641488?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "East Africa: Egypt, Sudan, Eritrea and Somalia Meet to Discuss Tensions and Unresolved Issues in the Horn of Africa",
+      "headline": "Two high-ranking Iranian defectors give DW a rare look into the mindset of the regime's loyal servants",
       "countries": [
-        "Egypt"
+        "Iran"
       ],
       "regions": [
-        "Africa"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "[Agenzia Fides] El Alamein -- As geopolitical tensions and internal conflicts continue to shake the Horn of Africa, the presidents of Egypt, Somalia and Eritrea, together with the head of Sudan's Transitional Council, met in El Alamein on Sunday, 4 October, to discuss the main challenges facing the ",
+      "summary": "Months of correspondence with two high-ranking defectors have given DW's investigative unit a rare look at the mindset of the regime's loyal servants \u2014 and revealed a clandestine circle that allegedly plots murders.",
       "links": [
-        "https://allafrica.com/stories/202610120520.html"
+        "https://www.dw.com/en/two-high-ranking-iranian-defectors-give-dw-a-rare-look-into-the-mindset-of-the-regime-s-loyal-servants/a-79609734?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Madagascar: A Year After Madagascar's Gen Z Protests and Rajoelina's Ouster, Little Promised Change",
+      "headline": "Congo-Kinshasa: Ex-DR Congo President Kabila to Lead New 'Politico-Military' Alliance With M23 Rebels",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[RFI] A year after Madagascar's then-president Andry Rajoelina fled the country following more than two weeks of youth-led protests, the military-backed transition has yet to deliver on its promise of a political \"refoundation\".",
+      "summary": "[RFI] Former Democratic Republic of Congo president Joseph Kabila has joined forces with the Rwanda-backed M23 armed group to lead a new political and military alliance, marking his most direct intervention yet in the conflict that has gripped the country's east.",
       "links": [
-        "https://allafrica.com/stories/202610120426.html"
+        "https://allafrica.com/stories/202610130360.html"
+      ]
+    },
+    {
+      "headline": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
+      "countries": [
+        "Russia"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Slovakia is restoring military-diplomatic relations with Russia for the first time since 2022. The government has defended the move; critics warn of espionage risks and further damage to trust within NATO.",
+      "links": [
+        "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Liberia: Sen. Konneh Asks U.S. to Sanction Mining Enablers, Warns Liberia At 'Most Dangerous Point'",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Liberian Investigator] Monrovia - Gbarpolu County Sen. Amara M. Konneh has asked the United States to impose Global Magnitsky sanctions on people who enable mining licensing deals in Liberia and move the proceeds into US real estate, telling a Washington policy audience that the country faces its g",
+      "links": [
+        "https://allafrica.com/stories/202610130041.html"
+      ]
+    },
+    {
+      "headline": "South Africa: Police Call Sibiya's Exit 'Dishonourable' As He Quits Amid Disciplinary Proceedings",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Scrolla] Sibiya's lawyer tendered his resignation straight after his disciplinary hearing began, and his employment ended immediately, police said.   Police say he had an ongoing disciplinary case when he resigned, so his exit counts as a dishonourable discharge.",
+      "links": [
+        "https://allafrica.com/stories/202610130110.html"
+      ]
+    },
+    {
+      "headline": "Business as usual for most patients as public healthcare clusters recover from 9-hour disruption",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Across seven healthcare institutions visited by CNA, most patients said they had few or no issues, despite signs warning visitors of potentially longer wait times.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/system-disruption-hospital-business-usual-patients-6455806"
       ]
     },
     {
@@ -145,35 +172,7 @@
       "links": [
         "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
       ]
-    },
-    {
-      "headline": "Nigeria: My Nigerian Pastor Inspired Me to Speak Out On Christian Persecution - - Nicki Minaj",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Vanguard] American rapper Nicki Minaj has said her Nigerian pastor inspired her to speak out about the alleged persecution of Christians in Nigeria, urging celebrities and social media influencers to use their platforms to draw attention to the situation.",
-      "links": [
-        "https://allafrica.com/stories/202610120518.html"
-      ]
-    },
-    {
-      "headline": "The South African men trying to end violence against women: 'Every man needs to play a part'",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
-      ]
     }
   ],
-  "narrative": "State of the World - 2026-10-12 (extractive mode)\n\n* Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds (BBC News, 2 outlets)\n* South Africa's deputy police chief resigns after being charged with sexual offences (BBC News, 2 outlets)\n* Bergs stuns Alcaraz in Shanghai as Zverev claims year\u2019s top tennis ranking (Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera, 2 outlets)\n* Sudan: Air Strikes Kill Dozens of Gold Miners on Sudan-Egypt Border (AllAfrica News: Latest, 2 outlets)\n* Children among 139 dead after boat capsizes off Djibouti, UN says (BBC News, 2 outlets)\n* Gaza: \u2018She survived the bombing, but not the blockade\u2019 (Section Feed, 2 outlets)\n* Cyprus closer than ever to joining Schengen but political hurdles relating to the Green Line and British Sovereign Base Areas remain (World | Deutsche Welle, 1 outlets)\n* East Africa: Egypt, Sudan, Eritrea and Somalia Meet to Discuss Tensions and Unresolved Issues in the Horn of Africa (AllAfrica News: Latest, 1 outlets)\n* Madagascar: A Year After Madagascar's Gen Z Protests and Rajoelina's Ouster, Little Promised Change (AllAfrica News: Latest, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Nigeria: My Nigerian Pastor Inspired Me to Speak Out On Christian Persecution - - Nicki Minaj (AllAfrica News: Latest, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-10-13 (extractive mode)\n\n* Saudi Arabia refuses request from Netanyahu to join fight against Houthis, says report (Section Feed, 2 outlets)\n* South Africa's deputy police chief resigns after being charged with sexual offences (BBC News, 2 outlets)\n* Ex-president named leader of new DR Congo rebel coalition (BBC News, 2 outlets)\n* South Africa: Road Accident Fund to Receive No Additional Govt Funding - South African News Briefs - October 13, 2026 (AllAfrica News: Latest, 1 outlets)\n* Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month (World | Deutsche Welle, 1 outlets)\n* Two high-ranking Iranian defectors give DW a rare look into the mindset of the regime's loyal servants (World | Deutsche Welle, 1 outlets)\n* Congo-Kinshasa: Ex-DR Congo President Kabila to Lead New 'Politico-Military' Alliance With M23 Rebels (AllAfrica News: Latest, 1 outlets)\n* Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia (World | Deutsche Welle, 1 outlets)\n* Liberia: Sen. Konneh Asks U.S. to Sanction Mining Enablers, Warns Liberia At 'Most Dangerous Point' (AllAfrica News: Latest, 1 outlets)\n* South Africa: Police Call Sibiya's Exit 'Dishonourable' As He Quits Amid Disciplinary Proceedings (AllAfrica News: Latest, 1 outlets)\n* Business as usual for most patients as public healthcare clusters recover from 9-hour disruption (Latest News, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)"
 }
