@@ -1,56 +1,62 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-13T14:40:05.077649+00:00",
-  "digest_words": 252,
+  "generated_at": "2026-10-14T12:32:27.434497+00:00",
+  "digest_words": 258,
   "clusters": [
     {
-      "headline": "Saudi Arabia refuses request from Netanyahu to join fight against Houthis, says report",
-      "countries": [
-        "Saudi Arabia",
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nSaudi Arabia refuses request from Netanyahu to join fight against Houthis, says report\n\n    \n    \n\n        \n    \n                Saudi Arabia's Crown Prince Mohammed bin Salman denied a request by&nbsp;Israel&nbsp;to join the fight against the Houthis in&nbsp;Yemen, Israeli media ",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-refuses-request-netanyahu-join-fight-against-houthis-says",
-        "https://www.middleeasteye.net/news/saudi-arabia-refuses-request-netanyahu-join-fight-against-houthis"
-      ]
-    },
-    {
-      "headline": "South Africa's deputy police chief resigns after being charged with sexual offences",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Ex-president named leader of new DR Congo rebel coalition",
+      "headline": "Zimbabwean author denies using AI to write award-winning story",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
+      "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "South Africa: Road Accident Fund to Receive No Additional Govt Funding - South African News Briefs - October 13, 2026",
+      "headline": "Africa: African Development Bank Convenes African Debt Management Practitioners in Kigali to Strengthen Debt Transparency and Accountability",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[African Development Bank (AfDB)] About 150 policymakers, debt-management practitioners and public finance stakeholders from 22 African transition states have concluded a five-day learning workshop in Kigali, Rwanda, aimed at strengthening debt transparency and accountability.",
+      "links": [
+        "https://allafrica.com/stories/202610130705.html"
+      ]
+    },
+    {
+      "headline": "Nigeria: Military Plane Crash - Traditional Ruler Cries Out As Decaying Bodies 'Pollute' Community's Source of Drinking Water",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Premium Times] \"This same river where the plane crashed into is what supplies our drinking water. We have a water treatment machine at Aboto about seven kilometres away from here. The water doesn't come every day, and when it comes, it is this same water that flows there, pumped to be treated for o",
+      "links": [
+        "https://allafrica.com/stories/202610140088.html"
+      ]
+    },
+    {
+      "headline": "Man sent explicit photos of wife and lover to family chat, but court declines to grant protection order",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The man said that he was very angry and wanted the family to know he was not the one who sabotaged the marriage.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/man-explicit-photos-wife-lover-family-chat-protection-order-abuse-6458481"
+      ]
+    },
+    {
+      "headline": "South Africa: Two Killed in Katlehong Drive-By Shooting - South African News Briefs - October 14, 2026",
       "countries": [
         "South Africa"
       ],
@@ -60,49 +66,7 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202610130136.html"
-      ]
-    },
-    {
-      "headline": "Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month",
-      "countries": [
-        "Germany",
-        "Turkey",
-        "Poland"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Polish authorities have reported the arrests of two Turkish citizens in Germany in connection with alleged sabotage of a Starlink station last month. Prime Minister Donald Tusk called the fire an act of \"hybrid warfare.\"",
-      "links": [
-        "https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Two high-ranking Iranian defectors give DW a rare look into the mindset of the regime's loyal servants",
-      "countries": [
-        "Iran"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Months of correspondence with two high-ranking defectors have given DW's investigative unit a rare look at the mindset of the regime's loyal servants \u2014 and revealed a clandestine circle that allegedly plots murders.",
-      "links": [
-        "https://www.dw.com/en/two-high-ranking-iranian-defectors-give-dw-a-rare-look-into-the-mindset-of-the-regime-s-loyal-servants/a-79609734?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Congo-Kinshasa: Ex-DR Congo President Kabila to Lead New 'Politico-Military' Alliance With M23 Rebels",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[RFI] Former Democratic Republic of Congo president Joseph Kabila has joined forces with the Rwanda-backed M23 armed group to lead a new political and military alliance, marking his most direct intervention yet in the conflict that has gripped the country's east.",
-      "links": [
-        "https://allafrica.com/stories/202610130360.html"
+        "https://allafrica.com/stories/202610140104.html"
       ]
     },
     {
@@ -114,49 +78,9 @@
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Slovakia is restoring military-diplomatic relations with Russia for the first time since 2022. The government has defended the move; critics warn of espionage risks and further damage to trust within NATO.",
+      "summary": "Slovakia is restoring military-diplomatic relations with Russia for the first time since 2022. The government has defended the move but critics warn of espionage risks and further damage to trust within NATO.",
       "links": [
         "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Liberia: Sen. Konneh Asks U.S. to Sanction Mining Enablers, Warns Liberia At 'Most Dangerous Point'",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Liberian Investigator] Monrovia - Gbarpolu County Sen. Amara M. Konneh has asked the United States to impose Global Magnitsky sanctions on people who enable mining licensing deals in Liberia and move the proceeds into US real estate, telling a Washington policy audience that the country faces its g",
-      "links": [
-        "https://allafrica.com/stories/202610130041.html"
-      ]
-    },
-    {
-      "headline": "South Africa: Police Call Sibiya's Exit 'Dishonourable' As He Quits Amid Disciplinary Proceedings",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Scrolla] Sibiya's lawyer tendered his resignation straight after his disciplinary hearing began, and his employment ended immediately, police said.   Police say he had an ongoing disciplinary case when he resigned, so his exit counts as a dishonourable discharge.",
-      "links": [
-        "https://allafrica.com/stories/202610130110.html"
-      ]
-    },
-    {
-      "headline": "Business as usual for most patients as public healthcare clusters recover from 9-hour disruption",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Across seven healthcare institutions visited by CNA, most patients said they had few or no issues, despite signs warning visitors of potentially longer wait times.",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/system-disruption-hospital-business-usual-patients-6455806"
       ]
     },
     {
@@ -172,7 +96,75 @@
       "links": [
         "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
       ]
+    },
+    {
+      "headline": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "outlets": 1,
+      "summary": "The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle's resignation on Tuesday as she faced mounting accusations of improper conduct.",
+      "links": [
+        "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation"
+      ]
+    },
+    {
+      "headline": "Nigeria: Special Report - Insecurity Exposes Zamfara Communities to Recurring Cholera Outbreaks",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Premium Times] Zamfara has been one of the states hardest hit by the insecurity that has spread across north-western Nigeria over the past decade.",
+      "links": [
+        "https://allafrica.com/stories/202610140122.html"
+      ]
+    },
+    {
+      "headline": "\u2018Pure fate\u2019: China newlyweds share identical names, face endless glitches in life situations",
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "A newlywed Chinese couple has gone viral on social media because they share exactly the same name, written with the same Chinese characters, and work in the same industry. The coincidence has caused a few practical complications, but many people see it as pure fate.\nOn October 6, the groom, 33, and ",
+      "links": [
+        "https://www.scmp.com/news/people-culture/trending-china/article/3370890/pure-fate-china-newlyweds-share-identical-names-face-endless-glitches-life-situations?utm_source=rss_feed"
+      ]
+    },
+    {
+      "headline": "Grants, incentives to be given to employers that redesign jobs for flexible work: Jasmin Lau",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The government is studying which sectors to begin rolling out the policy, but workers in such roles must be prepared for their salaries to vary according to their work output, said Acting Manpower Minister Jasmin Lau.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/grants-incentives-employers-jobs-flexible-jasmin-lau-6457496"
+      ]
+    },
+    {
+      "headline": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
+      ]
     }
   ],
-  "narrative": "State of the World - 2026-10-13 (extractive mode)\n\n* Saudi Arabia refuses request from Netanyahu to join fight against Houthis, says report (Section Feed, 2 outlets)\n* South Africa's deputy police chief resigns after being charged with sexual offences (BBC News, 2 outlets)\n* Ex-president named leader of new DR Congo rebel coalition (BBC News, 2 outlets)\n* South Africa: Road Accident Fund to Receive No Additional Govt Funding - South African News Briefs - October 13, 2026 (AllAfrica News: Latest, 1 outlets)\n* Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month (World | Deutsche Welle, 1 outlets)\n* Two high-ranking Iranian defectors give DW a rare look into the mindset of the regime's loyal servants (World | Deutsche Welle, 1 outlets)\n* Congo-Kinshasa: Ex-DR Congo President Kabila to Lead New 'Politico-Military' Alliance With M23 Rebels (AllAfrica News: Latest, 1 outlets)\n* Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia (World | Deutsche Welle, 1 outlets)\n* Liberia: Sen. Konneh Asks U.S. to Sanction Mining Enablers, Warns Liberia At 'Most Dangerous Point' (AllAfrica News: Latest, 1 outlets)\n* South Africa: Police Call Sibiya's Exit 'Dishonourable' As He Quits Amid Disciplinary Proceedings (AllAfrica News: Latest, 1 outlets)\n* Business as usual for most patients as public healthcare clusters recover from 9-hour disruption (Latest News, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-10-14 (extractive mode)\n\n* Zimbabwean author denies using AI to write award-winning story (BBC News, 2 outlets)\n* Africa: African Development Bank Convenes African Debt Management Practitioners in Kigali to Strengthen Debt Transparency and Accountability (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Military Plane Crash - Traditional Ruler Cries Out As Decaying Bodies 'Pollute' Community's Source of Drinking Water (AllAfrica News: Latest, 1 outlets)\n* Man sent explicit photos of wife and lover to family chat, but court declines to grant protection order (Latest News, 1 outlets)\n* South Africa: Two Killed in Katlehong Drive-By Shooting - South African News Briefs - October 14, 2026 (AllAfrica News: Latest, 1 outlets)\n* Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia (World | Deutsche Welle, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct (NPR Topics: World, 1 outlets)\n* Nigeria: Special Report - Insecurity Exposes Zamfara Communities to Recurring Cholera Outbreaks (AllAfrica News: Latest, 1 outlets)\n* \u2018Pure fate\u2019: China newlyweds share identical names, face endless glitches in life situations (News - South China Morning Post, 1 outlets)\n* Grants, incentives to be given to employers that redesign jobs for flexible work: Jasmin Lau (Latest News, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)"
 }
