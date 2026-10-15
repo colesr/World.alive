@@ -1,62 +1,108 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-14T12:32:27.434497+00:00",
-  "digest_words": 258,
+  "generated_at": "2026-10-15T12:14:28.151163+00:00",
+  "digest_words": 246,
   "clusters": [
     {
-      "headline": "Zimbabwean author denies using AI to write award-winning story",
-      "countries": [],
+      "headline": "Kenya confirms second Ebola case - a relative of the first victim",
+      "countries": [
+        "Kenya"
+      ],
       "regions": [
-        "Africa",
+        "Africa"
+      ],
+      "outlets": 2,
+      "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+        "https://allafrica.com/stories/202610140451.html"
+      ]
+    },
+    {
+      "headline": "North Korea and China open new bridge after 12-year delay",
+      "countries": [
+        "China"
+      ],
+      "regions": [
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+      "summary": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Africa: African Development Bank Convenes African Debt Management Practitioners in Kigali to Strengthen Debt Transparency and Accountability",
+      "headline": "Africa: African Development Bank and UNDP Advance Ai 10 Billion Initiative to Turn Africa's Ai Potential Into Productivity",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[African Development Bank (AfDB)] About 150 policymakers, debt-management practitioners and public finance stakeholders from 22 African transition states have concluded a five-day learning workshop in Kigali, Rwanda, aimed at strengthening debt transparency and accountability.",
+      "summary": "[African Development Bank (AfDB)] The AI 10 Billion Initiative has received a boost following a visit by a delegation from the United Nations Development Programme (UNDP) to the African Development Bank Group to move from launch to delivery.",
       "links": [
-        "https://allafrica.com/stories/202610130705.html"
+        "https://allafrica.com/stories/202610150107.html"
       ]
     },
     {
-      "headline": "Nigeria: Military Plane Crash - Traditional Ruler Cries Out As Decaying Bodies 'Pollute' Community's Source of Drinking Water",
+      "headline": "Leicester police \u2018blanket arrest\u2019 journalists under Terrorism Act for covering protest at Israeli drone factory",
       "countries": [
-        "Nigeria"
+        "Israel"
       ],
       "regions": [
-        "Africa"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "[Premium Times] \"This same river where the plane crashed into is what supplies our drinking water. We have a water treatment machine at Aboto about seven kilometres away from here. The water doesn't come every day, and when it comes, it is this same water that flows there, pumped to be treated for o",
+      "summary": "\n\n  \n      \n      \nLeicester police \u2018blanket arrest\u2019 journalists under Terrorism Act for covering protest at Israeli drone factory\n\n    \n    \n\n          \n      \n      \n        Submitted by \nKatherine Hearst\n on \nWed, 10/14/2026 - 15:21\n\n        \n      \n    \n      \n    \n                Journalists te",
       "links": [
-        "https://allafrica.com/stories/202610140088.html"
+        "https://www.middleeasteye.net/news/police-blanket-arrest-journalists-under-terrorism-act-covering-elbit-protest"
       ]
     },
     {
-      "headline": "Man sent explicit photos of wife and lover to family chat, but court declines to grant protection order",
-      "countries": [],
+      "headline": "Houthis say no attacks against Saudi Arabia conducted today, after coalition forces report missile downed",
+      "countries": [
+        "Saudi Arabia"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nHouthis say no attacks against Saudi Arabia conducted today, after coalition forces report missile downed\n\n    \n    \n\n        \n    \n                Yahya Saree, the Houthi military spokesperson, has confirmed that the group has not launched any attacks against Saudi Arabia on Thur",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-no-attacks-against-saudi-arabia-conducted-today-after"
+      ]
+    },
+    {
+      "headline": "Prabowo approves foreign help to tackle fires causing regional haze, says Indonesian foreign minister",
+      "countries": [
+        "Indonesia"
+      ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The man said that he was very angry and wanted the family to know he was not the one who sabotaged the marriage.",
+      "summary": "Foreign Minister Arrmanatha Nasir did not specify which countries had offered help or what form the assistance would take.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/man-explicit-photos-wife-lover-family-chat-protection-order-abuse-6458481"
+        "https://www.channelnewsasia.com/asia/prabowo-approves-foreign-help-tackle-fires-causing-regional-haze-says-indonesian-foreign-minister-6462316"
       ]
     },
     {
-      "headline": "South Africa: Two Killed in Katlehong Drive-By Shooting - South African News Briefs - October 14, 2026",
+      "headline": "Israel\u2019s security doctrine sees Arab states as \u2018collections of tribes\u2019, says ex-intelligence chief",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nIsrael\u2019s security doctrine sees Arab states as \u2018collections of tribes\u2019, says ex-intelligence chief\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nThu, 10/15/2026 - 10:10\n\n        \n      \n    \n      \n    \n                Director of Tel Aviv think tank wr",
+      "links": [
+        "https://www.middleeasteye.net/news/israels-unwritten-security-doctrine-sees-arab-states-collections-tribes-former-intelligence"
+      ]
+    },
+    {
+      "headline": "South Africa: Katlehong Shooting Suspect in Court - South African News Briefs - October 15, 2026",
       "countries": [
         "South Africa"
       ],
@@ -66,89 +112,19 @@
       "outlets": 1,
       "summary": "[allAfrica]",
       "links": [
-        "https://allafrica.com/stories/202610140104.html"
+        "https://allafrica.com/stories/202610150200.html"
       ]
     },
     {
-      "headline": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
-      "countries": [
-        "Russia"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Slovakia is restoring military-diplomatic relations with Russia for the first time since 2022. The government has defended the move but critics warn of espionage risks and further damage to trust within NATO.",
-      "links": [
-        "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-      "countries": [
-        "United States"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle's resignation on Tuesday as she faced mounting accusations of improper conduct.",
-      "links": [
-        "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation"
-      ]
-    },
-    {
-      "headline": "Nigeria: Special Report - Insecurity Exposes Zamfara Communities to Recurring Cholera Outbreaks",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Premium Times] Zamfara has been one of the states hardest hit by the insecurity that has spread across north-western Nigeria over the past decade.",
-      "links": [
-        "https://allafrica.com/stories/202610140122.html"
-      ]
-    },
-    {
-      "headline": "\u2018Pure fate\u2019: China newlyweds share identical names, face endless glitches in life situations",
-      "countries": [
-        "China"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "A newlywed Chinese couple has gone viral on social media because they share exactly the same name, written with the same Chinese characters, and work in the same industry. The coincidence has caused a few practical complications, but many people see it as pure fate.\nOn October 6, the groom, 33, and ",
-      "links": [
-        "https://www.scmp.com/news/people-culture/trending-china/article/3370890/pure-fate-china-newlyweds-share-identical-names-face-endless-glitches-life-situations?utm_source=rss_feed"
-      ]
-    },
-    {
-      "headline": "Grants, incentives to be given to employers that redesign jobs for flexible work: Jasmin Lau",
+      "headline": "Small states must have say as world shapes new compact with tech giants: Vivian Balakrishnan",
       "countries": [],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The government is studying which sectors to begin rolling out the policy, but workers in such roles must be prepared for their salaries to vary according to their work output, said Acting Manpower Minister Jasmin Lau.",
+      "summary": "Dr Balakrishnan called for a compact between governments, tech firms and the wider international community to \"develop common norms and guardrails so that we can accelerate the pace of technology and reap its benefits, but also deal with the risks\".",
       "links": [
-        "https://www.channelnewsasia.com/singapore/grants-incentives-employers-jobs-flexible-jasmin-lau-6457496"
+        "https://www.channelnewsasia.com/singapore/small-states-say-compact-tech-giants-balakrishnan-6461956"
       ]
     },
     {
@@ -164,7 +140,33 @@
       "links": [
         "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
       ]
+    },
+    {
+      "headline": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Israel\u2019s 2026 election: Who are the main leaders and where do they stand on the key issues?",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nIsrael\u2019s 2026 election: Who are the main leaders and where do they stand on the key issues?\n\n    \n    \n\n          \n      \n      \n        Submitted by \nDaniel Tester\n on \nWed, 10/14/2026 - 12:55\n\n        \n      \n    \n      \n    \n                How Netanyahu, Eisenkot, Bennett, and",
+      "links": [
+        "https://www.middleeasteye.net/explainers/election-israel-gaza-netanyahu-eisenkot-policy-draft"
+      ]
     }
   ],
-  "narrative": "State of the World - 2026-10-14 (extractive mode)\n\n* Zimbabwean author denies using AI to write award-winning story (BBC News, 2 outlets)\n* Africa: African Development Bank Convenes African Debt Management Practitioners in Kigali to Strengthen Debt Transparency and Accountability (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Military Plane Crash - Traditional Ruler Cries Out As Decaying Bodies 'Pollute' Community's Source of Drinking Water (AllAfrica News: Latest, 1 outlets)\n* Man sent explicit photos of wife and lover to family chat, but court declines to grant protection order (Latest News, 1 outlets)\n* South Africa: Two Killed in Katlehong Drive-By Shooting - South African News Briefs - October 14, 2026 (AllAfrica News: Latest, 1 outlets)\n* Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia (World | Deutsche Welle, 1 outlets)\n* Twelve women have been killed in one part of South Africa since July. Here's what we know so far (BBC News, 1 outlets)\n* Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct (NPR Topics: World, 1 outlets)\n* Nigeria: Special Report - Insecurity Exposes Zamfara Communities to Recurring Cholera Outbreaks (AllAfrica News: Latest, 1 outlets)\n* \u2018Pure fate\u2019: China newlyweds share identical names, face endless glitches in life situations (News - South China Morning Post, 1 outlets)\n* Grants, incentives to be given to employers that redesign jobs for flexible work: Jasmin Lau (Latest News, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-10-15 (extractive mode)\n\n* Kenya confirms second Ebola case - a relative of the first victim (BBC News, 2 outlets)\n* North Korea and China open new bridge after 12-year delay (BBC News, 2 outlets)\n* Africa: African Development Bank and UNDP Advance Ai 10 Billion Initiative to Turn Africa's Ai Potential Into Productivity (AllAfrica News: Latest, 1 outlets)\n* Leicester police \u2018blanket arrest\u2019 journalists under Terrorism Act for covering protest at Israeli drone factory (Section Feed, 1 outlets)\n* Houthis say no attacks against Saudi Arabia conducted today, after coalition forces report missile downed (Section Feed, 1 outlets)\n* Prabowo approves foreign help to tackle fires causing regional haze, says Indonesian foreign minister (Latest News, 1 outlets)\n* Israel\u2019s security doctrine sees Arab states as \u2018collections of tribes\u2019, says ex-intelligence chief (Section Feed, 1 outlets)\n* South Africa: Katlehong Shooting Suspect in Court - South African News Briefs - October 15, 2026 (AllAfrica News: Latest, 1 outlets)\n* Small states must have say as world shapes new compact with tech giants: Vivian Balakrishnan (Latest News, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds (BBC News, 1 outlets)\n* Israel\u2019s 2026 election: Who are the main leaders and where do they stand on the key issues? (Section Feed, 1 outlets)"
 }
