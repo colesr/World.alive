@@ -1,130 +1,116 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-15T12:14:28.151163+00:00",
-  "digest_words": 246,
+  "generated_at": "2026-10-16T11:59:21.503452+00:00",
+  "digest_words": 258,
   "clusters": [
     {
-      "headline": "Kenya confirms second Ebola case - a relative of the first victim",
+      "headline": "Kenya: Can Kenya Preserve the Democratic Space Raila Odinga Fought For?",
       "countries": [
         "Kenya"
       ],
       "regions": [
-        "Africa"
+        "Africa",
+        "Europe"
       ],
       "outlets": 2,
-      "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "summary": "[DW] One year after the former prime minister's death, Kenyans are reflecting on his contribution to democracy and national reconciliation. Odinga's \"handshakes\" with his political rivals remain the subject of much debate.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-        "https://allafrica.com/stories/202610140451.html"
+        "https://allafrica.com/stories/202610160093.html",
+        "https://www.dw.com/en/can-kenya-preserve-the-democratic-space-raila-odinga-fought-for/a-79668443?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "North Korea and China open new bridge after 12-year delay",
+      "headline": "Lesotho: ALSF And The Kingdom Of Lesotho Sign Strategic Partnership Agreement To Strengthen Legal And Technical Support",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[InfoWire] The African Legal Support Facility (''ALSF'') and the Kingdom of Lesotho signed a Strategic Partnership Agreement (''SPA'') on 21 September 2026, providing a structured framework for ALSF's future legal and technical assistance to the Government of Lesotho.",
+      "links": [
+        "https://allafrica.com/stories/202610120245.html"
+      ]
+    },
+    {
+      "headline": "Philanthropy can help bridge gaps as AI and climate change reshape societies, says Philanthropy Asia Alliance chief",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The Tsinghua-Philanthropy Asia Alliance Impact Summit brought together leaders from philanthropy, business, government and academia to explore how innovation and collaboration can help tackle challenges.",
+      "links": [
+        "https://www.channelnewsasia.com/east-asia/philanthropy-asia-alliance-ceo-shaun-seow-tsinghua-university-impact-summit-6465401"
+      ]
+    },
+    {
+      "headline": "Philippines eyes billions in investment from Pax Silica tech hub, but farmers fear for their livelihoods",
       "countries": [
-        "China"
+        "Philippines"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "A proposed industrial park in Tarlac province under the United States-led Pax Silica initiative could create thousands of jobs, but residents and experts are raising concerns over transparency, displacement and pressure on resources.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/philippines-pax-silica-tech-hub-investment-farmers-fear-livelihoods-6465486"
+      ]
+    },
+    {
+      "headline": "'Bibi's Department': NAZA shows how Israel used affairs and gay relationships to blackmail Palestinians",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \n'Bibi's Department': NAZA shows how Israel used affairs and gay relationships to blackmail Palestinians\n\n    \n    \n\n          \n      \n      \n        Submitted by \nImran Mulla\n on \nFri, 10/16/2026 - 10:23\n\n        \n      \n    \n      \n    \n                Interviewees in the film sa",
+      "links": [
+        "https://www.middleeasteye.net/news/bibis-department-used-blackmail-over-affairs-and-gay-relationships-stop-palestinians"
+      ]
+    },
+    {
+      "headline": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+      "countries": [
+        "United States",
+        "Russia",
+        "Ukraine"
       ],
       "regions": [
         "Europe"
       ],
-      "outlets": 2,
-      "summary": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
+      "outlets": 1,
+      "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-        "https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-world-4025-rdf"
+        "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Africa: African Development Bank and UNDP Advance Ai 10 Billion Initiative to Turn Africa's Ai Potential Into Productivity",
+      "headline": "Congo-Kinshasa: Inside Bunia's Fight to Protect Families From DR Congo's Deadliest Ebola Outbreak",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[African Development Bank (AfDB)] The AI 10 Billion Initiative has received a boost following a visit by a delegation from the United Nations Development Programme (UNDP) to the African Development Bank Group to move from launch to delivery.",
+      "summary": "[RFI] Efforts to contain Ebola are starting to pay off in Bunia, the capital of the Democratic Republic of Congo's Ituri province and epicentre of the deadliest outbreak of the disease in the country's history. More than 4,000 people have died in five months, but the response is beginning to show re",
       "links": [
-        "https://allafrica.com/stories/202610150107.html"
+        "https://allafrica.com/stories/202610160010.html"
       ]
     },
     {
-      "headline": "Leicester police \u2018blanket arrest\u2019 journalists under Terrorism Act for covering protest at Israeli drone factory",
+      "headline": "China tech city dog-walking limits criticised; some question \u2018how dogs can get some sunshine\u2019",
       "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nLeicester police \u2018blanket arrest\u2019 journalists under Terrorism Act for covering protest at Israeli drone factory\n\n    \n    \n\n          \n      \n      \n        Submitted by \nKatherine Hearst\n on \nWed, 10/14/2026 - 15:21\n\n        \n      \n    \n      \n    \n                Journalists te",
-      "links": [
-        "https://www.middleeasteye.net/news/police-blanket-arrest-journalists-under-terrorism-act-covering-elbit-protest"
-      ]
-    },
-    {
-      "headline": "Houthis say no attacks against Saudi Arabia conducted today, after coalition forces report missile downed",
-      "countries": [
-        "Saudi Arabia"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nHouthis say no attacks against Saudi Arabia conducted today, after coalition forces report missile downed\n\n    \n    \n\n        \n    \n                Yahya Saree, the Houthi military spokesperson, has confirmed that the group has not launched any attacks against Saudi Arabia on Thur",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-no-attacks-against-saudi-arabia-conducted-today-after"
-      ]
-    },
-    {
-      "headline": "Prabowo approves foreign help to tackle fires causing regional haze, says Indonesian foreign minister",
-      "countries": [
-        "Indonesia"
+        "China"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Foreign Minister Arrmanatha Nasir did not specify which countries had offered help or what form the assistance would take.",
+      "summary": "The eastern city of Hangzhou has sparked widespread controversy by banning residents in its downtown area from walking their dogs during the day.\nUnder the city\u2019s Restraining Dog Raising Rules, owners of small ornamental dogs in designated \u201ckey restraining\u201d areas may walk their pets only between 7pm",
       "links": [
-        "https://www.channelnewsasia.com/asia/prabowo-approves-foreign-help-tackle-fires-causing-regional-haze-says-indonesian-foreign-minister-6462316"
-      ]
-    },
-    {
-      "headline": "Israel\u2019s security doctrine sees Arab states as \u2018collections of tribes\u2019, says ex-intelligence chief",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsrael\u2019s security doctrine sees Arab states as \u2018collections of tribes\u2019, says ex-intelligence chief\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nThu, 10/15/2026 - 10:10\n\n        \n      \n    \n      \n    \n                Director of Tel Aviv think tank wr",
-      "links": [
-        "https://www.middleeasteye.net/news/israels-unwritten-security-doctrine-sees-arab-states-collections-tribes-former-intelligence"
-      ]
-    },
-    {
-      "headline": "South Africa: Katlehong Shooting Suspect in Court - South African News Briefs - October 15, 2026",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica]",
-      "links": [
-        "https://allafrica.com/stories/202610150200.html"
-      ]
-    },
-    {
-      "headline": "Small states must have say as world shapes new compact with tech giants: Vivian Balakrishnan",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Dr Balakrishnan called for a compact between governments, tech firms and the wider international community to \"develop common norms and guardrails so that we can accelerate the pace of technology and reap its benefits, but also deal with the risks\".",
-      "links": [
-        "https://www.channelnewsasia.com/singapore/small-states-say-compact-tech-giants-balakrishnan-6461956"
+        "https://www.scmp.com/news/people-culture/trending-china/article/3371142/china-tech-city-dog-walking-limits-criticised-some-question-how-dogs-can-get-some-sunshine?utm_source=rss_feed"
       ]
     },
     {
@@ -142,31 +128,45 @@
       ]
     },
     {
-      "headline": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
+      "headline": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Malaysia\u2019s Negeri Sembilan ruler orders chief minister out of sight in rare public rebuke",
       "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "A Malaysian ruler known for being reserved has publicly berated his chief minister over efforts to unseat him, telling the politician to \u201cgo away\u201d and withdraw his claim that the monarch no longer holds the throne.\nNegeri Sembilan, south of Kuala Lumpur, has been caught in a dispute since April over",
+      "links": [
+        "https://www.scmp.com/week-asia/people/article/3371185/malaysias-negeri-sembilan-ruler-orders-chief-minister-out-sight-rare-public-rebuke?utm_source=rss_feed"
+      ]
+    },
+    {
+      "headline": "Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum",
+      "countries": [
+        "Canada"
+      ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
+      "summary": "The oil-rich province of Alberta will vote to decide if it wants to remain a Canadian province or start the legal process toward separation.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Israel\u2019s 2026 election: Who are the main leaders and where do they stand on the key issues?",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsrael\u2019s 2026 election: Who are the main leaders and where do they stand on the key issues?\n\n    \n    \n\n          \n      \n      \n        Submitted by \nDaniel Tester\n on \nWed, 10/14/2026 - 12:55\n\n        \n      \n    \n      \n    \n                How Netanyahu, Eisenkot, Bennett, and",
-      "links": [
-        "https://www.middleeasteye.net/explainers/election-israel-gaza-netanyahu-eisenkot-policy-draft"
+        "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-world-4025-rdf"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-10-15 (extractive mode)\n\n* Kenya confirms second Ebola case - a relative of the first victim (BBC News, 2 outlets)\n* North Korea and China open new bridge after 12-year delay (BBC News, 2 outlets)\n* Africa: African Development Bank and UNDP Advance Ai 10 Billion Initiative to Turn Africa's Ai Potential Into Productivity (AllAfrica News: Latest, 1 outlets)\n* Leicester police \u2018blanket arrest\u2019 journalists under Terrorism Act for covering protest at Israeli drone factory (Section Feed, 1 outlets)\n* Houthis say no attacks against Saudi Arabia conducted today, after coalition forces report missile downed (Section Feed, 1 outlets)\n* Prabowo approves foreign help to tackle fires causing regional haze, says Indonesian foreign minister (Latest News, 1 outlets)\n* Israel\u2019s security doctrine sees Arab states as \u2018collections of tribes\u2019, says ex-intelligence chief (Section Feed, 1 outlets)\n* South Africa: Katlehong Shooting Suspect in Court - South African News Briefs - October 15, 2026 (AllAfrica News: Latest, 1 outlets)\n* Small states must have say as world shapes new compact with tech giants: Vivian Balakrishnan (Latest News, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds (BBC News, 1 outlets)\n* Israel\u2019s 2026 election: Who are the main leaders and where do they stand on the key issues? (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-10-16 (extractive mode)\n\n* Kenya: Can Kenya Preserve the Democratic Space Raila Odinga Fought For? (AllAfrica News: Latest, 2 outlets)\n* Lesotho: ALSF And The Kingdom Of Lesotho Sign Strategic Partnership Agreement To Strengthen Legal And Technical Support (AllAfrica News: Latest, 1 outlets)\n* Philanthropy can help bridge gaps as AI and climate change reshape societies, says Philanthropy Asia Alliance chief (Latest News, 1 outlets)\n* Philippines eyes billions in investment from Pax Silica tech hub, but farmers fear for their livelihoods (Latest News, 1 outlets)\n* 'Bibi's Department': NAZA shows how Israel used affairs and gay relationships to blackmail Palestinians (Section Feed, 1 outlets)\n* Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin' (BBC News, 1 outlets)\n* Congo-Kinshasa: Inside Bunia's Fight to Protect Families From DR Congo's Deadliest Ebola Outbreak (AllAfrica News: Latest, 1 outlets)\n* China tech city dog-walking limits criticised; some question \u2018how dogs can get some sunshine\u2019 (News - South China Morning Post, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds (BBC News, 1 outlets)\n* Malaysia\u2019s Negeri Sembilan ruler orders chief minister out of sight in rare public rebuke (News - South China Morning Post, 1 outlets)\n* Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum (World | Deutsche Welle, 1 outlets)"
 }
