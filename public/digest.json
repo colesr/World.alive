@@ -1,64 +1,37 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-16T11:59:21.503452+00:00",
-  "digest_words": 258,
+  "generated_at": "2026-10-17T11:15:08.978315+00:00",
+  "digest_words": 254,
   "clusters": [
     {
-      "headline": "Kenya: Can Kenya Preserve the Democratic Space Raila Odinga Fought For?",
+      "headline": "Egypt's Sisi declares his presidency will end in 2030",
       "countries": [
-        "Kenya"
+        "Egypt"
       ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Middle East"
       ],
       "outlets": 2,
-      "summary": "[DW] One year after the former prime minister's death, Kenyans are reflecting on his contribution to democracy and national reconciliation. Odinga's \"handshakes\" with his political rivals remain the subject of much debate.",
+      "summary": "\n\n  \n      \n      \nEgypt's Sisi declares his presidency will end in 2030\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nSat, 10/17/2026 - 11:23\n\n        \n      \n    \n      \n    \n                'The Egyptian constitution will not be touched,' the president says in a speech",
       "links": [
-        "https://allafrica.com/stories/202610160093.html",
-        "https://www.dw.com/en/can-kenya-preserve-the-democratic-space-raila-odinga-fought-for/a-79668443?maca=en-rss-en-world-4025-rdf"
+        "https://www.middleeasteye.net/news/egypt-sisi-declares-his-presidency-will-end-2030",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/egypts-sisi-says-his-presidency-will-end-2030"
       ]
     },
     {
-      "headline": "Lesotho: ALSF And The Kingdom Of Lesotho Sign Strategic Partnership Agreement To Strengthen Legal And Technical Support",
+      "headline": "Africa: African Development Bank and UNDP Advance Ai 10 Billion Initiative to Turn Africa's Ai Potential Into Productivity",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[InfoWire] The African Legal Support Facility (''ALSF'') and the Kingdom of Lesotho signed a Strategic Partnership Agreement (''SPA'') on 21 September 2026, providing a structured framework for ALSF's future legal and technical assistance to the Government of Lesotho.",
+      "summary": "[African Development Bank (AfDB)] The AI 10 Billion Initiative has received a boost following a visit by a delegation from the United Nations Development Programme (UNDP) to the African Development Bank Group to move from launch to delivery.",
       "links": [
-        "https://allafrica.com/stories/202610120245.html"
+        "https://allafrica.com/stories/202610150107.html"
       ]
     },
     {
-      "headline": "Philanthropy can help bridge gaps as AI and climate change reshape societies, says Philanthropy Asia Alliance chief",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The Tsinghua-Philanthropy Asia Alliance Impact Summit brought together leaders from philanthropy, business, government and academia to explore how innovation and collaboration can help tackle challenges.",
-      "links": [
-        "https://www.channelnewsasia.com/east-asia/philanthropy-asia-alliance-ceo-shaun-seow-tsinghua-university-impact-summit-6465401"
-      ]
-    },
-    {
-      "headline": "Philippines eyes billions in investment from Pax Silica tech hub, but farmers fear for their livelihoods",
-      "countries": [
-        "Philippines"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "A proposed industrial park in Tarlac province under the United States-led Pax Silica initiative could create thousands of jobs, but residents and experts are raising concerns over transparency, displacement and pressure on resources.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/philippines-pax-silica-tech-hub-investment-farmers-fear-livelihoods-6465486"
-      ]
-    },
-    {
-      "headline": "'Bibi's Department': NAZA shows how Israel used affairs and gay relationships to blackmail Palestinians",
+      "headline": "Sarah Helm doubles down as pro-Israel groups urge police action and Zack Polanski praises her 'bravery'",
       "countries": [
         "Israel"
       ],
@@ -66,51 +39,113 @@
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \n'Bibi's Department': NAZA shows how Israel used affairs and gay relationships to blackmail Palestinians\n\n    \n    \n\n          \n      \n      \n        Submitted by \nImran Mulla\n on \nFri, 10/16/2026 - 10:23\n\n        \n      \n    \n      \n    \n                Interviewees in the film sa",
+      "summary": "\n\n  \n      \n      \nSarah Helm doubles down as pro-Israel groups urge police action and Zack Polanski praises her 'bravery'\n\n    \n    \n\n          \n      \n      \n        Submitted by \nImran Mulla\n on \nSat, 10/17/2026 - 10:25\n\n        \n      \n    \n      \n    \n                The journalist and wife of ",
       "links": [
-        "https://www.middleeasteye.net/news/bibis-department-used-blackmail-over-affairs-and-gay-relationships-stop-palestinians"
+        "https://www.middleeasteye.net/news/sarah-helm-doubles-down-pro-israel-groups-urge-police-action-and-zack-polanski-praises-her"
       ]
     },
     {
-      "headline": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+      "headline": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
       "countries": [
-        "United States",
-        "Russia",
-        "Ukraine"
+        "Saudi Arabia"
       ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
+      "summary": "As Yemen's Iran-backed Houthis continue to target Saudi Arabia, Riyadh's vulnerability threatens its claim on regional and religious leadership \u2014 as well as its standing as an economic powerhouse.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
+        "https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Congo-Kinshasa: Inside Bunia's Fight to Protect Families From DR Congo's Deadliest Ebola Outbreak",
+      "headline": "TCM providers, practitioners can apply for accreditation from Oct 17; first 5 clinics granted status",
       "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[RFI] Efforts to contain Ebola are starting to pay off in Bunia, the capital of the Democratic Republic of Congo's Ituri province and epicentre of the deadliest outbreak of the disease in the country's history. More than 4,000 people have died in five months, but the response is beginning to show re",
-      "links": [
-        "https://allafrica.com/stories/202610160010.html"
-      ]
-    },
-    {
-      "headline": "China tech city dog-walking limits criticised; some question \u2018how dogs can get some sunshine\u2019",
-      "countries": [
-        "China"
-      ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The eastern city of Hangzhou has sparked widespread controversy by banning residents in its downtown area from walking their dogs during the day.\nUnder the city\u2019s Restraining Dog Raising Rules, owners of small ornamental dogs in designated \u201ckey restraining\u201d areas may walk their pets only between 7pm",
+      "summary": "Health Minister Ong Ye Kung said Singapore was taking a practical approach to integrating Western medicine and traditional Chinese medicine while ensuring that treatments are backed by rigorous evidence.",
       "links": [
-        "https://www.scmp.com/news/people-culture/trending-china/article/3371142/china-tech-city-dog-walking-limits-criticised-some-question-how-dogs-can-get-some-sunshine?utm_source=rss_feed"
+        "https://www.channelnewsasia.com/singapore/tcm-accreditation-providers-practitioners-clinics-6466746"
+      ]
+    },
+    {
+      "headline": "Nigeria: Tinubu Nominates Four New INEC National Commissioners, Two Resident Electoral Commissioners",
+      "countries": [
+        "Nigeria"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Premium Times] President Tinubu urged the Senate to expedite the nominees' confirmation in view of the forthcoming general elections next January.",
+      "links": [
+        "https://allafrica.com/stories/202610160535.html"
+      ]
+    },
+    {
+      "headline": "Kenya: Altered Gazette Notice Falsely Shows Changes to the Mwananchi Party's Leadership in Kenya",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Africa Check] Altered gazette notice falsely shows changes to the Mwananchi Party's leadership in Kenya",
+      "links": [
+        "https://allafrica.com/stories/202610160464.html"
+      ]
+    },
+    {
+      "headline": "Former Dior Men artistic director Kim Jones is reviving his own label with a Hong Kong flagship",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The British designer is returning to the brand he first launched in 2003, with a new collection due in 2027 and more stores across Asia planned.",
+      "links": [
+        "https://www.channelnewsasia.com/obsessions/kim-jones-dior-namesake-label-hong-kong-6467906"
+      ]
+    },
+    {
+      "headline": "Africa: No, Spain Did Not Introduce Visa-Free Travel for Eight African Countries in April 2026",
+      "countries": [
+        "Spain"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Africa Check] No, Spain did not introduce visa-free travel for eight African countries in April 2026",
+      "links": [
+        "https://allafrica.com/stories/202610160465.html"
+      ]
+    },
+    {
+      "headline": "Reporter\u2019s notebook: Kimi\u2019s AI credit card turns spending into computing quotas \u2013 with limits",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "China\u2019s artificial intelligence companies have spent years persuading consumers to pay for their technology. Now, Moonshot AI, the start-up behind Kimi, is taking a different approach: offering AI computing benefits through a credit card.\nThe company has teamed up with the Agricultural Bank of China",
+      "links": [
+        "https://www.scmp.com/tech/tech-trends/article/3371226/reporters-notebook-kimis-ai-credit-card-turns-spending-computing-quotas-limits?utm_source=rss_feed"
+      ]
+    },
+    {
+      "headline": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher were killed in the attack, carried out by a former pupil at the school.",
+      "links": [
+        "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
@@ -126,47 +161,7 @@
       "links": [
         "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
       ]
-    },
-    {
-      "headline": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Malaysia\u2019s Negeri Sembilan ruler orders chief minister out of sight in rare public rebuke",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "A Malaysian ruler known for being reserved has publicly berated his chief minister over efforts to unseat him, telling the politician to \u201cgo away\u201d and withdraw his claim that the monarch no longer holds the throne.\nNegeri Sembilan, south of Kuala Lumpur, has been caught in a dispute since April over",
-      "links": [
-        "https://www.scmp.com/week-asia/people/article/3371185/malaysias-negeri-sembilan-ruler-orders-chief-minister-out-sight-rare-public-rebuke?utm_source=rss_feed"
-      ]
-    },
-    {
-      "headline": "Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum",
-      "countries": [
-        "Canada"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The oil-rich province of Alberta will vote to decide if it wants to remain a Canadian province or start the legal process toward separation.",
-      "links": [
-        "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-world-4025-rdf"
-      ]
     }
   ],
-  "narrative": "State of the World - 2026-10-16 (extractive mode)\n\n* Kenya: Can Kenya Preserve the Democratic Space Raila Odinga Fought For? (AllAfrica News: Latest, 2 outlets)\n* Lesotho: ALSF And The Kingdom Of Lesotho Sign Strategic Partnership Agreement To Strengthen Legal And Technical Support (AllAfrica News: Latest, 1 outlets)\n* Philanthropy can help bridge gaps as AI and climate change reshape societies, says Philanthropy Asia Alliance chief (Latest News, 1 outlets)\n* Philippines eyes billions in investment from Pax Silica tech hub, but farmers fear for their livelihoods (Latest News, 1 outlets)\n* 'Bibi's Department': NAZA shows how Israel used affairs and gay relationships to blackmail Palestinians (Section Feed, 1 outlets)\n* Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin' (BBC News, 1 outlets)\n* Congo-Kinshasa: Inside Bunia's Fight to Protect Families From DR Congo's Deadliest Ebola Outbreak (AllAfrica News: Latest, 1 outlets)\n* China tech city dog-walking limits criticised; some question \u2018how dogs can get some sunshine\u2019 (News - South China Morning Post, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds (BBC News, 1 outlets)\n* Malaysia\u2019s Negeri Sembilan ruler orders chief minister out of sight in rare public rebuke (News - South China Morning Post, 1 outlets)\n* Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum (World | Deutsche Welle, 1 outlets)"
+  "narrative": "State of the World - 2026-10-17 (extractive mode)\n\n* Egypt's Sisi declares his presidency will end in 2030 (Section Feed, 2 outlets)\n* Africa: African Development Bank and UNDP Advance Ai 10 Billion Initiative to Turn Africa's Ai Potential Into Productivity (AllAfrica News: Latest, 1 outlets)\n* Sarah Helm doubles down as pro-Israel groups urge police action and Zack Polanski praises her 'bravery' (Section Feed, 1 outlets)\n* Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions (World | Deutsche Welle, 1 outlets)\n* TCM providers, practitioners can apply for accreditation from Oct 17; first 5 clinics granted status (Latest News, 1 outlets)\n* Nigeria: Tinubu Nominates Four New INEC National Commissioners, Two Resident Electoral Commissioners (AllAfrica News: Latest, 1 outlets)\n* Kenya: Altered Gazette Notice Falsely Shows Changes to the Mwananchi Party's Leadership in Kenya (AllAfrica News: Latest, 1 outlets)\n* Former Dior Men artistic director Kim Jones is reviving his own label with a Hong Kong flagship (Latest News, 1 outlets)\n* Africa: No, Spain Did Not Introduce Visa-Free Travel for Eight African Countries in April 2026 (AllAfrica News: Latest, 1 outlets)\n* Reporter\u2019s notebook: Kimi\u2019s AI credit card turns spending into computing quotas \u2013 with limits (News - South China Morning Post, 1 outlets)\n* Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing (World | Deutsche Welle, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)"
 }
